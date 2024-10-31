@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="925" viewBox="0 0 428 925">
+  <defs>
+    <filter id="bbe242b310de7a804a25b5766782ff47" x="-15" y="-14" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395" x="-17" y="218" width="458" height="119" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396" x="22.537" y="266" width="382.926" height="14.397" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_83339" x="22.537" y="266" width="81.078" height="14.397" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148006" x="-1" y="614" width="430" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#c2c2c2" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148012" x="-1" y="736" width="430" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#c2c2c2" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148006-2" x="-1" y="367" width="430" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-color="#c2c2c2" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148009" x="-1" y="445" width="430" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#c2c2c2" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148006-3" x="-1" y="819" width="430" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-color="#c2c2c2" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148011" x="-1" y="665" width="430" height="79" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-color="#c2c2c2" flood-opacity="0.259"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_9604" data-name="Ellipse 9604" cx="12" cy="12" r="12" transform="translate(-969 2114.141)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-_71_View_Budget_Screen">
+      <rect width="428" height="925"/>
+    </clipPath>
+  </defs>
+  <g id="_71_View_Budget_Screen" data-name="71 View Budget Screen" clip-path="url(#clip-_71_View_Budget_Screen)">
+    <rect width="428" height="925" fill="#fff"/>
+    <g id="Budget">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#bbe242b310de7a804a25b5766782ff47)">
+        <path id="bbe242b310de7a804a25b5766782ff47-2" data-name="bbe242b310de7a804a25b5766782ff47" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+      </g>
+      <g id="Time_and_Network_bar" data-name="Time and Network bar" transform="translate(-1 -18)">
+        <g id="Group_208" data-name="Group 208" transform="translate(324.692 24)">
+          <image id="NoPath_-_Copy_64_" data-name="NoPath - Copy (64)" width="17" height="17" transform="translate(20.308)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAOwAAADsAEnxA+tAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAvpJREFUeJzt3DFy00AYxfGH08BZGDpi5xrgOFcMFHANBhoIUBI7TYYbxO5CYWdMIcer1e56V+//m1Gn7LfyPkuyvowkAAAAAAAAAAAAAAAA5HIm6UrSR0krSWtJjwe2taTlbt/F7m/RsAtJv3V4wY9tvyRNi88aSSwkbRS/+P+fFeaF546BLvT8qT4mBJwJGnGmYaf9Q9tPcU/QhCulX/yn7TJ0EpMkh4IYwYsUgXuBBqyU7wxwGzqJF0kOBTHWkl5mGnsj6VXIjgTgdB4zjx+0ttwDmCMA5giAOQJgjgCYIwDmCMBh9OeNlejP53oK+LQhUqn+PAGoUMn+PAGoTOn+PAGoTOn+fBUB4FfAnmV/ngDsnWccu9r/06MdvFe6P5/7Oh20tgRgr/SCVBEALgHmCIA5AmCOAJgjAOYIgLmWAjDRtlP3QdKdjvfnV5KutX3C19JxosNM4+vPV9ELaMGl0rRo13r+eT8BqNCY+/ME4Iic/fmuewICUJmF8n04NfTnqwhAzXfHlv350moOQM4e+izj2E2puR089v586XrxO53I2BekigDUfAlAAQTAHAEwRwDMEQBzBMDckADQnzdGf769esnQn2+zXhL059utNxj9+bbrdepzM/Ze0use+4d6sxsbJ9AnAPTnR6hPAOjPj1CfdjD9+bbrxe+0M/YPaOz1OvFEzhwBMEcAzBEAcwTAHAEwRwDMEQBzBMAcATBHAMwRAHMEwBwBMEcAzBEAcwTAHAEwRwDMEQBzBMAcATBHAMwRAHMEwFyfAGyyzaJ7bOqlrdepTwD+RkxkyNhjqndfQb1OfQLwNWIiob5UUO9bxnpdx1K6Xqc+AfgUMZFQn6mXvd5gE0k/VO4VMaeo9z1DvZtK6iUxVfqXRJ1XVG+WuN5DZfWSSPmauJBXw5SuN09U70HSuwrrJTHV9lQaO9kbSW9HXq/PN7F0vSQm2n47ryUtdfxVscvdvnPFXaNOWe82oN6fxuoBAAAAAAAAAAAAAAAAAIAR+QdEFtlM56JoBgAAAABJRU5ErkJggg=="/>
+          <image id="NoPath_-_Copy_69_" data-name="NoPath - Copy (69)" width="17" height="17" transform="translate(59.308)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADsQAAA7EB9YPtSQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANASURBVHic7dpNThNhAMbxPySUDWDSra70CF5Bt1gQuISGawh4CxPd4yXUhR8bTEFZcYPanYl1MRAMBoYy03lm+jy/5F3KvB//mda2MH+WgV3gIzAGJhXH+PxvvQR6Da4j7uA+8I3qh37d+Hp+jWihZWZ7+BfjC3kStNIusz/8i/GioTXFFD7RXAAfGlrTzC2oJ1CjX8BKQ9caA6sNXWum5imAScPXm4u9W1RPILQSgLkEYC4BmEsA5hKAuQRgLgGYSwDm2hZAD9gB3gFDpvs+v2nT/J5gSLGmHfJN4rU2gVOa+0JHNX4CGzXt2VxYBA7QH0zTY5/2PYElXqM/DNXYq2H/Om0T/SGox6DyLnZUj+L1UH0A6nGK8I2h8jVoADwSXr8tHgLrqosrA8g74UuWLwPHlD8ez4Atuvnzq1WKyG+zzqFojlIjyg+/L5tdffoUa7lprSPZ7ITK7oot3dRqt035eu2UbUgXH/vXWSMB/GfaDTm6xb9pyziqYb2NUP60uWzRV+fWtbtk2vlLziKfRZtLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZjrUgDf1ROYQpfmKjMpGau6qdXuHuXrlWjzE+CpegI1eqKeQBuNuPmOOAb6stnVpw+ccPNaR7LZCR1T/lg8A7aBNdEcq1gDnlN++BNgKJqj1FvKN8ZlvKm4l3emfA9wKLx227xXT0BhCfiB/u5Tj1OgV3EvO2sD/QEoxx9gvfIudtwB+oNQjVc17F/nLQL76A+j6Tt/j3Z/DtO4AR7vCU6AZzXtWWUL6glcsUSxOQPgMfAAWJHOqLoxxecZnyn+53MI/JbO6B9/AZ1YEbYVibjbAAAAAElFTkSuQmCC"/>
+          <image id="NoPath_-_Copy_67_" data-name="NoPath - Copy (67)" width="17" height="17" transform="translate(39.308)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAOXAAADlwHnqIhGAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAo5QTFRF////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoqtv5wAAANl0Uk5TAAECAwQFBgcICQoLDQ4PEBESExQVFhcYGRobHB0eHyAhIiQmJykqKywtLi8xMjM0Njc4OTo8PUBBQkNERUdISUpLTE1OT1BRU1RVV1laW1xdXl9gYWJjZGVnaGlqa2xtbnBxcnV2d3h5ent8fX6BgoSFhoeIiYqLjY6PkpOUl5mam5yen6CipaeoqaqrrK2ur7CxsrS1tre4uru8vb6/wcPExcbHyMnKy8zNzs/R0tPV1tfY2drb3N3e3+Dh4uPl5ufo6err7O3u7/Dx8vP09fb3+Pn6+/z9/gFlekMAAAYWSURBVBgZ7cGPX5T1AQfwzz3ccQrdUHMg5Ch0m4JgFsWyIGSko7F0WWhYYWoiFiZEhSRpUyHLYFpGW0qClBrmzzJFxKHCvEP5cXpw9/lvVsPoee75PnfPHQ+Pr7127zcQERERERHxP06SYL7JaQVl23fvP9R+7soAOXDlXPuh/bu3lxWkTcZEi3l87baDXT5q8HUd3Lb28RhMjJjsilYPdfC0VmTHwFjSwsrDHobAc7hyoQSjZGzpZhi6t2TAAPdvPMOwndl4P8bFvrLFx3Hxtay0I1yO9VdogCvrHQjH9EoXDeKqnI5QJdcO0UBDtckIxdRtwzTY8Lap0MuyopcToHeFBbqkf8UJ8lU6got7z8sJ430vDkEsvUa9PM6uM0ebm4+e6XJ6qNe1pQgktp7Bjfywv6b4sSQ7ZOxJjxVv2X9umMHVx0JT2ncMordxdZoNmmypJQ09DOK7NGhY5WYgzoaSuRYEZZlb0uBkIO5VEHF8xADcHy+Ohm7Riz92M4CPHFDJuEBN3oPPOxAix/MHvdR0IQN+cgao5UZVEsKSVHWDWgZyoPCMhxp6XotD2H5Vdo0aPM9AZq2PYl2vxGBcJpd0Usy3FmPeopjrZRvGzVp8nWJvYZR1F4V8O6dD07TMZ9e8XlW7c8+enbVVr695NnMaNE37m49Cu6z4kfQJhY5nQsiWWVr/tZMqzq/rSx+xQeihdgp9IgFYRxHXy1FQsz684R8DDGDgnxsfsUFNeslFkXXA7CEKtM6EiiVru5M6uHb8QYLKzFYKDM1GDdV8lVb4m1N1ibpdficN/qyVPqrV4EuqXM2GH0t+G0N0ZIkFfrKvUuVLuOjvi3goWZedYhhO/9UKpfgv6M+FDvqpkaBgffEiw3TxRSsUpBr66UAjlUqhlHWS43AyC0qlVGrEOsqNFEEhvp7jVB8PhaIRyq2D/TR/4X4KctLqPo5b32oJck+5+YvTdmDBCH/myoJcYjMN0ZwIuSwXfzayAD9aeIGjmlMgl9tDg/TkQi6lmaMuLMR/xbx53MP+Qy9YIGOr9tEwvmobZCwvHOqn5/ibMRhjT5GgkHiEhjqSCAUpxY5AZncyoFsdhxu2lj2Xk3rvvak5z5VtbTjccYsBdc5GCB7sZQCXarOjoRKdXXuJAfQ+CN2e6KcW37HyedA0r/yYj1r6n4BOT9+mhgPFiQgisfgANdx+GrrMGqRY66PQ5dFWig3Ogg5SC4VO5UO3/FMUapEQXB5FOpdLCIG0vJMieQhuM9V619gRIvuaXqptRnBNVNnnQBgc+6jShOCa6K/CAiEpPn3RihWL0hMkCFkq6K8JwW2m0lAh1JJL9n7zrxHeMdL9zb5XHoBa4RCVNiO4PCpcng8/locqTlDgVOXDFviZf5kKeQhOaqFMWwKU5u64Sk1Xd8yFUkIbZVok6DBrkGPq7FCYucvLgLx1v4GCvY5jBmdBlye7OepmMRSmvONmULe2TINC8U2O6n4SOk2pGyLpaUqG3KT1LurStzEGcslNHpJDdVOgX9ScgoxoKPz+B+p2MQ0K0RkFc6IwPn+8yRD0L4HBNngZEt9rMNKkDxiy3ZNhmMSjDMOxJBjE2s6wtFthjHKGqRyGSLjNMN1OgBHyKeZu+fDdV5cte/XdD1vcFMuHETZR4N91f4rFmNglu3oosAlGqKHKycVR8CPlfUuVGhhhOf2cXypBwPKX8/SzHEZIpYK31AYNttIRKqTCEJ9T5kYuAsjpo8znMMZ9fRxz/ncI6Lffc0zffTBI3nXe8fepCCJuD++4ngfDJOzlT3oKocOfe/iTvQkw0oxFG4rSo6FLdHrRhkUz8H8iLg53TVRueWMH2dFYnhuFu6DgLMecLYDZ7HVUqLPDVPe00U/bPTCR9ClVPpVgnk0U2ATT/HqAAoMzYJZqCm2FWU5Q6CxMMmmYQt5YmGMBNWTCHKuo4SWYo5oaqmGOImpYCXPMo4b5MIftFoWG7TDJUQqdgFnKKVQBsziuU8AZB9MUU2AVTPQ+Vd6HmWwN9NNgg6ksb/go43vDArNlfMYxn2XgbkgpfPuA03ng7cIURERERERERITvP7E6HWYWapVEAAAAAElFTkSuQmCC"/>
+          <image id="NoPath_-_Copy_66_" data-name="NoPath - Copy (66)" width="17" height="17" transform="translate(0.308)" xlink:href="data:image/png;base64,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"/>
+        </g>
+        <text id="_9:45AM" data-name="9:45AM" transform="translate(29 38)" fill="#30332c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">9:45AM</tspan></text>
+      </g>
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.321,18l8.937-8.93a1.688,1.688,0,0,0-2.391-2.384L11.742,16.8a1.685,1.685,0,0,0-.049,2.327L21.86,29.32a1.688,1.688,0,0,0,2.391-2.384Z" transform="translate(0.247 18.807)" fill="#002e6b"/>
+      <g id="Headline_Button" data-name="Headline Button" transform="translate(159 32)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="98" height="41" rx="20.5" fill="#01ffff"/>
+        <text id="Budget-2" data-name="Budget" transform="translate(17 27)" fill="#002e6b" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Budget</tspan></text>
+      </g>
+      <text id="Overview" transform="translate(8 153)" fill="#002e6b" font-size="15" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.07em"><tspan x="0" y="0">Overview</tspan></text>
+      <text id="Cards" transform="translate(121 153)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.07em" opacity="0.8"><tspan x="0" y="0">Cards</tspan></text>
+      <text id="Transactions" transform="translate(203 153)" fill="#afafaf" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.07em"><tspan x="0" y="0">Transactions</tspan></text>
+      <text id="Analytics" transform="translate(344 153)" fill="#afafaf" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.07em"><tspan x="0" y="0">Analytics</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_2395)">
+        <rect id="Rectangle_2395-2" data-name="Rectangle 2395" width="428" height="89" rx="10" transform="translate(0 231)" fill="#fff"/>
+      </g>
+      <text id="Marketing" transform="translate(85 200)" fill="#002e6b" font-size="21" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Marketing</tspan></text>
+      <text id="Spent" transform="translate(30 313)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+      <text id="_15_175.58" data-name="₦15,175.58" transform="translate(30 295)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">15,175.58</tspan></text>
+      <g id="Group_162019" data-name="Group 162019" transform="translate(-97.159 59.375)">
+        <g transform="matrix(1, 0, 0, 1, 97.16, -59.38)" filter="url(#Rectangle_2396)">
+          <rect id="Rectangle_2396-2" data-name="Rectangle 2396" width="382.926" height="13.397" rx="6.699" transform="translate(22.54 266)" fill="#ffbc05" opacity="0.2"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 97.16, -59.38)" filter="url(#Path_83339)">
+          <path id="Path_83339-2" data-name="Path 83339" d="M4,0H73.714l7.365,13.4H4c-2.207,0-4-3-4-6.7S1.789,0,4,0Z" transform="translate(22.54 266)" fill="#ffbc05"/>
+        </g>
+      </g>
+      <text id="_60_500.00" data-name="₦60,500.00" transform="translate(320 295)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">60,500.00</tspan></text>
+      <g id="Group_162020" data-name="Group 162020" transform="translate(-9 -26)">
+        <rect id="Rectangle_2398" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(28 187)" fill="#ffbc05" opacity="0.1"/>
+        <path id="Icon_awesome-bullhorn" data-name="Icon awesome-bullhorn" d="M41.24,17.183a4.561,4.561,0,0,0-2.291-3.946V2.292A2.314,2.314,0,0,0,36.658,0a2.286,2.286,0,0,0-1.431.5L29.139,5.373a17.378,17.378,0,0,1-10.81,3.791H4.582A4.582,4.582,0,0,0,0,13.747V20.62A4.582,4.582,0,0,0,4.582,25.2H7a17.4,17.4,0,0,0-.156,2.291,18.137,18.137,0,0,0,1.83,7.943A2.247,2.247,0,0,0,10.7,36.658h5.318a2.276,2.276,0,0,0,1.854-3.62A9.118,9.118,0,0,1,16,27.493a8.664,8.664,0,0,1,.316-2.291h2.01a17.374,17.374,0,0,1,10.81,3.791l6.088,4.871a2.29,2.29,0,0,0,3.722-1.788V21.13A4.563,4.563,0,0,0,41.24,17.183ZM34.367,27.309,32,25.415a21.966,21.966,0,0,0-13.671-4.8V13.747A21.966,21.966,0,0,0,32,8.951l2.366-1.893Z" transform="translate(36.429 198.238)" fill="#ffbc05"/>
+      </g>
+      <text id="Monthly_limit" data-name="Monthly limit" transform="translate(320 313)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Monthly limit</tspan></text>
+      <g id="Group_162117" data-name="Group 162117" transform="translate(-54.431 -1)">
+        <text id="Edit" transform="translate(94 120)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.07em"><tspan x="0" y="0">Edit</tspan></text>
+        <g id="Icon_feather-edit" data-name="Icon feather-edit" transform="translate(66.885 110.251)">
+          <path id="Path_83398" data-name="Path 83398" d="M12.477,6H5.106A2.106,2.106,0,0,0,3,8.106V22.848a2.106,2.106,0,0,0,2.106,2.106H19.848a2.106,2.106,0,0,0,2.106-2.106V15.477" transform="translate(-7.454 -10.636)" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_83399" data-name="Path 83399" d="M23.965,3.526a2.417,2.417,0,0,1,3.419,3.419L16.558,17.77,12,18.91l1.14-4.558Z" transform="translate(-6.977 -14.069)" fill="#01ffff"/>
+        </g>
+      </g>
+      <g id="Group_163011" data-name="Group 163011" transform="translate(-1447.438 -3617.5)" opacity="0">
+        <text id="People_Also_Watch" data-name="People Also Watch" transform="translate(1804 3751)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-45.465" y="0">New budget</tspan></text>
+        <g id="Icon_ionic-ios-add-circle-outline" data-name="Icon ionic-ios-add-circle-outline" transform="translate(1731 3732.563)">
+          <path id="Path_83935" data-name="Path 83935" d="M17.6,12.188H13.813V8.4a.813.813,0,0,0-1.625,0v3.783H8.4A.778.778,0,0,0,7.592,13a.787.787,0,0,0,.813.813h3.783V17.6a.787.787,0,0,0,.813.813.808.808,0,0,0,.813-.812V13.813H17.6a.813.813,0,0,0,0-1.625Z" fill="#01ffff"/>
+          <path id="Path_83936" data-name="Path 83936" d="M13,3.859A9.137,9.137,0,1,1,6.536,6.536,9.08,9.08,0,0,1,13,3.859m0-1.422A10.563,10.563,0,1,0,23.563,13,10.561,10.561,0,0,0,13,2.438Z" fill="#002d6a"/>
+        </g>
+      </g>
+      <g id="Group_162116" data-name="Group 162116" transform="translate(13.352 0.063)">
+        <text id="Deactivate" transform="translate(299 120)" fill="#e2070a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.07em"><tspan x="0" y="0">Deactivate</tspan></text>
+        <g id="Icon_ionic-ios-trash" data-name="Icon ionic-ios-trash" transform="translate(263 96.5)">
+          <path id="Path_83401" data-name="Path 83401" d="M9.359,9l1.659,20.44a2.059,2.059,0,0,0,2.06,2.06h9.914a2.059,2.059,0,0,0,2.06-2.06L26.691,9ZM13.69,27.633,13.219,11.25h1.3L15,27.633Zm4.943,0H17.367V11.25h1.266Zm3.677,0H21L21.48,11.25h1.3Z" fill="#e2070a"/>
+          <path id="Path_83402" data-name="Path 83402" d="M25.594,6.469H23.063L21.213,4.852a1.425,1.425,0,0,0-.928-.352H15.729a1.448,1.448,0,0,0-.942.352L12.938,6.469H10.406C9.169,6.469,8.3,7.059,8.3,8.3H27.7C27.7,7.059,26.831,6.469,25.594,6.469Z" fill="#e2070a"/>
+        </g>
+      </g>
+      <g id="Group_162118" data-name="Group 162118">
+        <text id="Total_budget_spend" data-name="Total budget spend" transform="translate(48 255)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spend</tspan></text>
+        <path id="Icon_ionic-ios-speedometer" data-name="Icon ionic-ios-speedometer" d="M13.393,4.5A11.139,11.139,0,0,0,5.051,23.025c.055.06.1.119.159.174a1.253,1.253,0,0,0,1.846,0,8.612,8.612,0,0,1,12.675,0,1.253,1.253,0,0,0,1.846,0l.159-.174A11.139,11.139,0,0,0,13.393,4.5Zm-.7,2.283a.7.7,0,0,1,1.393,0V8.574a.7.7,0,1,1-1.393,0ZM6.329,16.335H4.538a.7.7,0,0,1,0-1.393H6.329a.7.7,0,0,1,0,1.393Zm2.562-5.2h0a.7.7,0,0,1-.985,0L6.638,9.873a.7.7,0,0,1,0-.985h0a.7.7,0,0,1,.985,0l1.269,1.269A.7.7,0,0,1,8.891,11.136Zm7.989,1.716-2.363,3.756a1.542,1.542,0,0,1-.348.348,1.5,1.5,0,0,1-1.741-2.438l3.756-2.363a.509.509,0,0,1,.582,0A.5.5,0,0,1,16.88,12.852Zm2-1.716a.7.7,0,0,1-.985,0h0a.7.7,0,0,1,0-.985l1.269-1.269a.7.7,0,0,1,.985,0h0a.7.7,0,0,1,0,.985Zm3.368,5.2H20.457a.7.7,0,0,1,0-1.393h1.791a.7.7,0,1,1,0,1.393Z" transform="translate(15.75 235.5)" fill="#002e6b"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_148006)">
+        <rect id="Rectangle_148006-4" data-name="Rectangle 148006" width="412" height="41" rx="10" transform="translate(8 622)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_148012)">
+        <rect id="Rectangle_148012-2" data-name="Rectangle 148012" width="412" height="73" rx="10" transform="translate(8 744)" fill="#fff"/>
+      </g>
+      <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M20.679,18,11.742,9.07a1.681,1.681,0,0,1,0-2.384,1.7,1.7,0,0,1,2.391,0L24.258,16.8a1.685,1.685,0,0,1,.049,2.327L14.14,29.32a1.688,1.688,0,0,1-2.391-2.384Z" transform="translate(384.504 762.803)" fill="#cecece"/>
+      <text id="Source_of_funds" data-name="Source of funds" transform="translate(58.723 775.969)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Source of funds</tspan></text>
+      <text id="Budget_Team" data-name="Budget Team" transform="translate(23 354)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget Team</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_148006-2)">
+        <rect id="Rectangle_148006-5" data-name="Rectangle 148006" width="412" height="73" rx="10" transform="translate(8 375)" fill="#fff"/>
+      </g>
+      <text id="Can_initiate_transaction" data-name="Can initiate transaction" transform="translate(25 433)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Can initiate transaction</tspan></text>
+      <text id="Jenny_Hassan" data-name="Jenny Hassan" transform="translate(25 402)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Jenny Hassan</tspan></text>
+      <g id="Group_162120" data-name="Group 162120" transform="translate(0 -56)">
+        <rect id="Rectangle_148007" data-name="Rectangle 148007" width="123" height="31" rx="10" transform="translate(224 440)" fill="#002e6b" opacity="0.2"/>
+        <text id="Budget_owners" data-name="Budget owners" transform="translate(229 461)" fill="#002e6b" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Budget owners</tspan></text>
+      </g>
+      <path id="Icon_ionic-ios-arrow-forward-2" data-name="Icon ionic-ios-arrow-forward" d="M20.679,18,11.742,9.07a1.681,1.681,0,0,1,0-2.384,1.7,1.7,0,0,1,2.391,0L24.258,16.8a1.685,1.685,0,0,1,.049,2.327L14.14,29.32a1.688,1.688,0,0,1-2.391-2.384Z" transform="translate(377.754 393.803)" fill="#cecece"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_148009)">
+        <rect id="Rectangle_148009-2" data-name="Rectangle 148009" width="412" height="73" rx="10" transform="translate(8 453)" fill="#fff"/>
+      </g>
+      <text id="Can_initiate_transaction-2" data-name="Can initiate transaction" transform="translate(25 511)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Can initiate transaction</tspan></text>
+      <text id="Bola_Obi" data-name="Bola Obi" transform="translate(25 480)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Bola Obi</tspan></text>
+      <g id="Group_162121" data-name="Group 162121" transform="translate(0 -20)">
+        <rect id="Rectangle_148008" data-name="Rectangle 148008" width="132" height="31" rx="10" transform="translate(224 481)" fill="#002e6b" opacity="0.2"/>
+        <text id="Budget_Member" data-name="Budget Member" transform="translate(229 502)" fill="#002e6b" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Budget Member</tspan></text>
+      </g>
+      <path id="Icon_ionic-ios-arrow-forward-3" data-name="Icon ionic-ios-arrow-forward" d="M20.679,18,11.742,9.07a1.681,1.681,0,0,1,0-2.384,1.7,1.7,0,0,1,2.391,0L24.258,16.8a1.685,1.685,0,0,1,.049,2.327L14.14,29.32a1.688,1.688,0,0,1-2.391-2.384Z" transform="translate(377.754 471.803)" fill="#cecece"/>
+      <text id="Budget_details" data-name="Budget details" transform="translate(23 601)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget details</tspan></text>
+      <text id="Budget_Purpose" data-name="Budget  Purpose" transform="translate(57 650)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Budget  Purpose</tspan></text>
+      <path id="Icon_ionic-ios-arrow-forward-4" data-name="Icon ionic-ios-arrow-forward" d="M20.679,18,11.742,9.07a1.681,1.681,0,0,1,0-2.384,1.7,1.7,0,0,1,2.391,0L24.258,16.8a1.685,1.685,0,0,1,.049,2.327L14.14,29.32a1.688,1.688,0,0,1-2.391-2.384Z" transform="translate(377.754 624.804)" fill="#cecece"/>
+      <path id="Icon_awesome-file-signature" data-name="Icon awesome-file-signature" d="M11.84,23.019a.6.6,0,0,0-.552-.354.592.592,0,0,0-.544.336l-.416.833a.868.868,0,0,1-1.6-.113l-.913-2.739-.576,1.73a2.343,2.343,0,0,1-2.225,1.6H4.342a.868.868,0,0,1,0-1.737h.672a.608.608,0,0,0,.577-.416L6.579,19.2a1.3,1.3,0,0,1,2.472,0l.753,2.26a2.436,2.436,0,0,1,3.582.768.616.616,0,0,0,.508.34V18.107l6.947-6.9V8.683H13.459a1.306,1.306,0,0,1-1.3-1.3V0H1.3A1.3,1.3,0,0,0,0,1.3V26.485a1.3,1.3,0,0,0,1.3,1.3H19.538a1.3,1.3,0,0,0,1.3-1.3V24.314l-6.947-.006A2.33,2.33,0,0,1,11.84,23.019Zm9-16.4a1.3,1.3,0,0,0-.38-.917L15.147.38A1.3,1.3,0,0,0,14.225,0h-.331V6.947H20.84ZM15.63,18.83v3.747h3.744l8.775-8.834-3.684-3.684L15.63,18.83ZM30.856,9.081l-1.73-1.73a1.382,1.382,0,0,0-1.954,0L25.693,8.831l3.684,3.684,1.479-1.479A1.381,1.381,0,0,0,30.856,9.081Z" transform="translate(21 630)" fill="#002e6b"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_148006-3)">
+        <rect id="Rectangle_148006-6" data-name="Rectangle 148006" width="412" height="41" rx="10" transform="translate(8 827)" fill="#fff"/>
+      </g>
+      <text id="Budget_Activities" data-name="Budget  Activities" transform="translate(57 855)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve">Budget  Activities</tspan></text>
+      <path id="Icon_ionic-ios-arrow-forward-5" data-name="Icon ionic-ios-arrow-forward" d="M20.679,18,11.742,9.07a1.681,1.681,0,0,1,0-2.384,1.7,1.7,0,0,1,2.391,0L24.258,16.8a1.685,1.685,0,0,1,.049,2.327L14.14,29.32a1.688,1.688,0,0,1-2.391-2.384Z" transform="translate(377.754 829.804)" fill="#cecece"/>
+      <path id="Icon_feather-activity" data-name="Icon feather-activity" d="M33,18H27L22.5,31.5l-9-27L9,18H3" transform="translate(18 830.894)" fill="none" stroke="#9719f6" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_148011)">
+        <rect id="Rectangle_148011-2" data-name="Rectangle 148011" width="412" height="61" rx="10" transform="translate(8 673)" fill="#fff"/>
+      </g>
+      <path id="Icon_ionic-ios-arrow-forward-6" data-name="Icon ionic-ios-arrow-forward" d="M20.679,18,11.742,9.07a1.681,1.681,0,0,1,0-2.384,1.7,1.7,0,0,1,2.391,0L24.258,16.8a1.685,1.685,0,0,1,.049,2.327L14.14,29.32a1.688,1.688,0,0,1-2.391-2.384Z" transform="translate(377.754 685.804)" fill="#cecece"/>
+      <text id="Frequency" transform="translate(56 700)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Frequency</tspan></text>
+      <text id="One-time" transform="translate(56 725)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">One-time</tspan></text>
+      <path id="Union_100" data-name="Union 100" d="M0,24.525,1.821,22.7a17.971,17.971,0,0,0,17.526,3.059V22.534H28.6l-.764.837A20.557,20.557,0,0,1,0,24.525ZM.036,14.262.8,13.425a20.559,20.559,0,0,1,27.832-1.153l-1.821,1.821A17.973,17.973,0,0,0,9.285,11.033v3.229Z" transform="translate(19 676.602)" fill="#01ffff"/>
+      <g id="Group_163053" data-name="Group 163053" transform="translate(6789 3874)">
+        <text id="People_Also_Watch-2" data-name="People Also Watch" transform="translate(-6757.438 -3322)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">See all</tspan></text>
+        <g id="Icon_ionic-ios-arrow-dropright" data-name="Icon ionic-ios-arrow-dropright" transform="translate(-6717.46 -3353.063)">
+          <path id="Path_83947" data-name="Path 83947" d="M60.353,41.885a1,1,0,0,1,1.412,0L66.7,46.837a1,1,0,0,1,.031,1.376l-4.863,4.879a1,1,0,1,1-1.412-1.407l4.134-4.2-4.237-4.2A.987.987,0,0,1,60.353,41.885Z" transform="translate(-37.873 -22.67)" fill="#01ffff"/>
+          <path id="Path_83948" data-name="Path 83948" d="M14.063,24.824A10.761,10.761,0,1,0,24.824,14.063,10.76,10.76,0,0,0,14.063,24.824Zm1.656,0a9.115,9.115,0,1,1,2.67,6.436A9.027,9.027,0,0,1,15.718,24.824Z" fill="#002d6a"/>
+        </g>
+      </g>
+      <g id="Group_163054" data-name="Group 163054" transform="translate(-1489.537 -3392.75)">
+        <text id="People_Also_Watch-3" data-name="People Also Watch" transform="translate(1760 3751)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Add new member</tspan></text>
+        <g id="Icon_ionic-ios-add-circle-outline-2" data-name="Icon ionic-ios-add-circle-outline" transform="translate(1731 3732.563)">
+          <path id="Path_83931" data-name="Path 83931" d="M17.6,12.188H13.813V8.4a.813.813,0,0,0-1.625,0v3.783H8.4A.778.778,0,0,0,7.592,13a.787.787,0,0,0,.813.813h3.783V17.6a.787.787,0,0,0,.813.813.808.808,0,0,0,.813-.812V13.813H17.6a.813.813,0,0,0,0-1.625Z" fill="#01ffff"/>
+          <path id="Path_83932" data-name="Path 83932" d="M13,3.859A9.137,9.137,0,1,1,6.536,6.536,9.08,9.08,0,0,1,13,3.859m0-1.422A10.563,10.563,0,1,0,23.563,13,10.561,10.561,0,0,0,13,2.438Z" fill="#002d6a"/>
+        </g>
+      </g>
+      <path id="Union_246" data-name="Union 246" d="M21.125,30.362V28.324c0,.938,2.394,1.7,5.348,1.7s5.347-.76,5.347-1.7v2.038c0,.938-2.394,1.7-5.347,1.7S21.125,31.3,21.125,30.362Zm-15.071.68a11.411,11.411,0,0,1-4.175-1.52C.544,28.271,0,26.518,0,23.472a9.726,9.726,0,0,1,1.878-6.513c1.29-1.865,6.179-6.326,6.387-6.515H8.095a1.505,1.505,0,0,1,0-3.011h.959L6.761,1.859H11.3c.029-.19.332-1.859,1.9-1.859l.087,0h.051c1.677,0,1.986,1.84,1.989,1.859h4.627L17.8,7.433h.74a1.505,1.505,0,1,1,0,3.011h.222l.009.009c.445.451,4.4,4.463,5.924,6.506a8.108,8.108,0,0,1,1.78,3.693h-.038c-3.2,0-5.81.821-5.81,1.831v1.464a.527.527,0,0,0,.006.088h-.006v7.04a40.222,40.222,0,0,1-7.831.986A38.466,38.466,0,0,1,6.053,31.043Zm5.252-10.015h1.215l1.246,2.52h1.455v-2.52h.737v-.86h-.737v-.512h.737V18.8h-.737V16.546H13.9V18.8H12.623L11.54,16.546H9.982V18.8H9.3v.859h.679v.512H9.3v.86h.679v2.52H11.3V21.028h0ZM21.125,27.3V25.266c0,.939,2.394,1.7,5.348,1.7s5.347-.76,5.347-1.7V27.3c0,.939-2.394,1.7-5.347,1.7S21.125,28.243,21.125,27.3Zm0-3.057V22.888c0-.939,2.394-1.7,5.348-1.7s5.347.76,5.347,1.7v1.359c0,.938-2.394,1.7-5.347,1.7S21.125,25.185,21.125,24.247ZM13.931,21.5h-.013c-.063-.15-.131-.305-.21-.473h.2c.006.2.015.355.029.472h0ZM13.9,20.168h-.609l-.249-.512H13.9v.511h0Zm-1.8,0H11.3v-.512h.543l.253.51v0Z" transform="translate(19 752.969)" fill="#f2e200"/>
+      <text id="NGN_account" data-name="NGN account" transform="translate(90 802)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">NGN account</tspan></text>
+      <g id="Mask_Group_158" data-name="Mask Group 158" transform="translate(1030 -1329.141)" clip-path="url(#clip-path)">
+        <g id="Group_164247" data-name="Group 164247" transform="translate(-972.018 2112.793)">
+          <rect id="Rectangle_148798" data-name="Rectangle 148798" width="10" height="26" transform="translate(0.018 0.348)" fill="#26b105"/>
+          <rect id="Rectangle_148799" data-name="Rectangle 148799" width="11" height="26" transform="translate(10.018 0.348)" fill="#fff"/>
+          <rect id="Rectangle_148800" data-name="Rectangle 148800" width="11" height="26" transform="translate(20.018 0.348)" fill="#26b105"/>
+        </g>
+      </g>
+      <g id="Group_164248" data-name="Group 164248" transform="translate(6789 4209)">
+        <text id="People_Also_Watch-4" data-name="People Also Watch" transform="translate(-6757.438 -3322)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">See all</tspan></text>
+        <g id="Icon_ionic-ios-arrow-dropright-2" data-name="Icon ionic-ios-arrow-dropright" transform="translate(-6717.46 -3353.063)">
+          <path id="Path_83947-2" data-name="Path 83947" d="M60.353,41.885a1,1,0,0,1,1.412,0L66.7,46.837a1,1,0,0,1,.031,1.376l-4.863,4.879a1,1,0,1,1-1.412-1.407l4.134-4.2-4.237-4.2A.987.987,0,0,1,60.353,41.885Z" transform="translate(-37.873 -22.67)" fill="#01ffff"/>
+          <path id="Path_83948-2" data-name="Path 83948" d="M14.063,24.824A10.761,10.761,0,1,0,24.824,14.063,10.76,10.76,0,0,0,14.063,24.824Zm1.656,0a9.115,9.115,0,1,1,2.67,6.436A9.027,9.027,0,0,1,15.718,24.824Z" fill="#002d6a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

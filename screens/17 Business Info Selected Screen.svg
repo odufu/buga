@@ -1,0 +1,321 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="1423" viewBox="0 0 428 1423">
+  <defs>
+    <filter id="Heading_Container" x="-15" y="-14" width="458" height="516" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_9638" data-name="Ellipse 9638" cx="13.5" cy="13.5" r="13.5" transform="translate(-969 2114)" fill="#fff"/>
+    </clipPath>
+    <filter id="Rectangle_148373" x="40" y="1318.488" width="348" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#d5ffe0" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container-2" x="-15" y="-15" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect x="-4" width="373" height="25" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_149055" x="18.75" y="990.709" width="389.5" height="20" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_17_Business_Info_Selected_Screen">
+      <rect width="428" height="1423"/>
+    </clipPath>
+  </defs>
+  <g id="_17_Business_Info_Selected_Screen" data-name="17 Business Info Selected Screen" clip-path="url(#clip-_17_Business_Info_Selected_Screen)">
+    <rect width="428" height="1423" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container)">
+      <rect id="Heading_Container-3" data-name="Heading Container" width="428" height="486" fill="#002d6a"/>
+    </g>
+    <path id="Path_85161" data-name="Path 85161" d="M24,0H403c13.807,0,25,10.728,25,23.962V1200H0V23.962A23.635,23.635,0,0,1,24,0Z" transform="translate(0 223)" fill="#fff"/>
+    <g id="Group_165586" data-name="Group 165586" transform="translate(3.18 492.484)">
+      <text id="TSLA" transform="translate(61 373)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Business Email</tspan></text>
+      <text id="TSLA-2" data-name="TSLA" transform="translate(22 402.113)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">abc@example.com</tspan></text>
+      <line id="Line_1118" data-name="Line 1118" x2="372" transform="translate(21.5 414.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_zocial-email" data-name="Icon zocial-email" d="M.072,21.893V5.8q0-.028.084-.531l9.471,8.1L.184,22.452a2.368,2.368,0,0,1-.112-.559ZM1.329,4.152A1.2,1.2,0,0,1,1.8,4.068H27.312a1.582,1.582,0,0,1,.5.084l-9.5,8.13-1.257,1.006-2.487,2.04-2.487-2.04-1.257-1.006Zm.028,19.389,9.527-9.136,3.688,2.989,3.688-2.989,9.527,9.136a1.341,1.341,0,0,1-.475.084H1.8a1.265,1.265,0,0,1-.447-.084Zm18.16-10.17,9.443-8.1a1.667,1.667,0,0,1,.084.531V21.893a2.141,2.141,0,0,1-.084.559Z" transform="translate(17.749 351.932)" fill="#01ffff"/>
+    </g>
+    <g id="Group_165587" data-name="Group 165587" transform="translate(-5.66 270.492)">
+      <text id="TSLA-3" data-name="TSLA" transform="translate(65.66 488.5)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Business Mobile Number</tspan></text>
+      <text id="TSLA-4" data-name="TSLA" transform="translate(88 523.5)" fill="#002d6a" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">+234 </tspan><tspan y="0" fill="#d1d2d9">800000000</tspan></text>
+      <line id="Line_1118-2" data-name="Line 1118" x2="316.66" transform="translate(81.5 536)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_awesome-mobile" data-name="Icon awesome-mobile" d="M15,0H2.647A2.647,2.647,0,0,0,0,2.647V25.586a2.647,2.647,0,0,0,2.647,2.647H15a2.647,2.647,0,0,0,2.647-2.647V2.647A2.647,2.647,0,0,0,15,0ZM8.823,26.468A1.765,1.765,0,1,1,10.587,24.7,1.763,1.763,0,0,1,8.823,26.468Z" transform="translate(30.717 465.994)" fill="#01ffff"/>
+      <g id="Mask_Group_185" data-name="Mask Group 185" transform="translate(995.66 -1612.5)" clip-path="url(#clip-path)">
+        <g id="Group_165450" data-name="Group 165450" transform="translate(-972.607 2112.197)">
+          <rect id="Rectangle_149045" data-name="Rectangle 149045" width="12" height="31" transform="translate(-0.394 -0.197)" fill="#26b105"/>
+          <rect id="Rectangle_149046" data-name="Rectangle 149046" width="12" height="31" transform="translate(11.606 -0.197)" fill="#fff"/>
+          <rect id="Rectangle_149047" data-name="Rectangle 149047" width="13" height="31" transform="translate(22.606 -0.197)" fill="#26b105"/>
+        </g>
+      </g>
+      <path id="Icon_awesome-long-arrow-alt-up" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(58.402 485.981)" fill="#d1d2d9"/>
+    </g>
+    <text id="Heading_Text" data-name="Heading Text" transform="translate(19.088 129.5)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Initial Step</tspan></text>
+    <text id="Body_Text" data-name="Body Text" transform="translate(21.08 162)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Please note that you&apos;ll have to submit a proof of</tspan><tspan x="0" y="25">address of your current business address.</tspan></text>
+    <g id="Icon_material-bubble-chart" data-name="Icon material-bubble-chart" transform="translate(365.833 93.753)">
+      <path id="Path_83893" data-name="Path 83893" d="M21.064,20.5A8.365,8.365,0,1,1,12.7,12.133,8.365,8.365,0,0,1,21.064,20.5Z" transform="translate(0 11.022)" fill="#f2f6f7"/>
+      <path id="Path_83894" data-name="Path 83894" d="M24.323,22.562A5.228,5.228,0,1,1,19.1,17.333a5.228,5.228,0,0,1,5.228,5.228Z" transform="translate(13.471 18.37)" fill="#f2f6f7"/>
+      <path id="Path_83895" data-name="Path 83895" d="M36.363,16.881A12.548,12.548,0,1,1,23.815,4.333,12.548,12.548,0,0,1,36.363,16.881Z" transform="translate(9.797)" fill="#f2f6f7"/>
+    </g>
+    <g id="Group_165458" data-name="Group 165458" transform="translate(-108 491.487)">
+      <g transform="matrix(1, 0, 0, 1, 108, -491.49)" filter="url(#Rectangle_148373)">
+        <rect id="Rectangle_148373-2" data-name="Rectangle 148373" width="330" height="49" rx="24" transform="translate(49 1319.49)" fill="#01ffff"/>
+      </g>
+      <text id="TSLA-5" data-name="TSLA" transform="translate(280 859)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Continue</tspan></text>
+    </g>
+    <g id="Group_165479" data-name="Group 165479" transform="translate(-5.5 0.005)">
+      <text id="TSLA-6" data-name="TSLA" transform="translate(65.66 284.006)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Business Legal Name</tspan></text>
+      <text id="TSLA-7" data-name="TSLA" transform="translate(27 313.119)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Enter your full legal business name</tspan></text>
+      <line id="Line_1117" data-name="Line 1117" x2="372" transform="translate(26.5 325.506)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_awesome-store" data-name="Icon awesome-store" d="M24.238,4.775,21.626.6A1.289,1.289,0,0,0,20.534,0H4.269A1.289,1.289,0,0,0,3.178.6L.565,4.775a3.592,3.592,0,0,0,2.367,5.492,4.184,4.184,0,0,0,.552.036A3.975,3.975,0,0,0,6.455,8.97a3.979,3.979,0,0,0,5.942,0,3.979,3.979,0,0,0,5.942,0A3.989,3.989,0,0,0,21.311,10.3a4.139,4.139,0,0,0,.552-.036A3.588,3.588,0,0,0,24.238,4.775Zm-2.919,6.82a5.108,5.108,0,0,1-1.188-.153V15.46H4.672V11.442a5.334,5.334,0,0,1-1.188.153,5.432,5.432,0,0,1-.725-.048A5.063,5.063,0,0,1,2.1,11.4v7.923a1.287,1.287,0,0,0,1.288,1.288H21.424a1.287,1.287,0,0,0,1.288-1.288V11.4a4.111,4.111,0,0,1-.66.145A5.6,5.6,0,0,1,21.32,11.595Z" transform="translate(26.996 267.006)" fill="#01ffff"/>
+    </g>
+    <g id="Group_165483" data-name="Group 165483" transform="translate(-6.5 19)">
+      <text id="TSLA-8" data-name="TSLA" transform="translate(59.08 365.503)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">CAC Registration Number </tspan></text>
+      <text id="TSLA-9" data-name="TSLA" transform="translate(28 394.509)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Enter your business registration number</tspan></text>
+      <line id="Line_1117-2" data-name="Line 1117" x2="372" transform="translate(27.5 407.003)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Subtraction_360" data-name="Subtraction 360" d="M10453.533,14270.665h-13.564a.967.967,0,0,1-.967-.969v-18.729a.969.969,0,0,1,.967-.967h8.072v5.488a.97.97,0,0,0,.971.969h5.488v13.238A.967.967,0,0,1,10453.533,14270.665Zm-2.4-1.736v0l.117.457a.175.175,0,0,0,.168.131.169.169,0,0,0,.125-.055l.326-.334.33.334a.16.16,0,0,0,.121.055.173.173,0,0,0,.172-.131l.117-.459.451.131a.166.166,0,0,0,.045.006.174.174,0,0,0,.139-.07.171.171,0,0,0,.031-.152l-.129-.449.455-.117a.178.178,0,0,0,.127-.125.166.166,0,0,0-.047-.168l-.336-.328.336-.33a.166.166,0,0,0,.047-.168.175.175,0,0,0-.127-.125l-.455-.113.129-.453a.176.176,0,0,0-.168-.221.119.119,0,0,0-.047.006l-.451.127-.117-.453a.173.173,0,0,0-.172-.133.165.165,0,0,0-.121.053l-.33.338-.326-.338a.168.168,0,0,0-.123-.051.172.172,0,0,0-.17.131l-.117.453-.449-.127a.145.145,0,0,0-.049-.006.175.175,0,0,0-.139.068.172.172,0,0,0-.029.152l.129.453-.459.113a.167.167,0,0,0-.123.125.164.164,0,0,0,.047.168l.336.33-.336.328a.164.164,0,0,0-.047.168.167.167,0,0,0,.123.125l.459.117-.129.449a.169.169,0,0,0,.029.152.175.175,0,0,0,.141.07.219.219,0,0,0,.047-.006l.449-.131Zm-7.768-4.719a.486.486,0,0,0-.486.482v.322a.486.486,0,0,0,.486.484h6.779a.486.486,0,0,0,.486-.484v-.322a.486.486,0,0,0-.486-.482Zm0-2.586a.486.486,0,0,0-.486.484v.322a.486.486,0,0,0,.486.484h6.779a.486.486,0,0,0,.486-.484v-.322a.486.486,0,0,0-.486-.484Zm0-2.58a.486.486,0,0,0-.486.482v.324a.486.486,0,0,0,.486.482h6.779a.486.486,0,0,0,.486-.482v-.324a.486.486,0,0,0-.486-.482Zm11.139-3.877h-5.166V14250h.246a.963.963,0,0,1,.686.281l3.953,3.955a.972.972,0,0,1,.281.682v.248Z" transform="translate(-10411.002 -13899.648)" fill="#01ffff"/>
+    </g>
+    <g id="Group_165484" data-name="Group 165484" transform="translate(-6.5 618.962)">
+      <text id="TSLA-10" data-name="TSLA" transform="translate(68.779 456.09)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Role in this Company </tspan></text>
+      <text id="TSLA-11" data-name="TSLA" transform="translate(55.779 487.003)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Registered Director</tspan></text>
+      <text id="TSLA-12" data-name="TSLA" transform="translate(55.779 514.003)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Employee</tspan></text>
+      <g id="Ellipse_9644" data-name="Ellipse 9644" transform="translate(33.119 473.003)" fill="none" stroke="#d1d2d9" stroke-width="1">
+        <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+        <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+      </g>
+      <g id="Ellipse_9645" data-name="Ellipse 9645" transform="translate(33.119 500.003)" fill="none" stroke="#d1d2d9" stroke-width="1">
+        <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+        <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+      </g>
+      <path id="Icon_awesome-user-shield" data-name="Icon awesome-user-shield" d="M33.817,14.732l-6.26-2.445a1.684,1.684,0,0,0-1.206,0l-6.26,2.445a1.469,1.469,0,0,0-.962,1.353c0,6.065,3.733,10.26,7.222,11.624a1.686,1.686,0,0,0,1.206,0,12.313,12.313,0,0,0,7.222-11.624A1.469,1.469,0,0,0,33.817,14.732Zm-6.863,10.4V14.852l5.19,2.027a9.721,9.721,0,0,1-5.19,8.249ZM12.173,13.912A6.956,6.956,0,1,0,5.217,6.956,6.955,6.955,0,0,0,12.173,13.912Zm5.217,2.174a3.087,3.087,0,0,1,.06-.391c-.136-.005-.266-.043-.408-.043h-.908a9.46,9.46,0,0,1-7.923,0H7.3a7.306,7.306,0,0,0-7.3,7.3v2.261a2.609,2.609,0,0,0,2.608,2.608H21.737a2.674,2.674,0,0,0,1.043-.217A14.6,14.6,0,0,1,17.39,16.085Z" transform="translate(27.5 431)" fill="#01ffff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container-2)">
+      <g id="Heading_Container-4" data-name="Heading Container" transform="translate(0 -1)" fill="#fff" stroke="rgba(199,199,199,0.16)" stroke-width="1">
+        <path d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.5.5h427a0,0,0,0,1,0,0V74A13.5,13.5,0,0,1,414,87.5H14A13.5,13.5,0,0,1,.5,74V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Stautus_Bar" data-name="Stautus Bar" transform="translate(7 10)">
+      <g id="Pin-Right" transform="translate(354.729 0.5)">
+        <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+        <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+      </g>
+      <text id="_9:41_AM" data-name="9:41 AM" transform="translate(182.123 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+      <g id="Signal" transform="translate(0 0.5)">
+        <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+        <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Group_165447" data-name="Group 165447" transform="translate(-55 -250)">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="236" height="41" rx="20.5" transform="translate(151 285)" fill="#01ffff"/>
+      <text id="Business_Information_" data-name="Business Information " transform="translate(173 312)" fill="#002d6a" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Business Information </tspan></text>
+    </g>
+    <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M15.006,18.288l6.666-6.672a1.255,1.255,0,0,1,1.779,0,1.271,1.271,0,0,1,0,1.785L15.9,20.96A1.258,1.258,0,0,1,14.161,21l-7.606-7.59a1.26,1.26,0,0,1,1.779-1.785Z" transform="translate(31.327 36.813) rotate(90)" fill="#002d6a" opacity="0.8"/>
+    <g id="Group_165634" data-name="Group 165634" transform="translate(0 131.494)">
+      <g id="Group_165487" data-name="Group 165487" transform="translate(-6 30)">
+        <text id="TSLA-13" data-name="TSLA" transform="translate(59.08 454.995)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Upload Registered Business Certificate</tspan></text>
+        <g id="Icon_feather-upload" data-name="Icon feather-upload" transform="translate(23.5 435.211)">
+          <path id="Path_85154" data-name="Path 85154" d="M22.068,22.5v3.9a1.952,1.952,0,0,1-1.952,1.952H6.452A1.952,1.952,0,0,1,4.5,26.4V22.5" transform="translate(0 -6.288)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_85155" data-name="Path 85155" d="M20.26,9.38,15.38,4.5,10.5,9.38" transform="translate(-2.096)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Path_85156" data-name="Path 85156" d="M18,4.5V16.212" transform="translate(-4.716)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Rectangle_149054" data-name="Rectangle 149054" transform="translate(27 468)" fill="none" stroke="#d1d2d9" stroke-width="1" stroke-dasharray="14">
+          <rect width="373" height="67" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="372" height="66" rx="9.5" fill="none"/>
+        </g>
+        <g id="Group_165486" data-name="Group 165486" transform="translate(21.951)">
+          <text id="TSLA-14" data-name="TSLA" transform="translate(128 507.001)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Upload image or PDF</tspan></text>
+          <g id="Icon_ionic-ios-add-circle-outline" data-name="Icon ionic-ios-add-circle-outline" transform="translate(95.675 487.626)">
+            <path id="Path_85159" data-name="Path 85159" d="M20.453,15.079h-3.76v-3.76a.807.807,0,1,0-1.615,0v3.76h-3.76a.773.773,0,0,0-.807.807.782.782,0,0,0,.807.807h3.76v3.76a.782.782,0,0,0,.807.807.8.8,0,0,0,.807-.807v-3.76h3.76a.807.807,0,0,0,0-1.615Z" transform="translate(-2.015 -2.015)" fill="#01ffff"/>
+            <path id="Path_85160" data-name="Path 85160" d="M13.872,4.788A9.08,9.08,0,1,1,7.447,7.447a9.023,9.023,0,0,1,6.424-2.659m0-1.413a10.5,10.5,0,1,0,10.5,10.5,10.495,10.495,0,0,0-10.5-10.5Z" fill="#002d6a"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165636" data-name="Group 165636" transform="translate(-4.5 100.492)">
+      <g id="Group_165631" data-name="Group 165631" transform="translate(-2 131.58)">
+        <path id="Icon_awesome-long-arrow-alt-up-2" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(373.53 959.11)" fill="#d1d2d9"/>
+        <text id="TSLA-15" data-name="TSLA" transform="translate(66.5 964.887)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Number of Directors</tspan></text>
+        <text id="TSLA-16" data-name="TSLA" transform="translate(28 993.397)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Select the number of directors</tspan></text>
+        <line id="Line_1117-3" data-name="Line 1117" x2="372" transform="translate(27.5 1006.387)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+        <path id="Icon_awesome-users" data-name="Icon awesome-users" d="M4.388,11.027A2.926,2.926,0,1,0,1.463,8.1,2.928,2.928,0,0,0,4.388,11.027Zm20.479,0A2.926,2.926,0,1,0,21.941,8.1,2.928,2.928,0,0,0,24.867,11.027Zm1.463,1.463H23.4a2.917,2.917,0,0,0-2.062.85,6.686,6.686,0,0,1,3.433,5h3.017a1.461,1.461,0,0,0,1.463-1.463V15.415A2.928,2.928,0,0,0,26.33,12.489Zm-11.7,0a5.12,5.12,0,1,0-5.12-5.12A5.117,5.117,0,0,0,14.628,12.489Zm3.511,1.463h-.379a7.068,7.068,0,0,1-6.262,0h-.379a5.267,5.267,0,0,0-5.266,5.266v1.316a2.195,2.195,0,0,0,2.194,2.194H21.21A2.195,2.195,0,0,0,23.4,20.534V19.218A5.267,5.267,0,0,0,18.138,13.952ZM7.913,13.339a2.917,2.917,0,0,0-2.062-.85H2.926A2.928,2.928,0,0,0,0,15.415v1.463A1.461,1.461,0,0,0,1.463,18.34H4.475A6.7,6.7,0,0,1,7.913,13.339Z" transform="translate(28 946.68)" fill="#01ffff"/>
+      </g>
+      <g id="Group_165635" data-name="Group 165635">
+        <text id="TSLA-17" data-name="TSLA" transform="translate(49.16 1164)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Remove inactive directors</tspan></text>
+        <g id="Ellipse_9648" data-name="Ellipse 9648" transform="translate(25.5 1150)" fill="none" stroke="#d1d2d9" stroke-width="1">
+          <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+          <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165640" data-name="Group 165640">
+      <g id="Group_165638" data-name="Group 165638" transform="translate(-6.5 119.494)">
+        <text id="TSLA-18" data-name="TSLA" transform="translate(59.08 365.503)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Tax Identification Number (TIN)</tspan></text>
+        <text id="TSLA-19" data-name="TSLA" transform="translate(28 394.509)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Enter your TIN number</tspan></text>
+        <line id="Line_1117-4" data-name="Line 1117" x2="372" transform="translate(27.5 407.003)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+        <path id="Subtraction_360-2" data-name="Subtraction 360" d="M10453.533,14270.665h-13.564a.967.967,0,0,1-.967-.969v-18.729a.969.969,0,0,1,.967-.967h8.072v5.488a.97.97,0,0,0,.971.969h5.488v13.238A.967.967,0,0,1,10453.533,14270.665Zm-2.4-1.736v0l.117.457a.175.175,0,0,0,.168.131.169.169,0,0,0,.125-.055l.326-.334.33.334a.16.16,0,0,0,.121.055.173.173,0,0,0,.172-.131l.117-.459.451.131a.166.166,0,0,0,.045.006.174.174,0,0,0,.139-.07.171.171,0,0,0,.031-.152l-.129-.449.455-.117a.178.178,0,0,0,.127-.125.166.166,0,0,0-.047-.168l-.336-.328.336-.33a.166.166,0,0,0,.047-.168.175.175,0,0,0-.127-.125l-.455-.113.129-.453a.176.176,0,0,0-.168-.221.119.119,0,0,0-.047.006l-.451.127-.117-.453a.173.173,0,0,0-.172-.133.165.165,0,0,0-.121.053l-.33.338-.326-.338a.168.168,0,0,0-.123-.051.172.172,0,0,0-.17.131l-.117.453-.449-.127a.145.145,0,0,0-.049-.006.175.175,0,0,0-.139.068.172.172,0,0,0-.029.152l.129.453-.459.113a.167.167,0,0,0-.123.125.164.164,0,0,0,.047.168l.336.33-.336.328a.164.164,0,0,0-.047.168.167.167,0,0,0,.123.125l.459.117-.129.449a.169.169,0,0,0,.029.152.175.175,0,0,0,.141.07.219.219,0,0,0,.047-.006l.449-.131Zm-7.768-4.719a.486.486,0,0,0-.486.482v.322a.486.486,0,0,0,.486.484h6.779a.486.486,0,0,0,.486-.484v-.322a.486.486,0,0,0-.486-.482Zm0-2.586a.486.486,0,0,0-.486.484v.322a.486.486,0,0,0,.486.484h6.779a.486.486,0,0,0,.486-.484v-.322a.486.486,0,0,0-.486-.484Zm0-2.58a.486.486,0,0,0-.486.482v.324a.486.486,0,0,0,.486.482h6.779a.486.486,0,0,0,.486-.482v-.324a.486.486,0,0,0-.486-.482Zm11.139-3.877h-5.166V14250h.246a.963.963,0,0,1,.686.281l3.953,3.955a.972.972,0,0,1,.281.682v.248Z" transform="translate(-10411.002 -13899.648)" fill="#01ffff"/>
+      </g>
+      <g id="Group_165639" data-name="Group 165639" transform="translate(0 -37.506)">
+        <text id="TSLA-20" data-name="TSLA" transform="translate(49.16 590)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">I don&apos;t have a TIN please help me get one </tspan></text>
+        <g id="Ellipse_9648-2" data-name="Ellipse 9648" transform="translate(25.5 576)" fill="none" stroke="#d1d2d9" stroke-width="1">
+          <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+          <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Dropdown_4" data-name="Dropdown 4" transform="translate(26.25 946.977)">
+      <g id="Scroll_Group_262" data-name="Scroll Group 262" transform="translate(4 68.258)" clip-path="url(#clip-path-2)" style="isolation: isolate">
+        <g id="Group_165569" data-name="Group 165569" transform="translate(10613 12485.156)">
+          <rect id="Rectangle_149062" data-name="Rectangle 149062" width="409" height="25" rx="5" transform="translate(-10613 -12485.156)" fill="#f2e200" opacity="0.1"/>
+          <text id="Send_And_Receive_Payments_in_Multiple_Currencies" data-name="Send And Receive Payments in Multiple Currencies" transform="translate(-10610 -12467.156)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Send And Receive Payments in Multiple Currencies</tspan></text>
+          <g id="Group_165552" data-name="Group 165552" transform="translate(-9745.198 -13218.193) rotate(45)">
+            <line id="Line_1123" data-name="Line 1123" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1124" data-name="Line 1124" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165570" data-name="Group 165570" transform="translate(10612.75 12485.156)">
+          <rect id="Rectangle_149070" data-name="Rectangle 149070" width="307" height="25" rx="5" transform="translate(-10198.75 -12485.156)" fill="#f2e200" opacity="0.1"/>
+          <text id="Control_Company_Spend_Expenses" data-name="Control Company Spend &amp; Expenses" transform="translate(-10195.75 -12467.156)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Control Company Spend &amp; Expenses</tspan></text>
+          <g id="Group_165568" data-name="Group 165568" transform="translate(-9431.735 -13218.193) rotate(45)">
+            <line id="Line_1139" data-name="Line 1139" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1140" data-name="Line 1140" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165574" data-name="Group 165574" transform="translate(11833.75 12485.156)">
+          <rect id="Rectangle_149070-2" data-name="Rectangle 149070" width="290" height="25" rx="5" transform="translate(-10198.75 -12485.156)" fill="#f2e200" opacity="0.1"/>
+          <text id="Payment_Solutions_POS_Terminal_" data-name="Payment Solutions (POS Terminal)" transform="translate(-10195.75 -12467.156)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Payment Solutions (POS Terminal)</tspan></text>
+          <g id="Group_165568-2" data-name="Group 165568" transform="translate(-9451.735 -13218.193) rotate(45)">
+            <line id="Line_1139-2" data-name="Line 1139" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1140-2" data-name="Line 1140" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165571" data-name="Group 165571" transform="translate(10924.75 12485.156)">
+          <rect id="Rectangle_149070-3" data-name="Rectangle 149070" width="285" height="25" rx="5" transform="translate(-10198.75 -12485.156)" fill="#f2e200" opacity="0.1"/>
+          <text id="Manage_And_Automate_Inventory" data-name="Manage And Automate Inventory" transform="translate(-10195.75 -12467.156)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Manage And Automate Inventory</tspan></text>
+          <g id="Group_165568-3" data-name="Group 165568" transform="translate(-9455.735 -13218.193) rotate(45)">
+            <line id="Line_1139-3" data-name="Line 1139" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1140-3" data-name="Line 1140" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165572" data-name="Group 165572" transform="translate(11214.75 12485.156)">
+          <rect id="Rectangle_149070-4" data-name="Rectangle 149070" width="297" height="25" rx="5" transform="translate(-10198.75 -12485.156)" fill="#f2e200" opacity="0.1"/>
+          <text id="Manage_And_automate_Accounting" data-name="Manage And automate Accounting" transform="translate(-10195.75 -12467.156)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Manage And automate Accounting</tspan></text>
+          <g id="Group_165568-4" data-name="Group 165568" transform="translate(-9442.735 -13218.193) rotate(45)">
+            <line id="Line_1139-4" data-name="Line 1139" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1140-4" data-name="Line 1140" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165573" data-name="Group 165573" transform="translate(11516.75 12485.156)">
+          <rect id="Rectangle_149070-5" data-name="Rectangle 149070" width="312" height="25" rx="5" transform="translate(-10198.75 -12485.156)" fill="#f2e200" opacity="0.1"/>
+          <text id="Optimize_Cashflow_Via_Debt_Recovery" data-name="Optimize Cashflow Via Debt Recovery" transform="translate(-10195.75 -12467.156)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Optimize Cashflow Via Debt Recovery</tspan></text>
+          <g id="Group_165568-5" data-name="Group 165568" transform="translate(-9426.735 -13218.193) rotate(45)">
+            <line id="Line_1139-5" data-name="Line 1139" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1140-5" data-name="Line 1140" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <text id="TSLA-21" data-name="TSLA" transform="translate(37.75 21.006)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">What Solutions Are You Looking For?</tspan></text>
+      <text id="TSLA-22" data-name="TSLA" transform="translate(0.25 50.5)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">6 selected</tspan></text>
+      <line id="Line_1117-5" data-name="Line 1117" x2="372" transform="translate(1 62.994)" fill="none" stroke="#d1d2d9" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_awesome-long-arrow-alt-up-3" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(350.992 15.98)" fill="#d1d2d9"/>
+      <path id="Icon_ionic-ios-search" data-name="Icon ionic-ios-search" d="M31.184,29.545l-7.509-7.58a10.7,10.7,0,1,0-1.624,1.645l7.46,7.53a1.156,1.156,0,0,0,1.631.042A1.163,1.163,0,0,0,31.184,29.545ZM15.265,23.7a8.45,8.45,0,1,1,5.977-2.475A8.4,8.4,0,0,1,15.265,23.7Z" transform="translate(-4.25 -4.493)" fill="#01ffff"/>
+      <g transform="matrix(1, 0, 0, 1, -26.25, -946.98)" filter="url(#Rectangle_149055)">
+        <rect id="Rectangle_149055-2" data-name="Rectangle 149055" width="371.5" height="2" rx="1" transform="translate(27.75 996.71)" fill="#fff" opacity="0"/>
+      </g>
+      <g id="Option_6" data-name="Option 6" transform="translate(-19.125 -1146.48)" opacity="0">
+        <text id="Payment_Solutions_POS_Terminal_2" data-name="Payment Solutions (POS Terminal)" transform="translate(41.25 1170)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Payment Solutions (POS Terminal)</tspan></text>
+        <g id="Check_Box" data-name="Check Box" transform="translate(345 1152)">
+          <g id="Rectangle_148329" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_5" data-name="Option 5" transform="translate(-19.125 -1100.48)" opacity="0">
+        <text id="Optimize_Cashflow_Via_Debt_Recovery-2" data-name="Optimize Cashflow Via Debt Recovery" transform="translate(41.25 1124)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Optimize Cashflow Via Debt Recovery</tspan></text>
+        <g id="Check_Box-2" data-name="Check Box" transform="translate(345 1106)">
+          <g id="Rectangle_148329-2" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-2" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-2" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-2" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_4" data-name="Option 4" transform="translate(-19.125 -1054.48)" opacity="0">
+        <text id="Manage_And_automate_Accounting-2" data-name="Manage And automate Accounting" transform="translate(41.25 1078)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Manage And automate Accounting</tspan></text>
+        <g id="Check_Box-3" data-name="Check Box" transform="translate(345 1060)">
+          <g id="Rectangle_148329-3" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-3" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-3" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-3" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_3" data-name="Option 3" transform="translate(-19.125 -1008.48)" opacity="0">
+        <text id="Manage_And_Automate_Inventory-2" data-name="Manage And Automate Inventory" transform="translate(41.25 1032)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Manage And Automate Inventory</tspan></text>
+        <g id="Check_Box-4" data-name="Check Box" transform="translate(345 1014)">
+          <g id="Rectangle_148329-4" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-4" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-4" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-4" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_2" data-name="Option 2" transform="translate(-19.125 -962.48)" opacity="0">
+        <text id="Control_Company_Spend_Expenses-2" data-name="Control Company Spend &amp; Expenses" transform="translate(41.25 986)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Control Company Spend &amp; Expenses</tspan></text>
+        <g id="Check_Box-5" data-name="Check Box" transform="translate(345 968)">
+          <g id="Rectangle_148329-5" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-5" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-5" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-5" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_1" data-name="Option 1" transform="translate(-19.125 -905.48)" opacity="0">
+        <text id="Send_And_Receive_Payments_in_Multiple_Currencies-2" data-name="Send And Receive Payments in Multiple
+Currencies" transform="translate(41.25 927)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Send And Receive Payments in Multiple</tspan><tspan x="0" y="25">Currencies</tspan></text>
+        <g id="Check_Box-6" data-name="Check Box" transform="translate(345 911)">
+          <g id="Rectangle_148329-6" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-6" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-6" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-6" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

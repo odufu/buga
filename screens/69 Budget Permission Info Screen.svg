@@ -1,0 +1,555 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="1548" viewBox="0 0 428 1548">
+  <defs>
+    <filter id="bbe242b310de7a804a25b5766782ff47" x="-15" y="-14" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="458" height="650" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_2395" x="-15" y="761" width="458" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396" x="227.924" y="804" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_83339" x="227.924" y="804" width="17.35" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395-2" x="-15" y="614" width="458" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396-2" x="227.924" y="657" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395-3" x="-15" y="467" width="458" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396-3" x="227.924" y="510" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-8"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_83339-2" x="227.924" y="510" width="171.18" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-9"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395-4" x="-15" y="333" width="458" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396-4" x="227.924" y="376" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-11"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395-5" x="-15" y="173" width="458" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-12"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396-5" x="227.924" y="216" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-13"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_83339-3" x="227.924" y="216" width="81.078" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-14"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Container_2" x="-6" y="308" width="446" height="1252" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_69_Budget_Permission_Info_Screen_">
+      <rect width="428" height="1548"/>
+    </clipPath>
+  </defs>
+  <g id="_69_Budget_Permission_Info_Screen_" data-name="69 Budget Permission Info Screen " clip-path="url(#clip-_69_Budget_Permission_Info_Screen_)">
+    <rect width="428" height="1548" fill="#fff"/>
+    <g id="Budget">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#bbe242b310de7a804a25b5766782ff47)">
+        <path id="bbe242b310de7a804a25b5766782ff47-2" data-name="bbe242b310de7a804a25b5766782ff47" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+      </g>
+      <g id="Time_and_Network_bar" data-name="Time and Network bar" transform="translate(-1 -18)">
+        <g id="Group_208" data-name="Group 208" transform="translate(324.692 24)">
+          <image id="NoPath_-_Copy_64_" data-name="NoPath - Copy (64)" width="17" height="17" transform="translate(20.308)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAOwAAADsAEnxA+tAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAvpJREFUeJzt3DFy00AYxfGH08BZGDpi5xrgOFcMFHANBhoIUBI7TYYbxO5CYWdMIcer1e56V+//m1Gn7LfyPkuyvowkAAAAAAAAAAAAAAAA5HIm6UrSR0krSWtJjwe2taTlbt/F7m/RsAtJv3V4wY9tvyRNi88aSSwkbRS/+P+fFeaF546BLvT8qT4mBJwJGnGmYaf9Q9tPcU/QhCulX/yn7TJ0EpMkh4IYwYsUgXuBBqyU7wxwGzqJF0kOBTHWkl5mGnsj6VXIjgTgdB4zjx+0ttwDmCMA5giAOQJgjgCYIwDmCMBh9OeNlejP53oK+LQhUqn+PAGoUMn+PAGoTOn+PAGoTOn+fBUB4FfAnmV/ngDsnWccu9r/06MdvFe6P5/7Oh20tgRgr/SCVBEALgHmCIA5AmCOAJgjAOYIgLmWAjDRtlP3QdKdjvfnV5KutX3C19JxosNM4+vPV9ELaMGl0rRo13r+eT8BqNCY+/ME4Iic/fmuewICUJmF8n04NfTnqwhAzXfHlv350moOQM4e+izj2E2puR089v586XrxO53I2BekigDUfAlAAQTAHAEwRwDMEQBzBMDckADQnzdGf769esnQn2+zXhL059utNxj9+bbrdepzM/Ze0use+4d6sxsbJ9AnAPTnR6hPAOjPj1CfdjD9+bbrxe+0M/YPaOz1OvFEzhwBMEcAzBEAcwTAHAEwRwDMEQBzBMAcATBHAMwRAHMEwBwBMEcAzBEAcwTAHAEwRwDMEQBzBMAcATBHAMwRAHMEwFyfAGyyzaJ7bOqlrdepTwD+RkxkyNhjqndfQb1OfQLwNWIiob5UUO9bxnpdx1K6Xqc+AfgUMZFQn6mXvd5gE0k/VO4VMaeo9z1DvZtK6iUxVfqXRJ1XVG+WuN5DZfWSSPmauJBXw5SuN09U70HSuwrrJTHV9lQaO9kbSW9HXq/PN7F0vSQm2n47ryUtdfxVscvdvnPFXaNOWe82oN6fxuoBAAAAAAAAAAAAAAAAAIAR+QdEFtlM56JoBgAAAABJRU5ErkJggg=="/>
+          <image id="NoPath_-_Copy_69_" data-name="NoPath - Copy (69)" width="17" height="17" transform="translate(59.308)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADsQAAA7EB9YPtSQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANASURBVHic7dpNThNhAMbxPySUDWDSra70CF5Bt1gQuISGawh4CxPd4yXUhR8bTEFZcYPanYl1MRAMBoYy03lm+jy/5F3KvB//mda2MH+WgV3gIzAGJhXH+PxvvQR6Da4j7uA+8I3qh37d+Hp+jWihZWZ7+BfjC3kStNIusz/8i/GioTXFFD7RXAAfGlrTzC2oJ1CjX8BKQ9caA6sNXWum5imAScPXm4u9W1RPILQSgLkEYC4BmEsA5hKAuQRgLgGYSwDm2hZAD9gB3gFDpvs+v2nT/J5gSLGmHfJN4rU2gVOa+0JHNX4CGzXt2VxYBA7QH0zTY5/2PYElXqM/DNXYq2H/Om0T/SGox6DyLnZUj+L1UH0A6nGK8I2h8jVoADwSXr8tHgLrqosrA8g74UuWLwPHlD8ez4Atuvnzq1WKyG+zzqFojlIjyg+/L5tdffoUa7lprSPZ7ITK7oot3dRqt035eu2UbUgXH/vXWSMB/GfaDTm6xb9pyziqYb2NUP60uWzRV+fWtbtk2vlLziKfRZtLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZjrUgDf1ROYQpfmKjMpGau6qdXuHuXrlWjzE+CpegI1eqKeQBuNuPmOOAb6stnVpw+ccPNaR7LZCR1T/lg8A7aBNdEcq1gDnlN++BNgKJqj1FvKN8ZlvKm4l3emfA9wKLx227xXT0BhCfiB/u5Tj1OgV3EvO2sD/QEoxx9gvfIudtwB+oNQjVc17F/nLQL76A+j6Tt/j3Z/DtO4AR7vCU6AZzXtWWUL6glcsUSxOQPgMfAAWJHOqLoxxecZnyn+53MI/JbO6B9/AZ1YEbYVibjbAAAAAElFTkSuQmCC"/>
+          <image id="NoPath_-_Copy_67_" data-name="NoPath - Copy (67)" width="17" height="17" transform="translate(39.308)" xlink:href="data:image/png;base64,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"/>
+          <image id="NoPath_-_Copy_66_" data-name="NoPath - Copy (66)" width="17" height="17" transform="translate(0.308)" xlink:href="data:image/png;base64,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"/>
+        </g>
+        <text id="_9:45AM" data-name="9:45AM" transform="translate(29 38)" fill="#30332c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">9:45AM</tspan></text>
+      </g>
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.321,18l8.937-8.93a1.688,1.688,0,0,0-2.391-2.384L11.742,16.8a1.685,1.685,0,0,0-.049,2.327L21.86,29.32a1.688,1.688,0,0,0,2.391-2.384Z" transform="translate(0.247 18.807)" fill="#002e6b"/>
+      <g id="Headline_Button" data-name="Headline Button" transform="translate(159 32)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="98" height="41" rx="20.5" fill="#01ffff"/>
+        <text id="Budget-2" data-name="Budget" transform="translate(17 27)" fill="#002e6b" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Budget</tspan></text>
+      </g>
+      <text id="Active" transform="translate(19 156)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.07em"><tspan x="0" y="0">Active</tspan></text>
+      <text id="Deactivated" transform="translate(102 156)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.07em" opacity="0.8"><tspan x="0" y="0">Deactivated</tspan></text>
+      <g id="Scroll_Group_232" data-name="Scroll Group 232" transform="translate(-15 173)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <g id="Staff_Training" data-name="Staff Training" transform="translate(15 -140)">
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2395)">
+            <rect id="Rectangle_2395-6" data-name="Rectangle 2395" width="428" height="142" rx="10" transform="translate(0 775)" fill="#fff"/>
+          </g>
+          <text id="Staff_training-2" data-name="Staff training" transform="translate(69 765)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Staff training</tspan></text>
+          <text id="Spent" transform="translate(239 818)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_30_500.99" data-name="₦30,500.99" transform="translate(228 800)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">30,500.99</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2396)">
+            <rect id="Rectangle_2396-6" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 804)" fill="#ae42fb" opacity="0.2"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Path_83339)">
+            <path id="Path_83339-4" data-name="Path 83339" d="M4,0H9.984l7.365,7.994H4A4,4,0,0,1,4,0Z" transform="translate(227.92 804)" fill="#ae42fb"/>
+          </g>
+          <text id="_600_500.00" data-name="₦600,500.00" transform="translate(340 800)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">600,500.00</tspan></text>
+          <text id="Budget_owners" data-name="Budget owners" transform="translate(77 857)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Olisa_Emeka_3_more" data-name="Olisa Emeka 
+&amp; 3 more" transform="translate(350 854)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-47.73" y="0">Olisa Emeka</tspan><tspan y="0" fill="#afafaf"> </tspan><tspan fill="#afafaf"><tspan x="-33.938" y="20">&amp; 3 more</tspan></tspan></text>
+          <text id="Total_budget_spent" data-name="Total budget spent" transform="translate(267 758)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Quarterly_limit" data-name="Quarterly limit" transform="translate(335 818)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Quarterly limit</tspan></text>
+          <text id="Recurring_quarterly" data-name="Recurring quarterly" transform="translate(69 786)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring quarterly</tspan></text>
+          <g id="Group_162032" data-name="Group 162032">
+            <rect id="Rectangle_2398" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(3 763)" fill="#ae42fb" opacity="0.1"/>
+            <path id="Icon_awesome-chalkboard-teacher" data-name="Icon awesome-chalkboard-teacher" d="M14.625,24.75a1.609,1.609,0,0,0-.5.077,9.275,9.275,0,0,1-2.879.486,9.283,9.283,0,0,1-2.879-.486,1.6,1.6,0,0,0-.5-.077A7.876,7.876,0,0,0,0,32.669,3.366,3.366,0,0,0,3.375,36h15.75A3.366,3.366,0,0,0,22.5,32.669,7.876,7.876,0,0,0,14.625,24.75ZM11.25,22.5A6.75,6.75,0,1,0,4.5,15.75,6.75,6.75,0,0,0,11.25,22.5ZM41.625,0h-27A3.436,3.436,0,0,0,11.25,3.487V6.75A8.9,8.9,0,0,1,15.75,8V4.5H40.5V24.75H36v-4.5H27v4.5H21.639a8.961,8.961,0,0,1,2.791,4.5H41.625A3.436,3.436,0,0,0,45,25.763V3.487A3.436,3.436,0,0,0,41.625,0Z" transform="translate(10 775)" fill="#ae42fb"/>
+          </g>
+          <line id="Line_1099" data-name="Line 1099" x2="333" transform="translate(69.5 832.5)" fill="none" stroke="#ae42fb" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Operations" transform="translate(15 -140)">
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2395-2)">
+            <rect id="Rectangle_2395-7" data-name="Rectangle 2395" width="428" height="142" rx="10" transform="translate(0 628)" fill="#fff"/>
+          </g>
+          <text id="Operations-2" data-name="Operations" transform="translate(69 618)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Operations</tspan></text>
+          <text id="Spent-2" data-name="Spent" transform="translate(234 671)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_0.00" data-name="₦0.00" transform="translate(235 653)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">0.00</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2396-2)">
+            <rect id="Rectangle_2396-7" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 657)" fill="#60f336" opacity="0.2"/>
+          </g>
+          <text id="_250_500.00" data-name="₦250,500.00" transform="translate(346 653)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">250,500.00</tspan></text>
+          <text id="Budget_owners-2" data-name="Budget owners" transform="translate(76 710)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Audu_John_4_more" data-name="Audu John
+&amp; 4 more" transform="translate(353 707)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-40.102" y="0">Audu John</tspan><tspan fill="#afafaf"><tspan x="-34.237" y="20">&amp; 4 more</tspan></tspan></text>
+          <text id="Total_budget_spent-2" data-name="Total budget spent" transform="translate(267 611)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Monthly_limit" data-name="Monthly limit" transform="translate(344 671)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Monthly limit</tspan></text>
+          <text id="Recurring_monthly" data-name="Recurring monthly" transform="translate(69 663)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring monthly</tspan></text>
+          <g id="Group_162021" data-name="Group 162021" transform="translate(17 413)">
+            <rect id="Rectangle_147995" data-name="Rectangle 147995" width="110" height="22" rx="5" transform="translate(52 213)" fill="#002e6b" opacity="0.1"/>
+            <text id="Expires_on_31_Nov." data-name="Expires on 31 Nov." transform="translate(56 229)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Expires on 31 Nov.</tspan></text>
+          </g>
+          <g id="Group_162029" data-name="Group 162029">
+            <rect id="Rectangle_2398-2" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(3 616)" fill="#60f336" opacity="0.1"/>
+            <path id="Icon_metro-suitcase" data-name="Icon metro-suitcase" d="M28.6,29.885H6.427A1.928,1.928,0,0,1,4.5,27.956V16.388a49.089,49.089,0,0,0,9.64,3.648v1.172a.963.963,0,0,0,.964.964h4.82a.964.964,0,0,0,.964-.964V20.036a49.117,49.117,0,0,0,9.64-3.648V27.956A1.929,1.929,0,0,1,28.6,29.885Zm-9.64-11.568a.964.964,0,0,1,.964.964v.964a.964.964,0,0,1-.964.964H16.067a.963.963,0,0,1-.964-.964V19.28a.963.963,0,0,1,.964-.964Zm1.928,0a.964.964,0,0,0-.964-.964H15.1a.963.963,0,0,0-.964.964v.864A48.288,48.288,0,0,1,4.5,15.424V11.568A1.928,1.928,0,0,1,6.427,9.64h5.784V7.712a1.929,1.929,0,0,1,1.928-1.928h6.748a1.929,1.929,0,0,1,1.928,1.928V9.64H28.6a1.929,1.929,0,0,1,1.928,1.928v3.856a48.316,48.316,0,0,1-9.64,3.756v-.864Zm0-9.64a.964.964,0,0,0-.964-.964H15.1a.963.963,0,0,0-.964.964V9.64h6.748Z" transform="translate(14.501 627.215)" fill="#60f336"/>
+          </g>
+          <line id="Line_1098" data-name="Line 1098" x2="333" transform="translate(69.5 688.5)" fill="none" stroke="#60f336" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="HR" transform="translate(15 -140)">
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2395-3)">
+            <rect id="Rectangle_2395-8" data-name="Rectangle 2395" width="428" height="129" rx="10" transform="translate(0 481)" fill="#fff"/>
+          </g>
+          <text id="HR-2" data-name="HR" transform="translate(69 471)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">HR</tspan></text>
+          <text id="Spent-3" data-name="Spent" transform="translate(242 524)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_67_800.32" data-name="₦67,800.32" transform="translate(228 506)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">67,800.32</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2396-3)">
+            <rect id="Rectangle_2396-8" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 510)" fill="#d91b7b" opacity="0.2"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Path_83339-2)">
+            <path id="Path_83339-5" data-name="Path 83339" d="M4,0H163.815l7.365,7.994H4A4,4,0,0,1,4,0Z" transform="translate(227.92 510)" fill="#d91b7b"/>
+          </g>
+          <text id="_80_000.00" data-name="₦80,000.00" transform="translate(350 506)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">80,000.00</tspan></text>
+          <text id="Budget_owners-3" data-name="Budget owners" transform="translate(76 566)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Lizzie_Itatu" data-name="Lizzie Itatu" transform="translate(361 565)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-37.583" y="0">Lizzie Itatu</tspan></text>
+          <text id="Total_budget_spent-3" data-name="Total budget spent" transform="translate(267 464)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Monthly_limit-2" data-name="Monthly limit" transform="translate(344 524)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Monthly limit</tspan></text>
+          <text id="Recurring_monthly-2" data-name="Recurring monthly" transform="translate(69 516)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring monthly</tspan></text>
+          <g id="Group_162021-2" data-name="Group 162021" transform="translate(17 266)">
+            <rect id="Rectangle_147995-2" data-name="Rectangle 147995" width="110" height="22" rx="5" transform="translate(52 213)" fill="#002e6b" opacity="0.1"/>
+            <text id="Expires_on_31_Nov.-2" data-name="Expires on 31 Nov." transform="translate(56 229)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Expires on 31 Nov.</tspan></text>
+          </g>
+          <g id="Group_162031" data-name="Group 162031">
+            <rect id="Rectangle_2398-3" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(3 469)" fill="#d91b7b" opacity="0.1"/>
+            <path id="Icon_awesome-user-tie" data-name="Icon awesome-user-tie" d="M15.75,18a9,9,0,1,0-9-9A9,9,0,0,0,15.75,18Zm6.736,2.292L19.125,33.75l-2.25-9.562,2.25-3.937h-6.75l2.25,3.938-2.25,9.563L9.014,20.292A9.434,9.434,0,0,0,0,29.7v2.925A3.376,3.376,0,0,0,3.375,36h24.75A3.376,3.376,0,0,0,31.5,32.625V29.7a9.434,9.434,0,0,0-9.014-9.408Z" transform="translate(17 481)" fill="#d91b7b"/>
+          </g>
+          <line id="Line_1097" data-name="Line 1097" x2="333" transform="translate(69.5 540.5)" fill="none" stroke="#d91b7b" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Tech" transform="translate(15 -127)">
+          <g transform="matrix(1, 0, 0, 1, 0, -46)" filter="url(#Rectangle_2395-4)">
+            <rect id="Rectangle_2395-9" data-name="Rectangle 2395" width="428" height="129" rx="10" transform="translate(0 347)" fill="#fff"/>
+          </g>
+          <text id="Tech-2" data-name="Tech" transform="translate(69 324)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Tech</tspan></text>
+          <text id="Spent-4" data-name="Spent" transform="translate(234 377)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_0.00-2" data-name="₦0.00" transform="translate(235 359)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">0.00</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, 0, -46)" filter="url(#Rectangle_2396-4)">
+            <rect id="Rectangle_2396-9" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 376)" fill="#25cff1" opacity="0.2"/>
+          </g>
+          <text id="_155_500.00" data-name="₦155,500.00" transform="translate(346 359)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">155,500.00</tspan></text>
+          <text id="Budget_owners-4" data-name="Budget owners" transform="translate(74 419)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Peters_Odeh" data-name="Peters Odeh" transform="translate(346 418)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-45.502" y="0">Peters Odeh</tspan></text>
+          <text id="Total_budget_spent-4" data-name="Total budget spent" transform="translate(267 317)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Quaterly_limit" data-name="Quaterly limit" transform="translate(340 377)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Quaterly limit</tspan></text>
+          <text id="Recurring_quarterly-2" data-name="Recurring quarterly" transform="translate(69 345)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring quarterly</tspan></text>
+          <g id="Icon">
+            <rect id="Rectangle_2398-4" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(3 322)" fill="#25cff1" opacity="0.1"/>
+            <path id="Icon_awesome-sitemap" data-name="Icon awesome-sitemap" d="M6.8,18.7H1.7A1.7,1.7,0,0,0,0,20.4v5.1a1.7,1.7,0,0,0,1.7,1.7H6.8a1.7,1.7,0,0,0,1.7-1.7V20.4A1.7,1.7,0,0,0,6.8,18.7ZM5.525,14.45h10.2V17h2.55V14.45h10.2V17h2.55V13.941A2.043,2.043,0,0,0,28.984,11.9H18.275V8.5H20.4a1.7,1.7,0,0,0,1.7-1.7V1.7A1.7,1.7,0,0,0,20.4,0H13.6a1.7,1.7,0,0,0-1.7,1.7V6.8a1.7,1.7,0,0,0,1.7,1.7h2.125v3.4H5.016a2.043,2.043,0,0,0-2.041,2.041V17h2.55ZM19.55,18.7h-5.1a1.7,1.7,0,0,0-1.7,1.7v5.1a1.7,1.7,0,0,0,1.7,1.7h5.1a1.7,1.7,0,0,0,1.7-1.7V20.4A1.7,1.7,0,0,0,19.55,18.7Zm12.75,0H27.2a1.7,1.7,0,0,0-1.7,1.7v5.1a1.7,1.7,0,0,0,1.7,1.7h5.1A1.7,1.7,0,0,0,34,25.5V20.4A1.7,1.7,0,0,0,32.3,18.7Z" transform="translate(16 338)" fill="#25cff1"/>
+          </g>
+          <line id="Line_1096" data-name="Line 1096" x2="333" transform="translate(69.5 396.5)" fill="none" stroke="#25cff1" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Marketing" transform="translate(15 -125)">
+          <g transform="matrix(1, 0, 0, 1, 0, -48)" filter="url(#Rectangle_2395-5)">
+            <rect id="Rectangle_2395-10" data-name="Rectangle 2395" width="428" height="142" rx="10" transform="translate(0 187)" fill="#fff"/>
+          </g>
+          <text id="Marketing-2" data-name="Marketing" transform="translate(69 162)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Marketing</tspan></text>
+          <text id="Spent-5" data-name="Spent" transform="translate(239 215)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_15_175.58" data-name="₦15,175.58" transform="translate(228 197)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">15,175.58</tspan></text>
+          <g id="Group_162019" data-name="Group 162019" transform="translate(108.228 -38.625)">
+            <g transform="matrix(1, 0, 0, 1, -108.23, -9.38)" filter="url(#Rectangle_2396-5)">
+              <rect id="Rectangle_2396-10" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 216)" fill="#ffbc05" opacity="0.2"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -108.23, -9.38)" filter="url(#Path_83339-3)">
+              <path id="Path_83339-6" data-name="Path 83339" d="M4,0H73.714l7.365,7.994H4A4,4,0,0,1,4,0Z" transform="translate(227.92 216)" fill="#ffbc05"/>
+            </g>
+          </g>
+          <text id="_60_500.00" data-name="₦60,500.00" transform="translate(349 197)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">60,500.00</tspan></text>
+          <g id="Group_162020" data-name="Group 162020" transform="translate(-25 -27)">
+            <rect id="Rectangle_2398-5" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(28 187)" fill="#ffbc05" opacity="0.1"/>
+            <path id="Icon_awesome-bullhorn" data-name="Icon awesome-bullhorn" d="M41.24,17.183a4.561,4.561,0,0,0-2.291-3.946V2.292A2.314,2.314,0,0,0,36.658,0a2.286,2.286,0,0,0-1.431.5L29.139,5.373a17.378,17.378,0,0,1-10.81,3.791H4.582A4.582,4.582,0,0,0,0,13.747V20.62A4.582,4.582,0,0,0,4.582,25.2H7a17.4,17.4,0,0,0-.156,2.291,18.137,18.137,0,0,0,1.83,7.943A2.247,2.247,0,0,0,10.7,36.658h5.318a2.276,2.276,0,0,0,1.854-3.62A9.118,9.118,0,0,1,16,27.493a8.664,8.664,0,0,1,.316-2.291h2.01a17.374,17.374,0,0,1,10.81,3.791l6.088,4.871a2.29,2.29,0,0,0,3.722-1.788V21.13A4.563,4.563,0,0,0,41.24,17.183ZM34.367,27.309,32,25.415a21.966,21.966,0,0,0-13.671-4.8V13.747A21.966,21.966,0,0,0,32,8.951l2.366-1.893Z" transform="translate(36.429 198.238)" fill="#ffbc05"/>
+          </g>
+          <text id="Budget_owners-5" data-name="Budget owners" transform="translate(76 254)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Jenny_Hassan_3_more" data-name="Jenny Hassan 
+&amp; 3 more" transform="translate(344 251)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-54.412" y="0">Jenny Hassan</tspan><tspan y="0" fill="#afafaf"> </tspan><tspan fill="#afafaf"><tspan x="-33.938" y="20">&amp; 3 more</tspan></tspan></text>
+          <text id="Total_budget_spent-5" data-name="Total budget spent" transform="translate(267 155)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Monthly_limit-3" data-name="Monthly limit" transform="translate(344 215)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Monthly limit</tspan></text>
+          <text id="Recurring_monthly-3" data-name="Recurring monthly" transform="translate(69 207)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring monthly</tspan></text>
+          <g id="Group_162021-3" data-name="Group 162021" transform="translate(17 -43)">
+            <rect id="Rectangle_147995-3" data-name="Rectangle 147995" width="110" height="22" rx="5" transform="translate(52 213)" fill="#002e6b" opacity="0.1"/>
+            <text id="Expires_on_31_Nov.-3" data-name="Expires on 31 Nov." transform="translate(56 229)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Expires on 31 Nov.</tspan></text>
+          </g>
+          <line id="Line_1095" data-name="Line 1095" x2="333" transform="translate(69.5 229.5)" fill="none" stroke="#f2e200" stroke-linecap="round" stroke-width="2"/>
+        </g>
+      </g>
+      <rect id="Background_Blur" data-name="Background Blur" width="428" height="1548" fill="#16110d" opacity="0.5"/>
+      <path id="Container_1" data-name="Container 1" d="M25,0H403a25,25,0,0,1,25,25V1342a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(0 206)" fill="#002e6b"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Container_2)">
+        <path id="Container_2-2" data-name="Container 2" d="M25,0H403a25,25,0,0,1,25,25V1234a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(0 314)" fill="#fff"/>
+      </g>
+      <text id="Assigned_budgets_and_permissions" data-name="Assigned  budgets and permissions" transform="translate(214 283)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-163.521" y="0" xml:space="preserve">Assigned  budgets and permissions</tspan></text>
+      <g id="Group_162087" data-name="Group 162087" transform="translate(1934.676 338.833)">
+        <g id="Objects_Seat_Cube" data-name="Objects/Seat/Cube" transform="translate(-1808.544 208.529) rotate(180)">
+          <g id="Seat" transform="translate(0 0)">
+            <path id="Seat-Stuff" d="M15.387,69.071H58.419L64.058,0H0Z" fill="#c5cfd6" fill-rule="evenodd"/>
+            <path id="Seat-Stuff-2" data-name="Seat-Stuff" d="M15.387,69.071H28.622L36.543,0H0Z" fill="rgba(0,0,0,0.1)" fill-rule="evenodd"/>
+          </g>
+        </g>
+        <g id="humaaans_standing-12" data-name="humaaans/standing-12" transform="translate(-1819.675 -5.832)">
+          <g id="A-Human_Standing" data-name="A-Human/Standing" transform="translate(0 0)">
+            <g id="Head_Front_Afro" data-name="Head/Front/Afro" transform="translate(30.869)">
+              <path id="Hair-Back" d="M47.082,49.043c6.366,0,8.682-7.622,12.3-11.8,2.588-2.993,7-2.1,8.312-6.29C70.98,20.415,62.181,13,50.7,13S31.485,19.5,29.814,29.278A17.108,17.108,0,0,0,47.082,49.043Z" transform="translate(-29.581 -13)" fill="#191847" fill-rule="evenodd"/>
+              <g id="Head" transform="translate(13.602 10.026)">
+                <path id="Path_83167" data-name="Path 83167" d="M4.6,19.212A15.09,15.09,0,0,1,.589,8.37c.836-11.921,17.43-9.3,20.658-3.282s2.844,21.278-1.327,22.353c-1.664.429-5.208-.622-8.815-2.8l2.264,16.018H0Z" transform="translate(0 0)" fill="#b28b67" fill-rule="evenodd"/>
+              </g>
+              <path id="Hair" d="M61.863,39.721a3.484,3.484,0,0,0-1.634-.4A3.387,3.387,0,0,0,56.8,42.66a3.272,3.272,0,0,0,.687,2.007,10.706,10.706,0,0,0-1.549,4.193c-2.816,0-13.1-10.657-2.856-20.683S78.121,32.464,73.674,33.3C71.117,33.779,65.969,36.22,61.863,39.721Z" transform="translate(-38.023 -18.151)" fill="#191847" fill-rule="evenodd"/>
+            </g>
+            <g id="Bottom_Standing_Shorts" data-name="Bottom/Standing/Shorts" transform="translate(16.063 96.923)">
+              <path id="Leg" d="M128,0l20.961,68.528,10.154,58.278h7.962L156.348,0Z" transform="translate(-104.048 0)" fill="#997659" fill-rule="evenodd"/>
+              <path id="Leg-2" data-name="Leg" d="M102.146,0c1.424,37.625-.252,57.033-.57,60.452s-4.682,25.584-15.012,67.5l8.484-2.913c16.325-38.445,21.888-58.426,23.761-63.474S125.653,36,133.727,0Z" transform="translate(-85.693)" fill="#b28b67" fill-rule="evenodd"/>
+              <g id="Accessories_Shoe_Flat-Sneaker" data-name="Accessories/Shoe/Flat-Sneaker" transform="translate(0 121.617)">
+                <path id="shoe" d="M1.935,22.713A11.96,11.96,0,0,0,1,26.447a27.95,27.95,0,0,0,.5,4.4H32.919q1.225-4.049-1.414-4.371t-4.384-.583l-14.6-6.51a.557.557,0,0,0-.736.282l-.006.014-.939,2.277a10.017,10.017,0,0,1-3.97,1.14,8.99,8.99,0,0,1-3.427-1h0a1.114,1.114,0,0,0-1.477.549Q1.949,22.676,1.935,22.713Z" transform="translate(-1 -19.332)" fill="#01ffff" fill-rule="evenodd"/>
+              </g>
+              <g id="Accessories_Shoe_Flat-Sneaker-2" data-name="Accessories/Shoe/Flat-Sneaker" transform="translate(52.36 121.617)">
+                <path id="shoe-2" data-name="shoe" d="M1.935,22.713A11.96,11.96,0,0,0,1,26.447a27.95,27.95,0,0,0,.5,4.4H32.919q1.225-4.049-1.414-4.371t-4.384-.583l-14.6-6.51a.557.557,0,0,0-.736.282l-.006.014-.939,2.277a10.017,10.017,0,0,1-3.97,1.14,8.99,8.99,0,0,1-3.427-1h0a1.114,1.114,0,0,0-1.477.549Q1.949,22.676,1.935,22.713Z" transform="translate(-1 -19.332)" fill="#01ffff" fill-rule="evenodd"/>
+              </g>
+              <path id="Bottom" d="M123,0l8.912,34.914h27.222L155.076,0Z" transform="translate(-101.833)" fill="#69a1ac" fill-rule="evenodd"/>
+              <path id="Bottom-2" data-name="Bottom" d="M111.841,0q-4.4,13.185-1.671,34.914h27.779L145.588,0Z" transform="translate(-95.687 0)" fill="#89c5cc" fill-rule="evenodd"/>
+            </g>
+            <g id="Body_Jacket" data-name="Body/Jacket" transform="translate(0 38.435)">
+              <path id="Skin" d="M123.221,89.122,139,104.516A47.824,47.824,0,0,1,150.286,111c.66.8,1.377,2.319-1.726,1.638s-6.4-1.26-6.98-.251,1.135,2.555.057,3.876q-1.078,1.32-7.249-8.4L117.98,98.191ZM53.182,91.293l11.64.046q-10.781,34.8-11.64,36.933c-1.289,3.194,1.439,8.059,2.605,10.673-3.8,1.7-3.394-4.6-8.186-2.366-4.374,2.035-7.7,5.722-12.755,2.6-.621-.383-1.3-1.826.343-2.954,4.1-2.81,10-7.729,10.8-9.348Q47.624,123.57,53.182,91.293Z" transform="translate(-34.163 -39.479)" fill="#b28b67" fill-rule="evenodd"/>
+              <path id="Coat-Back" d="M0,1.243,4.726,0q15.1,29.871,48.191,52.469l-13.9,20.259C16.332,50.514,1.477,26.847,0,1.243Z" transform="translate(52.208 1.732) rotate(5)" fill="#191847" fill-rule="evenodd"/>
+              <path id="Shirt" d="M90,63.5h42.891Q117.986,27.26,117.986,1.928L105.048,0C94.879,16.353,92.008,36.488,90,63.5Z" transform="translate(-58.897 0)" fill="#dde3e9" fill-rule="evenodd"/>
+              <path id="Coat-Front" d="M89.269.009,89.275,0h.844q1.516.052,4.618.188l3.126,8.934q.5,16.339,5.794,65.857H75.541q.111,3.42.365,6.9H55Q59.691,28.963,89.259,0Z" transform="translate(-43.393 0)" fill="#2f3676" fill-rule="evenodd"/>
+              <path id="Shade" d="M93.666,82.233q1.2,21.319,6.01,29.393h-7.86A146.968,146.968,0,0,1,93.666,82.233Z" transform="translate(-59.661 -36.427)" fill="rgba(0,0,0,0.1)" fill-rule="evenodd"/>
+              <path id="Light" d="M103.111,98.874l13.864-6.445v6.445Z" transform="translate(-64.705 -40.944)" fill="rgba(255,255,255,0.2)" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2118" data-name="Group 2118" transform="translate(-1884.676 13.637)">
+          <path id="Path_798" data-name="Path 798" d="M219.433,168.2a15.081,15.081,0,0,0-6.055,8.353c-1.7,5.7,2.46,18.226,10.691,18.8,14.191.949,15.7-6.55,25.354-1.614s19.016,1.519,20.435-2.563,7.663-21.453-9.744-22.687C240.814,167.911,219.433,168.2,219.433,168.2Z" transform="translate(-203.157 -58.556)" fill="#006163"/>
+          <g id="Group_2115" data-name="Group 2115">
+            <path id="Path_799" data-name="Path 799" d="M222.1,101.015s2.081-13,9.366-14.334S248.874,88.1,248.874,88.1,256.537,94.749,259,99.97C261.361,105.1,227.4,110.317,222.1,101.015Z" transform="translate(-203.648 -54.406)" fill="#707070"/>
+            <g id="Group_2114" data-name="Group 2114" transform="translate(15.618)">
+              <path id="Path_800" data-name="Path 800" d="M230.844,62s7.379,1.424,9.555-1.9c2.271-3.322,4.352-1.614,7.1,1.993,2.838,3.607,7.569,11.391,8.136,17.561a9.552,9.552,0,0,1-.567,5.885,4.355,4.355,0,0,1-3.122,1.424c-2.081.095-4.446,3.227-4.446,8.354,0,6.36-3.122,7.025-3.122,7.025s-12.015,4.177-12.3-6.55c-.189-6.36.473-7.5-.189-9.4s-4.92-1.9-7.285-5.411C222.329,77.666,215.423,63.522,230.844,62Z" transform="translate(-219.211 -52.985)" fill="#fabb86"/>
+              <path id="Path_801" data-name="Path 801" d="M246.914,54.314s1.23,4.272,0,6.74c-.568,1.234-4.825,4.746-8.514,4.651a18.062,18.062,0,0,0-6.528,1.044h4.163s1.135,2.943,1.7,4.936-1.7,2.183-1.324,3.892,2.649,4.841,2.649,4.841l-2.176,1.139s-2.46-5.316-4.163-5.7c-2.744-.57-4.73,2.278-2.649,4.556,2.46,2.563,3.122,3.038,2.081,9.683-.473-2.468-7.285-4.651-11.069-11.771-3.784-7.025-1.514-12.53,1.514-15.188-.378-4.177,4.541-7.4,7.852-7.025S236.7,52.7,236.7,52.7a5.012,5.012,0,0,1-1.7,2.943c1.419.19,2.649-1.614,2.649-1.993a2.371,2.371,0,0,1-.379,1.993s2.649,0,3.406-1.424a2.065,2.065,0,0,1-.757,1.709,3.3,3.3,0,0,0,3.311-1.329,2.1,2.1,0,0,1-1.419,2.183c2.176.38,3.217-2.088,3.311-2.658a5.449,5.449,0,0,1-.662,3.417C245.684,57.826,246.631,55.833,246.914,54.314Z" transform="translate(-219.105 -52.7)" fill="#7f3f22"/>
+            </g>
+            <path id="Path_802" data-name="Path 802" d="M272.8,134.31c-2.744-9.777-8.42-30.661-10.312-31.705-1.987-1.044-5.771-1.234-9.839-2.468a10.976,10.976,0,0,1-5.96-4.556c-1.041,7.214-4.447,8.638-7.758,8.828-3.973-.38-6.812-2.088-7.852-9.208a10.4,10.4,0,0,1-5.866,4.936c-4.068,1.234-7.852,1.519-9.839,2.468-1.987,1.044-7.663,21.928-10.312,31.705-2.744,9.777-3.784,12.056,0,13.764,2.46,1.139,8.893,1.9,12.961,2.373-.095,5.7-.095,10.727.095,13.385,13.056,5.6,29.517,7.594,41.532,0,.189-2.563.189-7.689.095-13.385,4.068-.475,10.5-1.234,12.961-2.373C276.487,146.46,275.446,144.087,272.8,134.31Zm-54.588,7.309a28.511,28.511,0,0,1-4.446-.57c-.851-.38,5.014-16.043,5.014-16.043S218.494,132.791,218.21,141.619ZM264,140.955a28.547,28.547,0,0,1-4.447.57c-.189-8.828-.568-16.612-.568-16.612S264.85,140.575,264,140.955Z" transform="translate(-202.596 -54.856)" fill="#7c80bc"/>
+            <path id="Path_803" data-name="Path 803" d="M275.386,134.416c-2.744-9.777-8.42-30.661-10.312-31.705a57.95,57.95,0,0,0-9.271-4.082c-.473-.19-1.892-1.139-2.271-1.329-5.014,23.542-2.933,69.2.946,75.087,4.73-2.658,7.852-6.36,14.1-5.885,1.324.095-6.055-8.733-6.244-16.043,4.068-.475,10.5-1.234,12.961-2.373C279.075,146.567,278.035,144.194,275.386,134.416Zm-8.8,6.645a28.515,28.515,0,0,1-4.446.57c-.189-8.828-.568-16.612-.568-16.612S267.439,140.682,266.587,141.061Z" transform="translate(-205.184 -54.963)" fill="#939393"/>
+            <path id="Path_804" data-name="Path 804" d="M256.171,97.4c-.473-.19-2.271.19-2.649,0a182.57,182.57,0,0,0-3.122,21.928,67.7,67.7,0,0,1,10.123-18.8C259.1,99.865,257.874,97.967,256.171,97.4Z" transform="translate(-205.175 -54.965)" fill="#707070"/>
+            <path id="Path_805" data-name="Path 805" d="M228.243,96.7a19.945,19.945,0,0,1-3.879,2.658,48.892,48.892,0,0,0-8.893,3.417c-1.987,1.044-7.663,21.928-10.312,31.705-2.744,9.777-3.784,12.056,0,13.764,2.46,1.139,8.893,1.9,12.961,2.373-.095,7.309-7.1,16.517-4.92,21.358,0,0,1.324-6.93,17.786,0C236,158.877,235.812,120.432,228.243,96.7Zm-10.028,45a28.531,28.531,0,0,1-4.446-.57c-.851-.38,5.014-16.043,5.014-16.043S218.5,132.867,218.215,141.7Z" transform="translate(-202.601 -54.932)" fill="#939393"/>
+            <path id="Path_806" data-name="Path 806" d="M229.312,96.7c-.852.664-2.933.19-4.163.57-1.041.285-1.8,2.658-2.649,2.943a61.444,61.444,0,0,1,11.353,15.948A138.183,138.183,0,0,0,229.312,96.7Z" transform="translate(-203.67 -54.932)" fill="#707070"/>
+          </g>
+          <g id="Group_2116" data-name="Group 2116" transform="translate(9.731 112.988)">
+            <path id="Path_807" data-name="Path 807" d="M242.036,242.991s13.245-23.922,19.678-34.174,11.826-20.409,11.637-27.529-1.8-8.448-4.73-9.4c-2.933-.854-9.555,1.709-12.488,5.791-2.933,4.177-8.7,22.5-14.758,39.964L233.9,239.289C233.805,239.479,236.454,242.991,242.036,242.991Z" transform="translate(-214.015 -171.727)" fill="#006a72"/>
+            <path id="Path_808" data-name="Path 808" d="M234,238.2s-5.2,9.3-9.745,12.53c-4.541,3.132-9.271,4.746-11.353,8.353-.662,2.468,17.975,1.8,24.408-1.519,2.933-1.519,4.446-8.449,5.866-14.239C244.592,237.439,234,238.2,234,238.2Z" transform="translate(-212.882 -175.098)" fill="#002e6b"/>
+            <path id="Path_809" data-name="Path 809" d="M248.156,236.691s-9.366,1.044-10.974-5.79a62.026,62.026,0,0,0-5.582,6.455s4.257,7.025,14.38,6.645A36.176,36.176,0,0,0,248.156,236.691Z" transform="translate(-213.892 -174.729)" fill="#494949"/>
+          </g>
+          <g id="Group_2117" data-name="Group 2117" transform="translate(9.648 112.988)">
+            <path id="Path_810" data-name="Path 810" d="M244.114,242.991s-13.245-23.922-19.678-34.174S212.61,188.408,212.8,181.289s1.8-8.448,4.73-9.4c2.933-.854,9.555,1.709,12.488,5.791,2.933,4.177,8.7,22.5,14.759,39.964l7.474,21.643C252.345,239.479,249.6,242.991,244.114,242.991Z" transform="translate(-212.795 -171.727)" fill="#007686"/>
+            <path id="Path_811" data-name="Path 811" d="M252.669,238.2s5.2,9.3,9.744,12.53c4.541,3.132,9.271,4.746,11.353,8.353.662,2.468-17.975,1.8-24.408-1.519-2.933-1.519-4.446-8.449-5.866-14.239C242.073,237.439,252.669,238.2,252.669,238.2Z" transform="translate(-214.444 -175.098)" fill="#002e6b"/>
+            <path id="Path_812" data-name="Path 812" d="M239.792,235.6s8.7,3.133,10.312-3.8c2.46,0,5.771,5.506,5.771,5.506s-4.257,7.025-14.38,6.645C238.941,240.344,239.792,235.6,239.792,235.6Z" transform="translate(-214.244 -174.775)" fill="#595959"/>
+          </g>
+        </g>
+        <g id="Group_160513" data-name="Group 160513" transform="translate(-1663.428 39.25)">
+          <g id="Accessories_Shoe_Flat-Sneaker-3" data-name="Accessories/Shoe/Flat-Sneaker" transform="translate(32.308 182.705) rotate(180)">
+            <path id="shoe-3" data-name="shoe" d="M.935,8.132A11.96,11.96,0,0,1,0,4.4,27.95,27.95,0,0,1,.5,0H31.919q1.225,4.049-1.414,4.371t-4.384.583l-14.6,6.51a.557.557,0,0,1-.736-.282l-.006-.014L9.839,8.891a10.017,10.017,0,0,0-3.97-1.14,8.99,8.99,0,0,0-3.427,1h0A1.114,1.114,0,0,1,.965,8.2Q.949,8.169.935,8.132Z" transform="translate(0 0)" fill="#002e6b" fill-rule="evenodd"/>
+          </g>
+          <g id="Symbols" transform="translate(69.628 0)">
+            <g id="Head_Front_Caesar" data-name="Head/Front/Caesar" transform="translate(0)">
+              <g id="Head-2" data-name="Head" transform="translate(0 1.114)">
+                <path id="Path_83165" data-name="Path 83165" d="M18.793,19.212A15.09,15.09,0,0,0,22.806,8.37C21.97-3.551,5.376-.929,2.148,5.088S-.7,26.366,3.476,27.441c1.664.429,5.208-.622,8.815-2.8L10.026,40.663H23.4Z" transform="translate(0 0)" fill="#b28b67" fill-rule="evenodd"/>
+              </g>
+              <path id="Combined-Shape" d="M64.405,42.852a2.68,2.68,0,0,1,1.521-.483,2.869,2.869,0,0,1,2.785,2.785,3.307,3.307,0,0,1-1.686,3.09c.53,1.035,1.062,1.787,1.686,1.923,2.407-.244,5.57-6.227,5.57-11.141C74.281,33.649,70,29,62.026,29,54.858,29,52.14,31.956,52,34.57c3.072.844,8.439,1.169,16.154,1.114v.557l-6.684.557-1.114,3.342C62.128,40.008,63.394,41.224,64.405,42.852Z" transform="translate(-49.772 -29)" fill="#191847" fill-rule="evenodd"/>
+            </g>
+          </g>
+          <path id="Skin-2" data-name="Skin" d="M37.809,78.583c4.588,2.755,12.286-.785,12.281-4.725C50.074,62.069,39.315,6.506,38.753,2.994s-6.579-4.44-6.929-.011c-.558,7.046-1.594,31.441-.557,42.732.428,4.661.888,9.1,1.342,13.059Q24.14,43.481,6.415,14.983L0,17.914q7.556,24.9,12.392,35.151c5.52,11.707,10.7,21.732,12.875,25.264C28.693,83.884,34.657,81.945,37.809,78.583Z" transform="translate(61.787 180.383) rotate(180)" fill="#b28b67" fill-rule="evenodd"/>
+          <path id="LegLower" d="M0,0,2.851,56.544c2.054,9.777,19.444,5.24,19.437,0-.016-11.9-7.162-52.988-7.167-56.532Z" transform="translate(61.329 153.252) rotate(160)" fill="#1f28cf" fill-rule="evenodd"/>
+          <g id="Accessories_Shoe_Flat-Sneaker-4" data-name="Accessories/Shoe/Flat-Sneaker" transform="matrix(-0.866, 0.5, -0.5, -0.866, 67.427, 165.755)">
+            <path id="shoe-4" data-name="shoe" d="M.935,8.132A11.961,11.961,0,0,1,0,4.4,27.95,27.95,0,0,1,.5,0H31.919q1.225,4.049-1.414,4.371t-4.384.583l-14.6,6.51a.557.557,0,0,1-.736-.282l-.006-.014L9.839,8.891a10.017,10.017,0,0,0-3.97-1.14,8.99,8.99,0,0,0-3.427,1h0A1.114,1.114,0,0,1,.965,8.2Q.949,8.169.935,8.132Z" transform="translate(0 0)" fill="#002e6b" fill-rule="evenodd"/>
+          </g>
+          <path id="Leg-and-Butt" d="M95.123,52.588c0-14.8-7.027-49.317-7.032-52.576L72.97,0q3.32,46.2,2.355,46.7c-.966.5-39.577-3.855-51.158-3.855C7.469,42.844.56,53.375,0,72.882H33.08c6.736-.721,41.868-7.807,54.915-10.243C93.58,61.6,95.123,56.664,95.123,52.588Z" transform="translate(105.278 163.12) rotate(180)" fill="#2b44ff" fill-rule="evenodd"/>
+          <g id="Body_Pointing-Forward" data-name="Body/Pointing-Forward" transform="translate(112.395 112.426) rotate(180)">
+            <path id="Skin-3" data-name="Skin" d="M0,17.457,19.334,28.046a47.829,47.829,0,0,0,9.5,8.9c.954.4,2.621.639,1.062-2.129s-3.075-5.749-2.281-6.6,2.776.339,3.724-1.078q.948-1.417-10.153-4.476L7.14,9.794ZM30.281,8.523l8.493,4.665q1.787,6.8,4.273,6.844c1.273.592-.944-5.137,1.469-4.64s8.3,4.878,9.319,3.988c1.5-1.316.163-5.357-1.415-7.367C49.472,8.257,47.031,6.972,41,5.289A33.174,33.174,0,0,1,30.765,0Z" transform="translate(45.35 39.433)" fill="#997659" fill-rule="evenodd"/>
+            <path id="Sleeve" d="M3.066,13.569a47.508,47.508,0,0,1,26.317,3.545L31.8,8.187C24.2,2.712,14.126-1.179,6.091.326A7.382,7.382,0,0,0,3.066,13.569Z" transform="translate(35.028 45.368) rotate(9)" fill="#2026a2" fill-rule="evenodd"/>
+            <path id="Clothes" d="M45.052,45.716q10.784-2.69,36.169,6.343,6.3-13.026,5.821-18.573C72.525,25.9,60.083,22.522,49.831,22.3A35.276,35.276,0,0,0,46.93,5.14c-5.113-10.872-35.053-.8-45.12-2.785C-4.494,22.828,7.695,31.148,7.7,44.248c.011,14.346,11.53,36.428,13.225,36.428H36.385C37.238,69.72,41.53,57.645,45.052,45.716Z" transform="translate(0 0)" fill="#1f28cf" fill-rule="evenodd"/>
+          </g>
+          <g id="Group_2138" data-name="Group 2138" transform="translate(40.204 30.546)">
+            <g id="Group_2137" data-name="Group 2137" transform="translate(1.782 91.01)">
+              <path id="Path_848" data-name="Path 848" d="M138.905,262.613s-31.6,4.469-32.344,4.578-1.028-3.161,2.711-4.578,26.642-6.213,26.642-6.213Z" transform="translate(-106.1 -206.045)" fill="#353535"/>
+              <path id="Path_849" data-name="Path 849" d="M70.962,262.613s31.5,4.469,32.344,4.578,1.028-3.161-2.711-4.578S73.953,256.4,73.953,256.4Z" transform="translate(-38.157 -206.045)" fill="#353535"/>
+              <rect id="Rectangle_430" data-name="Rectangle 430" width="8.226" height="57.222" transform="translate(28.692)" fill="#545454"/>
+            </g>
+            <rect id="Rectangle_431" data-name="Rectangle 431" width="12.433" height="9.809" transform="translate(28.324 93.953)" fill="#353535"/>
+            <path id="Path_850" data-name="Path 850" d="M48.7,223.7l67.96-.218,20.285-95.7L133.3,126.7l-20.192,91.555-64.314.109Z" transform="translate(-48.7 -126.7)" fill="#353535"/>
+            <path id="Path_851" data-name="Path 851" d="M76.7,127.714s-9.909-2.943-11.778,15.7S58.1,197.688,54.266,203.356c-3.926,5.668,1.122,13.188,2.524,14.823C59.688,204.882,76.7,127.714,76.7,127.714Z" transform="translate(7.711 -126.624)" fill="#515feb"/>
+            <path id="Path_852" data-name="Path 852" d="M74.119,211.484h62.631s-.654-8.283-7.385-8.283-22.061,5.777-28.418,4.469C94.4,206.47,73.372,199.167,74.119,211.484Z" transform="translate(-72.25 -119.819)" fill="#515feb"/>
+          </g>
+        </g>
+        <g id="Group_2125" data-name="Group 2125" transform="translate(-1782.635 87.11)">
+          <path id="Path_825" data-name="Path 825" d="M266.205,150.622a1.6,1.6,0,0,1-1.6,1.609H211.7a1.6,1.6,0,0,1-1.6-1.609V116.308a1.6,1.6,0,0,1,1.6-1.608h52.9a1.6,1.6,0,0,1,1.6,1.608Z" transform="translate(-210.1 -114.7)" fill="#dbdbdb"/>
+          <path id="Path_826" data-name="Path 826" d="M266.205,159.1c0,.179-.356.358-.712.358h-54.68c-.356,0-.712-.179-.712-.358v-2.145c0-.179.356-.357.712-.357h54.68c.356,0,.712.179.712.357Z" transform="translate(-210.1 -119.159)" fill="#515151"/>
+        </g>
+        <g id="Group_2135" data-name="Group 2135" transform="translate(-1869.08 93.998)">
+          <g id="Group_2134" data-name="Group 2134" transform="translate(0)">
+            <path id="Path_845" data-name="Path 845" d="M383,152.331a1.219,1.219,0,0,1-1.247,1.251h-43.1a1.22,1.22,0,0,1-1.247-1.251v-27.88a1.22,1.22,0,0,1,1.247-1.251h43.1A1.219,1.219,0,0,1,383,124.451Z" transform="translate(-337.4 -123.2)" fill="#dbdbdb"/>
+            <path id="Path_846" data-name="Path 846" d="M383,159.166c0,.179-.267.268-.534.268H337.934q-.534,0-.534-.268v-1.7c0-.179.267-.268.534-.268h44.528q.534,0,.534.268Z" transform="translate(-337.4 -126.818)" fill="#515151"/>
+          </g>
+        </g>
+        <g id="Group_2144" data-name="Group 2144" transform="translate(-1719.748 111.432)">
+          <path id="Path_868" data-name="Path 868" d="M288.9,145.8v8.845a8.182,8.182,0,0,0,3.5,6.8h9.719a8.182,8.182,0,0,0,3.5-6.8V145.8Z" transform="translate(-284.606 -145.8)" fill="#dbdbdb"/>
+          <path id="Path_869" data-name="Path 869" d="M310.981,159.994a.774.774,0,0,1-.791.794h-24.3a.774.774,0,0,1-.791-.794h0a.774.774,0,0,1,.791-.794h24.3a.774.774,0,0,1,.791.794Z" transform="translate(-285.1 -144.004)" fill="#a3a3a3"/>
+          <g id="Group_2143" data-name="Group 2143" transform="translate(19.326 2.608)">
+            <path id="Path_870" data-name="Path 870" d="M302.991,158.306H302.2l.226-1.134a7.513,7.513,0,0,0,3.5-.567c1.243-.454,2.034-4.309,1.582-6.464-.113-.794-.339-.907-.339-.907h-4.747V148.1h4.747c.452,0,1.243.227,1.469,1.814.452,2.155-.226,6.917-2.374,7.711A6.72,6.72,0,0,1,302.991,158.306Z" transform="translate(-302.2 -148.1)" fill="#dbdbdb"/>
+          </g>
+        </g>
+        <g id="Group_2146" data-name="Group 2146" transform="translate(-1807.571 111.432)">
+          <path id="Path_871" data-name="Path 871" d="M185.9,145.9v8.845a8.181,8.181,0,0,0,3.5,6.8h9.719a8.181,8.181,0,0,0,3.5-6.8V145.9Z" transform="translate(-181.606 -145.9)" fill="#dbdbdb"/>
+          <path id="Path_872" data-name="Path 872" d="M207.981,160.094a.774.774,0,0,1-.791.794h-24.3a.774.774,0,0,1-.791-.794h0a.774.774,0,0,1,.791-.794h24.3a.774.774,0,0,1,.791.794Z" transform="translate(-182.1 -144.104)" fill="#a3a3a3"/>
+          <g id="Group_2145" data-name="Group 2145" transform="translate(19.326 2.722)">
+            <path id="Path_873" data-name="Path 873" d="M199.991,158.506H199.2l.226-1.134a7.513,7.513,0,0,0,3.5-.567c1.243-.454,2.034-4.309,1.582-6.464-.113-.794-.339-.907-.339-.907h-4.747V148.3h4.747c.452,0,1.243.227,1.469,1.814.452,2.155-.226,6.917-2.373,7.711A8.762,8.762,0,0,1,199.991,158.506Z" transform="translate(-199.2 -148.3)" fill="#dbdbdb"/>
+          </g>
+        </g>
+        <g id="Group_160514" data-name="Group 160514" transform="translate(-1704.043 65.812)">
+          <rect id="Rectangle_426" data-name="Rectangle 426" width="58.494" height="1.413" transform="translate(20.688 57.104)" fill="#303030"/>
+          <path id="Path_815" data-name="Path 815" d="M196.593,112.688a1.064,1.064,0,0,0-1.408-.771h0a1.069,1.069,0,0,0-.768,1.413l17.408,57.023a1.064,1.064,0,0,0,1.408.771h0a1.069,1.069,0,0,0,.768-1.413Z" transform="translate(-194.337 -111.837)" fill="#8c8c8c"/>
+          <path id="Path_816" data-name="Path 816" d="M208.122,157v.514c0,1.669-1.024,3.082-2.432,3.082H148.732c-1.28,0-2.432-1.413-2.432-3.082V157Z" transform="translate(-126.892 -98.997)" fill="#515151"/>
+        </g>
+        <g id="Group_160511" data-name="Group 160511" transform="translate(-1877.747 128.215)">
+          <g id="Group_2136" data-name="Group 2136" transform="translate(27.518 3.753)">
+            <rect id="Rectangle_429" data-name="Rectangle 429" width="5.611" height="86.767" transform="translate(3.918)" fill="#d67838"/>
+            <path id="Path_847" data-name="Path 847" d="M174.737,261.825a.61.61,0,0,1-.623.625h-12.29a.61.61,0,0,1-.623-.625h0a.61.61,0,0,1,.623-.625h12.29a.61.61,0,0,1,.623.625Z" transform="translate(-161.2 -175.059)" fill="#d67838"/>
+          </g>
+          <g id="Group_2147" data-name="Group 2147" transform="translate(244.281 3.753)">
+            <path id="Path_874" data-name="Path 874" d="M418.137,261.825a.61.61,0,0,1-.624.625h-12.29a.61.61,0,0,1-.624-.625h0a.61.61,0,0,1,.624-.625h12.29a.61.61,0,0,1,.624.625Z" transform="translate(-404.6 -175.059)" fill="#d67838"/>
+            <rect id="Rectangle_432" data-name="Rectangle 432" width="5.611" height="86.767" transform="translate(3.918)" fill="#d67838"/>
+          </g>
+          <rect id="Rectangle_433" data-name="Rectangle 433" width="285.87" height="6.97" transform="translate(0 0)" fill="#ff9a55"/>
+        </g>
+      </g>
+      <text id="Budget_Owners-6" data-name="Budget Owners" transform="translate(214 595.063)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-69.831" y="0">Budget Owners</tspan></text>
+      <text id="Budget_Permissions" data-name="Budget Permissions" transform="translate(214 894.063)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-90.63" y="0">Budget Permissions</tspan></text>
+      <text id="When_you_re_assigned_a_budget_you_become_a_budget_owner_and_as_such_you_can:" data-name="When you&apos;re assigned a budget you become
+a budget owner and as such, you can:" transform="translate(12 631.063)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">When you&apos;re assigned a budget you become</tspan><tspan x="0" y="20">a budget owner and as such, you can:</tspan></text>
+      <text id="P.S:_As_a_budget_owner_you_can_invite_new_users_to_the_company_s_Buga_account_with_Employee_access_role" data-name="P.S: As a budget owner you can invite new
+users to the company&apos;s Buga account with
+Employee access role" transform="translate(26 819.063)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">P.S: As a budget owner you can invite new</tspan><tspan x="0" y="20">users to the company&apos;s Buga account with</tspan><tspan x="0" y="40">Employee access role</tspan></text>
+      <g id="Group_162091" data-name="Group 162091" transform="translate(0 273.063)">
+        <text id="Add_your_team_as_budget_members" data-name="Add your team as budget members" transform="translate(63 415)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Add your team as budget members</tspan></text>
+        <g id="Icon_feather-check-circle" data-name="Icon feather-check-circle" transform="translate(23.083 391.093)">
+          <path id="Path_83383" data-name="Path 83383" d="M32.083,16.158V17.5A14.583,14.583,0,1,1,23.435,4.171" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.917"/>
+          <path id="Path_83384" data-name="Path 83384" d="M32.083,5.833,17.5,20.431l-4.375-4.375" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.917"/>
+        </g>
+      </g>
+      <g id="Group_162092" data-name="Group 162092" transform="translate(0 263.063)">
+        <text id="Issue_cards_to_yourself_and_Budget_members" data-name="Issue cards to yourself and Budget
+members" transform="translate(63 462)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Issue cards to yourself and Budget</tspan><tspan x="0" y="20">members</tspan></text>
+        <g id="Icon_feather-check-circle-2" data-name="Icon feather-check-circle" transform="translate(23.083 448.093)">
+          <path id="Path_83383-2" data-name="Path 83383" d="M32.083,16.158V17.5A14.583,14.583,0,1,1,23.435,4.171" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.917"/>
+          <path id="Path_83384-2" data-name="Path 83384" d="M32.083,5.833,17.5,20.431l-4.375-4.375" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.917"/>
+        </g>
+      </g>
+      <g id="Group_162093" data-name="Group 162093" transform="translate(0 252.625)">
+        <text id="Make_transfers_within_the_budget_limit" data-name="Make transfers within the budget limit" transform="translate(63 529)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Make transfers within the budget limit</tspan></text>
+        <g id="Icon_feather-check-circle-3" data-name="Icon feather-check-circle" transform="translate(23.083 505.093)">
+          <path id="Path_83383-3" data-name="Path 83383" d="M32.083,16.158V17.5A14.583,14.583,0,1,1,23.435,4.171" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.917"/>
+          <path id="Path_83384-3" data-name="Path 83384" d="M32.083,5.833,17.5,20.431l-4.375-4.375" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.917"/>
+        </g>
+      </g>
+      <g id="Group_162096" data-name="Group 162096" transform="translate(56 184.063)">
+        <text id="Budget_owner" data-name="Budget
+owner" transform="translate(171 813)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Budget</tspan><tspan x="0" y="20">owner</tspan></text>
+        <g id="Group_162094" data-name="Group 162094" transform="translate(0 -1)">
+          <circle id="Ellipse_9431" data-name="Ellipse 9431" cx="25.5" cy="25.5" r="25.5" transform="translate(178 740)" fill="#002d6a" opacity="0.2"/>
+          <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M15.313,17.5a8.75,8.75,0,1,0-8.75-8.75A8.749,8.749,0,0,0,15.313,17.5Zm6.125,2.188H20.3a11.9,11.9,0,0,1-9.967,0H9.188A9.19,9.19,0,0,0,0,28.875v2.844A3.282,3.282,0,0,0,3.281,35H27.344a3.282,3.282,0,0,0,3.281-3.281V28.875A9.19,9.19,0,0,0,21.438,19.688Z" transform="translate(188 748)" fill="#002d6a"/>
+        </g>
+      </g>
+      <g id="Group_162097" data-name="Group 162097" transform="translate(16 184.063)">
+        <text id="Budget_member" data-name="Budget
+member" transform="translate(298 813)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Budget</tspan><tspan x="0" y="20">member</tspan></text>
+        <g id="Group_162095" data-name="Group 162095" transform="translate(2 1)">
+          <circle id="Ellipse_9432" data-name="Ellipse 9432" cx="25.5" cy="25.5" r="25.5" transform="translate(310 738)" fill="#01ffff" opacity="0.2"/>
+          <path id="Icon_awesome-users" data-name="Icon awesome-users" d="M6.563,15.313a4.375,4.375,0,1,0-4.375-4.375A4.379,4.379,0,0,0,6.563,15.313Zm30.625,0a4.375,4.375,0,1,0-4.375-4.375A4.379,4.379,0,0,0,37.188,15.313ZM39.375,17.5H35a4.362,4.362,0,0,0-3.083,1.271,10,10,0,0,1,5.134,7.479h4.512a2.185,2.185,0,0,0,2.188-2.187V21.875A4.379,4.379,0,0,0,39.375,17.5Zm-17.5,0a7.656,7.656,0,1,0-7.656-7.656A7.652,7.652,0,0,0,21.875,17.5Zm5.25,2.188h-.567a10.571,10.571,0,0,1-9.365,0h-.567A7.877,7.877,0,0,0,8.75,27.563v1.969a3.282,3.282,0,0,0,3.281,3.281H31.719A3.282,3.282,0,0,0,35,29.531V27.563A7.877,7.877,0,0,0,27.125,19.688Zm-15.292-.916A4.362,4.362,0,0,0,8.75,17.5H4.375A4.379,4.379,0,0,0,0,21.875v2.188A2.185,2.185,0,0,0,2.188,26.25h4.5A10.024,10.024,0,0,1,11.833,18.771Z" transform="translate(314 745.813)" fill="#01ffff"/>
+        </g>
+      </g>
+      <g id="Group_162104" data-name="Group 162104" transform="translate(-28 200.062)">
+        <text id="Add_remove_budget_member" data-name="Add/remove budget
+member" transform="translate(64 866)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Add/remove budget</tspan><tspan x="0" y="20">member</tspan></text>
+        <g id="Group_162103" data-name="Group 162103" transform="translate(0 1)">
+          <path id="Icon_metro-cancel" data-name="Icon metro-cancel" d="M17.5,1.874a15,15,0,1,0,15,15,15,15,0,0,0-15-15Zm0,27.18A12.184,12.184,0,1,1,29.679,16.87,12.184,12.184,0,0,1,17.5,29.054ZM22.181,9.372,17.5,14.059,12.809,9.372,10,12.184l4.686,4.686L10,21.557l2.812,2.812L17.5,19.682l4.686,4.686,2.812-2.812L20.307,16.87l4.686-4.686Z" transform="translate(360.505 852.126)" fill="#e2070a"/>
+          <g id="Icon_feather-check-circle-4" data-name="Icon feather-check-circle" transform="translate(272.5 853.508)">
+            <path id="Path_83390" data-name="Path 83390" d="M27.5,13.85V15A12.5,12.5,0,1,1,20.088,3.575" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+            <path id="Path_83391" data-name="Path 83391" d="M27.5,5,15,17.513l-3.75-3.75" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_162105" data-name="Group 162105" transform="translate(-28 207.062)">
+        <text id="View_all_budget_details" data-name="View all budget
+details" transform="translate(64 911)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">View all budget</tspan><tspan x="0" y="20">details</tspan></text>
+        <g id="Group_162100" data-name="Group 162100" transform="translate(0 8.996)">
+          <path id="Icon_metro-cancel-2" data-name="Icon metro-cancel" d="M17.5,1.874a15,15,0,1,0,15,15,15,15,0,0,0-15-15Zm0,27.18A12.184,12.184,0,1,1,29.679,16.87,12.184,12.184,0,0,1,17.5,29.054ZM22.181,9.372,17.5,14.059,12.809,9.372,10,12.184l4.686,4.686L10,21.557l2.812,2.812L17.5,19.682l4.686,4.686,2.812-2.812L20.307,16.87l4.686-4.686Z" transform="translate(360.505 888.13)" fill="#e2070a"/>
+          <g id="Icon_feather-check-circle-5" data-name="Icon feather-check-circle" transform="translate(272.5 889.512)">
+            <path id="Path_83390-2" data-name="Path 83390" d="M27.5,13.85V15A12.5,12.5,0,1,1,20.088,3.575" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+            <path id="Path_83391-2" data-name="Path 83391" d="M27.5,5,15,17.513l-3.75-3.75" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_162106" data-name="Group 162106" transform="translate(-28 212.062)">
+        <text id="Make_transfers" data-name="Make transfers" transform="translate(64 959)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Make transfers</tspan></text>
+        <g id="Group_162101" data-name="Group 162101" transform="translate(0 47.996)">
+          <path id="Icon_metro-cancel-3" data-name="Icon metro-cancel" d="M17.5,1.874a15,15,0,1,0,15,15,15,15,0,0,0-15-15Zm0,27.18A12.184,12.184,0,1,1,29.679,16.87,12.184,12.184,0,0,1,17.5,29.054ZM22.181,9.372,17.5,14.059,12.809,9.372,10,12.184l4.686,4.686L10,21.557l2.812,2.812L17.5,19.682l4.686,4.686,2.812-2.812L20.307,16.87l4.686-4.686Z" transform="translate(360.505 888.13)" fill="#e2070a"/>
+          <g id="Icon_feather-check-circle-6" data-name="Icon feather-check-circle" transform="translate(272.5 889.512)">
+            <path id="Path_83390-3" data-name="Path 83390" d="M27.5,13.85V15A12.5,12.5,0,1,1,20.088,3.575" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+            <path id="Path_83391-3" data-name="Path 83391" d="M27.5,5,15,17.513l-3.75-3.75" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_162108" data-name="Group 162108" transform="translate(-28 204.062)">
+        <text id="Issue_cards" data-name="Issue cards" transform="translate(64 1005)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Issue cards</tspan></text>
+        <g id="Group_162102" data-name="Group 162102" transform="translate(0 92.996)">
+          <path id="Icon_metro-cancel-4" data-name="Icon metro-cancel" d="M17.5,1.874a15,15,0,1,0,15,15,15,15,0,0,0-15-15Zm0,27.18A12.184,12.184,0,1,1,29.679,16.87,12.184,12.184,0,0,1,17.5,29.054ZM22.181,9.372,17.5,14.059,12.809,9.372,10,12.184l4.686,4.686L10,21.557l2.812,2.812L17.5,19.682l4.686,4.686,2.812-2.812L20.307,16.87l4.686-4.686Z" transform="translate(360.505 888.13)" fill="#e2070a"/>
+          <g id="Icon_feather-check-circle-7" data-name="Icon feather-check-circle" transform="translate(272.5 889.512)">
+            <path id="Path_83390-4" data-name="Path 83390" d="M27.5,13.85V15A12.5,12.5,0,1,1,20.088,3.575" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+            <path id="Path_83391-4" data-name="Path 83391" d="M27.5,5,15,17.513l-3.75-3.75" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_162110" data-name="Group 162110" transform="translate(-28 200.062)">
+        <text id="Spend_on_cards" data-name="Spend on cards" transform="translate(64 1042)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spend on cards</tspan></text>
+        <g id="Group_162109" data-name="Group 162109" transform="translate(0 -15)">
+          <g id="Icon_feather-check-circle-8" data-name="Icon feather-check-circle" transform="translate(272.5 1035.508)">
+            <path id="Path_83390-5" data-name="Path 83390" d="M27.5,13.85V15A12.5,12.5,0,1,1,20.088,3.575" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+            <path id="Path_83391-5" data-name="Path 83391" d="M27.5,5,15,17.513l-3.75-3.75" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+          </g>
+          <g id="Icon_feather-check-circle-9" data-name="Icon feather-check-circle" transform="translate(363.5 1035.508)">
+            <path id="Path_83390-6" data-name="Path 83390" d="M27.5,13.85V15A12.5,12.5,0,1,1,20.088,3.575" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+            <path id="Path_83391-6" data-name="Path 83391" d="M27.5,5,15,17.513l-3.75-3.75" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_162113" data-name="Group 162113" transform="translate(0 119.563)">
+        <rect id="Rectangle_148001" data-name="Rectangle 148001" width="354" height="112" rx="5" transform="translate(29 1177)" fill="#01ffff" opacity="0.2"/>
+        <text id="Only_admins_will_be_able_to" data-name="Only admins will be able to" transform="translate(82 1201)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Only admins will be able to</tspan></text>
+        <g id="Group_162111" data-name="Group 162111" transform="translate(0 1)">
+          <text id="Add_remove_Budget_owners" data-name="Add/remove Budget owners" transform="translate(59 1234)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Add/remove Budget owners</tspan></text>
+          <g id="Icon_feather-check-circle-10" data-name="Icon feather-check-circle" transform="translate(322.5 1213.508)">
+            <path id="Path_83390-7" data-name="Path 83390" d="M27.5,13.85V15A12.5,12.5,0,1,1,20.088,3.575" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+            <path id="Path_83391-7" data-name="Path 83391" d="M27.5,5,15,17.513l-3.75-3.75" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+          </g>
+        </g>
+        <g id="Group_162112" data-name="Group 162112">
+          <text id="Edit_deactivate_budgets" data-name="Edit/deactivate budgets" transform="translate(59 1270)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Edit/deactivate budgets</tspan></text>
+          <g id="Icon_feather-check-circle-11" data-name="Icon feather-check-circle" transform="translate(322.5 1249.508)">
+            <path id="Path_83390-8" data-name="Path 83390" d="M27.5,13.85V15A12.5,12.5,0,1,1,20.088,3.575" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+            <path id="Path_83391-8" data-name="Path 83391" d="M27.5,5,15,17.513l-3.75-3.75" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+          </g>
+        </g>
+        <g id="Group_164250" data-name="Group 164250">
+          <rect id="Rectangle_148801" data-name="Rectangle 148801" width="171" height="43" rx="21.5" transform="translate(121 1300.438)" fill="#01ffff"/>
+          <g id="Group_164249" data-name="Group 164249" transform="translate(-0.655 2)">
+            <text id="Ok_I_got_it_" data-name="Ok, I got it!" transform="translate(186 1325.438)" fill="#002e6b" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Ok, I got it!</tspan></text>
+            <path id="Icon_metro-thumbs-up" data-name="Icon metro-thumbs-up" d="M23.622,12.9c-.205-.548,5.459-5.605,2.156-9.7-.773-.958-3.395,4.589-7.118,7.1-2.055,1.385-6.834,4.334-6.834,5.965V26.812c0,1.96,7.579,4.037,13.339,4.037,2.112,0,5.17-13.228,5.17-15.329s-6.511-2.073-6.713-2.622Zm-13.339.147a4.572,4.572,0,0,0-4.627,4.817v7.478A4.42,4.42,0,0,0,10.283,30c1.013,0-1.542-.882-1.542-3.486v-9.83c0-2.727,2.556-3.639,1.542-3.639Z" transform="translate(142 1302.353)" fill="#002d6a"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_83949" data-name="Path 83949" d="M9.2,0h381.98" transform="translate(8.5 565.5)" fill="none" stroke="#f2e200" stroke-linecap="round" stroke-width="2"/>
+      <g id="Group_163011" data-name="Group 163011" transform="translate(-1447.438 -3617.5)">
+        <text id="People_Also_Watch" data-name="People Also Watch" transform="translate(1804 3751)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-45.465" y="0">New budget</tspan></text>
+        <g id="Icon_ionic-ios-add-circle-outline" data-name="Icon ionic-ios-add-circle-outline" transform="translate(1731 3732.563)">
+          <path id="Path_83935" data-name="Path 83935" d="M17.6,12.188H13.813V8.4a.813.813,0,0,0-1.625,0v3.783H8.4A.778.778,0,0,0,7.592,13a.787.787,0,0,0,.813.813h3.783V17.6a.787.787,0,0,0,.813.813.808.808,0,0,0,.813-.812V13.813H17.6a.813.813,0,0,0,0-1.625Z" fill="#01ffff"/>
+          <path id="Path_83936" data-name="Path 83936" d="M13,3.859A9.137,9.137,0,1,1,6.536,6.536,9.08,9.08,0,0,1,13,3.859m0-1.422A10.563,10.563,0,1,0,23.563,13,10.561,10.561,0,0,0,13,2.438Z" fill="#002d6a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

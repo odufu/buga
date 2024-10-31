@@ -1,0 +1,713 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="1697" viewBox="0 0 428 1697">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="-10" width="410" height="211.5" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_149124" x="20" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149124-2" x="786" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-2"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149125" x="173" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-3"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149125-2" x="939" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-4"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149126" x="326" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-5"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149126-2" x="1092" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-6"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149127" x="479" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-7"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149127-2" x="1258" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-8"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149127-3" x="1424" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-9"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149127-4" x="632" y="536.5" width="160" height="199.117" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-10"/>
+      <feFlood flood-opacity="0.059"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_147759" x="-15" y="830.016" width="458" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149038" x="-15" y="916.016" width="458" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-12"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149039" x="-15" y="1002.016" width="458" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-13"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container" x="-15" y="-14" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-14"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container-2" x="-15" y="-14" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-15"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_30_Financial_Reports_Screen">
+      <rect width="428" height="1697"/>
+    </clipPath>
+  </defs>
+  <g id="_30_Financial_Reports_Screen" data-name="30 Financial Reports Screen" clip-path="url(#clip-_30_Financial_Reports_Screen)">
+    <rect width="428" height="1697" fill="#fff"/>
+    <g id="Group_165820" data-name="Group 165820" transform="translate(0 -86)">
+      <text id="Statements" transform="translate(104 614)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-53.451" y="0">Statements</tspan></text>
+      <g id="Group_164915" data-name="Group 164915" transform="translate(18492 16394)">
+        <path id="Subtraction_340" data-name="Subtraction 340" d="M24.872,38.515H1.842A1.825,1.825,0,0,1,0,36.713V9.666a1.825,1.825,0,0,1,1.842-1.8h2.3V9.29a.228.228,0,0,0,.231.225H22.338a.228.228,0,0,0,.23-.225V7.863h2.3a1.825,1.825,0,0,1,1.842,1.8V36.713A1.825,1.825,0,0,1,24.872,38.515ZM5.986,26.839v7.79a1.118,1.118,0,0,0,1.12,1.113H22.78a1.118,1.118,0,0,0,1.12-1.113V19.419H17.555a1.118,1.118,0,0,1-1.121-1.112V12H7.106a1.118,1.118,0,0,0-1.12,1.113V23.871H3.373A.373.373,0,0,0,3,24.242v.742a.373.373,0,0,0,.373.371H9.947a.38.38,0,0,1,.335.2L11.21,27.4l2.65-5.272a.374.374,0,0,1,.668,0l1.618,3.223h3.275a.742.742,0,1,1,0,1.484H15.227L14.2,24.79l-2.649,5.272a.374.374,0,0,1-.668,0L9.257,26.839ZM17.928,12v5.936H23.9v-.283a1.114,1.114,0,0,0-.327-.784l-4.567-4.544A1.115,1.115,0,0,0,18.213,12Zm-7.844,10.3H9.566a.255.255,0,0,1-.259-.249v-.76a1.892,1.892,0,0,1-1.016-.354.244.244,0,0,1-.1-.181.249.249,0,0,1,.081-.2l.38-.35a.256.256,0,0,1,.175-.067.3.3,0,0,1,.154.044A.807.807,0,0,0,9.4,20.3h.911a.4.4,0,0,0,.382-.412.408.408,0,0,0-.284-.4l-1.456-.421A1.409,1.409,0,0,1,9.306,16.3v-.753a.255.255,0,0,1,.259-.249h.518a.255.255,0,0,1,.259.249v.759a1.891,1.891,0,0,1,1.016.355.244.244,0,0,1,.1.182.247.247,0,0,1-.081.2L11,17.39a.256.256,0,0,1-.175.068.292.292,0,0,1-.153-.044.8.8,0,0,0-.415-.116H9.343a.4.4,0,0,0-.382.411.408.408,0,0,0,.284.4l1.457.422a1.409,1.409,0,0,1-.359,2.763v.754A.255.255,0,0,1,10.084,22.295ZM21.478,8.618H5.123a.208.208,0,0,1-.21-.205V6.823a1.817,1.817,0,0,1,1.834-1.8h1.52a5,5,0,0,1,.284-1.642,4.847,4.847,0,0,1,.985-1.642A5.139,5.139,0,0,1,13.3,0a5.143,5.143,0,0,1,3.764,1.744,4.86,4.86,0,0,1,.985,1.642,5,5,0,0,1,.283,1.642h1.782a1.558,1.558,0,0,1,1.573,1.539V8.413A.208.208,0,0,1,21.478,8.618ZM13.307,3.352a1.769,1.769,0,0,0-.216.014,1.675,1.675,0,0,0-1.447,1.417,1.582,1.582,0,0,0,.38,1.272,1.7,1.7,0,0,0,1.28.577,1.8,1.8,0,0,0,.216-.013A1.67,1.67,0,0,0,14.967,5.2a1.585,1.585,0,0,0-.381-1.274A1.7,1.7,0,0,0,13.307,3.352Z" transform="translate(-18478 -15807)" fill="#7aa20b"/>
+      </g>
+      <g id="Scroll_Group_263" data-name="Scroll Group 263" transform="translate(20 622.5)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <g id="Group_165810" data-name="Group 165810" transform="translate(18912.5 18453.5)">
+          <g id="Group_165797" data-name="Group 165797" transform="translate(123.975 -693)">
+            <g transform="matrix(1, 0, 0, 1, -19056.47, -18297)" filter="url(#Rectangle_149124)">
+              <rect id="Rectangle_149124-3" data-name="Rectangle 149124" width="133" height="172.118" rx="3" transform="translate(23.5 550)" fill="#fff"/>
+            </g>
+            <text id="_Profile_Editor_All_Fields_-_Full_name_-_Title_-_City_-_Country_-_Profile_Link_-_Bio_-_Links_-_Portfolio_-_Twitter_-_Instagram_-_Behance_-_Other_-_Highlight_-_Design_Heroes_-_Childhood_Hobbies_-_Currently_Listening_To_-_Photos_Wide_Carousel_-_" data-name="# Profile Editor
+
+## All Fields
+- Full name
+- Title
+- City
+- Country
+- Profile Link
+- Bio
+- Links
+	- Portfolio
+	- Twitter
+	- Instagram
+	- Behance
+	- Other?
+- Highlight
+- Design Heroes
+- Childhood Hobbies
+- Currently Listening To
+- Photos (Wide Carousel)
+- " transform="translate(-19016.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"># Profile Editor</tspan><tspan x="0" y="4"></tspan><tspan x="0" y="8">## All Fields</tspan><tspan x="0" y="12">- Full name</tspan><tspan x="0" y="16">- Title</tspan><tspan x="0" y="20">- City</tspan><tspan x="0" y="24">- Country</tspan><tspan x="0" y="28">- Profile Link</tspan><tspan x="0" y="32">- Bio</tspan><tspan x="0" y="36">- Links</tspan><tspan x="0" y="40" xml:space="preserve">	- Portfolio</tspan><tspan x="0" y="44" xml:space="preserve">	- Twitter</tspan><tspan x="0" y="48" xml:space="preserve">	- Instagram</tspan><tspan x="0" y="52" xml:space="preserve">	- Behance</tspan><tspan x="0" y="56" xml:space="preserve">	- Other?</tspan><tspan x="0" y="60">- Highlight</tspan><tspan x="0" y="64">- Design Heroes</tspan><tspan x="0" y="68">- Childhood Hobbies</tspan><tspan x="0" y="72">- Currently Listening To</tspan><tspan x="0" y="76">- Photos (Wide Carousel)</tspan><tspan x="0" y="80">- Q&amp;A</tspan><tspan x="0" y="84">- Logo/Signature</tspan><tspan x="0" y="88"></tspan><tspan x="0" y="92"></tspan><tspan x="0" y="96"></tspan><tspan x="0" y="100">## Objective</tspan><tspan x="0" y="104">We want to expose the designer profile editor to designers so they </tspan><tspan x="0" y="108">can write their own information. For each of the sections, add a </tspan><tspan x="0" y="112">description of how we want them to write the content and / or </tspan><tspan x="0" y="116">suggestions. For photos, tell designers how to crop / edit them and </tspan><tspan x="0" y="120">upload as well as maximum size.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128">Allow our team to approve profile before they go live.</tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_" data-name="Folder Name (2 lines)" transform="translate(-18886 -18247)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Profit &amp; Loss</tspan></text>
+        </g>
+        <g id="Group_165815" data-name="Group 165815" transform="translate(19675.5 18227.5)">
+          <g id="Group_165804" data-name="Group 165804" transform="translate(126.975 -467)">
+            <g transform="matrix(1, 0, 0, 1, -19822.47, -18297)" filter="url(#Rectangle_149124-2)">
+              <rect id="Rectangle_149124-4" data-name="Rectangle 149124" width="133" height="172.118" rx="3" transform="translate(789.5 550)" fill="#fff"/>
+            </g>
+            <text id="_Profile_Editor_All_Fields_-_Full_name_-_Title_-_City_-_Country_-_Profile_Link_-_Bio_-_Links_-_Portfolio_-_Twitter_-_Instagram_-_Behance_-_Other_-_Highlight_-_Design_Heroes_-_Childhood_Hobbies_-_Currently_Listening_To_-_Photos_Wide_Carousel_-_2" data-name="# Profile Editor
+
+## All Fields
+- Full name
+- Title
+- City
+- Country
+- Profile Link
+- Bio
+- Links
+	- Portfolio
+	- Twitter
+	- Instagram
+	- Behance
+	- Other?
+- Highlight
+- Design Heroes
+- Childhood Hobbies
+- Currently Listening To
+- Photos (Wide Carousel)
+- " transform="translate(-19016.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"># Profile Editor</tspan><tspan x="0" y="4"></tspan><tspan x="0" y="8">## All Fields</tspan><tspan x="0" y="12">- Full name</tspan><tspan x="0" y="16">- Title</tspan><tspan x="0" y="20">- City</tspan><tspan x="0" y="24">- Country</tspan><tspan x="0" y="28">- Profile Link</tspan><tspan x="0" y="32">- Bio</tspan><tspan x="0" y="36">- Links</tspan><tspan x="0" y="40" xml:space="preserve">	- Portfolio</tspan><tspan x="0" y="44" xml:space="preserve">	- Twitter</tspan><tspan x="0" y="48" xml:space="preserve">	- Instagram</tspan><tspan x="0" y="52" xml:space="preserve">	- Behance</tspan><tspan x="0" y="56" xml:space="preserve">	- Other?</tspan><tspan x="0" y="60">- Highlight</tspan><tspan x="0" y="64">- Design Heroes</tspan><tspan x="0" y="68">- Childhood Hobbies</tspan><tspan x="0" y="72">- Currently Listening To</tspan><tspan x="0" y="76">- Photos (Wide Carousel)</tspan><tspan x="0" y="80">- Q&amp;A</tspan><tspan x="0" y="84">- Logo/Signature</tspan><tspan x="0" y="88"></tspan><tspan x="0" y="92"></tspan><tspan x="0" y="96"></tspan><tspan x="0" y="100">## Objective</tspan><tspan x="0" y="104">We want to expose the designer profile editor to designers so they </tspan><tspan x="0" y="108">can write their own information. For each of the sections, add a </tspan><tspan x="0" y="112">description of how we want them to write the content and / or </tspan><tspan x="0" y="116">suggestions. For photos, tell designers how to crop / edit them and </tspan><tspan x="0" y="120">upload as well as maximum size.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128">Allow our team to approve profile before they go live.</tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_2" data-name="Folder Name (2 lines)" transform="translate(-18905 -18021)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Aged Receivables</tspan></text>
+        </g>
+        <g id="Group_165811" data-name="Group 165811" transform="translate(18912.5 18453.5)">
+          <g id="Group_165799" data-name="Group 165799" transform="translate(123.975 -693)">
+            <g transform="matrix(1, 0, 0, 1, -19056.47, -18297)" filter="url(#Rectangle_149125)">
+              <rect id="Rectangle_149125-3" data-name="Rectangle 149125" width="133" height="172.118" rx="3" transform="translate(176.5 550)" fill="#fff"/>
+            </g>
+            <text id="_Transparent_UI_Kit_Access_through_a_letter_Scan_and_go_Accessing_data_using_a_code_contained_in_a_physical_letter._For_example_accessing_energy_usage_data_from_a_monthly_bill._Activity_log_My_log_A_person_can_see_a_chronological_record_of_" data-name="# Transparent UI Kit
+
+### Access through a letter (Scan and go)
+Accessing data using a code contained in a physical letter. For 
+example accessing energy usage data from a monthly bill.
+
+### Activity log (My log)
+A person can see a chronological record of " transform="translate(-18863.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"># Transparent UI Kit</tspan><tspan x="0" y="4"></tspan><tspan x="0" y="8">### Access through a letter (Scan and go)</tspan><tspan x="0" y="12">Accessing data using a code contained in a physical letter. For </tspan><tspan x="0" y="16">example accessing energy usage data from a monthly bill.</tspan><tspan x="0" y="20"></tspan><tspan x="0" y="24">### Activity log (My log)</tspan><tspan x="0" y="28">A person can see a chronological record of data access. These </tspan><tspan x="0" y="32">records can contain an action taken, time and date or the IP </tspan><tspan x="0" y="36">address of the device accessing the data.</tspan><tspan x="0" y="40"></tspan><tspan x="0" y="44">Check out facebook activity log (https://www.facebook.com/</tspan><tspan x="0" y="48">keremsuer/allactivity)</tspan><tspan x="0" y="52"></tspan><tspan x="0" y="56"></tspan><tspan x="0" y="60">### Behavioral patterns (Behavior detection)</tspan><tspan x="0" y="64">Access is controlled based on someone’s past activity. Unusual </tspan><tspan x="0" y="68">behaviour could cause further checks or block access to data. </tspan><tspan x="0" y="72">Software could make it easier to access data that is frequently </tspan><tspan x="0" y="76">requested.</tspan><tspan x="0" y="80"></tspan><tspan x="0" y="84"></tspan><tspan x="0" y="88" xml:space="preserve">### Delegate permissions (  )</tspan><tspan x="0" y="92">A person gives someone else, or third-party software, the authority </tspan><tspan x="0" y="96">to act on their behalf.</tspan><tspan x="0" y="100"></tspan><tspan x="0" y="104">### Emergency contacts (My A-list)</tspan><tspan x="0" y="108">A person can nominate other people they trust to have access to </tspan><tspan x="0" y="112">data in an emergency, for example, if they are unable to access it </tspan><tspan x="0" y="116">themselves. Sometimes a delay is used, giving time for an </tspan><tspan x="0" y="120">emergency access request to be stopped.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128">Maybe add their finger print as one of the table rows?</tspan><tspan x="0" y="132"></tspan><tspan x="0" y="136"></tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_3" data-name="Folder Name (2 lines)" transform="translate(-18742 -18247)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Balance Sheet</tspan></text>
+        </g>
+        <g id="Group_165816" data-name="Group 165816" transform="translate(19678.5 18227.5)">
+          <g id="Group_165805" data-name="Group 165805" transform="translate(123.975 -467)">
+            <g transform="matrix(1, 0, 0, 1, -19822.47, -18297)" filter="url(#Rectangle_149125-2)">
+              <rect id="Rectangle_149125-4" data-name="Rectangle 149125" width="133" height="172.118" rx="3" transform="translate(942.5 550)" fill="#fff"/>
+            </g>
+            <text id="_Transparent_UI_Kit_Access_through_a_letter_Scan_and_go_Accessing_data_using_a_code_contained_in_a_physical_letter._For_example_accessing_energy_usage_data_from_a_monthly_bill._Activity_log_My_log_A_person_can_see_a_chronological_record_of_2" data-name="# Transparent UI Kit
+
+### Access through a letter (Scan and go)
+Accessing data using a code contained in a physical letter. For 
+example accessing energy usage data from a monthly bill.
+
+### Activity log (My log)
+A person can see a chronological record of " transform="translate(-18863.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"># Transparent UI Kit</tspan><tspan x="0" y="4"></tspan><tspan x="0" y="8">### Access through a letter (Scan and go)</tspan><tspan x="0" y="12">Accessing data using a code contained in a physical letter. For </tspan><tspan x="0" y="16">example accessing energy usage data from a monthly bill.</tspan><tspan x="0" y="20"></tspan><tspan x="0" y="24">### Activity log (My log)</tspan><tspan x="0" y="28">A person can see a chronological record of data access. These </tspan><tspan x="0" y="32">records can contain an action taken, time and date or the IP </tspan><tspan x="0" y="36">address of the device accessing the data.</tspan><tspan x="0" y="40"></tspan><tspan x="0" y="44">Check out facebook activity log (https://www.facebook.com/</tspan><tspan x="0" y="48">keremsuer/allactivity)</tspan><tspan x="0" y="52"></tspan><tspan x="0" y="56"></tspan><tspan x="0" y="60">### Behavioral patterns (Behavior detection)</tspan><tspan x="0" y="64">Access is controlled based on someone’s past activity. Unusual </tspan><tspan x="0" y="68">behaviour could cause further checks or block access to data. </tspan><tspan x="0" y="72">Software could make it easier to access data that is frequently </tspan><tspan x="0" y="76">requested.</tspan><tspan x="0" y="80"></tspan><tspan x="0" y="84"></tspan><tspan x="0" y="88" xml:space="preserve">### Delegate permissions (  )</tspan><tspan x="0" y="92">A person gives someone else, or third-party software, the authority </tspan><tspan x="0" y="96">to act on their behalf.</tspan><tspan x="0" y="100"></tspan><tspan x="0" y="104">### Emergency contacts (My A-list)</tspan><tspan x="0" y="108">A person can nominate other people they trust to have access to </tspan><tspan x="0" y="112">data in an emergency, for example, if they are unable to access it </tspan><tspan x="0" y="116">themselves. Sometimes a delay is used, giving time for an </tspan><tspan x="0" y="120">emergency access request to be stopped.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128">Maybe add their finger print as one of the table rows?</tspan><tspan x="0" y="132"></tspan><tspan x="0" y="136"></tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_4" data-name="Folder Name (2 lines)" transform="translate(-18744 -18021)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Aged Payables</tspan></text>
+        </g>
+        <g id="Group_165812" data-name="Group 165812" transform="translate(18912.5 18453.5)">
+          <g id="Group_165801" data-name="Group 165801" transform="translate(123.975 -693)">
+            <g transform="matrix(1, 0, 0, 1, -19056.47, -18297)" filter="url(#Rectangle_149126)">
+              <rect id="Rectangle_149126-3" data-name="Rectangle 149126" width="133" height="172.118" rx="3" transform="translate(329.5 550)" fill="#fff"/>
+            </g>
+            <text id="_End-to-end_encryption_Someone_encrypts_data_so_it_can_only_be_decrypted_by_the_intended_person._This_often_uses_public_key_cryptography._Future_decision_notice_Being_told_about_an_upcoming_automated_decision_allowing_someone_plenty_of_time_to_" data-name="
+### End-to-end encryption
+Someone encrypts data so it can only be decrypted by the 
+intended person. This often uses public key cryptography.
+
+### Future decision notice
+Being told about an upcoming automated decision, allowing 
+someone plenty of time to " transform="translate(-18706.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"></tspan><tspan x="0" y="4">### End-to-end encryption</tspan><tspan x="0" y="8">Someone encrypts data so it can only be decrypted by the </tspan><tspan x="0" y="12">intended person. This often uses public key cryptography.</tspan><tspan x="0" y="16"></tspan><tspan x="0" y="20">### Future decision notice</tspan><tspan x="0" y="24">Being told about an upcoming automated decision, allowing </tspan><tspan x="0" y="28">someone plenty of time to review, adjust or cancel that action. </tspan><tspan x="0" y="32">Decisions might include automatically saving money or switching </tspan><tspan x="0" y="36">between mobile networks.</tspan><tspan x="0" y="40"></tspan><tspan x="0" y="44">### Gesture matching </tspan><tspan x="0" y="48">When requesting access to data, someone physically makes a </tspan><tspan x="0" y="52">gesture or pattern which is matched against an expected pattern.</tspan><tspan x="0" y="56"></tspan><tspan x="0" y="60">### Inactivity checking</tspan><tspan x="0" y="64">Data is shared if a secondary activity is stopped.</tspan><tspan x="0" y="68"></tspan><tspan x="0" y="72">### Just-in-time consent</tspan><tspan x="0" y="76">A person is asked to agree to a specific permission at the point </tspan><tspan x="0" y="80">that a service needs it to complete a task.</tspan><tspan x="0" y="84"></tspan><tspan x="0" y="88">### Key ceremony</tspan><tspan x="0" y="92">Data access is allowed when a set group of people agree to it.</tspan><tspan x="0" y="96"></tspan><tspan x="0" y="100">Secure file sharing between groups (agreement model)</tspan><tspan x="0" y="104"></tspan><tspan x="0" y="108"></tspan><tspan x="0" y="112"></tspan><tspan x="0" y="116"></tspan><tspan x="0" y="120"></tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128"></tspan><tspan x="0" y="132"></tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_5" data-name="Folder Name (2 lines)" transform="translate(-18584 -18247)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Trial Balance</tspan></text>
+        </g>
+        <g id="Group_165817" data-name="Group 165817" transform="translate(19678.5 18227.5)">
+          <g id="Group_165806" data-name="Group 165806" transform="translate(123.975 -467)">
+            <g transform="matrix(1, 0, 0, 1, -19822.47, -18297)" filter="url(#Rectangle_149126-2)">
+              <rect id="Rectangle_149126-4" data-name="Rectangle 149126" width="133" height="172.118" rx="3" transform="translate(1095.5 550)" fill="#fff"/>
+            </g>
+            <text id="_End-to-end_encryption_Someone_encrypts_data_so_it_can_only_be_decrypted_by_the_intended_person._This_often_uses_public_key_cryptography._Future_decision_notice_Being_told_about_an_upcoming_automated_decision_allowing_someone_plenty_of_time_to_2" data-name="
+### End-to-end encryption
+Someone encrypts data so it can only be decrypted by the 
+intended person. This often uses public key cryptography.
+
+### Future decision notice
+Being told about an upcoming automated decision, allowing 
+someone plenty of time to " transform="translate(-18706.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"></tspan><tspan x="0" y="4">### End-to-end encryption</tspan><tspan x="0" y="8">Someone encrypts data so it can only be decrypted by the </tspan><tspan x="0" y="12">intended person. This often uses public key cryptography.</tspan><tspan x="0" y="16"></tspan><tspan x="0" y="20">### Future decision notice</tspan><tspan x="0" y="24">Being told about an upcoming automated decision, allowing </tspan><tspan x="0" y="28">someone plenty of time to review, adjust or cancel that action. </tspan><tspan x="0" y="32">Decisions might include automatically saving money or switching </tspan><tspan x="0" y="36">between mobile networks.</tspan><tspan x="0" y="40"></tspan><tspan x="0" y="44">### Gesture matching </tspan><tspan x="0" y="48">When requesting access to data, someone physically makes a </tspan><tspan x="0" y="52">gesture or pattern which is matched against an expected pattern.</tspan><tspan x="0" y="56"></tspan><tspan x="0" y="60">### Inactivity checking</tspan><tspan x="0" y="64">Data is shared if a secondary activity is stopped.</tspan><tspan x="0" y="68"></tspan><tspan x="0" y="72">### Just-in-time consent</tspan><tspan x="0" y="76">A person is asked to agree to a specific permission at the point </tspan><tspan x="0" y="80">that a service needs it to complete a task.</tspan><tspan x="0" y="84"></tspan><tspan x="0" y="88">### Key ceremony</tspan><tspan x="0" y="92">Data access is allowed when a set group of people agree to it.</tspan><tspan x="0" y="96"></tspan><tspan x="0" y="100">Secure file sharing between groups (agreement model)</tspan><tspan x="0" y="104"></tspan><tspan x="0" y="108"></tspan><tspan x="0" y="112"></tspan><tspan x="0" y="116"></tspan><tspan x="0" y="120"></tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128"></tspan><tspan x="0" y="132"></tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_6" data-name="Folder Name (2 lines)" transform="translate(-18598 -18021)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Journal Repoerts</tspan></text>
+        </g>
+        <g id="Group_165813" data-name="Group 165813" transform="translate(18912.5 18453.5)">
+          <g id="Group_165803" data-name="Group 165803" transform="translate(582.975 -693)">
+            <g transform="matrix(1, 0, 0, 1, -19515.47, -18297)" filter="url(#Rectangle_149127)">
+              <rect id="Rectangle_149127-5" data-name="Rectangle 149127" width="133" height="172.118" rx="3" transform="translate(482.5 550)" fill="#fff"/>
+            </g>
+            <text id="_Profile_Editor_All_Fields_-_Full_name_-_Title_-_City_-_Country_-_Profile_Link_-_Bio_-_Links_-_Portfolio_-_Twitter_-_Instagram_-_Behance_-_Other_-_Highlight_-_Design_Heroes_-_Childhood_Hobbies_-_Currently_Listening_To_-_Photos_Wide_Carousel_-_3" data-name="# Profile Editor
+
+## All Fields
+- Full name
+- Title
+- City
+- Country
+- Profile Link
+- Bio
+- Links
+	- Portfolio
+	- Twitter
+	- Instagram
+	- Behance
+	- Other?
+- Highlight
+- Design Heroes
+- Childhood Hobbies
+- Currently Listening To
+- Photos (Wide Carousel)
+- " transform="translate(-19016.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"># Profile Editor</tspan><tspan x="0" y="4"></tspan><tspan x="0" y="8">## All Fields</tspan><tspan x="0" y="12">- Full name</tspan><tspan x="0" y="16">- Title</tspan><tspan x="0" y="20">- City</tspan><tspan x="0" y="24">- Country</tspan><tspan x="0" y="28">- Profile Link</tspan><tspan x="0" y="32">- Bio</tspan><tspan x="0" y="36">- Links</tspan><tspan x="0" y="40" xml:space="preserve">	- Portfolio</tspan><tspan x="0" y="44" xml:space="preserve">	- Twitter</tspan><tspan x="0" y="48" xml:space="preserve">	- Instagram</tspan><tspan x="0" y="52" xml:space="preserve">	- Behance</tspan><tspan x="0" y="56" xml:space="preserve">	- Other?</tspan><tspan x="0" y="60">- Highlight</tspan><tspan x="0" y="64">- Design Heroes</tspan><tspan x="0" y="68">- Childhood Hobbies</tspan><tspan x="0" y="72">- Currently Listening To</tspan><tspan x="0" y="76">- Photos (Wide Carousel)</tspan><tspan x="0" y="80">- Q&amp;A</tspan><tspan x="0" y="84">- Logo/Signature</tspan><tspan x="0" y="88"></tspan><tspan x="0" y="92"></tspan><tspan x="0" y="96"></tspan><tspan x="0" y="100">## Objective</tspan><tspan x="0" y="104">We want to expose the designer profile editor to designers so they </tspan><tspan x="0" y="108">can write their own information. For each of the sections, add a </tspan><tspan x="0" y="112">description of how we want them to write the content and / or </tspan><tspan x="0" y="116">suggestions. For photos, tell designers how to crop / edit them and </tspan><tspan x="0" y="120">upload as well as maximum size.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128">Allow our team to approve profile before they go live.</tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_7" data-name="Folder Name (2 lines)" transform="translate(-18421 -18247)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Cash Flow</tspan></text>
+        </g>
+        <g id="Group_165818" data-name="Group 165818" transform="translate(19674.5 18227.5)">
+          <g id="Group_165807" data-name="Group 165807" transform="translate(599.975 -467)">
+            <g transform="matrix(1, 0, 0, 1, -20294.47, -18297)" filter="url(#Rectangle_149127-2)">
+              <rect id="Rectangle_149127-6" data-name="Rectangle 149127" width="133" height="172.118" rx="3" transform="translate(1261.5 550)" fill="#fff"/>
+            </g>
+            <text id="_Profile_Editor_All_Fields_-_Full_name_-_Title_-_City_-_Country_-_Profile_Link_-_Bio_-_Links_-_Portfolio_-_Twitter_-_Instagram_-_Behance_-_Other_-_Highlight_-_Design_Heroes_-_Childhood_Hobbies_-_Currently_Listening_To_-_Photos_Wide_Carousel_-_4" data-name="# Profile Editor
+
+## All Fields
+- Full name
+- Title
+- City
+- Country
+- Profile Link
+- Bio
+- Links
+	- Portfolio
+	- Twitter
+	- Instagram
+	- Behance
+	- Other?
+- Highlight
+- Design Heroes
+- Childhood Hobbies
+- Currently Listening To
+- Photos (Wide Carousel)
+- " transform="translate(-19016.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"># Profile Editor</tspan><tspan x="0" y="4"></tspan><tspan x="0" y="8">## All Fields</tspan><tspan x="0" y="12">- Full name</tspan><tspan x="0" y="16">- Title</tspan><tspan x="0" y="20">- City</tspan><tspan x="0" y="24">- Country</tspan><tspan x="0" y="28">- Profile Link</tspan><tspan x="0" y="32">- Bio</tspan><tspan x="0" y="36">- Links</tspan><tspan x="0" y="40" xml:space="preserve">	- Portfolio</tspan><tspan x="0" y="44" xml:space="preserve">	- Twitter</tspan><tspan x="0" y="48" xml:space="preserve">	- Instagram</tspan><tspan x="0" y="52" xml:space="preserve">	- Behance</tspan><tspan x="0" y="56" xml:space="preserve">	- Other?</tspan><tspan x="0" y="60">- Highlight</tspan><tspan x="0" y="64">- Design Heroes</tspan><tspan x="0" y="68">- Childhood Hobbies</tspan><tspan x="0" y="72">- Currently Listening To</tspan><tspan x="0" y="76">- Photos (Wide Carousel)</tspan><tspan x="0" y="80">- Q&amp;A</tspan><tspan x="0" y="84">- Logo/Signature</tspan><tspan x="0" y="88"></tspan><tspan x="0" y="92"></tspan><tspan x="0" y="96"></tspan><tspan x="0" y="100">## Objective</tspan><tspan x="0" y="104">We want to expose the designer profile editor to designers so they </tspan><tspan x="0" y="108">can write their own information. For each of the sections, add a </tspan><tspan x="0" y="112">description of how we want them to write the content and / or </tspan><tspan x="0" y="116">suggestions. For photos, tell designers how to crop / edit them and </tspan><tspan x="0" y="120">upload as well as maximum size.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128">Allow our team to approve profile before they go live.</tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_8" data-name="Folder Name (2 lines)" transform="translate(-18446 -18021)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Account Transactions</tspan></text>
+        </g>
+        <g id="Group_165819" data-name="Group 165819" transform="translate(19674.5 18227.5)">
+          <g id="Group_165808" data-name="Group 165808" transform="translate(765.975 -467)">
+            <g transform="matrix(1, 0, 0, 1, -20460.47, -18297)" filter="url(#Rectangle_149127-3)">
+              <rect id="Rectangle_149127-7" data-name="Rectangle 149127" width="133" height="172.118" rx="3" transform="translate(1427.5 550)" fill="#fff"/>
+            </g>
+            <text id="_Profile_Editor_All_Fields_-_Full_name_-_Title_-_City_-_Country_-_Profile_Link_-_Bio_-_Links_-_Portfolio_-_Twitter_-_Instagram_-_Behance_-_Other_-_Highlight_-_Design_Heroes_-_Childhood_Hobbies_-_Currently_Listening_To_-_Photos_Wide_Carousel_-_5" data-name="# Profile Editor
+
+## All Fields
+- Full name
+- Title
+- City
+- Country
+- Profile Link
+- Bio
+- Links
+	- Portfolio
+	- Twitter
+	- Instagram
+	- Behance
+	- Other?
+- Highlight
+- Design Heroes
+- Childhood Hobbies
+- Currently Listening To
+- Photos (Wide Carousel)
+- " transform="translate(-19016.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"># Profile Editor</tspan><tspan x="0" y="4"></tspan><tspan x="0" y="8">## All Fields</tspan><tspan x="0" y="12">- Full name</tspan><tspan x="0" y="16">- Title</tspan><tspan x="0" y="20">- City</tspan><tspan x="0" y="24">- Country</tspan><tspan x="0" y="28">- Profile Link</tspan><tspan x="0" y="32">- Bio</tspan><tspan x="0" y="36">- Links</tspan><tspan x="0" y="40" xml:space="preserve">	- Portfolio</tspan><tspan x="0" y="44" xml:space="preserve">	- Twitter</tspan><tspan x="0" y="48" xml:space="preserve">	- Instagram</tspan><tspan x="0" y="52" xml:space="preserve">	- Behance</tspan><tspan x="0" y="56" xml:space="preserve">	- Other?</tspan><tspan x="0" y="60">- Highlight</tspan><tspan x="0" y="64">- Design Heroes</tspan><tspan x="0" y="68">- Childhood Hobbies</tspan><tspan x="0" y="72">- Currently Listening To</tspan><tspan x="0" y="76">- Photos (Wide Carousel)</tspan><tspan x="0" y="80">- Q&amp;A</tspan><tspan x="0" y="84">- Logo/Signature</tspan><tspan x="0" y="88"></tspan><tspan x="0" y="92"></tspan><tspan x="0" y="96"></tspan><tspan x="0" y="100">## Objective</tspan><tspan x="0" y="104">We want to expose the designer profile editor to designers so they </tspan><tspan x="0" y="108">can write their own information. For each of the sections, add a </tspan><tspan x="0" y="112">description of how we want them to write the content and / or </tspan><tspan x="0" y="116">suggestions. For photos, tell designers how to crop / edit them and </tspan><tspan x="0" y="120">upload as well as maximum size.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128">Allow our team to approve profile before they go live.</tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_9" data-name="Folder Name (2 lines)" transform="translate(-18257 -18021)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Stock Valuation</tspan></text>
+        </g>
+        <g id="Group_165814" data-name="Group 165814" transform="translate(18882.5 18453.5)">
+          <g id="Group_165809" data-name="Group 165809" transform="translate(765.975 -693)">
+            <g transform="matrix(1, 0, 0, 1, -19668.47, -18297)" filter="url(#Rectangle_149127-4)">
+              <rect id="Rectangle_149127-8" data-name="Rectangle 149127" width="133" height="172.118" rx="3" transform="translate(635.5 550)" fill="#fff"/>
+            </g>
+            <text id="_Profile_Editor_All_Fields_-_Full_name_-_Title_-_City_-_Country_-_Profile_Link_-_Bio_-_Links_-_Portfolio_-_Twitter_-_Instagram_-_Behance_-_Other_-_Highlight_-_Design_Heroes_-_Childhood_Hobbies_-_Currently_Listening_To_-_Photos_Wide_Carousel_-_6" data-name="# Profile Editor
+
+## All Fields
+- Full name
+- Title
+- City
+- Country
+- Profile Link
+- Bio
+- Links
+	- Portfolio
+	- Twitter
+	- Instagram
+	- Behance
+	- Other?
+- Highlight
+- Design Heroes
+- Childhood Hobbies
+- Currently Listening To
+- Photos (Wide Carousel)
+- " transform="translate(-19016.975 -17729)" fill="#292724" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"># Profile Editor</tspan><tspan x="0" y="4"></tspan><tspan x="0" y="8">## All Fields</tspan><tspan x="0" y="12">- Full name</tspan><tspan x="0" y="16">- Title</tspan><tspan x="0" y="20">- City</tspan><tspan x="0" y="24">- Country</tspan><tspan x="0" y="28">- Profile Link</tspan><tspan x="0" y="32">- Bio</tspan><tspan x="0" y="36">- Links</tspan><tspan x="0" y="40" xml:space="preserve">	- Portfolio</tspan><tspan x="0" y="44" xml:space="preserve">	- Twitter</tspan><tspan x="0" y="48" xml:space="preserve">	- Instagram</tspan><tspan x="0" y="52" xml:space="preserve">	- Behance</tspan><tspan x="0" y="56" xml:space="preserve">	- Other?</tspan><tspan x="0" y="60">- Highlight</tspan><tspan x="0" y="64">- Design Heroes</tspan><tspan x="0" y="68">- Childhood Hobbies</tspan><tspan x="0" y="72">- Currently Listening To</tspan><tspan x="0" y="76">- Photos (Wide Carousel)</tspan><tspan x="0" y="80">- Q&amp;A</tspan><tspan x="0" y="84">- Logo/Signature</tspan><tspan x="0" y="88"></tspan><tspan x="0" y="92"></tspan><tspan x="0" y="96"></tspan><tspan x="0" y="100">## Objective</tspan><tspan x="0" y="104">We want to expose the designer profile editor to designers so they </tspan><tspan x="0" y="108">can write their own information. For each of the sections, add a </tspan><tspan x="0" y="112">description of how we want them to write the content and / or </tspan><tspan x="0" y="116">suggestions. For photos, tell designers how to crop / edit them and </tspan><tspan x="0" y="120">upload as well as maximum size.</tspan><tspan x="0" y="124"></tspan><tspan x="0" y="128">Allow our team to approve profile before they go live.</tspan></text>
+          </g>
+          <text id="Folder_Name_2_lines_10" data-name="Folder Name (2 lines)" transform="translate(-18243 -18247)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Tax Reports</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165431" data-name="Group 165431" transform="translate(20563 23874.016)">
+      <g id="Group_165424" data-name="Group 165424" transform="translate(0.5 3.484)">
+        <text id="Receipts" transform="translate(-20469 -23056.242)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-39.294" y="0">Receipts</tspan></text>
+        <path id="Subtraction_359" data-name="Subtraction 359" d="M24.872,38.515H1.842A1.825,1.825,0,0,1,0,36.713V9.666a1.825,1.825,0,0,1,1.842-1.8h2.3V9.29a.228.228,0,0,0,.231.225H22.338a.228.228,0,0,0,.23-.225V7.863h2.3a1.825,1.825,0,0,1,1.842,1.8V36.713A1.825,1.825,0,0,1,24.872,38.515ZM19.2,32.193h0l1.753,2.046a.718.718,0,0,0,.435.148.735.735,0,0,0,.734-.733V11.732a.729.729,0,0,0-1.169-.585L19.2,13.194l-2.485-2.047a.726.726,0,0,0-.877,0l-2.485,2.047L10.87,11.147a.726.726,0,0,0-.877,0L7.509,13.194,5.756,11.147a.73.73,0,0,0-1.17.585V33.655a.734.734,0,0,0,.733.732.727.727,0,0,0,.437-.147l1.753-2.047L9.994,34.24a.726.726,0,0,0,.877,0l2.485-2.047L15.84,34.24a.726.726,0,0,0,.877,0L19.2,32.194Zm-.365-4.384H7.874a.366.366,0,0,1-.365-.365v-.731a.366.366,0,0,1,.365-.365H18.836a.366.366,0,0,1,.365.365v.731A.366.366,0,0,1,18.836,27.809Zm0-4.385H7.874a.366.366,0,0,1-.365-.365v-.731a.366.366,0,0,1,.365-.365H18.836a.366.366,0,0,1,.365.365v.731A.366.366,0,0,1,18.836,23.424Zm0-4.385H7.874a.366.366,0,0,1-.365-.365v-.731a.366.366,0,0,1,.365-.365H18.836a.366.366,0,0,1,.365.365v.731A.366.366,0,0,1,18.836,19.039ZM21.478,8.618H5.123a.208.208,0,0,1-.21-.205V6.823a1.817,1.817,0,0,1,1.834-1.8h1.52a5,5,0,0,1,.284-1.642,4.847,4.847,0,0,1,.985-1.642A5.139,5.139,0,0,1,13.3,0a5.143,5.143,0,0,1,3.764,1.744,4.86,4.86,0,0,1,.985,1.642,5,5,0,0,1,.283,1.642h1.782a1.558,1.558,0,0,1,1.573,1.539V8.413A.208.208,0,0,1,21.478,8.618ZM13.307,3.352a1.769,1.769,0,0,0-.216.014,1.675,1.675,0,0,0-1.447,1.417,1.582,1.582,0,0,0,.38,1.272,1.7,1.7,0,0,0,1.28.577,1.8,1.8,0,0,0,.216-.013A1.67,1.67,0,0,0,14.967,5.2a1.585,1.585,0,0,0-.381-1.274A1.7,1.7,0,0,0,13.307,3.352Z" transform="translate(-20544 -23082)" fill="#f206bb"/>
+      </g>
+      <g id="Group_165430" data-name="Group 165430">
+        <g transform="matrix(1, 0, 0, 1, -20563, -23874.02)" filter="url(#Rectangle_147759)">
+          <rect id="Rectangle_147759-2" data-name="Rectangle 147759" width="428" height="76" rx="10" transform="translate(0 844.02)" fill="#fff"/>
+        </g>
+        <g id="Group_165382" data-name="Group 165382" transform="translate(-20564 -23296)">
+          <text id="Folder_Name_2_lines_11" data-name="Folder Name (2 lines)" transform="translate(61 292)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="0" y="0">Sales receipt.pdf</tspan></text>
+          <text id="Date" transform="translate(61 310)" fill="#d1d2d9" font-size="12" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Document, small file</tspan><tspan x="0" y="18">Dec 23, 2023</tspan></text>
+          <g id="File_PDF" data-name="File / PDF" transform="translate(10 277)">
+            <g id="File_base" data-name="File base">
+              <g id="File_base-2" data-name="File base" fill="#fff">
+                <path d="M1.64,0H32.8L41,8.938V50.375A1.633,1.633,0,0,1,39.36,52H1.64A1.633,1.633,0,0,1,0,50.375V1.625A1.633,1.633,0,0,1,1.64,0Z" stroke="none"/>
+                <path d="M 1.639999389648438 0.5 C 1.011398315429688 0.5 0.5 1.004669189453125 0.5 1.625 L 0.5 50.3750114440918 C 0.5 50.99533081054688 1.011398315429688 51.5 1.639999389648438 51.5 L 39.36000823974609 51.5 C 39.98860168457031 51.5 40.5 50.99533081054688 40.5 50.3750114440918 L 40.5 9.132125854492188 L 32.58017349243164 0.5 L 1.639999389648438 0.5 M 1.639999389648438 0 L 32.79999923706055 0 L 41 8.9375 L 41 50.3750114440918 C 41 51.2724609375 40.26573944091797 52 39.36000823974609 52 L 1.639999389648438 52 C 0.7342491149902344 52 0 51.2724609375 0 50.3750114440918 L 0 1.625 C 0 0.7275390625 0.7342491149902344 0 1.639999389648438 0 Z" stroke="none" fill="rgba(41,39,36,0.3)"/>
+              </g>
+            </g>
+            <text id="Aa" transform="translate(25 44)" fill="#ff5151" font-size="17" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="-0.012em"><tspan x="-11.934" y="0">Aa</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165425" data-name="Group 165425" transform="translate(-20542 -24330)">
+          <g id="Path_869" data-name="Path 869" transform="translate(365 1322)" fill="#d1d2d9">
+            <path d="M 16 33 C 13.7054500579834 33 11.4790096282959 32.55038833618164 9.382519721984863 31.66365051269531 C 7.358059883117676 30.80736923217773 5.540110111236572 29.58173942565918 3.979180097579956 28.02082061767578 C 2.418260097503662 26.45989036560059 1.192630052566528 24.64193916320801 0.3363499939441681 22.61747932434082 C -0.5503900051116943 20.5209903717041 -1 18.2945499420166 -1 16 C -1 13.7054500579834 -0.5503900051116943 11.4790096282959 0.3363499939441681 9.382519721984863 C 1.192630052566528 7.358059883117676 2.418260097503662 5.540110111236572 3.979180097579956 3.979180097579956 C 5.540110111236572 2.418260097503662 7.358059883117676 1.192630052566528 9.382519721984863 0.3363499939441681 C 11.4790096282959 -0.5503900051116943 13.7054500579834 -1 16 -1 C 18.2945499420166 -1 20.5209903717041 -0.5503900051116943 22.61747932434082 0.3363499939441681 C 24.64193916320801 1.192630052566528 26.45989036560059 2.418260097503662 28.02082061767578 3.979180097579956 C 29.58173942565918 5.540110111236572 30.80736923217773 7.358059883117676 31.66365051269531 9.382519721984863 C 32.55038833618164 11.4790096282959 33 13.7054500579834 33 16 C 33 18.2945499420166 32.55038833618164 20.5209903717041 31.66365051269531 22.61747932434082 C 30.80736923217773 24.64193916320801 29.58173942565918 26.45989036560059 28.02082061767578 28.02082061767578 C 26.45989036560059 29.58173942565918 24.64193916320801 30.80736923217773 22.61747932434082 31.66365051269531 C 20.5209903717041 32.55038833618164 18.2945499420166 33 16 33 Z" stroke="none"/>
+            <path d="M 16 0 C 7.163440704345703 0 0 7.163440704345703 0 16 C 0 24.8365592956543 7.163440704345703 32 16 32 C 24.8365592956543 32 32 24.8365592956543 32 16 C 32 7.163440704345703 24.8365592956543 0 16 0 M 16 -2 C 18.42910003662109 -2 20.7866096496582 -1.523811340332031 23.00703048706055 -0.5846481323242188 C 25.15069007873535 0.3220405578613281 27.07547950744629 1.619630813598633 28.72792053222656 3.272079467773438 C 30.38036918640137 4.924520492553711 31.67795944213867 6.849309921264648 32.58464813232422 8.992969512939453 C 33.52381134033203 11.2133903503418 34 13.57089996337891 34 16 C 34 18.42910003662109 33.52381134033203 20.7866096496582 32.58464813232422 23.00703048706055 C 31.67795944213867 25.15069007873535 30.38036918640137 27.07547950744629 28.72792053222656 28.72792053222656 C 27.07547950744629 30.38036918640137 25.15069007873535 31.67795944213867 23.00703048706055 32.58464813232422 C 20.7866096496582 33.52381134033203 18.42910003662109 34 16 34 C 13.57089996337891 34 11.2133903503418 33.52381134033203 8.992969512939453 32.58464813232422 C 6.849309921264648 31.67795944213867 4.924520492553711 30.38036918640137 3.272079467773438 28.72792053222656 C 1.619630813598633 27.07547950744629 0.3220405578613281 25.15069007873535 -0.5846481323242188 23.00703048706055 C -1.523811340332031 20.7866096496582 -2 18.42910003662109 -2 16 C -2 13.57089996337891 -1.523811340332031 11.2133903503418 -0.5846481323242188 8.992969512939453 C 0.3220405578613281 6.849309921264648 1.619630813598633 4.924520492553711 3.272079467773438 3.272079467773438 C 4.924520492553711 1.619630813598633 6.849309921264648 0.3220405578613281 8.992969512939453 -0.5846481323242188 C 11.2133903503418 -1.523811340332031 13.57089996337891 -2 16 -2 Z" stroke="none" fill="#f4f2f0"/>
+          </g>
+          <text id="_38_" data-name="38+" transform="translate(369 1342)" fill="#002d6a" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">38+</tspan></text>
+        </g>
+      </g>
+      <g id="Group_165429" data-name="Group 165429" transform="translate(0 -27)">
+        <g transform="matrix(1, 0, 0, 1, -20563, -23847.02)" filter="url(#Rectangle_149038)">
+          <rect id="Rectangle_149038-2" data-name="Rectangle 149038" width="428" height="76" rx="10" transform="translate(0 930.02)" fill="#fff"/>
+        </g>
+        <g id="Group_165381" data-name="Group 165381" transform="translate(-20564 -23251)">
+          <text id="Folder_Name_2_lines_12" data-name="Folder Name (2 lines)" transform="translate(61 360)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="0" y="0">Purchase Reciept.jpeg</tspan></text>
+          <text id="Date-2" data-name="Date" transform="translate(61 378)" fill="#d1d2d9" font-size="12" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Picture, large file</tspan><tspan x="0" y="18">Dec 23, 2023</tspan></text>
+          <g id="Group_725" data-name="Group 725" transform="translate(-48 -27)">
+            <g id="File_base-3" data-name="File base" transform="translate(58 372)">
+              <g id="File_base-4" data-name="File base" fill="#fff">
+                <path d="M1.64,0H32.8L41,8.938V50.375A1.633,1.633,0,0,1,39.36,52H1.64A1.633,1.633,0,0,1,0,50.375V1.625A1.633,1.633,0,0,1,1.64,0Z" stroke="none"/>
+                <path d="M 1.639999389648438 0.5 C 1.011398315429688 0.5 0.5 1.004669189453125 0.5 1.625 L 0.5 50.3750114440918 C 0.5 50.99533081054688 1.011398315429688 51.5 1.639999389648438 51.5 L 39.36000823974609 51.5 C 39.98860168457031 51.5 40.5 50.99533081054688 40.5 50.3750114440918 L 40.5 9.132125854492188 L 32.58017349243164 0.5 L 1.639999389648438 0.5 M 1.639999389648438 0 L 32.79999923706055 0 L 41 8.9375 L 41 50.3750114440918 C 41 51.2724609375 40.26573944091797 52 39.36000823974609 52 L 1.639999389648438 52 C 0.7342491149902344 52 0 51.2724609375 0 50.3750114440918 L 0 1.625 C 0 0.7275390625 0.7342491149902344 0 1.639999389648438 0 Z" stroke="none" fill="rgba(41,39,36,0.3)"/>
+              </g>
+            </g>
+            <path id="Path_913" data-name="Path 913" d="M58.5,401.757H70.483L77.7,388.741l3.194,4.8,5.349-8.4,8.659,16.62h3.6" transform="translate(0 14)" fill="none" stroke="#dddbd7" stroke-width="1"/>
+            <g id="Ellipse_374" data-name="Ellipse 374" transform="translate(64 386)" fill="#fff" stroke="#dddbd7" stroke-width="1">
+              <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+              <circle cx="4.5" cy="4.5" r="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_165426" data-name="Group 165426" transform="translate(-20542 -24217)">
+          <g id="Path_869-2" data-name="Path 869" transform="translate(365 1322)" fill="#d1d2d9">
+            <path d="M 16 33 C 13.7054500579834 33 11.4790096282959 32.55038833618164 9.382519721984863 31.66365051269531 C 7.358059883117676 30.80736923217773 5.540110111236572 29.58173942565918 3.979180097579956 28.02082061767578 C 2.418260097503662 26.45989036560059 1.192630052566528 24.64193916320801 0.3363499939441681 22.61747932434082 C -0.5503900051116943 20.5209903717041 -1 18.2945499420166 -1 16 C -1 13.7054500579834 -0.5503900051116943 11.4790096282959 0.3363499939441681 9.382519721984863 C 1.192630052566528 7.358059883117676 2.418260097503662 5.540110111236572 3.979180097579956 3.979180097579956 C 5.540110111236572 2.418260097503662 7.358059883117676 1.192630052566528 9.382519721984863 0.3363499939441681 C 11.4790096282959 -0.5503900051116943 13.7054500579834 -1 16 -1 C 18.2945499420166 -1 20.5209903717041 -0.5503900051116943 22.61747932434082 0.3363499939441681 C 24.64193916320801 1.192630052566528 26.45989036560059 2.418260097503662 28.02082061767578 3.979180097579956 C 29.58173942565918 5.540110111236572 30.80736923217773 7.358059883117676 31.66365051269531 9.382519721984863 C 32.55038833618164 11.4790096282959 33 13.7054500579834 33 16 C 33 18.2945499420166 32.55038833618164 20.5209903717041 31.66365051269531 22.61747932434082 C 30.80736923217773 24.64193916320801 29.58173942565918 26.45989036560059 28.02082061767578 28.02082061767578 C 26.45989036560059 29.58173942565918 24.64193916320801 30.80736923217773 22.61747932434082 31.66365051269531 C 20.5209903717041 32.55038833618164 18.2945499420166 33 16 33 Z" stroke="none"/>
+            <path d="M 16 0 C 7.163440704345703 0 0 7.163440704345703 0 16 C 0 24.8365592956543 7.163440704345703 32 16 32 C 24.8365592956543 32 32 24.8365592956543 32 16 C 32 7.163440704345703 24.8365592956543 0 16 0 M 16 -2 C 18.42910003662109 -2 20.7866096496582 -1.523811340332031 23.00703048706055 -0.5846481323242188 C 25.15069007873535 0.3220405578613281 27.07547950744629 1.619630813598633 28.72792053222656 3.272079467773438 C 30.38036918640137 4.924520492553711 31.67795944213867 6.849309921264648 32.58464813232422 8.992969512939453 C 33.52381134033203 11.2133903503418 34 13.57089996337891 34 16 C 34 18.42910003662109 33.52381134033203 20.7866096496582 32.58464813232422 23.00703048706055 C 31.67795944213867 25.15069007873535 30.38036918640137 27.07547950744629 28.72792053222656 28.72792053222656 C 27.07547950744629 30.38036918640137 25.15069007873535 31.67795944213867 23.00703048706055 32.58464813232422 C 20.7866096496582 33.52381134033203 18.42910003662109 34 16 34 C 13.57089996337891 34 11.2133903503418 33.52381134033203 8.992969512939453 32.58464813232422 C 6.849309921264648 31.67795944213867 4.924520492553711 30.38036918640137 3.272079467773438 28.72792053222656 C 1.619630813598633 27.07547950744629 0.3220405578613281 25.15069007873535 -0.5846481323242188 23.00703048706055 C -1.523811340332031 20.7866096496582 -2 18.42910003662109 -2 16 C -2 13.57089996337891 -1.523811340332031 11.2133903503418 -0.5846481323242188 8.992969512939453 C 0.3220405578613281 6.849309921264648 1.619630813598633 4.924520492553711 3.272079467773438 3.272079467773438 C 4.924520492553711 1.619630813598633 6.849309921264648 0.3220405578613281 8.992969512939453 -0.5846481323242188 C 11.2133903503418 -1.523811340332031 13.57089996337891 -2 16 -2 Z" stroke="none" fill="#f4f2f0"/>
+          </g>
+          <text id="_12_" data-name="12+" transform="translate(371 1342)" fill="#002d6a" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">12+</tspan></text>
+        </g>
+      </g>
+      <g id="Group_165428" data-name="Group 165428" transform="translate(0 -44)">
+        <g transform="matrix(1, 0, 0, 1, -20563, -23830.02)" filter="url(#Rectangle_149039)">
+          <rect id="Rectangle_149039-2" data-name="Rectangle 149039" width="428" height="76" rx="10" transform="translate(0 1016.02)" fill="#fff"/>
+        </g>
+        <g id="Group_165380" data-name="Group 165380" transform="translate(-20564 -23216)">
+          <text id="Folder_Name_2_lines_13" data-name="Folder Name (2 lines)" transform="translate(61 428)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.01em"><tspan x="0" y="0">Inventory Reports.xls</tspan></text>
+          <text id="Date-3" data-name="Date" transform="translate(61 446)" fill="#d1d2d9" font-size="12" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Spreadsheet, small file</tspan><tspan x="0" y="18">Dec 23, 2023</tspan></text>
+          <g id="Group_726" data-name="Group 726" transform="translate(-48 156)">
+            <g id="File_base-5" data-name="File base" transform="translate(58 257)">
+              <g id="File_base-6" data-name="File base" fill="#fff">
+                <path d="M1.64,0H32.8L41,8.938V50.375A1.633,1.633,0,0,1,39.36,52H1.64A1.633,1.633,0,0,1,0,50.375V1.625A1.633,1.633,0,0,1,1.64,0Z" stroke="none"/>
+                <path d="M 1.639999389648438 0.5 C 1.011398315429688 0.5 0.5 1.004669189453125 0.5 1.625 L 0.5 50.3750114440918 C 0.5 50.99533081054688 1.011398315429688 51.5 1.639999389648438 51.5 L 39.36000823974609 51.5 C 39.98860168457031 51.5 40.5 50.99533081054688 40.5 50.3750114440918 L 40.5 9.132125854492188 L 32.58017349243164 0.5 L 1.639999389648438 0.5 M 1.639999389648438 0 L 32.79999923706055 0 L 41 8.9375 L 41 50.3750114440918 C 41 51.2724609375 40.26573944091797 52 39.36000823974609 52 L 1.639999389648438 52 C 0.7342491149902344 52 0 51.2724609375 0 50.3750114440918 L 0 1.625 C 0 0.7275390625 0.7342491149902344 0 1.639999389648438 0 Z" stroke="none" fill="rgba(41,39,36,0.3)"/>
+              </g>
+            </g>
+            <g id="Icon_Spreadsheet" data-name="Icon / Spreadsheet" transform="translate(-2 -2)">
+              <g id="Rectangle_595" data-name="Rectangle 595" transform="translate(66 280)" fill="none" stroke="#45d38c" stroke-width="1">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+              <g id="Rectangle_596" data-name="Rectangle 596" transform="translate(75 280)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+              <g id="Rectangle_597" data-name="Rectangle 597" transform="translate(84 280)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+              <g id="Rectangle_598" data-name="Rectangle 598" transform="translate(66 284)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+              <g id="Rectangle_599" data-name="Rectangle 599" transform="translate(75 284)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+              <g id="Rectangle_600" data-name="Rectangle 600" transform="translate(84 284)" fill="none" stroke="#45d38c" stroke-width="1">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+              <g id="Rectangle_601" data-name="Rectangle 601" transform="translate(66 288)" fill="none" stroke="#45d38c" stroke-width="1">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+              <g id="Rectangle_602" data-name="Rectangle 602" transform="translate(75 288)" fill="none" stroke="#45d38c" stroke-width="1">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+              <g id="Rectangle_603" data-name="Rectangle 603" transform="translate(84 288)" fill="none" stroke="#45d38c" stroke-width="1" opacity="0.4">
+                <rect width="10" height="5" stroke="none"/>
+                <rect x="0.5" y="0.5" width="9" height="4" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Group_165427" data-name="Group 165427" transform="translate(-20542 -24114)">
+          <g id="Path_869-3" data-name="Path 869" transform="translate(365 1322)" fill="#d1d2d9">
+            <path d="M 16 33 C 13.7054500579834 33 11.4790096282959 32.55038833618164 9.382519721984863 31.66365051269531 C 7.358059883117676 30.80736923217773 5.540110111236572 29.58173942565918 3.979180097579956 28.02082061767578 C 2.418260097503662 26.45989036560059 1.192630052566528 24.64193916320801 0.3363499939441681 22.61747932434082 C -0.5503900051116943 20.5209903717041 -1 18.2945499420166 -1 16 C -1 13.7054500579834 -0.5503900051116943 11.4790096282959 0.3363499939441681 9.382519721984863 C 1.192630052566528 7.358059883117676 2.418260097503662 5.540110111236572 3.979180097579956 3.979180097579956 C 5.540110111236572 2.418260097503662 7.358059883117676 1.192630052566528 9.382519721984863 0.3363499939441681 C 11.4790096282959 -0.5503900051116943 13.7054500579834 -1 16 -1 C 18.2945499420166 -1 20.5209903717041 -0.5503900051116943 22.61747932434082 0.3363499939441681 C 24.64193916320801 1.192630052566528 26.45989036560059 2.418260097503662 28.02082061767578 3.979180097579956 C 29.58173942565918 5.540110111236572 30.80736923217773 7.358059883117676 31.66365051269531 9.382519721984863 C 32.55038833618164 11.4790096282959 33 13.7054500579834 33 16 C 33 18.2945499420166 32.55038833618164 20.5209903717041 31.66365051269531 22.61747932434082 C 30.80736923217773 24.64193916320801 29.58173942565918 26.45989036560059 28.02082061767578 28.02082061767578 C 26.45989036560059 29.58173942565918 24.64193916320801 30.80736923217773 22.61747932434082 31.66365051269531 C 20.5209903717041 32.55038833618164 18.2945499420166 33 16 33 Z" stroke="none"/>
+            <path d="M 16 0 C 7.163440704345703 0 0 7.163440704345703 0 16 C 0 24.8365592956543 7.163440704345703 32 16 32 C 24.8365592956543 32 32 24.8365592956543 32 16 C 32 7.163440704345703 24.8365592956543 0 16 0 M 16 -2 C 18.42910003662109 -2 20.7866096496582 -1.523811340332031 23.00703048706055 -0.5846481323242188 C 25.15069007873535 0.3220405578613281 27.07547950744629 1.619630813598633 28.72792053222656 3.272079467773438 C 30.38036918640137 4.924520492553711 31.67795944213867 6.849309921264648 32.58464813232422 8.992969512939453 C 33.52381134033203 11.2133903503418 34 13.57089996337891 34 16 C 34 18.42910003662109 33.52381134033203 20.7866096496582 32.58464813232422 23.00703048706055 C 31.67795944213867 25.15069007873535 30.38036918640137 27.07547950744629 28.72792053222656 28.72792053222656 C 27.07547950744629 30.38036918640137 25.15069007873535 31.67795944213867 23.00703048706055 32.58464813232422 C 20.7866096496582 33.52381134033203 18.42910003662109 34 16 34 C 13.57089996337891 34 11.2133903503418 33.52381134033203 8.992969512939453 32.58464813232422 C 6.849309921264648 31.67795944213867 4.924520492553711 30.38036918640137 3.272079467773438 28.72792053222656 C 1.619630813598633 27.07547950744629 0.3220405578613281 25.15069007873535 -0.5846481323242188 23.00703048706055 C -1.523811340332031 20.7866096496582 -2 18.42910003662109 -2 16 C -2 13.57089996337891 -1.523811340332031 11.2133903503418 -0.5846481323242188 8.992969512939453 C 0.3220405578613281 6.849309921264648 1.619630813598633 4.924520492553711 3.272079467773438 3.272079467773438 C 4.924520492553711 1.619630813598633 6.849309921264648 0.3220405578613281 8.992969512939453 -0.5846481323242188 C 11.2133903503418 -1.523811340332031 13.57089996337891 -2 16 -2 Z" stroke="none" fill="#f4f2f0"/>
+          </g>
+          <text id="_8_" data-name="8+" transform="translate(373 1342)" fill="#002d6a" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">8+</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165416" data-name="Group 165416" transform="translate(-1 105)">
+      <g id="Group_165415" data-name="Group 165415" transform="translate(0 52)">
+        <g id="Group_165409" data-name="Group 165409">
+          <path id="Subtraction_351" data-name="Subtraction 351" d="M21130,23649h-75a5.008,5.008,0,0,1-5-5v-47a5,5,0,0,1,5-5h75a5,5,0,0,1,4.582,3h.6v50.188h-.32A4.99,4.99,0,0,1,21130,23649Zm-41.021-38.768h0c1.348.516,2.063,1.854,2.063,3.869v27.029c0,2.1-.7,3.4-2.064,3.869h1.9a3.872,3.872,0,0,0,3.869-3.869V23614.1a3.872,3.872,0,0,0-3.869-3.869Zm-25.115,0a3.869,3.869,0,0,0-3.863,3.869v27.029a3.869,3.869,0,0,0,3.863,3.869h21.242c.078,0,.16-.006.234-.012a.236.236,0,0,0,.037,0c.025,0,.049,0,.074,0l.035-.006a3.821,3.821,0,0,0,2.469-1.24,3.865,3.865,0,0,0,1.016-2.605V23614.1a3.923,3.923,0,0,0-1.021-2.605,3.879,3.879,0,0,0-2.475-1.246c-.027,0-.055,0-.082,0a.288.288,0,0,0-.041,0c-.08-.006-.172-.012-.258-.012Zm18.223,32.887h-18.008v-10.127h18.008v10.127Zm-16.881-9.041V23642h15.752l0-.006,0-7.91h-15.752Zm18.529,7.918h0l-1.119-.006.035-9.6-17.443.012v-1.1h18.529V23642Zm-4.408-.562h-6.238a3.435,3.435,0,0,0-.006-6.756h6.244a.832.832,0,0,0,.789,1.129.743.743,0,0,0,.277-.061v4.613a.81.81,0,0,0-.277-.055.835.835,0,0,0-.791,1.127Zm-1.182-4.553c-.465,0-.844.506-.844,1.127s.379,1.123.844,1.123.842-.5.842-1.123S21078.611,23636.883,21078.146,23636.883Zm-5.16,4.553h-6.146a.936.936,0,0,0,.053-.285.818.818,0,0,0-1.127-.783v-4.619a.77.77,0,0,0,.285.061.844.844,0,0,0,.842-.844.859.859,0,0,0-.053-.285h6.234a3.445,3.445,0,0,0-.088,6.752Zm-4.965-4.553c-.469,0-.85.506-.85,1.127a1.017,1.017,0,0,0,.85,1.123c.465,0,.842-.5.842-1.123S21068.486,23636.883,21068.021,23636.883Zm5.43,4.064h-.551v-.545h-.014c0,.006-.006.006-.012.006a2.615,2.615,0,0,1-.432-.041,2.585,2.585,0,0,1-.357-.09,1.622,1.622,0,0,1-.262-.113.9.9,0,0,1-.146-.105.24.24,0,0,1-.066-.131,1.235,1.235,0,0,1-.018-.25,1.58,1.58,0,0,1,.006-.184.421.421,0,0,1,.023-.119.1.1,0,0,1,.041-.064.093.093,0,0,1,.061-.018.292.292,0,0,1,.137.059c.021.012.041.023.063.037a1.887,1.887,0,0,0,.168.088,3.037,3.037,0,0,0,.338.131,1.722,1.722,0,0,0,.451.059,1.153,1.153,0,0,0,.3-.041.983.983,0,0,0,.227-.113.543.543,0,0,0,.2-.428.428.428,0,0,0-.088-.268.829.829,0,0,0-.221-.2,2.092,2.092,0,0,0-.3-.156l-.006,0-.09-.039-.088-.043c-.023-.01-.049-.02-.072-.031l-.105-.047a3.619,3.619,0,0,1-.357-.2,1.177,1.177,0,0,1-.309-.256,1.22,1.22,0,0,1-.219-.35,1.383,1.383,0,0,1-.084-.492,1.335,1.335,0,0,1,.119-.57,1.164,1.164,0,0,1,.332-.416,1.421,1.421,0,0,1,.482-.242,1.952,1.952,0,0,1,.3-.061v-.582h.551v.582h.035a.026.026,0,0,1,.018,0l.014,0a1.887,1.887,0,0,1,.3.066,1.772,1.772,0,0,1,.248.094.613.613,0,0,1,.148.09l.012.012a.134.134,0,0,1,.029.041.247.247,0,0,1,.025.063.427.427,0,0,1,.008.053.481.481,0,0,0,0,.051v.326c-.006.043-.012.084-.018.119a.421.421,0,0,1-.037.066l0,0a.111.111,0,0,1-.061.02.344.344,0,0,1-.115-.045c-.059-.033-.137-.078-.211-.115a2.259,2.259,0,0,0-.285-.1,1.367,1.367,0,0,0-.355-.047.823.823,0,0,0-.262.035.5.5,0,0,0-.189.1.373.373,0,0,0-.113.154.549.549,0,0,0-.035.2.4.4,0,0,0,.082.262.646.646,0,0,0,.221.2,1.783,1.783,0,0,0,.314.16c.119.057.252.115.355.16l.041.02c.107.055.219.111.32.176a1.411,1.411,0,0,1,.314.256,1.138,1.138,0,0,1,.221.35,1.326,1.326,0,0,1,.082.48,1.317,1.317,0,0,1-.492,1.082,1.607,1.607,0,0,1-.533.266.153.153,0,0,1-.055.012.053.053,0,0,1-.029.006v.617Zm11.977-.641h-1.127l.035-9.6-17.443.006v-1.1h18.535v10.689Zm-22.531-12.693v0l0-14.48h10.137v14.479l-5.068-2.895-.006,0-5.062,2.9ZM21123,23590h-61v-3a2,2,0,0,1,2-2h57a2,2,0,0,1,2,2v3h0Z" transform="translate(-21040 -22572)" fill="#f9ac19"/>
+          <g id="Group_165398" data-name="Group 165398" transform="translate(-133 728)">
+            <text id="Folder_Name_2_lines_14" data-name="Folder Name (2 lines)" transform="translate(144 375)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Jan &apos;23</tspan><tspan x="0" y="18">Cash Book</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165411" data-name="Group 165411">
+          <path id="Subtraction_354" data-name="Subtraction 354" d="M21130,23649h-75a5.008,5.008,0,0,1-5-5v-47a5,5,0,0,1,5-5h75a5,5,0,0,1,4.582,3h.6v50.188h-.32A4.99,4.99,0,0,1,21130,23649Zm-71.7-39.766a1.5,1.5,0,0,0-1.459,1.537v29.688a1.5,1.5,0,0,0,1.459,1.537h20.4a1.5,1.5,0,0,0,1.461-1.537v-20.986h-8.262a1.5,1.5,0,0,1-1.461-1.537v-8.7Zm14.09,0v8.193h7.775v-.393a1.592,1.592,0,0,0-.428-1.08l-5.947-6.273a1.418,1.418,0,0,0-1.031-.445h-.369Zm.844,30.883a1.885,1.885,0,0,1-1.883-1.881v-9.984a1.882,1.882,0,1,1,3.764,0v9.984A1.883,1.883,0,0,1,21073.232,23640.117Zm-5.027,0a1.883,1.883,0,0,1-1.881-1.881v-15.486a1.884,1.884,0,1,1,3.768,0v15.486A1.887,1.887,0,0,1,21068.205,23640.117Zm-5.021,0a1.887,1.887,0,0,1-1.887-1.881v-5.859a1.884,1.884,0,1,1,3.768,0v5.859A1.883,1.883,0,0,1,21063.184,23640.117ZM21123,23590h-61v-3a2,2,0,0,1,2-2h57a2,2,0,0,1,2,2v3h0Z" transform="translate(-20735 -22572)" fill="#f9ac19"/>
+          <g id="Group_165399" data-name="Group 165399" transform="translate(51 728)">
+            <text id="Folder_Name_2_lines_15" data-name="Folder Name (2 lines)" transform="translate(265 375)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Feb &apos;23 </tspan><tspan x="0" y="18">Income</tspan><tspan x="0" y="36">Statement</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165406" data-name="Group 165406">
+          <path id="Subtraction_355" data-name="Subtraction 355" d="M21130,23649h-75a5.008,5.008,0,0,1-5-5v-47a5,5,0,0,1,5-5h75a5,5,0,0,1,4.582,3h.6v50.188h-.32A4.99,4.99,0,0,1,21130,23649Zm-70.557-15.607-2.445,1.992a25.05,25.05,0,0,0,33.984,2.16l1.037-.92-11.246-1.187-.41,3.941a22.011,22.011,0,0,1-13.639-1.043A21.667,21.667,0,0,1,21059.445,23633.395Zm1.9-13.916v12.857h22.762v-12.855h-22.762Zm23.471-.752h0v0l-.041,12.178h1.424v-13.568h-23.432l.006,1.4Zm2.137-2.148h0v0l-.041,12.184h1.418V23615.2H21064.9v1.4Zm-13.027-8.408a21.859,21.859,0,0,1,15.689,6.609l2.445-1.988a25.056,25.056,0,0,0-33.984-2.16l-1.033.926,11.246,1.188.41-3.947A22.093,22.093,0,0,1,21073.924,23608.17Zm8.756,22.736h-19.912v-10.043h19.912v10.043Zm-9.951-9.281c1.959,0,3.555,1.922,3.555,4.283s-1.6,4.285-3.557,4.285h7.895a1.054,1.054,0,0,1-.072-.355,1.035,1.035,0,0,1,1.426-1v-5.857a1.047,1.047,0,0,1-1.354-1.359h-7.893v0Zm-8.893,7.145a1.071,1.071,0,0,1,1.068,1.068,1.044,1.044,0,0,1-.076.355h7.9c-1.959,0-3.555-1.924-3.555-4.285s1.6-4.285,3.555-4.285h-7.9a1.059,1.059,0,0,1,.076.361,1.071,1.071,0,0,1-1.068,1.068,1.051,1.051,0,0,1-.355-.07v5.857A1.059,1.059,0,0,1,21063.836,23628.77Zm7.176-1.295a.17.17,0,0,0-.082.025.223.223,0,0,0-.049.082.528.528,0,0,0-.029.154,1.3,1.3,0,0,0-.012.232,1.91,1.91,0,0,0,.023.314.371.371,0,0,0,.084.166.815.815,0,0,0,.189.131,1.7,1.7,0,0,0,.326.143,2.98,2.98,0,0,0,.451.121,2.944,2.944,0,0,0,.553.045h.029v.688h.693v-.777a.347.347,0,0,1,.055-.012l.014,0a.163.163,0,0,0,.039-.01,1.922,1.922,0,0,0,.67-.344,1.717,1.717,0,0,0,.465-.576,1.851,1.851,0,0,0,.166-.795,1.539,1.539,0,0,0-.107-.605,1.61,1.61,0,0,0-.678-.771,4.3,4.3,0,0,0-.457-.244c-.115-.055-.234-.107-.352-.158l-.064-.029-.033-.014a3.4,3.4,0,0,1-.4-.209.962.962,0,0,1-.279-.248.529.529,0,0,1-.1-.332.661.661,0,0,1,.043-.244.687.687,0,0,1,.143-.2.714.714,0,0,1,.236-.125.988.988,0,0,1,.338-.047,1.51,1.51,0,0,1,.445.059,2.758,2.758,0,0,1,.363.131l.068.035.035.02.051.025a.882.882,0,0,1,.105.057.405.405,0,0,0,.154.064.1.1,0,0,0,.078-.029.182.182,0,0,0,.047-.084c0-.008,0-.016,0-.023l.006-.023a.133.133,0,0,1,.006-.037c0-.02.006-.041.008-.064s0-.057,0-.09,0-.084,0-.129,0-.082,0-.117,0-.055,0-.078v-.006a.267.267,0,0,1,0-.037v-.016a.366.366,0,0,0-.014-.072.222.222,0,0,0-.023-.084c-.008-.01-.018-.021-.027-.035s-.02-.023-.031-.035a.833.833,0,0,0-.184-.113,1.9,1.9,0,0,0-.316-.113,2.189,2.189,0,0,0-.367-.086l-.012,0a.316.316,0,0,0-.043,0,.275.275,0,0,1-.041,0v-.738h-.7v.736a2.567,2.567,0,0,0-.375.076,1.686,1.686,0,0,0-.611.314,1.411,1.411,0,0,0-.414.518,1.655,1.655,0,0,0-.154.729,1.629,1.629,0,0,0,.105.625,1.464,1.464,0,0,0,.279.443,1.778,1.778,0,0,0,.387.328,4.26,4.26,0,0,0,.451.242q.132.062.258.117l.041.02.1.041.049.023c.125.057.244.119.391.2a1.08,1.08,0,0,1,.279.254.539.539,0,0,1,.1.334.707.707,0,0,1-.061.309.606.606,0,0,1-.178.236.963.963,0,0,1-.291.143,1.242,1.242,0,0,1-.379.053,1.867,1.867,0,0,1-.57-.076,2.437,2.437,0,0,1-.428-.16,2.317,2.317,0,0,1-.291-.166A.37.37,0,0,0,21071.012,23627.475Zm8.113-.2c-.586,0-1.062-.643-1.062-1.43s.477-1.426,1.063-1.426,1.068.641,1.068,1.426S21079.713,23627.279,21079.125,23627.279Zm-12.8,0c-.588,0-1.068-.643-1.068-1.43s.48-1.426,1.068-1.426,1.068.641,1.068,1.426S21066.912,23627.279,21066.324,23627.279ZM21123,23590h-61v-3a2,2,0,0,1,2-2h57a2,2,0,0,1,2,2v3h0Z" transform="translate(-21040 -22429)" fill="#f9ac19"/>
+          <g id="Group_165396" data-name="Group 165396" transform="translate(-12 724)">
+            <text id="Folder_Name_2_lines_16" data-name="Folder Name (2 lines)" transform="translate(23 522)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Mar &apos;23 </tspan><tspan x="0" y="18">Cash Flow</tspan><tspan x="0" y="36">Statements</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165405" data-name="Group 165405">
+          <path id="Subtraction_357" data-name="Subtraction 357" d="M21130,23649h-75a5.008,5.008,0,0,1-5-5v-47a5,5,0,0,1,5-5h75a5,5,0,0,1,4.582,3h.6v50.188h-.32A4.99,4.99,0,0,1,21130,23649Zm-47.781-9.846h0v2.533c0,1.162,2.977,2.107,6.637,2.107s6.635-.945,6.635-2.107v-2.533c0,1.16-2.979,2.105-6.635,2.105s-6.637-.945-6.637-2.105Zm-16.176-25.932a1.87,1.87,0,0,0,0,3.74h.213c-.057.051-6.309,5.738-7.924,8.084-1.58,2.279-2.332,4.07-2.332,8.088a15.428,15.428,0,0,0,.553,4.643,6.487,6.487,0,0,0,1.779,2.865c.627.584,2.467,1.256,5.182,1.887a48.084,48.084,0,0,0,8.363,1.266,50.156,50.156,0,0,0,9.721-1.221v-8.746l.006,0a.7.7,0,0,1-.006-.109v-1.816c0-1.254,3.234-2.273,7.211-2.273h.049a10.045,10.045,0,0,0-2.209-4.586c-1.986-2.652-7.312-8.031-7.359-8.078l-.006-.006h-.273a1.87,1.87,0,0,0,0-3.74h-.92l2.684-6.92h-5.74l0-.01a2.643,2.643,0,0,0-2.467-2.293h-.172c-1.949,0-2.332,2.066-2.367,2.3h-5.639l2.85,6.92Zm16.176,22.139h0v2.527c0,1.162,2.977,2.107,6.637,2.107s6.635-.945,6.635-2.107v-2.527c0,1.162-2.979,2.107-6.635,2.107s-6.637-.945-6.637-2.107Zm6.639-5.062c-3.66,0-6.637.945-6.637,2.107v1.686c0,1.164,2.977,2.111,6.637,2.111s6.635-.947,6.635-2.111v-1.686C21095.494,23631.246,21092.518,23630.3,21088.859,23630.3Zm-18.916,2.275h0l-1.588,0v-3.021h-.814v-1.033h.814v-.617h-.814v-1.027h.814v-2.705h1.869l1.3,2.705h1.531v-2.705h1.59v2.705h.885v1.027h-.885v.617h.885v1.033h-.885v3.02l-1.744,0-1.5-3.021h-1.461v3.023Zm2.885-3.023h0l.025.059c.076.162.156.334.225.506h.018c-.018-.139-.029-.334-.035-.564Zm-.807-1.65h0l.3.617h.73v-.617Zm-2.078,0v.619h.955l-.3-.617h-.652Zm-.041-1.459v0c0,.055.008.111.01.17.006.086.012.17.014.262h.172l0-.006c-.047-.1-.09-.209-.129-.314-.014-.037-.029-.074-.045-.111h-.023ZM21123,23590h-61v-3a2,2,0,0,1,2-2h57a2,2,0,0,1,2,2v3h0Z" transform="translate(-21040 -22286)" fill="#f9ac19"/>
+          <g id="Group_165402" data-name="Group 165402" transform="translate(-12 867)">
+            <text id="Folder_Name_2_lines_17" data-name="Folder Name (2 lines)" transform="translate(23 522)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">2023 </tspan><tspan x="0" y="18">Capital Account</tspan><tspan x="0" y="36">Statements</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165407" data-name="Group 165407" transform="translate(-14)">
+          <path id="Subtraction_353" data-name="Subtraction 353" d="M21130,23649h-75a5.008,5.008,0,0,1-5-5v-47a5,5,0,0,1,5-5h75a5,5,0,0,1,4.582,3h.6v50.188h-.32A4.99,4.99,0,0,1,21130,23649Zm-69.934-27.271a.864.864,0,0,0-.861.865v18.174a1.729,1.729,0,0,0,1.727,1.729h25.1a.865.865,0,0,0,.867-.861v-1.732a.868.868,0,0,0-.867-.867h-23.365V23622.6a.866.866,0,0,0-.867-.865Zm22.328,0a.739.739,0,0,0-.689.693v12.459a.739.739,0,0,0,.689.693h2.076a.741.741,0,0,0,.7-.693v-12.459a.741.741,0,0,0-.7-.693Zm-5.193,5.193a.739.739,0,0,0-.689.693v7.266a.739.739,0,0,0,.689.693h2.082a.739.739,0,0,0,.689-.693v-7.266a.739.739,0,0,0-.689-.693Zm-5.187-3.461a.749.749,0,0,0-.7.689v10.73a.741.741,0,0,0,.7.693h2.076a.739.739,0,0,0,.689-.693v-10.73a.737.737,0,0,0-.689-.689Zm-5.193,6.92a.741.741,0,0,0-.7.7v3.8a.741.741,0,0,0,.7.693h2.076a.739.739,0,0,0,.689-.693v-3.8a.739.739,0,0,0-.689-.7ZM21123,23590h-61v-3a2,2,0,0,1,2-2h57a2,2,0,0,1,2,2v3h0Z" transform="translate(-20878 -22429)" fill="#f9ac19"/>
+          <g id="Group_165395" data-name="Group 165395" transform="translate(29 724)">
+            <text id="Folder_Name_2_lines_18" data-name="Folder Name (2 lines)" transform="translate(144 522)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Apr &apos;23 </tspan><tspan x="0" y="18">Profit &amp; Loss </tspan><tspan x="0" y="36">Statement</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165404" data-name="Group 165404" transform="translate(-14)">
+          <path id="Subtraction_358" data-name="Subtraction 358" d="M21130,23649h-75a5.008,5.008,0,0,1-5-5v-47a5,5,0,0,1,5-5h75a5,5,0,0,1,4.582,3h.6v50.188h-.32A4.99,4.99,0,0,1,21130,23649Zm-49.736-8.529a1.751,1.751,0,1,0,1.732,1.752A1.742,1.742,0,0,0,21080.266,23640.473Zm-16.191,0a1.751,1.751,0,1,0,1.732,1.752A1.744,1.744,0,0,0,21064.074,23640.473Zm-6.912-24.541a1.053,1.053,0,0,0-1.16,1.033,1.03,1.03,0,0,0,1.121,1.025,9.112,9.112,0,0,1,1.877.143c.348.105.615.672.717,1.152a.044.044,0,0,0,.006.023c.008.043.043.232.078.414l.031.158c.018.1.033.174.033.176l2.885,15.449a5.759,5.759,0,0,0,1.051,2.611,2.866,2.866,0,0,0,2.369,1.182h17.068a1.021,1.021,0,0,0,1.039-.98,1.009,1.009,0,0,0-1.01-1.062h-17.111a.832.832,0,0,1-.6-.207,3.339,3.339,0,0,1-.832-1.9l-.309-1.729c0-.027.01-.041.029-.047l20.037-3.432a.424.424,0,0,0,.35-.379l1.152-8.457a.366.366,0,0,0,0-.189.416.416,0,0,0-.373-.3l-2.055-.2v-2.332a1.291,1.291,0,0,0-1.281-1.3h-1.307a9.642,9.642,0,0,1-2.926,2.6h2.559a.359.359,0,0,1,.385.322v.457l-8.088-.791c.119,0,.254.012.391.012a8.36,8.36,0,1,0-1.24-.094l-4.32-.422a9.724,9.724,0,0,1-2.131-2.084h-1.3a1.291,1.291,0,0,0-1.281,1.3v.32l-.9-.09a.728.728,0,0,1-.539-.338,7.242,7.242,0,0,0-.879-1.359c-.533-.658-1.5-.664-3.266-.678l-.254,0Zm16.342.848h-.443a.671.671,0,0,1-.666-.676v-.687a3.129,3.129,0,0,1-1.727-.625.464.464,0,0,1-.186-.34.458.458,0,0,1,.139-.359l.652-.629a.425.425,0,0,1,.3-.119.545.545,0,0,1,.268.078,1.292,1.292,0,0,0,.711.213h1.561a.707.707,0,0,0,.654-.748.721.721,0,0,0-.486-.713l-2.494-.76a2.544,2.544,0,0,1-1.756-2.439,2.484,2.484,0,0,1,2.373-2.533v-.684a.671.671,0,0,1,.666-.676h.443a.671.671,0,0,1,.666.676v.689a3.206,3.206,0,0,1,1.727.623.471.471,0,0,1,.184.354.437.437,0,0,1-.137.342l-.652.629a.412.412,0,0,1-.295.123.5.5,0,0,1-.27-.082,1.31,1.31,0,0,0-.711-.207h-1.561a.7.7,0,0,0-.654.746.717.717,0,0,0,.482.713l2.5.76a2.544,2.544,0,0,1,1.756,2.439,2.479,2.479,0,0,1-2.373,2.535v.682A.671.671,0,0,1,21073.5,23616.779ZM21123,23590h-61v-3a2,2,0,0,1,2-2h57a2,2,0,0,1,2,2v3h0Z" transform="translate(-20878 -22286)" fill="#f9ac19"/>
+          <g id="Group_165403" data-name="Group 165403" transform="translate(29 867)">
+            <text id="Folder_Name_2_lines_19" data-name="Folder Name (2 lines)" transform="translate(144 522)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Apr &apos;23 </tspan><tspan x="0" y="18">Drawings Account</tspan><tspan x="0" y="36">Statement</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165410" data-name="Group 165410" transform="translate(-21.5)">
+          <path id="Subtraction_352" data-name="Subtraction 352" d="M21130,23649h-75a5.008,5.008,0,0,1-5-5v-47a5,5,0,0,1,5-5h75a5,5,0,0,1,4.582,3h.6v50.188h-.32A4.99,4.99,0,0,1,21130,23649Zm-68.379-40a1.633,1.633,0,0,0-1.621,1.643v31.719a1.63,1.63,0,0,0,1.621,1.637h22.756a1.63,1.63,0,0,0,1.619-1.637v-22.424h-9.205a1.636,1.636,0,0,1-1.627-1.639v-9.3Zm15.709,0v8.75H21086v-.416a1.658,1.658,0,0,0-.475-1.156l-6.623-6.7a1.618,1.618,0,0,0-1.152-.48h-.416Zm1.811,32.1c-2.256,0-4.094-1.158-4.094-2.582v-.023c0-.379,0-.379,1.234-2.859l.006-.006c.08-.162.166-.334.256-.514.146-.3.309-.619.486-.973l.186-.373c.17-.344.355-.713.555-1.115a1.528,1.528,0,0,1,2.748,0c.594,1.191,1.064,2.139,1.438,2.9,1.281,2.57,1.281,2.57,1.281,2.932v.035C21083.238,23639.938,21081.4,23641.1,21079.143,23641.1Zm0-7.748-2.3,4.65h4.611l-.006-.006Zm-5.633,7.748h-7.168a.516.516,0,0,1-.512-.516v-1.033a.516.516,0,0,1,.512-.516h5.637v-9.525a2.56,2.56,0,0,1-1.389-1.531l-4.225-1.432a.525.525,0,0,1-.326-.652l.326-.984a.518.518,0,0,1,.486-.352.6.6,0,0,1,.166.029l3.77,1.277a2.547,2.547,0,0,1,4.771,1.275c0,.057,0,.115-.01.178a6.288,6.288,0,0,1-.008.072l0,.018a.323.323,0,0,0-.008.059l4.107,1.395a.5.5,0,0,1,.295.26.511.511,0,0,1,.025.395l-.328.979a.5.5,0,0,1-.48.35.559.559,0,0,1-.166-.023l-4.545-1.537a2.585,2.585,0,0,1-.416.227v11.074A.516.516,0,0,1,21073.51,23641.1Zm-6.652-4.137c-2.258,0-4.1-1.158-4.1-2.582v-.023c0-.379,0-.379,1.229-2.836.184-.371.389-.783.623-1.252l.07-.145.8-1.607a1.533,1.533,0,0,1,1.377-.859,1.5,1.5,0,0,1,1.371.859l.564,1.137.383.764c.174.354.332.672.477.961,1.3,2.605,1.3,2.605,1.3,2.967v.035C21070.953,23635.8,21069.115,23636.959,21066.857,23636.959Zm0-7.748-2.309,4.65h4.611l0-.006ZM21123,23590h-61v-3a2,2,0,0,1,2-2h57a2,2,0,0,1,2,2v3h0Z" transform="translate(-20878 -22572)" fill="#f9ac19"/>
+          <g id="Group_165401" data-name="Group 165401" transform="translate(29 581)">
+            <text id="Folder_Name_2_lines_20" data-name="Folder Name (2 lines)" transform="translate(144 522)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Jan &apos;23 </tspan><tspan x="0" y="18">Balance Sheet</tspan><tspan x="0" y="36">Statements</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165408" data-name="Group 165408">
+          <path id="Subtraction_356" data-name="Subtraction 356" d="M21130,23649h-75a5.008,5.008,0,0,1-5-5v-47a5,5,0,0,1,5-5h75a5,5,0,0,1,4.582,3h.6v50.188h-.32A4.99,4.99,0,0,1,21130,23649Zm-52.391-20.488a1,1,0,0,0-1,1v11.982a1,1,0,0,0,1,1h13.984a1,1,0,0,0,1-1v-11.982a1,1,0,0,0-1-1h-5v5.994l-1.994-1.328-2,1.328v-5.994Zm-19.977,0a1,1,0,0,0-1,1v11.982a1,1,0,0,0,1,1h13.982a1,1,0,0,0,1-1v-11.982a1,1,0,0,0-1-1h-4.99v5.994l-2-1.328-1.994,1.328v-5.994Zm9.988-17.977a1,1,0,0,0-1,1v11.984a1,1,0,0,0,1,1h13.982a1,1,0,0,0,1-1v-11.984a1,1,0,0,0-1-1h-5v5.994l-1.994-1.33-2,1.33v-5.994ZM21123,23590h-61v-3a2,2,0,0,1,2-2h57a2,2,0,0,1,2,2v3h0Z" transform="translate(-20735 -22429)" fill="#f9ac19"/>
+          <g id="Group_165400" data-name="Group 165400" transform="translate(51 724)">
+            <text id="Folder_Name_2_lines_21" data-name="Folder Name (2 lines)" transform="translate(265 522)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">May &apos;23 </tspan><tspan x="0" y="18">Stock Account</tspan></text>
+          </g>
+        </g>
+        <g id="Group_165400-2" data-name="Group 165400" transform="translate(51 867)">
+          <text id="Folder_Name_2_lines_22" data-name="Folder Name (2 lines)" transform="translate(252 522)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">2022 Financials</tspan></text>
+        </g>
+        <g id="Group_165414" data-name="Group 165414">
+          <g id="Group_165412" data-name="Group 165412">
+            <g id="Folder_Secure" data-name="Folder / Secure" transform="translate(315 1299)">
+              <rect id="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="#f9ac19"/>
+              <rect id="Rectangle_13" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#f9ac19"/>
+              <path id="Rectangle_14" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#f9ac19"/>
+              <g id="Lock" transform="translate(64.055 39.225)">
+                <path id="Path_840" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="#f9ac19"/>
+                <path id="Path_841" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="#f9ac19"/>
+              </g>
+            </g>
+            <g id="Folder_Secure-2" data-name="Folder / Secure" transform="translate(309.203 1299)">
+              <rect id="Base-2" data-name="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="#01ffff"/>
+              <rect id="Rectangle_13-2" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#01ffff"/>
+              <path id="Rectangle_14-2" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#01ffff"/>
+              <g id="Lock-2" data-name="Lock" transform="translate(64.055 39.225)">
+                <path id="Path_840-2" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="#01ffff"/>
+                <path id="Path_841-2" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="#01ffff"/>
+              </g>
+            </g>
+            <g id="Folder_Secure-3" data-name="Folder / Secure" transform="translate(302.613 1299)">
+              <rect id="Base-3" data-name="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="#002d6a"/>
+              <rect id="Rectangle_13-3" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#002d6a"/>
+              <path id="Rectangle_14-3" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#002d6a"/>
+              <g id="Lock-3" data-name="Lock" transform="translate(64.055 39.225)">
+                <path id="Path_840-3" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="#002d6a"/>
+                <path id="Path_841-3" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="#002d6a"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_165413" data-name="Group 165413">
+            <g id="Path_869-4" data-name="Path 869" transform="translate(365 1322)" fill="#002d6a">
+              <path d="M 16 33 C 13.7054500579834 33 11.4790096282959 32.55038833618164 9.382519721984863 31.66365051269531 C 7.358059883117676 30.80736923217773 5.540110111236572 29.58173942565918 3.979180097579956 28.02082061767578 C 2.418260097503662 26.45989036560059 1.192630052566528 24.64193916320801 0.3363499939441681 22.61747932434082 C -0.5503900051116943 20.5209903717041 -1 18.2945499420166 -1 16 C -1 13.7054500579834 -0.5503900051116943 11.4790096282959 0.3363499939441681 9.382519721984863 C 1.192630052566528 7.358059883117676 2.418260097503662 5.540110111236572 3.979180097579956 3.979180097579956 C 5.540110111236572 2.418260097503662 7.358059883117676 1.192630052566528 9.382519721984863 0.3363499939441681 C 11.4790096282959 -0.5503900051116943 13.7054500579834 -1 16 -1 C 18.2945499420166 -1 20.5209903717041 -0.5503900051116943 22.61747932434082 0.3363499939441681 C 24.64193916320801 1.192630052566528 26.45989036560059 2.418260097503662 28.02082061767578 3.979180097579956 C 29.58173942565918 5.540110111236572 30.80736923217773 7.358059883117676 31.66365051269531 9.382519721984863 C 32.55038833618164 11.4790096282959 33 13.7054500579834 33 16 C 33 18.2945499420166 32.55038833618164 20.5209903717041 31.66365051269531 22.61747932434082 C 30.80736923217773 24.64193916320801 29.58173942565918 26.45989036560059 28.02082061767578 28.02082061767578 C 26.45989036560059 29.58173942565918 24.64193916320801 30.80736923217773 22.61747932434082 31.66365051269531 C 20.5209903717041 32.55038833618164 18.2945499420166 33 16 33 Z" stroke="none"/>
+              <path d="M 16 0 C 7.163440704345703 0 0 7.163440704345703 0 16 C 0 24.8365592956543 7.163440704345703 32 16 32 C 24.8365592956543 32 32 24.8365592956543 32 16 C 32 7.163440704345703 24.8365592956543 0 16 0 M 16 -2 C 18.42910003662109 -2 20.7866096496582 -1.523811340332031 23.00703048706055 -0.5846481323242188 C 25.15069007873535 0.3220405578613281 27.07547950744629 1.619630813598633 28.72792053222656 3.272079467773438 C 30.38036918640137 4.924520492553711 31.67795944213867 6.849309921264648 32.58464813232422 8.992969512939453 C 33.52381134033203 11.2133903503418 34 13.57089996337891 34 16 C 34 18.42910003662109 33.52381134033203 20.7866096496582 32.58464813232422 23.00703048706055 C 31.67795944213867 25.15069007873535 30.38036918640137 27.07547950744629 28.72792053222656 28.72792053222656 C 27.07547950744629 30.38036918640137 25.15069007873535 31.67795944213867 23.00703048706055 32.58464813232422 C 20.7866096496582 33.52381134033203 18.42910003662109 34 16 34 C 13.57089996337891 34 11.2133903503418 33.52381134033203 8.992969512939453 32.58464813232422 C 6.849309921264648 31.67795944213867 4.924520492553711 30.38036918640137 3.272079467773438 28.72792053222656 C 1.619630813598633 27.07547950744629 0.3220405578613281 25.15069007873535 -0.5846481323242188 23.00703048706055 C -1.523811340332031 20.7866096496582 -2 18.42910003662109 -2 16 C -2 13.57089996337891 -1.523811340332031 11.2133903503418 -0.5846481323242188 8.992969512939453 C 0.3220405578613281 6.849309921264648 1.619630813598633 4.924520492553711 3.272079467773438 3.272079467773438 C 4.924520492553711 1.619630813598633 6.849309921264648 0.3220405578613281 8.992969512939453 -0.5846481323242188 C 11.2133903503418 -1.523811340332031 13.57089996337891 -2 16 -2 Z" stroke="none" fill="#f4f2f0"/>
+            </g>
+            <text id="_12_2" data-name="12+" transform="translate(371 1342)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">12+</tspan></text>
+          </g>
+        </g>
+      </g>
+      <text id="Folder_Name_2_lines_23" data-name="Folder Name (2 lines)" transform="translate(10 1049)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="-0.01em"><tspan x="0" y="0">Bookkeeping</tspan></text>
+    </g>
+    <g id="Group_165851" data-name="Group 165851" transform="translate(0 -100)">
+      <g id="Group_165389" data-name="Group 165389" transform="translate(-12)">
+        <text id="Folder_Name_2_lines_24" data-name="Folder Name (2 lines)" transform="translate(23 377)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">2022</tspan><tspan x="0" y="18">Financial </tspan><tspan x="0" y="36">Documents</tspan></text>
+        <g id="Folder_Secure-4" data-name="Folder / Secure" transform="translate(22 285)">
+          <rect id="Base-4" data-name="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="none"/>
+          <rect id="Rectangle_13-4" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#f9ac19"/>
+          <path id="Rectangle_14-4" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#f9ac19"/>
+          <g id="Lock-4" data-name="Lock" transform="translate(64.055 39.225)" opacity="0.113">
+            <path id="Path_840-4" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+            <path id="Path_841-4" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_165390" data-name="Group 165390" transform="translate(29)">
+        <text id="Folder_Name_2_lines_25" data-name="Folder Name (2 lines)" transform="translate(144 377)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Jan &apos;23</tspan><tspan x="0" y="18">Financial </tspan><tspan x="0" y="36">Documents</tspan></text>
+        <g id="Folder_Secure-5" data-name="Folder / Secure" transform="translate(143 285)">
+          <rect id="Base-5" data-name="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="none"/>
+          <rect id="Rectangle_13-5" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#f9ac19"/>
+          <path id="Rectangle_14-5" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#f9ac19"/>
+          <g id="Lock-5" data-name="Lock" transform="translate(64.055 39.225)" opacity="0.113">
+            <path id="Path_840-5" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+            <path id="Path_841-5" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_165391" data-name="Group 165391" transform="translate(70)">
+        <text id="Folder_Name_2_lines_26" data-name="Folder Name (2 lines)" transform="translate(265 377)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Feb &apos;23 </tspan><tspan x="0" y="18">Financial </tspan><tspan x="0" y="36">Documents</tspan></text>
+        <g id="Folder_Secure-6" data-name="Folder / Secure" transform="translate(264 285)">
+          <rect id="Base-6" data-name="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="none"/>
+          <rect id="Rectangle_13-6" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#f9ac19"/>
+          <path id="Rectangle_14-6" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#f9ac19"/>
+          <g id="Lock-6" data-name="Lock" transform="translate(64.055 39.225)" opacity="0.113">
+            <path id="Path_840-6" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+            <path id="Path_841-6" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_165392" data-name="Group 165392" transform="translate(-12 -4)">
+        <text id="Folder_Name_2_lines_27" data-name="Folder Name (2 lines)" transform="translate(23 524)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Mar &apos;23 </tspan><tspan x="0" y="18">Financial </tspan><tspan x="0" y="36">Documents</tspan></text>
+        <g id="Folder_Secure-7" data-name="Folder / Secure" transform="translate(22 432)">
+          <rect id="Base-7" data-name="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="none"/>
+          <rect id="Rectangle_13-7" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#f9ac19"/>
+          <path id="Rectangle_14-7" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#f9ac19"/>
+          <g id="Lock-7" data-name="Lock" transform="translate(64.055 39.225)" opacity="0.113">
+            <path id="Path_840-7" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+            <path id="Path_841-7" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_165393" data-name="Group 165393" transform="translate(29 -4)">
+        <text id="Folder_Name_2_lines_28" data-name="Folder Name (2 lines)" transform="translate(144 524)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">Apr &apos;23 </tspan><tspan x="0" y="18">Financial </tspan><tspan x="0" y="36">Documents</tspan></text>
+        <g id="Folder_Secure-8" data-name="Folder / Secure" transform="translate(143 432)">
+          <rect id="Base-8" data-name="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="none"/>
+          <rect id="Rectangle_13-8" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#f9ac19"/>
+          <path id="Rectangle_14-8" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#f9ac19"/>
+          <g id="Lock-8" data-name="Lock" transform="translate(64.055 39.225)" opacity="0.113">
+            <path id="Path_840-8" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+            <path id="Path_841-8" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_165394" data-name="Group 165394" transform="translate(70 -4)">
+        <text id="Folder_Name_2_lines_29" data-name="Folder Name (2 lines)" transform="translate(265 524)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="-0.016em"><tspan x="0" y="0">May &apos;23 </tspan><tspan x="0" y="18">Financial </tspan><tspan x="0" y="36">Documents</tspan></text>
+        <g id="Folder_Secure-9" data-name="Folder / Secure" transform="translate(264 432)">
+          <rect id="Base-9" data-name="Base" width="50.184" height="50.184" transform="translate(35 10)" fill="none"/>
+          <rect id="Rectangle_13-9" data-name="Rectangle 13" width="85" height="57" rx="5" transform="translate(0 7)" fill="#f9ac19"/>
+          <path id="Rectangle_14-9" data-name="Rectangle 14" d="M2,0H59a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(12)" fill="#f9ac19"/>
+          <g id="Lock-9" data-name="Lock" transform="translate(64.055 39.225)" opacity="0.113">
+            <path id="Path_840-9" data-name="Path 840" d="M168.889,20.932v-1.7a2.923,2.923,0,0,0-2.923-2.923h0a2.923,2.923,0,0,0-2.923,2.923v1.7" transform="translate(-160.608 -16.304)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+            <path id="Path_841-9" data-name="Path 841" d="M91.264,220.724H82.5a.974.974,0,0,1-.974-.974v-6.819a.974.974,0,0,1,.974-.974h8.768a.974.974,0,0,1,.974.974v6.819A.974.974,0,0,1,91.264,220.724Z" transform="translate(-81.522 -206.111)" fill="none" stroke="#3c3c3c" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container)">
+      <path id="Heading_Container-3" data-name="Heading Container" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+    </g>
+    <g id="Profile" transform="translate(-177.188 0.768)">
+      <text id="Bezalel_Sons" data-name="Bezalel &amp; Sons" transform="translate(266 50)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Bezalel &amp; Sons</tspan></text>
+      <text id="Admin" transform="translate(293 65)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Admin</tspan></text>
+      <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M15.006,18.288l6.666-6.672a1.255,1.255,0,0,1,1.779,0,1.271,1.271,0,0,1,0,1.785L15.9,20.96A1.258,1.258,0,0,1,14.161,21l-7.606-7.59a1.26,1.26,0,0,1,1.779-1.785Z" transform="translate(368.37 28.753)" fill="#002e6b" opacity="0.8"/>
+      <g id="Group_164492" data-name="Group 164492" transform="translate(225.07 33.172)">
+        <g id="Group_164493" data-name="Group 164493" transform="translate(10.952 7.24)">
+          <g id="Group_164492-2" data-name="Group 164492" transform="translate(0.4 3.507)">
+            <circle id="Ellipse_9611" data-name="Ellipse 9611" cx="5.316" cy="5.316" r="5.316" fill="#a0616a"/>
+            <path id="Path_84440" data-name="Path 84440" d="M199.288,310.308l1.108-2.832,5.725-.862.615,6.268-5.787.123Z" transform="translate(-198.372 -298.486)" fill="#a0616a"/>
+          </g>
+          <path id="Path_84441" data-name="Path 84441" d="M189,127.417c-.069.276-.208.934-.426.938a9.7,9.7,0,0,1-.171-3.325c.2-.543-.332-1.229-.737-1.581-.727-.633-2.34.727-3.98.111-.043-.016-.035-.014-.553-.221a11.7,11.7,0,0,0-1.769-.663,2.4,2.4,0,0,0-2.1,1.327c-.4.8-.066,1.489-.442,3.427-.044.226-.113.548-.221.553-.2.009-.392-1.05-.442-1.327a6.746,6.746,0,0,1,0-3.538c.045-.137.326-.646.884-1.658.8-1.458,1.21-2.19,1.327-2.322a3.968,3.968,0,0,1,3.648-1.437c.648.185.532.484,1.327.774,1.416.517,2.647-.115,2.874.332.12.237-.216.432-.221.884-.008.776.974,1,1.548,1.769.309.413.837.417-.546,5.958h0Z" transform="translate(-177.913 -117.613)" fill="#2f2e41"/>
+        </g>
+        <path id="Path_84442" data-name="Path 84442" d="M104.662,357.053q-.321.361-.667.707a16.379,16.379,0,0,1-21.844,1.181l0,0q-.577-.465-1.117-.989.01-.081.022-.161c.05-.357.106-.7.169-1.011.514-2.568,7.278-5.265,7.454-5.335h0a4.576,4.576,0,0,0,4.6,3.167c2.541-.028,2.048-3.167,2.048-3.167l.089.018c.734.156,5.829,1.275,7.838,2.8a5,5,0,0,1,1.368,2.638C104.636,356.95,104.649,357,104.662,357.053Z" transform="translate(-76.042 -329.805)" fill="#6c63ff"/>
+        <path id="Path_84443" data-name="Path 84443" d="M27.954,4.8A16.375,16.375,0,0,0,0,16.375,16.251,16.251,0,0,0,4.019,27.122q.372.428.777.832c.063.063.127.127.192.188q.539.523,1.117.989l0,0a16.379,16.379,0,0,0,21.844-1.181q.345-.345.667-.707A16.376,16.376,0,0,0,27.954,4.8Zm.627,22.3a16.363,16.363,0,0,1-5.041,3.867q-.664.328-1.36.6a16.2,16.2,0,0,1-13.5-.868q-.147-.079-.292-.161a16.389,16.389,0,0,1-3.38-2.545q-.5-.488-.954-1.018a16.252,16.252,0,1,1,24.524.13Z" transform="translate(0 0)" fill="#3f3d56"/>
+      </g>
+    </g>
+    <g id="Group_165388" data-name="Group 165388">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container-2)">
+        <path id="Heading_Container-4" data-name="Heading Container" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+      </g>
+      <g id="Group_162179" data-name="Group 162179" transform="translate(-20)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="186" height="41" rx="20.5" transform="translate(141 32)" fill="#01ffff"/>
+        <text id="Financial_Reports" data-name="Financial Reports" transform="translate(158 59)" fill="#002e6b" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Financial Reports</tspan></text>
+      </g>
+    </g>
+    <g id="Battery_Network_Time_Bar" data-name="Battery/Network/Time Bar" transform="translate(-16 1)">
+      <g id="Pin-Right" transform="translate(379.354 4.5)">
+        <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+        <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+      </g>
+      <text id="_9:41_AM" data-name="9:41 AM" transform="translate(206.938 17)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+      <g id="Signal" transform="translate(25 4.5)">
+        <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+        <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.321,18l8.937-8.93a1.688,1.688,0,0,0-2.391-2.384L11.742,16.8a1.685,1.685,0,0,0-.049,2.327L21.86,29.32a1.688,1.688,0,0,0,2.391-2.384Z" transform="translate(-2.754 22.541)" fill="#002e6b"/>
+    <g id="Group_165849" data-name="Group 165849" transform="translate(-8 24)">
+      <g id="Group_164381" data-name="Group 164381" transform="translate(-0.596 -88)">
+        <text id="Sort_by" data-name="Sort by" transform="translate(16.595 217)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">SORT BY</tspan></text>
+        <path id="Icon_awesome-caret-down" data-name="Icon awesome-caret-down" d="M2.2,13.5H20.292a1.4,1.4,0,0,1,.991,2.4l-9.042,9.049a1.409,1.409,0,0,1-1.99,0L1.209,15.9A1.4,1.4,0,0,1,2.2,13.5Z" transform="translate(80.754 192.5)" fill="#cecece"/>
+      </g>
+      <g id="Group_164381-2" data-name="Group 164381" transform="translate(185.096 -86)">
+        <text id="More_filters" data-name="More filters" transform="translate(120 215)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">MORE FILTERS</tspan></text>
+        <path id="Icon_awesome-caret-down-2" data-name="Icon awesome-caret-down" d="M2.2,13.5H20.292a1.4,1.4,0,0,1,.991,2.4l-9.042,9.049a1.409,1.409,0,0,1-1.99,0L1.209,15.9A1.4,1.4,0,0,1,2.2,13.5Z" transform="translate(221.206 190.5)" fill="#cecece"/>
+      </g>
+    </g>
+    <g id="Group_165850" data-name="Group 165850" transform="translate(3 -2)">
+      <g id="Rectangle_303" data-name="Rectangle 303" transform="translate(8 100)" fill="#fff" stroke="#dededf" stroke-width="1">
+        <rect width="241" height="29" rx="14.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="28" rx="14" fill="none"/>
+      </g>
+      <text id="Search_Financial_Reports" data-name="Search Financial Reports" transform="translate(21 120)" fill="rgba(0,0,0,0.4)" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Search Financial Reports</tspan></text>
+      <path id="search" d="M13.75,12.054,11.036,9.339a.653.653,0,0,0-.463-.191h-.444a5.661,5.661,0,1,0-.98.98v.444a.653.653,0,0,0,.191.463l2.715,2.715a.651.651,0,0,0,.923,0l.771-.771A.657.657,0,0,0,13.75,12.054ZM5.663,9.149A3.485,3.485,0,1,1,9.149,5.663,3.483,3.483,0,0,1,5.663,9.149Z" transform="translate(222.03 108)" fill="#c4c4c4"/>
+    </g>
+  </g>
+</svg>

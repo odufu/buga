@@ -1,0 +1,319 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="1385" viewBox="0 0 428 1385">
+  <defs>
+    <filter id="Rectangle_149019" x="-6.5" y="385.464" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149020" x="-6.5" y="456.964" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149021" x="-6.5" y="242.5" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149022" x="-6.5" y="314" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149025" x="-7" y="528.5" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149019-2" x="-6.5" y="754.464" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149020-2" x="-6.5" y="825.964" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149021-2" x="-6.5" y="611.5" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149022-2" x="-6.5" y="683" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149025-2" x="-7" y="897.5" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149019-3" x="-6.5" y="1123.464" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149020-3" x="-6.5" y="1194.964" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149021-3" x="-6.5" y="980.5" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149022-3" x="-6.5" y="1052" width="442" height="91.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bbe242b310de7a804a25b5766782ff47" x="-9" y="-8" width="446" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-color="#c4bfbf" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="bbe242b310de7a804a25b5766782ff47-2" x="-9" y="-8" width="446" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-16"/>
+      <feFlood flood-color="#c4bfbf" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_82_Sales_Screen">
+      <rect width="428" height="1385"/>
+    </clipPath>
+  </defs>
+  <g id="_82_Sales_Screen" data-name="82 Sales Screen" clip-path="url(#clip-_82_Sales_Screen)">
+    <rect width="428" height="1385" fill="#fff"/>
+    <g id="Time_switch" data-name="Time switch" transform="translate(8 178.5)">
+      <text id="Weeks" transform="translate(177 18)" fill="#afafaf" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" opacity="0.8"><tspan x="0" y="0">Weeks</tspan></text>
+      <text id="Months" transform="translate(350 18)" fill="#afafaf" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" opacity="0.8"><tspan x="0" y="0">Months</tspan></text>
+      <text id="Days" transform="translate(8 19)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Days</tspan></text>
+      <line id="Line_1044" data-name="Line 1044" x2="53.25" transform="translate(5.25 26.5)" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-width="2.5"/>
+      <text id="Fri_22nd_May_2023" data-name="Fri, 22nd  May 2023" transform="translate(120.5 62)" fill="#cecece" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0" xml:space="preserve">Fri, 22nd  May 2023</tspan></text>
+      <g id="Group_165313" data-name="Group 165313">
+        <g id="Group_165005" data-name="Group 165005" transform="translate(21954.5 16486)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -16664.5)" filter="url(#Rectangle_149019)">
+            <rect id="Rectangle_149019-4" data-name="Rectangle 149019" width="412" height="61.5" rx="10" transform="translate(8.5 399.46)" fill="#fff"/>
+          </g>
+          <text id="_1:30_PM" data-name="1:30 PM" transform="translate(-21911 -16214.915)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">1:30 PM</tspan></text>
+          <text id="NIKE_Air_Max_270" data-name="NIKE Air Max 270" transform="translate(-21687 -16240)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_1_others" data-name="+ 1 others" transform="translate(-21663 -16217)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 1 others</tspan></text>
+          <text id="_3_500.99" data-name="₦3,500.99" transform="translate(-21911 -16240.036)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">3,500.99</tspan></text>
+          <path id="Icon_awesome-money-bill-alt" data-name="Icon awesome-money-bill-alt" d="M13.5,13.091h-.614V9.716a.307.307,0,0,0-.307-.307h-.521a.919.919,0,0,0-.51.155l-.588.392a.307.307,0,0,0-.085.425l.341.51a.307.307,0,0,0,.425.085l.018-.012v2.126h-.614a.307.307,0,0,0-.307.307v.614a.307.307,0,0,0,.307.307H13.5a.307.307,0,0,0,.307-.307V13.4A.307.307,0,0,0,13.5,13.091ZM23.32,4.5H1.227A1.227,1.227,0,0,0,0,5.727V18a1.227,1.227,0,0,0,1.227,1.227H23.32A1.227,1.227,0,0,0,24.547,18V5.727A1.227,1.227,0,0,0,23.32,4.5ZM1.841,17.387V14.932A2.455,2.455,0,0,1,4.3,17.387Zm0-8.591V6.341H4.3A2.455,2.455,0,0,1,1.841,8.8ZM12.273,16.16c-2.034,0-3.682-1.923-3.682-4.3s1.648-4.3,3.682-4.3,3.682,1.923,3.682,4.3S14.306,16.16,12.273,16.16Zm10.432,1.227H20.251a2.455,2.455,0,0,1,2.455-2.455Zm0-8.591a2.455,2.455,0,0,1-2.455-2.455h2.455Z" transform="translate(-21942.99 -16261.493)" fill="#01ffff"/>
+        </g>
+        <g id="Group_165006" data-name="Group 165006" transform="translate(21954.5 16487)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -16665.5)" filter="url(#Rectangle_149020)">
+            <rect id="Rectangle_149020-4" data-name="Rectangle 149020" width="412" height="61.5" rx="10" transform="translate(8.5 470.96)" fill="#fff"/>
+          </g>
+          <text id="_1:25_PM" data-name="1:25 PM" transform="translate(-21911 -16144.415)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">1:25 PM</tspan></text>
+          <text id="NIKE_Air_Max_270-2" data-name="NIKE Air Max 270" transform="translate(-21687 -16169.5)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_2_others" data-name="+ 2 others" transform="translate(-21663 -16146.5)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 2 others</tspan></text>
+          <text id="_3_500.99-2" data-name="₦3,500.99" transform="translate(-21911 -16169.536)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">3,500.99</tspan></text>
+          <path id="Icon_awesome-money-bill-alt-2" data-name="Icon awesome-money-bill-alt" d="M13.5,13.091h-.614V9.716a.307.307,0,0,0-.307-.307h-.521a.919.919,0,0,0-.51.155l-.588.392a.307.307,0,0,0-.085.425l.341.51a.307.307,0,0,0,.425.085l.018-.012v2.126h-.614a.307.307,0,0,0-.307.307v.614a.307.307,0,0,0,.307.307H13.5a.307.307,0,0,0,.307-.307V13.4A.307.307,0,0,0,13.5,13.091ZM23.32,4.5H1.227A1.227,1.227,0,0,0,0,5.727V18a1.227,1.227,0,0,0,1.227,1.227H23.32A1.227,1.227,0,0,0,24.547,18V5.727A1.227,1.227,0,0,0,23.32,4.5ZM1.841,17.387V14.932A2.455,2.455,0,0,1,4.3,17.387Zm0-8.591V6.341H4.3A2.455,2.455,0,0,1,1.841,8.8ZM12.273,16.16c-2.034,0-3.682-1.923-3.682-4.3s1.648-4.3,3.682-4.3,3.682,1.923,3.682,4.3S14.306,16.16,12.273,16.16Zm10.432,1.227H20.251a2.455,2.455,0,0,1,2.455-2.455Zm0-8.591a2.455,2.455,0,0,1-2.455-2.455h2.455Z" transform="translate(-21942.99 -16190.993)" fill="#01ffff"/>
+        </g>
+        <g id="Group_165007" data-name="Group 165007" transform="translate(21954.5 16495)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -16673.5)" filter="url(#Rectangle_149021)">
+            <rect id="Rectangle_149021-4" data-name="Rectangle 149021" width="412" height="61.5" rx="10" transform="translate(8.5 256.5)" fill="#fff"/>
+          </g>
+          <text id="Just_now" data-name="Just now" transform="translate(-21911 -16366.879)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">Just now</tspan></text>
+          <text id="NIKE_Air_Max_270-3" data-name="NIKE Air Max 270" transform="translate(-21687 -16393)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_3_others" data-name="+ 3 others" transform="translate(-21663 -16370)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 3 others</tspan></text>
+          <text id="_14_989.99" data-name="₦14,989.99" transform="translate(-21911 -16392)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">14,989.99</tspan></text>
+          <path id="Union_290" data-name="Union 290" d="M22512.139,14357.235a1.1,1.1,0,0,1-.814-.334.957.957,0,0,1-.352-.758v-13.705a.975.975,0,0,1,.352-.763,1.1,1.1,0,0,1,.814-.328h8.758a1.082,1.082,0,0,1,.809.328.961.961,0,0,1,.35.763v13.705a.943.943,0,0,1-.35.758,1.087,1.087,0,0,1-.809.334Zm7.135-.865h1.623a.227.227,0,0,0,.158-.073c.057-.018.084-.068.084-.153v-13.705c0-.084-.027-.136-.084-.152a.236.236,0,0,0-.158-.079h-1.623Zm-7.3-14.084c-.051.017-.08.068-.08.152v13.705c0,.085.029.136.08.153a.239.239,0,0,0,.164.073h4.375v-14.163h-4.375A.248.248,0,0,0,22511.975,14342.286Zm.836,5.987v-2.589h.949v2.589Zm0-3.448v-1.753h.949v1.753Zm10.566-3.223a1.175,1.175,0,0,0-.424-.859,1.344,1.344,0,0,0-.982-.4h-10.59a1.355,1.355,0,0,0-.984.4,1.156,1.156,0,0,0-.418.859h-1.793a3.133,3.133,0,0,1-3.184-3.076v-18.448a3.133,3.133,0,0,1,3.184-3.076h16.979a3.138,3.138,0,0,1,3.189,3.076v18.448a3.138,3.138,0,0,1-3.189,3.076Zm-16.254-21.524v18.448a1.048,1.048,0,0,0,1.063,1.029h16.979a1.048,1.048,0,0,0,1.063-1.029v-18.448a1.048,1.048,0,0,0-1.062-1.029h-16.979A1.048,1.048,0,0,0,22507.123,14320.078Zm13.795,17.425v-7.175h4.246v7.175Zm1.063-1.023h2.127v-5.128h-2.127Zm-2.125,1.023h-3.178v-3.075h3.184v3.075Zm-2.121-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.057-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.063-1.023h1.059v-1.028h-1.059Zm10.607-3.075h-3.178v-3.076h3.184v3.076Zm-2.121-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.057-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.063-1.029h1.059v-1.023h-1.059Zm-1.062-3.076v-9.221h16.979v9.221Zm1.063-1.022h14.859v-7.175h-14.859Zm5.3-1.023v-1.029h1.063v1.029Zm-2.121,0v-1.029h1.057v1.029Zm-2.125,0v-1.029h1.063v1.029Z" transform="translate(-44446.797 -30728.002)" fill="#002d6a"/>
+        </g>
+        <g id="Group_165008" data-name="Group 165008" transform="translate(21954.5 16496)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -16674.5)" filter="url(#Rectangle_149022)">
+            <rect id="Rectangle_149022-4" data-name="Rectangle 149022" width="412" height="61.5" rx="10" transform="translate(8.5 328)" fill="#fff"/>
+          </g>
+          <text id="_5_mins_ago" data-name="5 mins ago" transform="translate(-21911 -16296.379)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">5 mins ago</tspan></text>
+          <text id="NIKE_Air_Max_270-4" data-name="NIKE Air Max 270" transform="translate(-21687 -16310)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_10_150.99" data-name="₦10,150.99" transform="translate(-21911 -16321.5)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">10,150.99</tspan></text>
+          <path id="Union_291" data-name="Union 291" d="M22512.139,14357.235a1.1,1.1,0,0,1-.814-.334.957.957,0,0,1-.352-.758v-13.705a.975.975,0,0,1,.352-.763,1.1,1.1,0,0,1,.814-.328h8.758a1.082,1.082,0,0,1,.809.328.961.961,0,0,1,.35.763v13.705a.943.943,0,0,1-.35.758,1.087,1.087,0,0,1-.809.334Zm7.135-.865h1.623a.227.227,0,0,0,.158-.073c.057-.018.084-.068.084-.153v-13.705c0-.084-.027-.136-.084-.152a.236.236,0,0,0-.158-.079h-1.623Zm-7.3-14.084c-.051.017-.08.068-.08.152v13.705c0,.085.029.136.08.153a.239.239,0,0,0,.164.073h4.375v-14.163h-4.375A.248.248,0,0,0,22511.975,14342.286Zm.836,5.987v-2.589h.949v2.589Zm0-3.448v-1.753h.949v1.753Zm10.566-3.223a1.175,1.175,0,0,0-.424-.859,1.344,1.344,0,0,0-.982-.4h-10.59a1.355,1.355,0,0,0-.984.4,1.156,1.156,0,0,0-.418.859h-1.793a3.133,3.133,0,0,1-3.184-3.076v-18.448a3.133,3.133,0,0,1,3.184-3.076h16.979a3.138,3.138,0,0,1,3.189,3.076v18.448a3.138,3.138,0,0,1-3.189,3.076Zm-16.254-21.524v18.448a1.048,1.048,0,0,0,1.063,1.029h16.979a1.048,1.048,0,0,0,1.063-1.029v-18.448a1.048,1.048,0,0,0-1.062-1.029h-16.979A1.048,1.048,0,0,0,22507.123,14320.078Zm13.795,17.425v-7.175h4.246v7.175Zm1.063-1.023h2.127v-5.128h-2.127Zm-2.125,1.023h-3.178v-3.075h3.184v3.075Zm-2.121-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.057-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.063-1.023h1.059v-1.028h-1.059Zm10.607-3.075h-3.178v-3.076h3.184v3.076Zm-2.121-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.057-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.063-1.029h1.059v-1.023h-1.059Zm-1.062-3.076v-9.221h16.979v9.221Zm1.063-1.022h14.859v-7.175h-14.859Zm5.3-1.023v-1.029h1.063v1.029Zm-2.121,0v-1.029h1.057v1.029Zm-2.125,0v-1.029h1.063v1.029Z" transform="translate(-44446.797 -30657.502)" fill="#002d6a"/>
+        </g>
+        <g id="Group_165011" data-name="Group 165011" transform="translate(21954 16781)">
+          <g transform="matrix(1, 0, 0, 1, -21962, -16959.5)" filter="url(#Rectangle_149025)">
+            <rect id="Rectangle_149025-3" data-name="Rectangle 149025" width="412" height="61.5" rx="10" transform="translate(8 542.5)" fill="#fff"/>
+          </g>
+          <text id="_1:20_PM" data-name="1:20 PM" transform="translate(-21911 -16366.879)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">1:20 PM</tspan></text>
+          <text id="NIKE_Air_Max_270-5" data-name="NIKE Air Max 270" transform="translate(-21687 -16393)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_3_others-2" data-name="+ 3 others" transform="translate(-21663 -16370)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 3 others</tspan></text>
+          <text id="_14_989.99-2" data-name="₦14,989.99" transform="translate(-21911 -16392)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">14,989.99</tspan></text>
+          <path id="Union_299" data-name="Union 299" d="M.819,30.03A.85.85,0,0,1,0,29.157V23.924a.85.85,0,0,1,.819-.873H3.66L6.041,21a5.78,5.78,0,0,1,3.791-1.435h8.194a1.746,1.746,0,0,1-.086,3.489H13.931a.874.874,0,0,0,0,1.745h6.057a3.146,3.146,0,0,0,2.05-.763L26.767,20a1.622,1.622,0,0,1,2.185,0,1.818,1.818,0,0,1-.07,2.666l-7.744,6.6a3.167,3.167,0,0,1-2.05.763ZM17.688,17.223V16.068c0,.532,1.348.963,3.012.963s3.011-.431,3.011-.963v1.156c0,.533-1.348.964-3.011.964S17.688,17.756,17.688,17.223ZM9.2,17.61a6.352,6.352,0,0,1-2.351-.863c-.752-.708-1.058-1.7-1.058-3.433a5.542,5.542,0,0,1,1.058-3.7,38.867,38.867,0,0,1,3.6-3.695h5.91l.01.01c.25.256,2.471,2.529,3.332,3.685a4.622,4.622,0,0,1,1,2.1h-.022c-1.8,0-3.272.466-3.272,1.039v.831a.269.269,0,0,0,0,.05l0,3.994A22.5,22.5,0,0,1,13,18.187,21.532,21.532,0,0,1,9.2,17.61Zm2.823-6.753h.607l.623,1.26h.728v-1.26h.368v-.429H13.98v-.256h.368V9.743H13.98V8.617h-.662V9.743H12.68l-.542-1.126H11.36V9.743h-.339v.429h.339v.256h-.339v.429h.339v1.26h.661V10.859h0Zm5.665,4.631V14.333c0,.533,1.348.964,3.012.964s3.011-.431,3.011-.964v1.156c0,.533-1.348.964-3.011.964S17.688,16.022,17.688,15.489Zm0-1.734v-.771c0-.532,1.348-.963,3.012-.963s3.011.431,3.011.963v.771c0,.532-1.348.964-3.011.964S17.688,14.287,17.688,13.755Zm-4.371-3.326h-.3l-.124-.256h.429v.256h0Zm-2.962-4.5a.854.854,0,0,1,0-1.707h.534L9.6,1.055h2.558C12.183.879,12.372,0,13.229,0h.078c.933,0,1.112,1.011,1.12,1.054h2.606L15.814,4.217h.41a.854.854,0,1,1,0,1.707Z" transform="translate(-21944.5 -16411.5)" fill="#f2e200"/>
+        </g>
+      </g>
+      <g id="Group_165314" data-name="Group 165314" transform="translate(0 369)">
+        <g id="Group_165005-2" data-name="Group 165005" transform="translate(21954.5 16486)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -17033.5)" filter="url(#Rectangle_149019-2)">
+            <rect id="Rectangle_149019-5" data-name="Rectangle 149019" width="412" height="61.5" rx="10" transform="translate(8.5 768.46)" fill="#fff"/>
+          </g>
+          <text id="_1:30_PM-2" data-name="1:30 PM" transform="translate(-21911 -16214.915)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">1:30 PM</tspan></text>
+          <text id="NIKE_Air_Max_270-6" data-name="NIKE Air Max 270" transform="translate(-21687 -16240)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_1_others-2" data-name="+ 1 others" transform="translate(-21663 -16217)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 1 others</tspan></text>
+          <text id="_3_500.99-3" data-name="₦3,500.99" transform="translate(-21911 -16240.036)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">3,500.99</tspan></text>
+          <path id="Icon_awesome-money-bill-alt-3" data-name="Icon awesome-money-bill-alt" d="M13.5,13.091h-.614V9.716a.307.307,0,0,0-.307-.307h-.521a.919.919,0,0,0-.51.155l-.588.392a.307.307,0,0,0-.085.425l.341.51a.307.307,0,0,0,.425.085l.018-.012v2.126h-.614a.307.307,0,0,0-.307.307v.614a.307.307,0,0,0,.307.307H13.5a.307.307,0,0,0,.307-.307V13.4A.307.307,0,0,0,13.5,13.091ZM23.32,4.5H1.227A1.227,1.227,0,0,0,0,5.727V18a1.227,1.227,0,0,0,1.227,1.227H23.32A1.227,1.227,0,0,0,24.547,18V5.727A1.227,1.227,0,0,0,23.32,4.5ZM1.841,17.387V14.932A2.455,2.455,0,0,1,4.3,17.387Zm0-8.591V6.341H4.3A2.455,2.455,0,0,1,1.841,8.8ZM12.273,16.16c-2.034,0-3.682-1.923-3.682-4.3s1.648-4.3,3.682-4.3,3.682,1.923,3.682,4.3S14.306,16.16,12.273,16.16Zm10.432,1.227H20.251a2.455,2.455,0,0,1,2.455-2.455Zm0-8.591a2.455,2.455,0,0,1-2.455-2.455h2.455Z" transform="translate(-21942.99 -16261.493)" fill="#01ffff"/>
+        </g>
+        <g id="Group_165006-2" data-name="Group 165006" transform="translate(21954.5 16487)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -17034.5)" filter="url(#Rectangle_149020-2)">
+            <rect id="Rectangle_149020-5" data-name="Rectangle 149020" width="412" height="61.5" rx="10" transform="translate(8.5 839.96)" fill="#fff"/>
+          </g>
+          <text id="_1:25_PM-2" data-name="1:25 PM" transform="translate(-21911 -16144.415)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">1:25 PM</tspan></text>
+          <text id="NIKE_Air_Max_270-7" data-name="NIKE Air Max 270" transform="translate(-21687 -16169.5)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_2_others-2" data-name="+ 2 others" transform="translate(-21663 -16146.5)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 2 others</tspan></text>
+          <text id="_3_500.99-4" data-name="₦3,500.99" transform="translate(-21911 -16169.536)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">3,500.99</tspan></text>
+          <path id="Icon_awesome-money-bill-alt-4" data-name="Icon awesome-money-bill-alt" d="M13.5,13.091h-.614V9.716a.307.307,0,0,0-.307-.307h-.521a.919.919,0,0,0-.51.155l-.588.392a.307.307,0,0,0-.085.425l.341.51a.307.307,0,0,0,.425.085l.018-.012v2.126h-.614a.307.307,0,0,0-.307.307v.614a.307.307,0,0,0,.307.307H13.5a.307.307,0,0,0,.307-.307V13.4A.307.307,0,0,0,13.5,13.091ZM23.32,4.5H1.227A1.227,1.227,0,0,0,0,5.727V18a1.227,1.227,0,0,0,1.227,1.227H23.32A1.227,1.227,0,0,0,24.547,18V5.727A1.227,1.227,0,0,0,23.32,4.5ZM1.841,17.387V14.932A2.455,2.455,0,0,1,4.3,17.387Zm0-8.591V6.341H4.3A2.455,2.455,0,0,1,1.841,8.8ZM12.273,16.16c-2.034,0-3.682-1.923-3.682-4.3s1.648-4.3,3.682-4.3,3.682,1.923,3.682,4.3S14.306,16.16,12.273,16.16Zm10.432,1.227H20.251a2.455,2.455,0,0,1,2.455-2.455Zm0-8.591a2.455,2.455,0,0,1-2.455-2.455h2.455Z" transform="translate(-21942.99 -16190.993)" fill="#01ffff"/>
+        </g>
+        <g id="Group_165007-2" data-name="Group 165007" transform="translate(21954.5 16495)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -17042.5)" filter="url(#Rectangle_149021-2)">
+            <rect id="Rectangle_149021-5" data-name="Rectangle 149021" width="412" height="61.5" rx="10" transform="translate(8.5 625.5)" fill="#fff"/>
+          </g>
+          <text id="Just_now-2" data-name="Just now" transform="translate(-21911 -16366.879)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">Just now</tspan></text>
+          <text id="NIKE_Air_Max_270-8" data-name="NIKE Air Max 270" transform="translate(-21687 -16393)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_3_others-3" data-name="+ 3 others" transform="translate(-21663 -16370)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 3 others</tspan></text>
+          <text id="_14_989.99-3" data-name="₦14,989.99" transform="translate(-21911 -16392)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">14,989.99</tspan></text>
+          <path id="Union_290-2" data-name="Union 290" d="M22512.139,14357.235a1.1,1.1,0,0,1-.814-.334.957.957,0,0,1-.352-.758v-13.705a.975.975,0,0,1,.352-.763,1.1,1.1,0,0,1,.814-.328h8.758a1.082,1.082,0,0,1,.809.328.961.961,0,0,1,.35.763v13.705a.943.943,0,0,1-.35.758,1.087,1.087,0,0,1-.809.334Zm7.135-.865h1.623a.227.227,0,0,0,.158-.073c.057-.018.084-.068.084-.153v-13.705c0-.084-.027-.136-.084-.152a.236.236,0,0,0-.158-.079h-1.623Zm-7.3-14.084c-.051.017-.08.068-.08.152v13.705c0,.085.029.136.08.153a.239.239,0,0,0,.164.073h4.375v-14.163h-4.375A.248.248,0,0,0,22511.975,14342.286Zm.836,5.987v-2.589h.949v2.589Zm0-3.448v-1.753h.949v1.753Zm10.566-3.223a1.175,1.175,0,0,0-.424-.859,1.344,1.344,0,0,0-.982-.4h-10.59a1.355,1.355,0,0,0-.984.4,1.156,1.156,0,0,0-.418.859h-1.793a3.133,3.133,0,0,1-3.184-3.076v-18.448a3.133,3.133,0,0,1,3.184-3.076h16.979a3.138,3.138,0,0,1,3.189,3.076v18.448a3.138,3.138,0,0,1-3.189,3.076Zm-16.254-21.524v18.448a1.048,1.048,0,0,0,1.063,1.029h16.979a1.048,1.048,0,0,0,1.063-1.029v-18.448a1.048,1.048,0,0,0-1.062-1.029h-16.979A1.048,1.048,0,0,0,22507.123,14320.078Zm13.795,17.425v-7.175h4.246v7.175Zm1.063-1.023h2.127v-5.128h-2.127Zm-2.125,1.023h-3.178v-3.075h3.184v3.075Zm-2.121-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.057-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.063-1.023h1.059v-1.028h-1.059Zm10.607-3.075h-3.178v-3.076h3.184v3.076Zm-2.121-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.057-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.063-1.029h1.059v-1.023h-1.059Zm-1.062-3.076v-9.221h16.979v9.221Zm1.063-1.022h14.859v-7.175h-14.859Zm5.3-1.023v-1.029h1.063v1.029Zm-2.121,0v-1.029h1.057v1.029Zm-2.125,0v-1.029h1.063v1.029Z" transform="translate(-44446.797 -30728.002)" fill="#002d6a"/>
+        </g>
+        <g id="Group_165008-2" data-name="Group 165008" transform="translate(21954.5 16496)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -17043.5)" filter="url(#Rectangle_149022-2)">
+            <rect id="Rectangle_149022-5" data-name="Rectangle 149022" width="412" height="61.5" rx="10" transform="translate(8.5 697)" fill="#fff"/>
+          </g>
+          <text id="_5_mins_ago-2" data-name="5 mins ago" transform="translate(-21911 -16296.379)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">5 mins ago</tspan></text>
+          <text id="NIKE_Air_Max_270-9" data-name="NIKE Air Max 270" transform="translate(-21687 -16310)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_10_150.99-2" data-name="₦10,150.99" transform="translate(-21911 -16321.5)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">10,150.99</tspan></text>
+          <path id="Union_291-2" data-name="Union 291" d="M22512.139,14357.235a1.1,1.1,0,0,1-.814-.334.957.957,0,0,1-.352-.758v-13.705a.975.975,0,0,1,.352-.763,1.1,1.1,0,0,1,.814-.328h8.758a1.082,1.082,0,0,1,.809.328.961.961,0,0,1,.35.763v13.705a.943.943,0,0,1-.35.758,1.087,1.087,0,0,1-.809.334Zm7.135-.865h1.623a.227.227,0,0,0,.158-.073c.057-.018.084-.068.084-.153v-13.705c0-.084-.027-.136-.084-.152a.236.236,0,0,0-.158-.079h-1.623Zm-7.3-14.084c-.051.017-.08.068-.08.152v13.705c0,.085.029.136.08.153a.239.239,0,0,0,.164.073h4.375v-14.163h-4.375A.248.248,0,0,0,22511.975,14342.286Zm.836,5.987v-2.589h.949v2.589Zm0-3.448v-1.753h.949v1.753Zm10.566-3.223a1.175,1.175,0,0,0-.424-.859,1.344,1.344,0,0,0-.982-.4h-10.59a1.355,1.355,0,0,0-.984.4,1.156,1.156,0,0,0-.418.859h-1.793a3.133,3.133,0,0,1-3.184-3.076v-18.448a3.133,3.133,0,0,1,3.184-3.076h16.979a3.138,3.138,0,0,1,3.189,3.076v18.448a3.138,3.138,0,0,1-3.189,3.076Zm-16.254-21.524v18.448a1.048,1.048,0,0,0,1.063,1.029h16.979a1.048,1.048,0,0,0,1.063-1.029v-18.448a1.048,1.048,0,0,0-1.062-1.029h-16.979A1.048,1.048,0,0,0,22507.123,14320.078Zm13.795,17.425v-7.175h4.246v7.175Zm1.063-1.023h2.127v-5.128h-2.127Zm-2.125,1.023h-3.178v-3.075h3.184v3.075Zm-2.121-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.057-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.063-1.023h1.059v-1.028h-1.059Zm10.607-3.075h-3.178v-3.076h3.184v3.076Zm-2.121-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.057-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.063-1.029h1.059v-1.023h-1.059Zm-1.062-3.076v-9.221h16.979v9.221Zm1.063-1.022h14.859v-7.175h-14.859Zm5.3-1.023v-1.029h1.063v1.029Zm-2.121,0v-1.029h1.057v1.029Zm-2.125,0v-1.029h1.063v1.029Z" transform="translate(-44446.797 -30657.502)" fill="#002d6a"/>
+        </g>
+        <g id="Group_165011-2" data-name="Group 165011" transform="translate(21954 16781)">
+          <g transform="matrix(1, 0, 0, 1, -21962, -17328.5)" filter="url(#Rectangle_149025-2)">
+            <rect id="Rectangle_149025-4" data-name="Rectangle 149025" width="412" height="61.5" rx="10" transform="translate(8 911.5)" fill="#fff"/>
+          </g>
+          <text id="_1:20_PM-2" data-name="1:20 PM" transform="translate(-21911 -16366.879)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">1:20 PM</tspan></text>
+          <text id="NIKE_Air_Max_270-10" data-name="NIKE Air Max 270" transform="translate(-21687 -16393)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_3_others-4" data-name="+ 3 others" transform="translate(-21663 -16370)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 3 others</tspan></text>
+          <text id="_14_989.99-4" data-name="₦14,989.99" transform="translate(-21911 -16392)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">14,989.99</tspan></text>
+          <path id="Union_299-2" data-name="Union 299" d="M.819,30.03A.85.85,0,0,1,0,29.157V23.924a.85.85,0,0,1,.819-.873H3.66L6.041,21a5.78,5.78,0,0,1,3.791-1.435h8.194a1.746,1.746,0,0,1-.086,3.489H13.931a.874.874,0,0,0,0,1.745h6.057a3.146,3.146,0,0,0,2.05-.763L26.767,20a1.622,1.622,0,0,1,2.185,0,1.818,1.818,0,0,1-.07,2.666l-7.744,6.6a3.167,3.167,0,0,1-2.05.763ZM17.688,17.223V16.068c0,.532,1.348.963,3.012.963s3.011-.431,3.011-.963v1.156c0,.533-1.348.964-3.011.964S17.688,17.756,17.688,17.223ZM9.2,17.61a6.352,6.352,0,0,1-2.351-.863c-.752-.708-1.058-1.7-1.058-3.433a5.542,5.542,0,0,1,1.058-3.7,38.867,38.867,0,0,1,3.6-3.695h5.91l.01.01c.25.256,2.471,2.529,3.332,3.685a4.622,4.622,0,0,1,1,2.1h-.022c-1.8,0-3.272.466-3.272,1.039v.831a.269.269,0,0,0,0,.05l0,3.994A22.5,22.5,0,0,1,13,18.187,21.532,21.532,0,0,1,9.2,17.61Zm2.823-6.753h.607l.623,1.26h.728v-1.26h.368v-.429H13.98v-.256h.368V9.743H13.98V8.617h-.662V9.743H12.68l-.542-1.126H11.36V9.743h-.339v.429h.339v.256h-.339v.429h.339v1.26h.661V10.859h0Zm5.665,4.631V14.333c0,.533,1.348.964,3.012.964s3.011-.431,3.011-.964v1.156c0,.533-1.348.964-3.011.964S17.688,16.022,17.688,15.489Zm0-1.734v-.771c0-.532,1.348-.963,3.012-.963s3.011.431,3.011.963v.771c0,.532-1.348.964-3.011.964S17.688,14.287,17.688,13.755Zm-4.371-3.326h-.3l-.124-.256h.429v.256h0Zm-2.962-4.5a.854.854,0,0,1,0-1.707h.534L9.6,1.055h2.558C12.183.879,12.372,0,13.229,0h.078c.933,0,1.112,1.011,1.12,1.054h2.606L15.814,4.217h.41a.854.854,0,1,1,0,1.707Z" transform="translate(-21944.5 -16411.5)" fill="#f2e200"/>
+        </g>
+      </g>
+      <g id="Group_165315" data-name="Group 165315" transform="translate(0 738)">
+        <g id="Group_165005-3" data-name="Group 165005" transform="translate(21954.5 16486)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -17402.5)" filter="url(#Rectangle_149019-3)">
+            <rect id="Rectangle_149019-6" data-name="Rectangle 149019" width="412" height="61.5" rx="10" transform="translate(8.5 1137.46)" fill="#fff"/>
+          </g>
+          <text id="_1:30_PM-3" data-name="1:30 PM" transform="translate(-21911 -16214.915)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">1:30 PM</tspan></text>
+          <text id="NIKE_Air_Max_270-11" data-name="NIKE Air Max 270" transform="translate(-21687 -16240)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_1_others-3" data-name="+ 1 others" transform="translate(-21663 -16217)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 1 others</tspan></text>
+          <text id="_3_500.99-5" data-name="₦3,500.99" transform="translate(-21911 -16240.036)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">3,500.99</tspan></text>
+          <path id="Icon_awesome-money-bill-alt-5" data-name="Icon awesome-money-bill-alt" d="M13.5,13.091h-.614V9.716a.307.307,0,0,0-.307-.307h-.521a.919.919,0,0,0-.51.155l-.588.392a.307.307,0,0,0-.085.425l.341.51a.307.307,0,0,0,.425.085l.018-.012v2.126h-.614a.307.307,0,0,0-.307.307v.614a.307.307,0,0,0,.307.307H13.5a.307.307,0,0,0,.307-.307V13.4A.307.307,0,0,0,13.5,13.091ZM23.32,4.5H1.227A1.227,1.227,0,0,0,0,5.727V18a1.227,1.227,0,0,0,1.227,1.227H23.32A1.227,1.227,0,0,0,24.547,18V5.727A1.227,1.227,0,0,0,23.32,4.5ZM1.841,17.387V14.932A2.455,2.455,0,0,1,4.3,17.387Zm0-8.591V6.341H4.3A2.455,2.455,0,0,1,1.841,8.8ZM12.273,16.16c-2.034,0-3.682-1.923-3.682-4.3s1.648-4.3,3.682-4.3,3.682,1.923,3.682,4.3S14.306,16.16,12.273,16.16Zm10.432,1.227H20.251a2.455,2.455,0,0,1,2.455-2.455Zm0-8.591a2.455,2.455,0,0,1-2.455-2.455h2.455Z" transform="translate(-21942.99 -16261.493)" fill="#01ffff"/>
+        </g>
+        <g id="Group_165006-3" data-name="Group 165006" transform="translate(21954.5 16487)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -17403.5)" filter="url(#Rectangle_149020-3)">
+            <rect id="Rectangle_149020-6" data-name="Rectangle 149020" width="412" height="61.5" rx="10" transform="translate(8.5 1208.96)" fill="#fff"/>
+          </g>
+          <text id="_1:25_PM-3" data-name="1:25 PM" transform="translate(-21911 -16144.415)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">1:25 PM</tspan></text>
+          <text id="NIKE_Air_Max_270-12" data-name="NIKE Air Max 270" transform="translate(-21687 -16169.5)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_2_others-3" data-name="+ 2 others" transform="translate(-21663 -16146.5)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 2 others</tspan></text>
+          <text id="_3_500.99-6" data-name="₦3,500.99" transform="translate(-21911 -16169.536)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">3,500.99</tspan></text>
+          <path id="Icon_awesome-money-bill-alt-6" data-name="Icon awesome-money-bill-alt" d="M13.5,13.091h-.614V9.716a.307.307,0,0,0-.307-.307h-.521a.919.919,0,0,0-.51.155l-.588.392a.307.307,0,0,0-.085.425l.341.51a.307.307,0,0,0,.425.085l.018-.012v2.126h-.614a.307.307,0,0,0-.307.307v.614a.307.307,0,0,0,.307.307H13.5a.307.307,0,0,0,.307-.307V13.4A.307.307,0,0,0,13.5,13.091ZM23.32,4.5H1.227A1.227,1.227,0,0,0,0,5.727V18a1.227,1.227,0,0,0,1.227,1.227H23.32A1.227,1.227,0,0,0,24.547,18V5.727A1.227,1.227,0,0,0,23.32,4.5ZM1.841,17.387V14.932A2.455,2.455,0,0,1,4.3,17.387Zm0-8.591V6.341H4.3A2.455,2.455,0,0,1,1.841,8.8ZM12.273,16.16c-2.034,0-3.682-1.923-3.682-4.3s1.648-4.3,3.682-4.3,3.682,1.923,3.682,4.3S14.306,16.16,12.273,16.16Zm10.432,1.227H20.251a2.455,2.455,0,0,1,2.455-2.455Zm0-8.591a2.455,2.455,0,0,1-2.455-2.455h2.455Z" transform="translate(-21942.99 -16190.993)" fill="#01ffff"/>
+        </g>
+        <g id="Group_165007-3" data-name="Group 165007" transform="translate(21954.5 16495)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -17411.5)" filter="url(#Rectangle_149021-3)">
+            <rect id="Rectangle_149021-6" data-name="Rectangle 149021" width="412" height="61.5" rx="10" transform="translate(8.5 994.5)" fill="#fff"/>
+          </g>
+          <text id="Just_now-3" data-name="Just now" transform="translate(-21911 -16366.879)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">Just now</tspan></text>
+          <text id="NIKE_Air_Max_270-13" data-name="NIKE Air Max 270" transform="translate(-21687 -16393)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_3_others-5" data-name="+ 3 others" transform="translate(-21663 -16370)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">+ 3 others</tspan></text>
+          <text id="_14_989.99-5" data-name="₦14,989.99" transform="translate(-21911 -16392)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">14,989.99</tspan></text>
+          <path id="Union_290-3" data-name="Union 290" d="M22512.139,14357.235a1.1,1.1,0,0,1-.814-.334.957.957,0,0,1-.352-.758v-13.705a.975.975,0,0,1,.352-.763,1.1,1.1,0,0,1,.814-.328h8.758a1.082,1.082,0,0,1,.809.328.961.961,0,0,1,.35.763v13.705a.943.943,0,0,1-.35.758,1.087,1.087,0,0,1-.809.334Zm7.135-.865h1.623a.227.227,0,0,0,.158-.073c.057-.018.084-.068.084-.153v-13.705c0-.084-.027-.136-.084-.152a.236.236,0,0,0-.158-.079h-1.623Zm-7.3-14.084c-.051.017-.08.068-.08.152v13.705c0,.085.029.136.08.153a.239.239,0,0,0,.164.073h4.375v-14.163h-4.375A.248.248,0,0,0,22511.975,14342.286Zm.836,5.987v-2.589h.949v2.589Zm0-3.448v-1.753h.949v1.753Zm10.566-3.223a1.175,1.175,0,0,0-.424-.859,1.344,1.344,0,0,0-.982-.4h-10.59a1.355,1.355,0,0,0-.984.4,1.156,1.156,0,0,0-.418.859h-1.793a3.133,3.133,0,0,1-3.184-3.076v-18.448a3.133,3.133,0,0,1,3.184-3.076h16.979a3.138,3.138,0,0,1,3.189,3.076v18.448a3.138,3.138,0,0,1-3.189,3.076Zm-16.254-21.524v18.448a1.048,1.048,0,0,0,1.063,1.029h16.979a1.048,1.048,0,0,0,1.063-1.029v-18.448a1.048,1.048,0,0,0-1.062-1.029h-16.979A1.048,1.048,0,0,0,22507.123,14320.078Zm13.795,17.425v-7.175h4.246v7.175Zm1.063-1.023h2.127v-5.128h-2.127Zm-2.125,1.023h-3.178v-3.075h3.184v3.075Zm-2.121-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.057-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.063-1.023h1.059v-1.028h-1.059Zm10.607-3.075h-3.178v-3.076h3.184v3.076Zm-2.121-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.057-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.063-1.029h1.059v-1.023h-1.059Zm-1.062-3.076v-9.221h16.979v9.221Zm1.063-1.022h14.859v-7.175h-14.859Zm5.3-1.023v-1.029h1.063v1.029Zm-2.121,0v-1.029h1.057v1.029Zm-2.125,0v-1.029h1.063v1.029Z" transform="translate(-44446.797 -30728.002)" fill="#002d6a"/>
+        </g>
+        <g id="Group_165008-3" data-name="Group 165008" transform="translate(21954.5 16496)">
+          <g transform="matrix(1, 0, 0, 1, -21962.5, -17412.5)" filter="url(#Rectangle_149022-3)">
+            <rect id="Rectangle_149022-6" data-name="Rectangle 149022" width="412" height="61.5" rx="10" transform="translate(8.5 1066)" fill="#fff"/>
+          </g>
+          <text id="_5_mins_ago-3" data-name="5 mins ago" transform="translate(-21911 -16296.379)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0em"><tspan x="0" y="0">5 mins ago</tspan></text>
+          <text id="NIKE_Air_Max_270-14" data-name="NIKE Air Max 270" transform="translate(-21687 -16310)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins" letter-spacing="0.04em"><tspan x="0" y="0">NIKE Air Max 270</tspan></text>
+          <text id="_10_150.99-3" data-name="₦10,150.99" transform="translate(-21911 -16321.5)" fill="#002d6a" font-size="18" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.04em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">10,150.99</tspan></text>
+          <path id="Union_291-3" data-name="Union 291" d="M22512.139,14357.235a1.1,1.1,0,0,1-.814-.334.957.957,0,0,1-.352-.758v-13.705a.975.975,0,0,1,.352-.763,1.1,1.1,0,0,1,.814-.328h8.758a1.082,1.082,0,0,1,.809.328.961.961,0,0,1,.35.763v13.705a.943.943,0,0,1-.35.758,1.087,1.087,0,0,1-.809.334Zm7.135-.865h1.623a.227.227,0,0,0,.158-.073c.057-.018.084-.068.084-.153v-13.705c0-.084-.027-.136-.084-.152a.236.236,0,0,0-.158-.079h-1.623Zm-7.3-14.084c-.051.017-.08.068-.08.152v13.705c0,.085.029.136.08.153a.239.239,0,0,0,.164.073h4.375v-14.163h-4.375A.248.248,0,0,0,22511.975,14342.286Zm.836,5.987v-2.589h.949v2.589Zm0-3.448v-1.753h.949v1.753Zm10.566-3.223a1.175,1.175,0,0,0-.424-.859,1.344,1.344,0,0,0-.982-.4h-10.59a1.355,1.355,0,0,0-.984.4,1.156,1.156,0,0,0-.418.859h-1.793a3.133,3.133,0,0,1-3.184-3.076v-18.448a3.133,3.133,0,0,1,3.184-3.076h16.979a3.138,3.138,0,0,1,3.189,3.076v18.448a3.138,3.138,0,0,1-3.189,3.076Zm-16.254-21.524v18.448a1.048,1.048,0,0,0,1.063,1.029h16.979a1.048,1.048,0,0,0,1.063-1.029v-18.448a1.048,1.048,0,0,0-1.062-1.029h-16.979A1.048,1.048,0,0,0,22507.123,14320.078Zm13.795,17.425v-7.175h4.246v7.175Zm1.063-1.023h2.127v-5.128h-2.127Zm-2.125,1.023h-3.178v-3.075h3.184v3.075Zm-2.121-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.057-1.023h1.064v-1.028h-1.064Zm-5.3,1.023v-3.075h3.184v3.075Zm1.063-1.023h1.059v-1.028h-1.059Zm10.607-3.075h-3.178v-3.076h3.184v3.076Zm-2.121-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.057-1.029h1.064v-1.023h-1.064Zm-5.3,1.029v-3.076h3.184v3.076Zm1.063-1.029h1.059v-1.023h-1.059Zm-1.062-3.076v-9.221h16.979v9.221Zm1.063-1.022h14.859v-7.175h-14.859Zm5.3-1.023v-1.029h1.063v1.029Zm-2.121,0v-1.029h1.057v1.029Zm-2.125,0v-1.029h1.063v1.029Z" transform="translate(-44446.797 -30657.502)" fill="#002d6a"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165308" data-name="Group 165308" transform="translate(0 39)">
+      <g id="Rectangle_303" data-name="Rectangle 303" transform="translate(8 100)" fill="#fff" stroke="#dededf" stroke-width="1">
+        <rect width="241" height="29" rx="14.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="28" rx="14" fill="none"/>
+      </g>
+      <text id="Search_for_transaction" data-name="Search for transaction" transform="translate(21 120)" fill="rgba(0,0,0,0.4)" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Search for transaction</tspan></text>
+      <path id="search" d="M13.75,12.054,11.036,9.339a.653.653,0,0,0-.463-.191h-.444a5.661,5.661,0,1,0-.98.98v.444a.653.653,0,0,0,.191.463l2.715,2.715a.651.651,0,0,0,.923,0l.771-.771A.657.657,0,0,0,13.75,12.054ZM5.663,9.149A3.485,3.485,0,1,1,9.149,5.663,3.483,3.483,0,0,1,5.663,9.149Z" transform="translate(222.03 108)" fill="#c4c4c4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#bbe242b310de7a804a25b5766782ff47)">
+      <path id="bbe242b310de7a804a25b5766782ff47-3" data-name="bbe242b310de7a804a25b5766782ff47" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+    </g>
+    <g id="Group_165309" data-name="Group 165309" transform="translate(317.547 -54)">
+      <text id="Sort_by" data-name="Sort by" transform="translate(16.595 217)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">SORT BY</tspan></text>
+      <path id="Icon_awesome-caret-down" data-name="Icon awesome-caret-down" d="M2.2,13.5H20.292a1.4,1.4,0,0,1,.991,2.4l-9.042,9.049a1.409,1.409,0,0,1-1.99,0L1.209,15.9A1.4,1.4,0,0,1,2.2,13.5Z" transform="translate(80.754 192.5)" fill="#cecece"/>
+    </g>
+    <g id="Group_165327" data-name="Group 165327" transform="translate(39.001 -48)">
+      <text id="Categorized" transform="translate(204.033 171)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-45.525" y="0">Categorized</tspan></text>
+      <text id="Sales" transform="translate(315.07 170)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-24.543" y="0">Sales</tspan></text>
+      <text id="Uncategorized" transform="translate(64 171)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-54.045" y="0">Uncategorized</tspan></text>
+    </g>
+    <g id="Group_165364" data-name="Group 165364" transform="translate(39.001 -101)">
+      <text id="Categorized-2" data-name="Categorized" transform="translate(204.033 171)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-45.525" y="0">Categorized</tspan></text>
+      <text id="Sales-2" data-name="Sales" transform="translate(315.07 170)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-24.543" y="0">Sales</tspan></text>
+      <text id="Uncategorized-2" data-name="Uncategorized" transform="translate(64 171)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-54.045" y="0">Uncategorized</tspan></text>
+    </g>
+    <g id="Group_165311" data-name="Group 165311" transform="translate(0 -12)">
+      <g transform="matrix(1, 0, 0, 1, 0, 12)" filter="url(#bbe242b310de7a804a25b5766782ff47-2)">
+        <path id="bbe242b310de7a804a25b5766782ff47-4" data-name="bbe242b310de7a804a25b5766782ff47" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+      </g>
+      <g id="Headline_Button" data-name="Headline Button" transform="translate(139 44)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="148" height="41" rx="20.5" fill="#01ffff"/>
+        <text id="Transactions" transform="translate(17 27)" fill="#002e6b" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Transactions</tspan></text>
+      </g>
+    </g>
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.321,18l8.937-8.93a1.688,1.688,0,0,0-2.391-2.384L11.742,16.8a1.685,1.685,0,0,0-.049,2.327L21.86,29.32a1.688,1.688,0,0,0,2.391-2.384Z" transform="translate(0.246 18.807)" fill="#002e6b"/>
+    <g id="Battery_Network_Time_Bar" data-name="Battery/Network/Time Bar" transform="translate(-18)">
+      <g id="Pin-Right" transform="translate(379.354 4.5)">
+        <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+        <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+      </g>
+      <text id="_9:41_AM" data-name="9:41 AM" transform="translate(206.938 17)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+      <g id="Signal" transform="translate(25 4.5)">
+        <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+        <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

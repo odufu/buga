@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <filter id="Heading_Container" x="-15" y="-14" width="458" height="516" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container-2" x="-15" y="-15" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149040" x="-1" y="332" width="430" height="132" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#c6c6c6" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149041" x="-1" y="470" width="430" height="132" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#c6c6c6" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.11" y1="0.139" x2="0.803" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f7c735"/>
+      <stop offset="1" stop-color="#e29d01"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.871" y1="-0.212" x2="0.117" y2="0.278" xlink:href="#linear-gradient"/>
+    <filter id="Path_777" x="42.061" y="840.225" width="399.76" height="104.949" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_775" x="257.635" y="833" width="199.307" height="88.93" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#01ffff"/>
+      <stop offset="1" stop-color="#068b8b"/>
+    </linearGradient>
+    <filter id="Path_776" x="-51.115" y="875.307" width="379.111" height="82.863" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_8_Sign_Up_Screen">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="_8_Sign_Up_Screen" data-name="8 Sign Up Screen" clip-path="url(#clip-_8_Sign_Up_Screen)">
+    <rect width="428" height="926" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container)">
+      <rect id="Heading_Container-3" data-name="Heading Container" width="428" height="486" fill="#002d6a"/>
+    </g>
+    <path id="Rectangle_148366" data-name="Rectangle 148366" d="M25,0H403a25,25,0,0,1,25,25V694a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(0 232)" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container-2)">
+      <g id="Heading_Container-4" data-name="Heading Container" transform="translate(0 -1)" fill="#fff" stroke="rgba(199,199,199,0.16)" stroke-width="1">
+        <path d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.5.5h427a0,0,0,0,1,0,0V74A13.5,13.5,0,0,1,414,87.5H14A13.5,13.5,0,0,1,.5,74V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M15.006,18.288l6.666-6.672a1.255,1.255,0,0,1,1.779,0,1.271,1.271,0,0,1,0,1.785L15.9,20.96A1.258,1.258,0,0,1,14.161,21l-7.606-7.59a1.26,1.26,0,0,1,1.779-1.785Z" transform="translate(31.327 36.813) rotate(90)" fill="#002d6a" opacity="0.8"/>
+    <g id="Stautus_Bar" data-name="Stautus Bar" transform="translate(8.813 10)">
+      <g id="Pin-Right" transform="translate(354.729 0.5)">
+        <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+        <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+      </g>
+      <text id="_9:41_AM" data-name="9:41 AM" transform="translate(182.123 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+      <g id="Signal" transform="translate(0 0.5)">
+        <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+        <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Group_165437" data-name="Group 165437" transform="translate(8 -250)">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="110" height="41" rx="20.5" transform="translate(151 285)" fill="#01ffff"/>
+      <text id="Sign_up" data-name="Sign up" transform="translate(173 312)" fill="#002d6a" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Sign up</tspan></text>
+    </g>
+    <text id="TSLA" transform="translate(19.088 129.5)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Let&apos;s get you started</tspan></text>
+    <text id="TSLA-2" data-name="TSLA" transform="translate(72 292.286)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">What do you want to do today?</tspan></text>
+    <text id="TSLA-3" data-name="TSLA" transform="translate(21.08 162)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">The Business Operating System for businesses &amp;</tspan><tspan x="0" y="25">organizations of all sizes.</tspan></text>
+    <g id="Group_165445" data-name="Group 165445" transform="translate(0 -52)">
+      <g transform="matrix(1, 0, 0, 1, 0, 52)" filter="url(#Rectangle_149040)">
+        <g id="Rectangle_149040-2" data-name="Rectangle 149040" transform="translate(8 338)" fill="#fff" stroke="#eee" stroke-width="1">
+          <rect width="412" height="114" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="411" height="113" rx="9.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_165443" data-name="Group 165443" transform="translate(16)">
+        <text id="TSLA-4" data-name="TSLA" transform="translate(87 435.393)" fill="#002d6a" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Get started as a business owner</tspan></text>
+        <text id="TSLA-5" data-name="TSLA" transform="translate(87 471.607)" fill="#002d6a" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Sign up as a business owner</tspan></text>
+        <g id="Group_165440" data-name="Group 165440" transform="translate(0 5)">
+          <rect id="Rectangle_149043" data-name="Rectangle 149043" width="53" height="53" rx="10" transform="translate(18 416)" fill="#f2f6f7"/>
+          <g id="Group_165438" data-name="Group 165438" transform="translate(0.25 0.5)">
+            <path id="Icon_awesome-user-tie" data-name="Icon awesome-user-tie" d="M22.486,20.292,19.125,33.75h-6.75L9.014,20.292A9.434,9.434,0,0,0,0,29.7v2.925A3.376,3.376,0,0,0,3.375,36h24.75A3.376,3.376,0,0,0,31.5,32.625V29.7a9.434,9.434,0,0,0-9.014-9.408Z" transform="translate(28.75 424.5)" fill="#01ffff"/>
+            <path id="Icon_awesome-user-tie-2" data-name="Icon awesome-user-tie" d="M15.75,18a9,9,0,1,0-9-9A9,9,0,0,0,15.75,18Z" transform="translate(28.75 424.5)" fill="#002d6a"/>
+            <path id="Icon_awesome-user-tie-3" data-name="Icon awesome-user-tie" d="M19.166,33.75l-2.291-9.562,2.25-3.937h-6.75l2.25,3.938L12.378,33.75Z" transform="translate(28.729 424.542)" fill="#f2e200"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165444" data-name="Group 165444" transform="translate(0 -58)">
+      <g transform="matrix(1, 0, 0, 1, 0, 58)" filter="url(#Rectangle_149041)">
+        <g id="Rectangle_149041-2" data-name="Rectangle 149041" transform="translate(8 476)" fill="#fff" stroke="#eee" stroke-width="1">
+          <rect width="412" height="114" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="411" height="113" rx="9.5" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_165442" data-name="Group 165442" transform="translate(25)">
+        <text id="TSLA-6" data-name="TSLA" transform="translate(87 579.393)" fill="#002d6a" font-size="18" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Join an existing Buga account</tspan></text>
+        <text id="TSLA-7" data-name="TSLA" transform="translate(87 615.607)" fill="#002d6a" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Sign up as an employee</tspan></text>
+        <g id="Group_165441" data-name="Group 165441" transform="translate(0 17)">
+          <rect id="Rectangle_149042" data-name="Rectangle 149042" width="53" height="53" rx="10" transform="translate(18 548)" fill="#f2f6f7"/>
+          <g id="Group_165439" data-name="Group 165439" transform="translate(0.5 0.75)">
+            <path id="Icon_awesome-users" data-name="Icon awesome-users" d="M22.5,18a7.875,7.875,0,1,0-7.875-7.875A7.871,7.871,0,0,0,22.5,18Zm5.4,2.25h-.584a10.873,10.873,0,0,1-9.633,0H17.1A8.1,8.1,0,0,0,9,28.35v2.025a3.376,3.376,0,0,0,3.375,3.375h20.25A3.376,3.376,0,0,0,36,30.375V28.35A8.1,8.1,0,0,0,27.9,20.25Z" transform="translate(21.5 556)" fill="#002d6a"/>
+            <path id="Icon_awesome-users-2" data-name="Icon awesome-users" d="M38.25,15.75a4.5,4.5,0,1,0-4.5-4.5A4.5,4.5,0,0,0,38.25,15.75ZM40.5,18H36a4.487,4.487,0,0,0-3.171,1.308A10.285,10.285,0,0,1,38.109,27H42.75A2.248,2.248,0,0,0,45,24.75V22.5A4.5,4.5,0,0,0,40.5,18Z" transform="translate(21.5 556)" fill="#f2e200"/>
+            <path id="Icon_awesome-users-3" data-name="Icon awesome-users" d="M6.75,15.75a4.5,4.5,0,1,0-4.5-4.5A4.5,4.5,0,0,0,6.75,15.75Zm5.421,3.558A4.487,4.487,0,0,0,9,18H4.5A4.5,4.5,0,0,0,0,22.5v2.25A2.248,2.248,0,0,0,2.25,27H6.884A10.311,10.311,0,0,1,12.171,19.308Z" transform="translate(21.5 556)" fill="#01ffff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165446" data-name="Group 165446" transform="translate(-42.115 839)">
+      <path id="Path_774" data-name="Path 774" d="M37.361,50.113a50.96,50.96,0,0,1,4.6-4.241c2.458-1.72,5.9-4.668,10.57-7.862,4.425-3.44,10.57-6.879,17.207-10.811a97.015,97.015,0,0,1,11.308-5.9,124.149,124.149,0,0,1,12.783-5.9c4.671-1.72,9.341-3.685,14.5-5.405,5.162-1.474,10.57-3.194,15.978-4.668C135.621,2.876,147.666.665,160.695.665c3.2,0,6.391-.246,9.587,0s6.637.491,9.833.491a63.265,63.265,0,0,1,9.833,1.228c3.2.491,6.637.983,9.833,1.72,13.274,2.457,26.3,6.879,38.594,11.793a312,312,0,0,1,35.152,17.444c11.062,6.142,21.386,12.53,31.465,18.427A297.775,297.775,0,0,0,333.507,67a125.7,125.7,0,0,0,26.3,9.336c2.212.491,4.179.983,6.146,1.228s4.179.491,6.146.737c.983.246,1.967.246,2.95.491H378a43.54,43.54,0,0,1,5.654.246,138.727,138.727,0,0,0,19.174-1.72c5.408-.737,9.587-1.966,12.537-2.457,2.95-.737,4.671-.983,4.671-.983s-1.229.983-3.687,2.7-5.9,4.668-11.062,7.125c-2.458,1.228-5.408,2.948-8.6,4.423-3.2,1.228-6.883,2.7-10.816,3.931-1.967.491-4.179.983-6.146,1.474-.983.246-2.212.491-3.2.737-1.229.246-2.212.246-3.441.491a70.967,70.967,0,0,0-7.129.983c-2.458.246-4.917.246-7.62.246a121.1,121.1,0,0,1-32.94-4.668A253.827,253.827,0,0,1,291.717,78.8c-11.062-5.16-22.124-10.565-32.94-15.97s-21.632-10.811-32.694-15.233c-2.7-1.228-5.408-2.211-8.112-3.194s-5.408-2.211-8.112-2.948-5.408-1.72-8.112-2.7c-2.7-.737-5.408-1.474-8.358-2.211a195.829,195.829,0,0,0-32.94-5.405,228.233,228.233,0,0,0-31.711-.246c-5.162.246-10.079.983-15,1.474s-9.587,1.474-14.012,2.211c-4.671.491-8.85,1.72-13.029,2.457-4.179.983-8.112,1.474-11.8,2.457C67.529,41.45,61.137,42.678,55.729,44.4s-9.587,2.7-12.537,3.44A13.968,13.968,0,0,0,37.361,50.113Z" transform="translate(55.874 1.102)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, 42.12, -839)" filter="url(#Path_777)">
+        <path id="Path_777-2" data-name="Path 777" d="M38.3,44.527l3.687-2.686c2.458-1.567,5.9-4.253,10.57-7.163,4.425-3.134,10.57-6.267,17.207-9.849a100.709,100.709,0,0,1,11.308-5.372,130.194,130.194,0,0,1,12.783-5.372c4.671-1.567,9.341-3.358,14.5-4.924,5.162-1.343,10.57-2.91,15.978-4.253C135.645,2.67,147.69.655,160.719.655c3.2,0,6.391-.224,9.587,0s6.637.448,9.833.448a69.151,69.151,0,0,1,9.833,1.119c3.2.448,6.637.9,9.833,1.567,13.274,2.238,26.3,6.267,38.594,10.744a325.3,325.3,0,0,1,35.152,15.892c11.062,5.6,21.386,11.416,31.465,16.788a308.537,308.537,0,0,0,28.515,13.878,134.033,134.033,0,0,0,26.3,8.506c2.212.448,4.179.9,6.146,1.119s4.179.448,6.146.672c.983.224,1.967.224,2.95.448h2.95a47.761,47.761,0,0,1,5.654.224,151.923,151.923,0,0,0,19.174-1.567c5.408-.672,9.587-1.791,12.537-2.238,2.95-.672,4.671-.9,4.671-.9s-1.229.9-3.687,2.462a67.931,67.931,0,0,1-11.062,6.491c-2.458,1.119-5.408,2.686-8.6,4.029-3.2,1.119-6.883,2.462-10.816,3.581-1.967.448-4.179.9-6.146,1.343-.983.224-2.212.448-3.2.672-1.229.224-2.212.224-3.441.448-2.458.224-4.671.448-7.129.9-2.458.224-4.916.224-7.62.224a132.167,132.167,0,0,1-32.94-4.253,269.981,269.981,0,0,1-33.677-11.416c-11.062-4.7-22.124-9.625-32.94-14.549s-21.632-9.849-32.694-13.878c-2.7-1.119-5.408-2.015-8.112-2.91s-5.408-2.015-8.112-2.686-5.408-1.567-8.112-2.462c-2.7-.672-5.408-1.343-8.358-2.015a213.459,213.459,0,0,0-32.94-4.924,250.464,250.464,0,0,0-31.711-.224c-5.162.224-10.079.9-15,1.343s-9.587,1.343-14.012,2.015c-4.671.448-8.85,1.567-13.028,2.238-4.179.9-8.112,1.343-11.8,2.238-7.375,1.791-13.766,2.91-19.174,4.477s-9.587,2.462-12.537,3.134A34.523,34.523,0,0,0,38.3,44.527Z" transform="translate(12.76 845.67)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 42.12, -839)" filter="url(#Path_775)">
+        <path id="Path_775-2" data-name="Path 775" d="M125.6,10.493s4.179.983,11.308,3.194c3.687,1.228,7.866,2.457,12.783,4.177s10.325,3.685,16.47,6.142c5.9,2.457,12.291,4.914,19.174,7.862,6.637,2.948,13.766,5.9,21.141,8.845,7.129,3.194,14.749,6.142,22.37,8.845A128.353,128.353,0,0,0,251.952,55.7a62.1,62.1,0,0,0,22.37-.246,40.706,40.706,0,0,0,5.162-1.474c.737-.246,1.721-.737,2.458-.983l1.229-.491h0s-.737.246-.246.246h.246l.246-.246.737-.246a5.376,5.376,0,0,0,1.229-.737c.246-.246.492-.246.492-.491A6.518,6.518,0,0,0,287.35,49.8a16.919,16.919,0,0,0,2.7-3.194c3.441-4.914,4.671-11.548,4.179-17.444a24.606,24.606,0,0,0-6.391-15.233C284.4,10,279.484,7.79,275.059,6.562a49.22,49.22,0,0,0-12.537-1.474,70.567,70.567,0,0,0-8.6.491,26.8,26.8,0,0,1-2.95.246s.983-.491,2.7-1.228a39.164,39.164,0,0,1,8.358-2.948,38.992,38.992,0,0,1,14.012-1.72,31.33,31.33,0,0,1,18.191,6.634c5.9,4.668,10.325,12.285,12.045,20.638a39.638,39.638,0,0,1-4.425,26.535,36.845,36.845,0,0,1-4.671,6.142,18.366,18.366,0,0,1-3.2,2.7l-1.967,1.228a8.08,8.08,0,0,1-1.475.737l-.738.246-.246.246h-.246l-.492.246-1.721.737a17.074,17.074,0,0,1-3.2,1.228,56.271,56.271,0,0,1-6.883,1.966A67.368,67.368,0,0,1,249,69.459a134.757,134.757,0,0,1-25.565-7.617c-7.866-3.194-15.487-6.879-22.616-10.565-14.258-7.371-27.04-14.742-38.1-20.884C140.349,18.6,125.6,10.493,125.6,10.493Z" transform="translate(141.04 839.12)" fill="#002e6b"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 42.12, -839)" filter="url(#Path_776)">
+        <path id="Path_776-2" data-name="Path 776" d="M361.111,81.963C343.9,65.01,265.732,17.1,192.478,17.1,120.7,17.346,81.121,60.1,0,53.463,72.026,91.3,138.4,65.993,189.036,55.674,279.252,37,361.111,81.963,361.111,81.963Z" transform="translate(-42.12 864.21)" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Icon_material-bubble-chart" data-name="Icon material-bubble-chart" transform="translate(355.834 93.754)">
+      <path id="Path_83893" data-name="Path 83893" d="M21.064,20.5A8.365,8.365,0,1,1,12.7,12.133,8.365,8.365,0,0,1,21.064,20.5Z" transform="translate(0 11.022)" fill="#f2f6f7"/>
+      <path id="Path_83894" data-name="Path 83894" d="M24.323,22.562A5.228,5.228,0,1,1,19.1,17.333a5.228,5.228,0,0,1,5.228,5.228Z" transform="translate(13.471 18.37)" fill="#f2f6f7"/>
+      <path id="Path_83895" data-name="Path 83895" d="M36.363,16.881A12.548,12.548,0,1,1,23.815,4.333,12.548,12.548,0,0,1,36.363,16.881Z" transform="translate(9.797)" fill="#f2f6f7"/>
+    </g>
+    <text id="Already_have_an_Account_Sign_In" data-name="Already have an Account? Sign In" transform="translate(214 700)" fill="#afafaf" font-size="18" font-family="Poppins-LightItalic, Poppins" font-weight="300" font-style="italic"><tspan x="-151.807" y="0">Already have an Account?</tspan><tspan y="0" font-family="Poppins-Italic, Poppins" font-weight="400"> </tspan><tspan y="0" fill="#01ffff" font-size="19" font-family="Poppins-Regular, Poppins" font-weight="400" font-style="normal">Sign In</tspan></text>
+  </g>
+</svg>

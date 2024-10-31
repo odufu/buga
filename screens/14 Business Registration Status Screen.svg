@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <filter id="Heading_Container" x="-15" y="-14" width="458" height="516" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container-2" x="-15" y="-15" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1" x="-7" y="273" width="442" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#ececec" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_48" x="-12" y="280" width="80" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#00e3f3" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_28" x="14" y="301" width="28" height="28" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149050" x="-7" y="362" width="442" height="101" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#ececec" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_48-2" x="-12" y="369" width="80" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-7"/>
+      <feFlood flood-color="#00e3f3" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_28-2" x="14" y="390" width="28" height="28" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149051" x="-7" y="472" width="442" height="101" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-color="#ececec" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_48-3" x="-12" y="479" width="80" height="80" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-10"/>
+      <feFlood flood-color="#00e3f3" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_28-3" x="14" y="500" width="28" height="28" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_14_Business_Registration_Status_Screen">
+      <rect width="428" height="926"/>
+    </clipPath>
+  </defs>
+  <g id="_14_Business_Registration_Status_Screen" data-name="14 Business Registration Status Screen" clip-path="url(#clip-_14_Business_Registration_Status_Screen)">
+    <rect width="428" height="926" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container)">
+      <rect id="Heading_Container-3" data-name="Heading Container" width="428" height="486" fill="#002d6a"/>
+    </g>
+    <path id="Rectangle_148366" data-name="Rectangle 148366" d="M25,0H403a25,25,0,0,1,25,25V694a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(0 232)" fill="#fff"/>
+    <text id="Heading_Text" data-name="Heading Text" transform="translate(19.088 129.5)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Business Type</tspan></text>
+    <text id="Body_Text" data-name="Body Text" transform="translate(21.08 162)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Select the business registration type that applies</tspan><tspan x="0" y="25">to you. </tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container-2)">
+      <g id="Heading_Container-4" data-name="Heading Container" transform="translate(0 -1)" fill="#fff" stroke="rgba(199,199,199,0.16)" stroke-width="1">
+        <path d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.5.5h427a0,0,0,0,1,0,0V74A13.5,13.5,0,0,1,414,87.5H14A13.5,13.5,0,0,1,.5,74V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Stautus_Bar" data-name="Stautus Bar" transform="translate(7 10)">
+      <g id="Pin-Right" transform="translate(354.729 0.5)">
+        <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+        <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+      </g>
+      <text id="_9:41_AM" data-name="9:41 AM" transform="translate(182.123 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+      <g id="Signal" transform="translate(0 0.5)">
+        <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+        <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Group_165447" data-name="Group 165447" transform="translate(-35 -250)">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="196" height="41" rx="20.5" transform="translate(151 285)" fill="#01ffff"/>
+      <text id="Registration_type" data-name="Registration type" transform="translate(173 312)" fill="#002d6a" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Registration type</tspan></text>
+    </g>
+    <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M15.006,18.288l6.666-6.672a1.255,1.255,0,0,1,1.779,0,1.271,1.271,0,0,1,0,1.785L15.9,20.96A1.258,1.258,0,0,1,14.161,21l-7.606-7.59a1.26,1.26,0,0,1,1.779-1.785Z" transform="translate(31.327 36.813) rotate(90)" fill="#002d6a" opacity="0.8"/>
+    <g id="Icon_material-bubble-chart" data-name="Icon material-bubble-chart" transform="translate(365.833 93.753)">
+      <path id="Path_83893" data-name="Path 83893" d="M21.064,20.5A8.365,8.365,0,1,1,12.7,12.133,8.365,8.365,0,0,1,21.064,20.5Z" transform="translate(0 11.022)" fill="#f2f6f7"/>
+      <path id="Path_83894" data-name="Path 83894" d="M24.323,22.562A5.228,5.228,0,1,1,19.1,17.333a5.228,5.228,0,0,1,5.228,5.228Z" transform="translate(13.471 18.37)" fill="#f2f6f7"/>
+      <path id="Path_83895" data-name="Path 83895" d="M36.363,16.881A12.548,12.548,0,1,1,23.815,4.333,12.548,12.548,0,0,1,36.363,16.881Z" transform="translate(9.797)" fill="#f2f6f7"/>
+    </g>
+    <g id="Group_165476" data-name="Group 165476">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+        <rect id="Rectangle_1-2" data-name="Rectangle 1" width="412" height="50" rx="10" transform="translate(8 287)" fill="#fff"/>
+      </g>
+      <text id="I_have_a_CAC_registered_Company" data-name="I have a CAC registered Company" transform="translate(202 319)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-153.531" y="0">I have a CAC registered Company</tspan></text>
+      <g id="Indicator" transform="translate(-19 110)">
+        <g id="Select_Buttton" data-name="Select Buttton" transform="translate(25 175)">
+          <g transform="matrix(1, 0, 0, 1, -6, -285)" filter="url(#Ellipse_48)">
+            <circle id="Ellipse_48-4" data-name="Ellipse 48" cx="10" cy="10" r="10" transform="translate(18 302)" fill="#01ffff"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 19, -110)" filter="url(#Ellipse_28)">
+          <circle id="Ellipse_28-4" data-name="Ellipse 28" cx="5" cy="5" r="5" transform="translate(23 307)" fill="#fff" opacity="0"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165478" data-name="Group 165478" transform="translate(0 29)">
+      <g transform="matrix(1, 0, 0, 1, 0, -29)" filter="url(#Rectangle_149050)">
+        <rect id="Rectangle_149050-2" data-name="Rectangle 149050" width="412" height="71" rx="10" transform="translate(8 376)" fill="#fff"/>
+      </g>
+      <g id="Indicator-2" data-name="Indicator" transform="translate(-19 170)">
+        <g id="Select_Buttton-2" data-name="Select Buttton" transform="translate(25 175)">
+          <g transform="matrix(1, 0, 0, 1, -6, -374)" filter="url(#Ellipse_48-2)">
+            <circle id="Ellipse_48-5" data-name="Ellipse 48" cx="10" cy="10" r="10" transform="translate(18 391)" fill="#01ffff"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 19, -199)" filter="url(#Ellipse_28-2)">
+          <circle id="Ellipse_28-5" data-name="Ellipse 28" cx="5" cy="5" r="5" transform="translate(23 396)" fill="#fff" opacity="0"/>
+        </g>
+      </g>
+      <text id="I_don_t_have_a_CAC_registered_Company_I_would_like_to_Register_my_Business." data-name="I don&apos;t have a CAC registered Company,
+I would like to Register my Business." transform="translate(48 375)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">I don&apos;t have a CAC registered Company,</tspan><tspan x="0" y="27">I would like to Register my Business.</tspan></text>
+    </g>
+    <g id="Group_165477" data-name="Group 165477" transform="translate(0 58)">
+      <g transform="matrix(1, 0, 0, 1, 0, -58)" filter="url(#Rectangle_149051)">
+        <rect id="Rectangle_149051-2" data-name="Rectangle 149051" width="412" height="71" rx="10" transform="translate(8 486)" fill="#fff"/>
+      </g>
+      <g id="Indicator-3" data-name="Indicator" transform="translate(-19 251)">
+        <g id="Select_Buttton-3" data-name="Select Buttton" transform="translate(25 175)">
+          <g transform="matrix(1, 0, 0, 1, -6, -484)" filter="url(#Ellipse_48-3)">
+            <circle id="Ellipse_48-6" data-name="Ellipse 48" cx="10" cy="10" r="10" transform="translate(18 501)" fill="#01ffff"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 19, -309)" filter="url(#Ellipse_28-3)">
+          <circle id="Ellipse_28-6" data-name="Ellipse 28" cx="5" cy="5" r="5" transform="translate(23 506)" fill="#fff" opacity="0"/>
+        </g>
+      </g>
+      <text id="I_am_a_Sole_Trader_I_don_t_have_a_CAC_registered_Company" data-name="I am a Sole Trader I don&apos;t have a CAC
+registered Company" transform="translate(48 457)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">I am a Sole Trader I don&apos;t have a CAC</tspan><tspan x="0" y="27">registered Company</tspan></text>
+    </g>
+  </g>
+</svg>

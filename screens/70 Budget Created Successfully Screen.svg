@@ -1,0 +1,302 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="925" viewBox="0 0 428 925">
+  <defs>
+    <filter id="bbe242b310de7a804a25b5766782ff47" x="-15" y="-14" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="458" height="650" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_2395" x="-15" y="761" width="458" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396" x="227.924" y="804" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_83339" x="227.924" y="804" width="17.35" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-4"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395-2" x="-15" y="614" width="458" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396-2" x="227.924" y="657" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-6"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395-3" x="-15" y="467" width="458" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396-3" x="227.924" y="510" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-8"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_83339-2" x="227.924" y="510" width="171.18" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-9"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395-4" x="-15" y="333" width="458" height="159" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396-4" x="227.924" y="376" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-11"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2395-5" x="-15" y="173" width="458" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-12"/>
+      <feFlood flood-color="#979494" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2396-5" x="227.924" y="216" width="192.076" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-13"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_83339-3" x="227.924" y="216" width="81.078" height="8.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-14"/>
+      <feFlood flood-color="#fff" flood-opacity="0.043"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Container_2" x="-6" y="232" width="446" height="705" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_70_Budget_Created_Successfully_Screen">
+      <rect width="428" height="925"/>
+    </clipPath>
+  </defs>
+  <g id="_70_Budget_Created_Successfully_Screen" data-name="70 Budget Created Successfully Screen" clip-path="url(#clip-_70_Budget_Created_Successfully_Screen)">
+    <rect width="428" height="925" fill="#fff"/>
+    <g id="Budget">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#bbe242b310de7a804a25b5766782ff47)">
+        <path id="bbe242b310de7a804a25b5766782ff47-2" data-name="bbe242b310de7a804a25b5766782ff47" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" fill="#fff"/>
+      </g>
+      <g id="Time_and_Network_bar" data-name="Time and Network bar" transform="translate(-1 -18)">
+        <g id="Group_208" data-name="Group 208" transform="translate(324.692 24)">
+          <image id="NoPath_-_Copy_64_" data-name="NoPath - Copy (64)" width="17" height="17" transform="translate(20.308)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAOwAAADsAEnxA+tAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAvpJREFUeJzt3DFy00AYxfGH08BZGDpi5xrgOFcMFHANBhoIUBI7TYYbxO5CYWdMIcer1e56V+//m1Gn7LfyPkuyvowkAAAAAAAAAAAAAAAA5HIm6UrSR0krSWtJjwe2taTlbt/F7m/RsAtJv3V4wY9tvyRNi88aSSwkbRS/+P+fFeaF546BLvT8qT4mBJwJGnGmYaf9Q9tPcU/QhCulX/yn7TJ0EpMkh4IYwYsUgXuBBqyU7wxwGzqJF0kOBTHWkl5mGnsj6VXIjgTgdB4zjx+0ttwDmCMA5giAOQJgjgCYIwDmCMBh9OeNlejP53oK+LQhUqn+PAGoUMn+PAGoTOn+PAGoTOn+fBUB4FfAnmV/ngDsnWccu9r/06MdvFe6P5/7Oh20tgRgr/SCVBEALgHmCIA5AmCOAJgjAOYIgLmWAjDRtlP3QdKdjvfnV5KutX3C19JxosNM4+vPV9ELaMGl0rRo13r+eT8BqNCY+/ME4Iic/fmuewICUJmF8n04NfTnqwhAzXfHlv350moOQM4e+izj2E2puR089v586XrxO53I2BekigDUfAlAAQTAHAEwRwDMEQBzBMDckADQnzdGf769esnQn2+zXhL059utNxj9+bbrdepzM/Ze0use+4d6sxsbJ9AnAPTnR6hPAOjPj1CfdjD9+bbrxe+0M/YPaOz1OvFEzhwBMEcAzBEAcwTAHAEwRwDMEQBzBMAcATBHAMwRAHMEwBwBMEcAzBEAcwTAHAEwRwDMEQBzBMAcATBHAMwRAHMEwFyfAGyyzaJ7bOqlrdepTwD+RkxkyNhjqndfQb1OfQLwNWIiob5UUO9bxnpdx1K6Xqc+AfgUMZFQn6mXvd5gE0k/VO4VMaeo9z1DvZtK6iUxVfqXRJ1XVG+WuN5DZfWSSPmauJBXw5SuN09U70HSuwrrJTHV9lQaO9kbSW9HXq/PN7F0vSQm2n47ryUtdfxVscvdvnPFXaNOWe82oN6fxuoBAAAAAAAAAAAAAAAAAIAR+QdEFtlM56JoBgAAAABJRU5ErkJggg=="/>
+          <image id="NoPath_-_Copy_69_" data-name="NoPath - Copy (69)" width="17" height="17" transform="translate(59.308)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADsQAAA7EB9YPtSQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANASURBVHic7dpNThNhAMbxPySUDWDSra70CF5Bt1gQuISGawh4CxPd4yXUhR8bTEFZcYPanYl1MRAMBoYy03lm+jy/5F3KvB//mda2MH+WgV3gIzAGJhXH+PxvvQR6Da4j7uA+8I3qh37d+Hp+jWihZWZ7+BfjC3kStNIusz/8i/GioTXFFD7RXAAfGlrTzC2oJ1CjX8BKQ9caA6sNXWum5imAScPXm4u9W1RPILQSgLkEYC4BmEsA5hKAuQRgLgGYSwDm2hZAD9gB3gFDpvs+v2nT/J5gSLGmHfJN4rU2gVOa+0JHNX4CGzXt2VxYBA7QH0zTY5/2PYElXqM/DNXYq2H/Om0T/SGox6DyLnZUj+L1UH0A6nGK8I2h8jVoADwSXr8tHgLrqosrA8g74UuWLwPHlD8ez4Atuvnzq1WKyG+zzqFojlIjyg+/L5tdffoUa7lprSPZ7ITK7oot3dRqt035eu2UbUgXH/vXWSMB/GfaDTm6xb9pyziqYb2NUP60uWzRV+fWtbtk2vlLziKfRZtLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZhLAOYSgLkEYC4BmEsA5hKAuQRgLgGYSwDmEoC5BGAuAZjrUgDf1ROYQpfmKjMpGau6qdXuHuXrlWjzE+CpegI1eqKeQBuNuPmOOAb6stnVpw+ccPNaR7LZCR1T/lg8A7aBNdEcq1gDnlN++BNgKJqj1FvKN8ZlvKm4l3emfA9wKLx227xXT0BhCfiB/u5Tj1OgV3EvO2sD/QEoxx9gvfIudtwB+oNQjVc17F/nLQL76A+j6Tt/j3Z/DtO4AR7vCU6AZzXtWWUL6glcsUSxOQPgMfAAWJHOqLoxxecZnyn+53MI/JbO6B9/AZ1YEbYVibjbAAAAAElFTkSuQmCC"/>
+          <image id="NoPath_-_Copy_67_" data-name="NoPath - Copy (67)" width="17" height="17" transform="translate(39.308)" xlink:href="data:image/png;base64,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"/>
+          <image id="NoPath_-_Copy_66_" data-name="NoPath - Copy (66)" width="17" height="17" transform="translate(0.308)" xlink:href="data:image/png;base64,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"/>
+        </g>
+        <text id="_9:45AM" data-name="9:45AM" transform="translate(29 38)" fill="#30332c" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">9:45AM</tspan></text>
+      </g>
+      <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.321,18l8.937-8.93a1.688,1.688,0,0,0-2.391-2.384L11.742,16.8a1.685,1.685,0,0,0-.049,2.327L21.86,29.32a1.688,1.688,0,0,0,2.391-2.384Z" transform="translate(0.247 18.807)" fill="#002e6b"/>
+      <g id="Headline_Button" data-name="Headline Button" transform="translate(159 32)">
+        <rect id="Rectangle_31" data-name="Rectangle 31" width="98" height="41" rx="20.5" fill="#01ffff"/>
+        <text id="Budget-2" data-name="Budget" transform="translate(17 27)" fill="#002e6b" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Budget</tspan></text>
+      </g>
+      <text id="Active" transform="translate(19 156)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.07em"><tspan x="0" y="0">Active</tspan></text>
+      <text id="Deactivated" transform="translate(102 156)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.07em" opacity="0.8"><tspan x="0" y="0">Deactivated</tspan></text>
+      <g id="Scroll_Group_232" data-name="Scroll Group 232" transform="translate(-15 173)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <g id="Staff_Training" data-name="Staff Training" transform="translate(15 -140)">
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2395)">
+            <rect id="Rectangle_2395-6" data-name="Rectangle 2395" width="428" height="142" rx="10" transform="translate(0 775)" fill="#fff"/>
+          </g>
+          <text id="Staff_training-2" data-name="Staff training" transform="translate(69 765)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Staff training</tspan></text>
+          <text id="Spent" transform="translate(239 818)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_30_500.99" data-name="₦30,500.99" transform="translate(228 800)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">30,500.99</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2396)">
+            <rect id="Rectangle_2396-6" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 804)" fill="#ae42fb" opacity="0.2"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Path_83339)">
+            <path id="Path_83339-4" data-name="Path 83339" d="M4,0H9.984l7.365,7.994H4A4,4,0,0,1,4,0Z" transform="translate(227.92 804)" fill="#ae42fb"/>
+          </g>
+          <text id="_600_500.00" data-name="₦600,500.00" transform="translate(340 800)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">600,500.00</tspan></text>
+          <text id="Budget_owners" data-name="Budget owners" transform="translate(77 857)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Olisa_Emeka_3_more" data-name="Olisa Emeka 
+&amp; 3 more" transform="translate(350 854)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-47.73" y="0">Olisa Emeka</tspan><tspan y="0" fill="#afafaf"> </tspan><tspan fill="#afafaf"><tspan x="-33.938" y="20">&amp; 3 more</tspan></tspan></text>
+          <text id="Total_budget_spent" data-name="Total budget spent" transform="translate(267 758)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Quarterly_limit" data-name="Quarterly limit" transform="translate(335 818)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Quarterly limit</tspan></text>
+          <text id="Recurring_quarterly" data-name="Recurring quarterly" transform="translate(69 786)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring quarterly</tspan></text>
+          <g id="Group_162032" data-name="Group 162032">
+            <rect id="Rectangle_2398" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(3 763)" fill="#ae42fb" opacity="0.1"/>
+            <path id="Icon_awesome-chalkboard-teacher" data-name="Icon awesome-chalkboard-teacher" d="M14.625,24.75a1.609,1.609,0,0,0-.5.077,9.275,9.275,0,0,1-2.879.486,9.283,9.283,0,0,1-2.879-.486,1.6,1.6,0,0,0-.5-.077A7.876,7.876,0,0,0,0,32.669,3.366,3.366,0,0,0,3.375,36h15.75A3.366,3.366,0,0,0,22.5,32.669,7.876,7.876,0,0,0,14.625,24.75ZM11.25,22.5A6.75,6.75,0,1,0,4.5,15.75,6.75,6.75,0,0,0,11.25,22.5ZM41.625,0h-27A3.436,3.436,0,0,0,11.25,3.487V6.75A8.9,8.9,0,0,1,15.75,8V4.5H40.5V24.75H36v-4.5H27v4.5H21.639a8.961,8.961,0,0,1,2.791,4.5H41.625A3.436,3.436,0,0,0,45,25.763V3.487A3.436,3.436,0,0,0,41.625,0Z" transform="translate(10 775)" fill="#ae42fb"/>
+          </g>
+          <line id="Line_1099" data-name="Line 1099" x2="333" transform="translate(69.5 832.5)" fill="none" stroke="#ae42fb" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Operations" transform="translate(15 -140)">
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2395-2)">
+            <rect id="Rectangle_2395-7" data-name="Rectangle 2395" width="428" height="142" rx="10" transform="translate(0 628)" fill="#fff"/>
+          </g>
+          <text id="Operations-2" data-name="Operations" transform="translate(69 618)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Operations</tspan></text>
+          <text id="Spent-2" data-name="Spent" transform="translate(234 671)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_0.00" data-name="₦0.00" transform="translate(235 653)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">0.00</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2396-2)">
+            <rect id="Rectangle_2396-7" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 657)" fill="#60f336" opacity="0.2"/>
+          </g>
+          <text id="_250_500.00" data-name="₦250,500.00" transform="translate(346 653)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">250,500.00</tspan></text>
+          <text id="Budget_owners-2" data-name="Budget owners" transform="translate(76 710)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Audu_John_4_more" data-name="Audu John
+&amp; 4 more" transform="translate(353 707)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-40.102" y="0">Audu John</tspan><tspan fill="#afafaf"><tspan x="-34.237" y="20">&amp; 4 more</tspan></tspan></text>
+          <text id="Total_budget_spent-2" data-name="Total budget spent" transform="translate(267 611)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Monthly_limit" data-name="Monthly limit" transform="translate(344 671)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Monthly limit</tspan></text>
+          <text id="Recurring_monthly" data-name="Recurring monthly" transform="translate(69 663)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring monthly</tspan></text>
+          <g id="Group_162021" data-name="Group 162021" transform="translate(17 413)">
+            <rect id="Rectangle_147995" data-name="Rectangle 147995" width="110" height="22" rx="5" transform="translate(52 213)" fill="#002e6b" opacity="0.1"/>
+            <text id="Expires_on_31_Nov." data-name="Expires on 31 Nov." transform="translate(56 229)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Expires on 31 Nov.</tspan></text>
+          </g>
+          <g id="Group_162029" data-name="Group 162029">
+            <rect id="Rectangle_2398-2" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(3 616)" fill="#60f336" opacity="0.1"/>
+            <path id="Icon_metro-suitcase" data-name="Icon metro-suitcase" d="M28.6,29.885H6.427A1.928,1.928,0,0,1,4.5,27.956V16.388a49.089,49.089,0,0,0,9.64,3.648v1.172a.963.963,0,0,0,.964.964h4.82a.964.964,0,0,0,.964-.964V20.036a49.117,49.117,0,0,0,9.64-3.648V27.956A1.929,1.929,0,0,1,28.6,29.885Zm-9.64-11.568a.964.964,0,0,1,.964.964v.964a.964.964,0,0,1-.964.964H16.067a.963.963,0,0,1-.964-.964V19.28a.963.963,0,0,1,.964-.964Zm1.928,0a.964.964,0,0,0-.964-.964H15.1a.963.963,0,0,0-.964.964v.864A48.288,48.288,0,0,1,4.5,15.424V11.568A1.928,1.928,0,0,1,6.427,9.64h5.784V7.712a1.929,1.929,0,0,1,1.928-1.928h6.748a1.929,1.929,0,0,1,1.928,1.928V9.64H28.6a1.929,1.929,0,0,1,1.928,1.928v3.856a48.316,48.316,0,0,1-9.64,3.756v-.864Zm0-9.64a.964.964,0,0,0-.964-.964H15.1a.963.963,0,0,0-.964.964V9.64h6.748Z" transform="translate(14.501 627.215)" fill="#60f336"/>
+          </g>
+          <line id="Line_1098" data-name="Line 1098" x2="333" transform="translate(69.5 688.5)" fill="none" stroke="#60f336" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="HR" transform="translate(15 -140)">
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2395-3)">
+            <rect id="Rectangle_2395-8" data-name="Rectangle 2395" width="428" height="129" rx="10" transform="translate(0 481)" fill="#fff"/>
+          </g>
+          <text id="HR-2" data-name="HR" transform="translate(69 471)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">HR</tspan></text>
+          <text id="Spent-3" data-name="Spent" transform="translate(242 524)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_67_800.32" data-name="₦67,800.32" transform="translate(228 506)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">67,800.32</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_2396-3)">
+            <rect id="Rectangle_2396-8" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 510)" fill="#d91b7b" opacity="0.2"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Path_83339-2)">
+            <path id="Path_83339-5" data-name="Path 83339" d="M4,0H163.815l7.365,7.994H4A4,4,0,0,1,4,0Z" transform="translate(227.92 510)" fill="#d91b7b"/>
+          </g>
+          <text id="_80_000.00" data-name="₦80,000.00" transform="translate(350 506)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">80,000.00</tspan></text>
+          <text id="Budget_owners-3" data-name="Budget owners" transform="translate(76 566)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Lizzie_Itatu" data-name="Lizzie Itatu" transform="translate(361 565)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-37.583" y="0">Lizzie Itatu</tspan></text>
+          <text id="Total_budget_spent-3" data-name="Total budget spent" transform="translate(267 464)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Monthly_limit-2" data-name="Monthly limit" transform="translate(344 524)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Monthly limit</tspan></text>
+          <text id="Recurring_monthly-2" data-name="Recurring monthly" transform="translate(69 516)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring monthly</tspan></text>
+          <g id="Group_162021-2" data-name="Group 162021" transform="translate(17 266)">
+            <rect id="Rectangle_147995-2" data-name="Rectangle 147995" width="110" height="22" rx="5" transform="translate(52 213)" fill="#002e6b" opacity="0.1"/>
+            <text id="Expires_on_31_Nov.-2" data-name="Expires on 31 Nov." transform="translate(56 229)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Expires on 31 Nov.</tspan></text>
+          </g>
+          <g id="Group_162031" data-name="Group 162031">
+            <rect id="Rectangle_2398-3" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(3 469)" fill="#d91b7b" opacity="0.1"/>
+            <path id="Icon_awesome-user-tie" data-name="Icon awesome-user-tie" d="M15.75,18a9,9,0,1,0-9-9A9,9,0,0,0,15.75,18Zm6.736,2.292L19.125,33.75l-2.25-9.562,2.25-3.937h-6.75l2.25,3.938-2.25,9.563L9.014,20.292A9.434,9.434,0,0,0,0,29.7v2.925A3.376,3.376,0,0,0,3.375,36h24.75A3.376,3.376,0,0,0,31.5,32.625V29.7a9.434,9.434,0,0,0-9.014-9.408Z" transform="translate(17 481)" fill="#d91b7b"/>
+          </g>
+          <line id="Line_1097" data-name="Line 1097" x2="333" transform="translate(69.5 540.5)" fill="none" stroke="#d91b7b" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Tech" transform="translate(15 -127)">
+          <g transform="matrix(1, 0, 0, 1, 0, -46)" filter="url(#Rectangle_2395-4)">
+            <rect id="Rectangle_2395-9" data-name="Rectangle 2395" width="428" height="129" rx="10" transform="translate(0 347)" fill="#fff"/>
+          </g>
+          <text id="Tech-2" data-name="Tech" transform="translate(69 324)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Tech</tspan></text>
+          <text id="Spent-4" data-name="Spent" transform="translate(234 377)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_0.00-2" data-name="₦0.00" transform="translate(235 359)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">0.00</tspan></text>
+          <g transform="matrix(1, 0, 0, 1, 0, -46)" filter="url(#Rectangle_2396-4)">
+            <rect id="Rectangle_2396-9" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 376)" fill="#25cff1" opacity="0.2"/>
+          </g>
+          <text id="_155_500.00" data-name="₦155,500.00" transform="translate(346 359)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">155,500.00</tspan></text>
+          <text id="Budget_owners-4" data-name="Budget owners" transform="translate(74 419)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Peters_Odeh" data-name="Peters Odeh" transform="translate(346 418)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-45.502" y="0">Peters Odeh</tspan></text>
+          <text id="Total_budget_spent-4" data-name="Total budget spent" transform="translate(267 317)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Quaterly_limit" data-name="Quaterly limit" transform="translate(340 377)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Quaterly limit</tspan></text>
+          <text id="Recurring_quarterly-2" data-name="Recurring quarterly" transform="translate(69 345)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring quarterly</tspan></text>
+          <g id="Icon">
+            <rect id="Rectangle_2398-4" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(3 322)" fill="#25cff1" opacity="0.1"/>
+            <path id="Icon_awesome-sitemap" data-name="Icon awesome-sitemap" d="M6.8,18.7H1.7A1.7,1.7,0,0,0,0,20.4v5.1a1.7,1.7,0,0,0,1.7,1.7H6.8a1.7,1.7,0,0,0,1.7-1.7V20.4A1.7,1.7,0,0,0,6.8,18.7ZM5.525,14.45h10.2V17h2.55V14.45h10.2V17h2.55V13.941A2.043,2.043,0,0,0,28.984,11.9H18.275V8.5H20.4a1.7,1.7,0,0,0,1.7-1.7V1.7A1.7,1.7,0,0,0,20.4,0H13.6a1.7,1.7,0,0,0-1.7,1.7V6.8a1.7,1.7,0,0,0,1.7,1.7h2.125v3.4H5.016a2.043,2.043,0,0,0-2.041,2.041V17h2.55ZM19.55,18.7h-5.1a1.7,1.7,0,0,0-1.7,1.7v5.1a1.7,1.7,0,0,0,1.7,1.7h5.1a1.7,1.7,0,0,0,1.7-1.7V20.4A1.7,1.7,0,0,0,19.55,18.7Zm12.75,0H27.2a1.7,1.7,0,0,0-1.7,1.7v5.1a1.7,1.7,0,0,0,1.7,1.7h5.1A1.7,1.7,0,0,0,34,25.5V20.4A1.7,1.7,0,0,0,32.3,18.7Z" transform="translate(16 338)" fill="#25cff1"/>
+          </g>
+          <line id="Line_1096" data-name="Line 1096" x2="333" transform="translate(69.5 396.5)" fill="none" stroke="#25cff1" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Marketing" transform="translate(15 -125)">
+          <g transform="matrix(1, 0, 0, 1, 0, -48)" filter="url(#Rectangle_2395-5)">
+            <rect id="Rectangle_2395-10" data-name="Rectangle 2395" width="428" height="142" rx="10" transform="translate(0 187)" fill="#fff"/>
+          </g>
+          <text id="Marketing-2" data-name="Marketing" transform="translate(69 162)" fill="#002e6b" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Marketing</tspan></text>
+          <text id="Spent-5" data-name="Spent" transform="translate(239 215)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Spent</tspan></text>
+          <text id="_15_175.58" data-name="₦15,175.58" transform="translate(228 197)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">15,175.58</tspan></text>
+          <g id="Group_162019" data-name="Group 162019" transform="translate(108.228 -38.625)">
+            <g transform="matrix(1, 0, 0, 1, -108.23, -9.38)" filter="url(#Rectangle_2396-5)">
+              <rect id="Rectangle_2396-10" data-name="Rectangle 2396" width="192.076" height="7.994" rx="3.997" transform="translate(227.92 216)" fill="#ffbc05" opacity="0.2"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -108.23, -9.38)" filter="url(#Path_83339-3)">
+              <path id="Path_83339-6" data-name="Path 83339" d="M4,0H73.714l7.365,7.994H4A4,4,0,0,1,4,0Z" transform="translate(227.92 216)" fill="#ffbc05"/>
+            </g>
+          </g>
+          <text id="_60_500.00" data-name="₦60,500.00" transform="translate(349 197)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">60,500.00</tspan></text>
+          <g id="Group_162020" data-name="Group 162020" transform="translate(-25 -27)">
+            <rect id="Rectangle_2398-5" data-name="Rectangle 2398" width="59" height="59" rx="29.5" transform="translate(28 187)" fill="#ffbc05" opacity="0.1"/>
+            <path id="Icon_awesome-bullhorn" data-name="Icon awesome-bullhorn" d="M41.24,17.183a4.561,4.561,0,0,0-2.291-3.946V2.292A2.314,2.314,0,0,0,36.658,0a2.286,2.286,0,0,0-1.431.5L29.139,5.373a17.378,17.378,0,0,1-10.81,3.791H4.582A4.582,4.582,0,0,0,0,13.747V20.62A4.582,4.582,0,0,0,4.582,25.2H7a17.4,17.4,0,0,0-.156,2.291,18.137,18.137,0,0,0,1.83,7.943A2.247,2.247,0,0,0,10.7,36.658h5.318a2.276,2.276,0,0,0,1.854-3.62A9.118,9.118,0,0,1,16,27.493a8.664,8.664,0,0,1,.316-2.291h2.01a17.374,17.374,0,0,1,10.81,3.791l6.088,4.871a2.29,2.29,0,0,0,3.722-1.788V21.13A4.563,4.563,0,0,0,41.24,17.183ZM34.367,27.309,32,25.415a21.966,21.966,0,0,0-13.671-4.8V13.747A21.966,21.966,0,0,0,32,8.951l2.366-1.893Z" transform="translate(36.429 198.238)" fill="#ffbc05"/>
+          </g>
+          <text id="Budget_owners-5" data-name="Budget owners" transform="translate(76 254)" fill="#002e6b" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Budget owners</tspan></text>
+          <text id="Jenny_Hassan_3_more" data-name="Jenny Hassan 
+&amp; 3 more" transform="translate(344 251)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-54.412" y="0">Jenny Hassan</tspan><tspan y="0" fill="#afafaf"> </tspan><tspan fill="#afafaf"><tspan x="-33.938" y="20">&amp; 3 more</tspan></tspan></text>
+          <text id="Total_budget_spent-5" data-name="Total budget spent" transform="translate(267 155)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Total budget spent</tspan></text>
+          <text id="Monthly_limit-3" data-name="Monthly limit" transform="translate(344 215)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Monthly limit</tspan></text>
+          <text id="Recurring_monthly-3" data-name="Recurring monthly" transform="translate(69 207)" fill="#afafaf" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Recurring monthly</tspan></text>
+          <g id="Group_162021-3" data-name="Group 162021" transform="translate(17 -43)">
+            <rect id="Rectangle_147995-3" data-name="Rectangle 147995" width="110" height="22" rx="5" transform="translate(52 213)" fill="#002e6b" opacity="0.1"/>
+            <text id="Expires_on_31_Nov.-3" data-name="Expires on 31 Nov." transform="translate(56 229)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Expires on 31 Nov.</tspan></text>
+          </g>
+          <line id="Line_1095" data-name="Line 1095" x2="333" transform="translate(69.5 229.5)" fill="none" stroke="#f2e200" stroke-linecap="round" stroke-width="2"/>
+        </g>
+      </g>
+      <rect id="Background_Blur" data-name="Background Blur" width="428" height="925" fill="#16110d" opacity="0.5"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Container_2)">
+        <path id="Container_2-2" data-name="Container 2" d="M25,0H403a25,25,0,0,1,25,25V687a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(0 238)" fill="#fff"/>
+      </g>
+      <text id="Budget_created_successfully_" data-name="Budget created successfully!" transform="translate(205 502.009)" fill="#002e6b" font-size="20" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-149.88" y="0">Budget created successfully!</tspan></text>
+      <text id="We_ve_notified_Budget_owners._they_can_start_managing_and_utilizing_the_budget_immediately." data-name="We&apos;ve notified Budget owners. they
+can start managing and utilizing the budget
+immediately." transform="translate(214 552.009)" fill="#002e6b" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-156.294" y="0">We&apos;ve notified Budget owners. they</tspan><tspan x="-198.999" y="20">can start managing and utilizing the budget</tspan><tspan x="-58.743" y="40">immediately.</tspan></text>
+      <g id="Continue_Button" data-name="Continue Button" transform="translate(-20 103)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="230" height="59" rx="29.5" transform="translate(119 623)" fill="#01ffff"/>
+        <g id="Group_162086" data-name="Group 162086" transform="translate(6)">
+          <text id="View_budget" data-name="View budget" transform="translate(228 663)" fill="#002d6a" font-size="30" font-family="Poppins-Regular, Poppins"><tspan x="-94.215" y="0">View budget</tspan></text>
+        </g>
+      </g>
+      <g id="Icon_feather-check-circle" data-name="Icon feather-check-circle" transform="translate(139 298.539)">
+        <path id="Path_83396" data-name="Path 83396" d="M137.5,69.25V75a62.5,62.5,0,1,1-37.062-57.125" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.5"/>
+        <path id="Path_83397" data-name="Path 83397" d="M137.5,25,75,87.563,56.25,68.813" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.5"/>
+      </g>
+      <g id="Group_163011" data-name="Group 163011" transform="translate(-1447.438 -3617.5)">
+        <text id="People_Also_Watch" data-name="People Also Watch" transform="translate(1804 3751)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-45.465" y="0">New budget</tspan></text>
+        <g id="Icon_ionic-ios-add-circle-outline" data-name="Icon ionic-ios-add-circle-outline" transform="translate(1731 3732.563)">
+          <path id="Path_83935" data-name="Path 83935" d="M17.6,12.188H13.813V8.4a.813.813,0,0,0-1.625,0v3.783H8.4A.778.778,0,0,0,7.592,13a.787.787,0,0,0,.813.813h3.783V17.6a.787.787,0,0,0,.813.813.808.808,0,0,0,.813-.812V13.813H17.6a.813.813,0,0,0,0-1.625Z" fill="#01ffff"/>
+          <path id="Path_83936" data-name="Path 83936" d="M13,3.859A9.137,9.137,0,1,1,6.536,6.536,9.08,9.08,0,0,1,13,3.859m0-1.422A10.563,10.563,0,1,0,23.563,13,10.561,10.561,0,0,0,13,2.438Z" fill="#002d6a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,334 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="1327" viewBox="0 0 428 1327">
+  <defs>
+    <filter id="Rectangle_147758" x="0" y="138" width="430" height="138" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect x="-10" width="386" height="91" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_148258" x="-6" y="328" width="155" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#7e7e7e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148330" x="-6" y="328" width="42" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#7e7e7e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148331" x="150" y="328" width="148" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#7e7e7e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148332" x="150" y="328" width="42" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-color="#7e7e7e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148333" x="284" y="328" width="152" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#7e7e7e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148334" x="284" y="328" width="43" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-color="#7e7e7e" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container" x="-14" y="-15" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_84009" x="9" y="285.876" width="410.854" height="340.624" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148608" x="170.559" y="361.5" width="223" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148608-2" x="109.559" y="328.5" width="223" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148608-3" x="197.559" y="392.5" width="223" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_59_Invoice_sent_screen_">
+      <rect width="428" height="1327"/>
+    </clipPath>
+  </defs>
+  <g id="_59_Invoice_sent_screen_" data-name="59 Invoice sent screen " clip-path="url(#clip-_59_Invoice_sent_screen_)">
+    <rect width="428" height="1327" fill="#fff"/>
+    <g id="New_Invoice" data-name="New Invoice" transform="translate(0 -1)">
+      <g id="Search_bar" data-name="Search bar" transform="translate(3 9)">
+        <g id="Rectangle_303" data-name="Rectangle 303" transform="translate(8 89)" fill="#fff" stroke="#dededf" stroke-width="1">
+          <rect width="163" height="37" rx="18.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="162" height="36" rx="18" fill="none"/>
+        </g>
+        <text id="Search_Invoice" data-name="Search Invoice" transform="translate(21 113)" fill="rgba(0,0,0,0.4)" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Search Invoice</tspan></text>
+        <path id="search" d="M13.75,12.054,11.036,9.339a.653.653,0,0,0-.463-.191h-.444a5.661,5.661,0,1,0-.98.98v.444a.653.653,0,0,0,.191.463l2.715,2.715a.651.651,0,0,0,.923,0l.771-.771A.657.657,0,0,0,13.75,12.054ZM5.663,9.149A3.485,3.485,0,1,1,9.149,5.663,3.483,3.483,0,0,1,5.663,9.149Z" transform="translate(138 101)" fill="#9a9a9a"/>
+      </g>
+      <g id="Group_163634" data-name="Group 163634" transform="translate(318.547 -87)">
+        <text id="Sort_by" data-name="Sort by" transform="translate(16.595 217)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">SORT BY</tspan></text>
+        <path id="Icon_awesome-caret-down" data-name="Icon awesome-caret-down" d="M2.2,13.5H20.292a1.4,1.4,0,0,1,.991,2.4l-9.042,9.049a1.409,1.409,0,0,1-1.99,0L1.209,15.9A1.4,1.4,0,0,1,2.2,13.5Z" transform="translate(80.754 192.5)" fill="#cecece"/>
+      </g>
+      <g id="Group_165054" data-name="Group 165054" transform="translate(1 -6)">
+        <g transform="matrix(1, 0, 0, 1, -1, 7)" filter="url(#Rectangle_147758)">
+          <rect id="Rectangle_147758-2" data-name="Rectangle 147758" width="412" height="120" rx="10" transform="translate(9 144)" fill="#fff"/>
+        </g>
+        <g id="Scroll_Group_254" data-name="Scroll Group 254" transform="translate(31 166)" clip-path="url(#clip-path)" style="isolation: isolate">
+          <g id="Group_164906" data-name="Group 164906" transform="translate(18961 15951)">
+            <text id="Dashboard" transform="translate(-18921 -15865)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-39.739" y="0">Dashboard</tspan></text>
+            <g id="Group_162744" data-name="Group 162744" transform="translate(-16175 -11964)">
+              <ellipse id="Ellipse_712" data-name="Ellipse 712" cx="33.5" cy="33.5" rx="33.5" ry="33.5" transform="translate(-2779 -3987)" fill="#002d6a" opacity="0.1"/>
+              <path id="Icon_material-dashboard" data-name="Icon material-dashboard" d="M4.5,25.611H21.389V4.5H4.5ZM4.5,42.5H21.389V29.833H4.5Zm21.111,0H42.5V21.389H25.611Zm0-38V17.167H42.5V4.5Z" transform="translate(-2768.5 -3976.5)" fill="#002d6a"/>
+            </g>
+          </g>
+          <g id="Group_164907" data-name="Group 164907" transform="translate(18961 15951)">
+            <text id="Invoice" transform="translate(-18822 -15865)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-25.711" y="0">Invoice</tspan></text>
+            <g id="Group_163604" data-name="Group 163604" transform="translate(-8130 -10884)">
+              <ellipse id="Ellipse_714" data-name="Ellipse 714" cx="33.5" cy="33.5" rx="33.5" ry="33.5" transform="translate(-10726 -5067)" fill="#01ffff" opacity="0.1"/>
+              <path id="Icon_awesome-file-invoice" data-name="Icon awesome-file-invoice" d="M28.5,24.5H9.5v6.125h19Zm8.807-14.451L27.619.67A2.415,2.415,0,0,0,25.937,0h-.6V12.25H38v-.584A2.252,2.252,0,0,0,37.307,10.049ZM22.167,13.016V0H2.375A2.331,2.331,0,0,0,0,2.3V46.7A2.331,2.331,0,0,0,2.375,49h33.25A2.331,2.331,0,0,0,38,46.7V15.313H24.542A2.344,2.344,0,0,1,22.167,13.016ZM6.333,6.891a.779.779,0,0,1,.792-.766h7.917a.779.779,0,0,1,.792.766V8.422a.779.779,0,0,1-.792.766H7.125a.779.779,0,0,1-.792-.766Zm0,6.125a.779.779,0,0,1,.792-.766h7.917a.779.779,0,0,1,.792.766v1.531a.779.779,0,0,1-.792.766H7.125a.779.779,0,0,1-.792-.766ZM31.667,42.109a.779.779,0,0,1-.792.766H22.958a.779.779,0,0,1-.792-.766V40.578a.779.779,0,0,1,.792-.766h7.917a.779.779,0,0,1,.792.766Zm0-19.141v9.188a1.558,1.558,0,0,1-1.583,1.531H7.917a1.558,1.558,0,0,1-1.583-1.531V22.969a1.558,1.558,0,0,1,1.583-1.531H30.083A1.558,1.558,0,0,1,31.667,22.969Z" transform="translate(-10711 -5058)" fill="#01ffff"/>
+            </g>
+          </g>
+          <g id="Group_164896" data-name="Group 164896" transform="translate(20421 15792)">
+            <text id="Bookkeeping" transform="translate(-20178 -15706)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-46.312" y="0">Bookkeeping</tspan></text>
+            <g id="Group_164895" data-name="Group 164895">
+              <circle id="Ellipse_703" data-name="Ellipse 703" cx="33.5" cy="33.5" r="33.5" transform="translate(-20212 -15792)" fill="#f2e200" opacity="0.1"/>
+              <path id="Subtraction_336" data-name="Subtraction 336" d="M24.872,38.515H1.842A1.825,1.825,0,0,1,0,36.713V9.666a1.825,1.825,0,0,1,1.842-1.8h2.3V9.29a.228.228,0,0,0,.231.225H22.338a.228.228,0,0,0,.23-.225V7.863h2.3a1.825,1.825,0,0,1,1.842,1.8V36.713A1.825,1.825,0,0,1,24.872,38.515ZM22.5,26A1.5,1.5,0,0,0,21,27.5v7a1.5,1.5,0,1,0,3,0v-7A1.5,1.5,0,0,0,22.5,26Zm-4-4A1.5,1.5,0,0,0,17,23.5v11a1.5,1.5,0,1,0,3,0v-11A1.5,1.5,0,0,0,18.5,22Zm-4,7A1.5,1.5,0,0,0,13,30.5v4a1.5,1.5,0,1,0,3,0v-4A1.5,1.5,0,0,0,14.5,29ZM5.879,12.473a.341.341,0,0,0-.047,0,5.434,5.434,0,0,0-4.676,5.577A5.492,5.492,0,0,0,6.6,23.311h.065a5.4,5.4,0,0,0,3.07-1,.343.343,0,0,0,.142-.253.37.37,0,0,0-.107-.294L6.237,18.227V12.84a.369.369,0,0,0-.106-.259A.35.35,0,0,0,5.879,12.473Zm1.867,5.754,3.586,3.587a.377.377,0,0,0,.265.11.349.349,0,0,0,.239-.094,5.464,5.464,0,0,0,1.66-3.2.343.343,0,0,0-.083-.276.372.372,0,0,0-.281-.129Zm-.061-6.537a.369.369,0,0,0-.359.369v5.079h5.08a.374.374,0,0,0,.273-.119.346.346,0,0,0,.095-.262A5.477,5.477,0,0,0,7.708,11.69ZM21.478,8.618H5.123a.208.208,0,0,1-.21-.205V6.823a1.817,1.817,0,0,1,1.834-1.8h1.52a5,5,0,0,1,.284-1.642,4.847,4.847,0,0,1,.985-1.642A5.139,5.139,0,0,1,13.3,0a5.143,5.143,0,0,1,3.764,1.744,4.86,4.86,0,0,1,.985,1.642,5,5,0,0,1,.283,1.642h1.782a1.558,1.558,0,0,1,1.573,1.539V8.413A.208.208,0,0,1,21.478,8.618ZM13.307,3.352a1.769,1.769,0,0,0-.216.014,1.675,1.675,0,0,0-1.447,1.417,1.582,1.582,0,0,0,.38,1.272,1.7,1.7,0,0,0,1.28.577,1.8,1.8,0,0,0,.216-.013A1.67,1.67,0,0,0,14.967,5.2a1.585,1.585,0,0,0-.381-1.274A1.7,1.7,0,0,0,13.307,3.352Z" transform="translate(-20192 -15778)" fill="#f2e200"/>
+            </g>
+          </g>
+          <g id="Group_164913" data-name="Group 164913" transform="translate(19100 15822)">
+            <text id="Financial_Reports" data-name="Financial Reports" transform="translate(-18724 -15736)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-61.551" y="0">Financial Reports</tspan></text>
+            <g id="Group_164912" data-name="Group 164912" transform="translate(1)">
+              <circle id="Ellipse_703-2" data-name="Ellipse 703" cx="33.5" cy="33.5" r="33.5" transform="translate(-18758 -15822)" fill="#04949c" opacity="0.1"/>
+              <path id="Subtraction_338" data-name="Subtraction 338" d="M24.872,38.515H1.842A1.825,1.825,0,0,1,0,36.713V9.666a1.825,1.825,0,0,1,1.842-1.8h2.3V9.29a.228.228,0,0,0,.231.225H22.338a.228.228,0,0,0,.23-.225V7.863h2.3a1.825,1.825,0,0,1,1.842,1.8V36.713A1.825,1.825,0,0,1,24.872,38.515ZM5.918,13a1.049,1.049,0,0,0-1.063,1.031V33.969A1.049,1.049,0,0,0,5.918,35H20.793a1.049,1.049,0,0,0,1.063-1.031V19.875H15.835a1.049,1.049,0,0,1-1.063-1.031V13Zm10.271,0v5.5h5.666v-.263a1.021,1.021,0,0,0-.31-.726L17.212,13.3a1.071,1.071,0,0,0-.752-.3Zm.885,16.5H9.636a.524.524,0,0,1-.531-.516v-.344a.524.524,0,0,1,.531-.516h7.438a.525.525,0,0,1,.532.516v.344A.525.525,0,0,1,17.074,29.5Zm0-2.75H11.038a.524.524,0,0,1-.531-.516V25.89a.524.524,0,0,1,.531-.516h6.036a.525.525,0,0,1,.532.516v.344A.525.525,0,0,1,17.074,26.75ZM8.392,24.305H7.884a.251.251,0,0,1-.255-.247v-.749a1.852,1.852,0,0,1-1-.351.239.239,0,0,1-.1-.178.249.249,0,0,1,.079-.2l.373-.346a.251.251,0,0,1,.171-.066.292.292,0,0,1,.151.043.786.786,0,0,0,.409.115h.894a.393.393,0,0,0,.375-.408.4.4,0,0,0-.279-.392l-1.431-.418a1.393,1.393,0,0,1,.352-2.731v-.744a.251.251,0,0,1,.255-.248h.509a.251.251,0,0,1,.255.248v.75a1.844,1.844,0,0,1,1,.35.236.236,0,0,1,.1.178.249.249,0,0,1-.079.2l-.373.346a.251.251,0,0,1-.171.066.289.289,0,0,1-.151-.043.788.788,0,0,0-.408-.115H7.665a.393.393,0,0,0-.376.408.4.4,0,0,0,.28.393L9,20.583A1.4,1.4,0,0,1,10,21.922a1.387,1.387,0,0,1-1.357,1.392v.743A.251.251,0,0,1,8.392,24.305ZM17.074,24H12.251a.525.525,0,0,1-.531-.517V23.14a.524.524,0,0,1,.531-.515h4.823a.524.524,0,0,1,.532.515v.344A.525.525,0,0,1,17.074,24Zm4.4-15.382H5.123a.208.208,0,0,1-.21-.205V6.823a1.817,1.817,0,0,1,1.834-1.8h1.52a5,5,0,0,1,.284-1.642,4.847,4.847,0,0,1,.985-1.642A5.139,5.139,0,0,1,13.3,0a5.143,5.143,0,0,1,3.764,1.744,4.86,4.86,0,0,1,.985,1.642,5,5,0,0,1,.283,1.642h1.782a1.558,1.558,0,0,1,1.573,1.539V8.413A.208.208,0,0,1,21.478,8.618ZM13.307,3.352a1.769,1.769,0,0,0-.216.014,1.675,1.675,0,0,0-1.447,1.417,1.582,1.582,0,0,0,.38,1.272,1.7,1.7,0,0,0,1.28.577,1.8,1.8,0,0,0,.216-.013A1.67,1.67,0,0,0,14.967,5.2a1.585,1.585,0,0,0-.381-1.274A1.7,1.7,0,0,0,13.307,3.352Z" transform="translate(-18738 -15808)" fill="#502350"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_162771" data-name="Group 162771" transform="translate(60.752 121)" opacity="0">
+        <text id="Export_Statement" data-name="Export Statement" transform="translate(231.248 170)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Export Statement</tspan></text>
+        <path id="Icon_awesome-file-pdf" data-name="Icon awesome-file-pdf" d="M6.311,8.885a3.347,3.347,0,0,1-.069-1.627C6.533,7.258,6.505,8.538,6.311,8.885Zm-.059,1.638A16.009,16.009,0,0,1,5.267,12.7a12.776,12.776,0,0,1,2.182-.76A4.494,4.494,0,0,1,6.252,10.523Zm-3.265,4.33c0,.028.458-.187,1.211-1.395A4.8,4.8,0,0,0,2.987,14.853ZM8.6,5.551h4.719v11.38a.831.831,0,0,1-.833.833H.833A.831.831,0,0,1,0,16.931V.833A.831.831,0,0,1,.833,0H7.772V4.719A.835.835,0,0,0,8.6,5.551Zm-.278,5.961A3.482,3.482,0,0,1,6.845,9.645,4.987,4.987,0,0,0,7.06,7.418.869.869,0,0,0,5.4,7.182a5.769,5.769,0,0,0,.281,2.672A32.58,32.58,0,0,1,4.268,12.83s0,0-.007,0c-.94.482-2.554,1.544-1.891,2.359a1.078,1.078,0,0,0,.746.347c.621,0,1.239-.625,2.12-2.144a19.777,19.777,0,0,1,2.741-.8,5.258,5.258,0,0,0,2.22.677.9.9,0,0,0,.683-1.506c-.482-.472-1.884-.337-2.554-.25ZM13.08,3.643,9.68.243A.832.832,0,0,0,9.09,0H8.882V4.441h4.441V4.229A.83.83,0,0,0,13.08,3.643ZM10.509,12.5c.142-.094-.087-.413-1.485-.312C10.311,12.737,10.509,12.5,10.509,12.5Z" transform="translate(211 156)" fill="#01ffff"/>
+      </g>
+      <g id="New_product_button" data-name="New product button" transform="translate(5502.301 3523)">
+        <text id="Construction_ltd." data-name="Construction ltd." transform="translate(-5190.5 -3232)" fill="#002e6b" font-size="17" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">New Invoice</tspan></text>
+        <g id="Icon_ionic-ios-add-circle-outline" data-name="Icon ionic-ios-add-circle-outline" transform="translate(-5225.426 -3253.375)">
+          <path id="Path_83340" data-name="Path 83340" d="M19.448,14.617H16.068V11.237a.726.726,0,0,0-1.452,0v3.379H11.237a.7.7,0,0,0-.726.726.7.7,0,0,0,.726.726h3.379v3.379a.7.7,0,0,0,.726.726.722.722,0,0,0,.726-.726V16.068h3.379a.726.726,0,0,0,0-1.452Z" transform="translate(0.032 0.032)" fill="#01ffff"/>
+          <path id="Path_83341" data-name="Path 83341" d="M15.375,4.99a10.381,10.381,0,1,1-7.344,3.04,10.316,10.316,0,0,1,7.344-3.04m0-1.615a12,12,0,1,0,12,12,12,12,0,0,0-12-12Z" fill="#002e6b"/>
+        </g>
+      </g>
+      <g id="Group_165072" data-name="Group 165072" transform="translate(10533.75 4837.527)">
+        <g id="Group_162884" data-name="Group 162884" transform="translate(-10532.75 -4762.527)">
+          <text id="Payables" transform="translate(44 250)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-33.713" y="0">Payables</tspan></text>
+          <text id="Receivables" transform="translate(215 251)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-55.35" y="0">Receivables</tspan></text>
+          <g id="Group_162882" data-name="Group 162882" transform="translate(18 110.001)">
+            <text id="Analytics" transform="translate(366 139.999)" fill="#cecece" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-33.315" y="0">Analytics</tspan></text>
+          </g>
+        </g>
+        <g id="Group_162885" data-name="Group 162885" transform="translate(-10532.75 -4760.527)">
+          <g id="Group_162881" data-name="Group 162881">
+            <g transform="matrix(1, 0, 0, 1, -1, -76)" filter="url(#Rectangle_148258)">
+              <rect id="Rectangle_148258-2" data-name="Rectangle 148258" width="125" height="80" rx="10" transform="translate(9 342)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -1, -76)" filter="url(#Rectangle_148330)">
+              <path id="Rectangle_148330-2" data-name="Rectangle 148330" d="M10,0h2a0,0,0,0,1,0,0V80a0,0,0,0,1,0,0H10A10,10,0,0,1,0,70V10A10,10,0,0,1,10,0Z" transform="translate(9 342)" fill="#0089b8"/>
+            </g>
+            <text id="Total_Unpaid" data-name="Total Unpaid" transform="translate(75 298)" fill="#0089b8" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-51.188" y="0">TOTAL UNPAID</tspan></text>
+            <text id="_150_774.86" data-name="₦150,774.86" transform="translate(28 328)" fill="#002d6a" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-size="15" font-family="Poppins-Bold, Poppins" font-weight="700">150,774.86</tspan></text>
+          </g>
+          <g id="Group_162880" data-name="Group 162880" transform="translate(31)">
+            <g transform="matrix(1, 0, 0, 1, -32, -76)" filter="url(#Rectangle_148331)">
+              <rect id="Rectangle_148331-2" data-name="Rectangle 148331" width="118" height="80" rx="10" transform="translate(165 342)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -32, -76)" filter="url(#Rectangle_148332)">
+              <path id="Rectangle_148332-2" data-name="Rectangle 148332" d="M10,0h2a0,0,0,0,1,0,0V80a0,0,0,0,1,0,0H10A10,10,0,0,1,0,70V10A10,10,0,0,1,10,0Z" transform="translate(165 342)" fill="#e2070a"/>
+            </g>
+            <text id="Overdue" transform="translate(187 298)" fill="#e2070a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-33.585" y="0">OVERDUE</tspan></text>
+            <text id="_150_774.86-2" data-name="₦150,774.86" transform="translate(153 328)" fill="#002d6a" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-size="15" font-family="Poppins-Bold, Poppins" font-weight="700">150,774.86</tspan></text>
+          </g>
+          <g id="Group_162879" data-name="Group 162879">
+            <g transform="matrix(1, 0, 0, 1, -1, -76)" filter="url(#Rectangle_148333)">
+              <rect id="Rectangle_148333-2" data-name="Rectangle 148333" width="122" height="80" rx="10" transform="translate(299 342)" fill="#fff"/>
+            </g>
+            <g transform="matrix(1, 0, 0, 1, -1, -76)" filter="url(#Rectangle_148334)">
+              <path id="Rectangle_148334-2" data-name="Rectangle 148334" d="M10,0h3a0,0,0,0,1,0,0V80a0,0,0,0,1,0,0H10A10,10,0,0,1,0,70V10A10,10,0,0,1,10,0Z" transform="translate(299 342)" fill="#f2e200"/>
+            </g>
+            <text id="Total_Due" data-name="Total Due" transform="translate(365 298)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-38.52" y="0">TOTAL DUE</tspan></text>
+            <text id="_150_774.86-3" data-name="₦150,774.86" transform="translate(318 328)" fill="#002d6a" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-size="15" font-family="Poppins-Bold, Poppins" font-weight="700">150,774.86</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_165073" data-name="Group 165073" transform="translate(1 1)">
+        <g transform="matrix(1, 0, 0, 1, -1, 0)" filter="url(#Heading_Container)">
+          <path id="Heading_Container-2" data-name="Heading Container" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" transform="translate(1 -1)" fill="#fff"/>
+        </g>
+        <g id="Group_165019" data-name="Group 165019" transform="translate(5 -254)">
+          <rect id="Rectangle_31" data-name="Rectangle 31" width="116" height="41" rx="20.5" transform="translate(151 285)" fill="#01ffff"/>
+          <text id="Invoices" transform="translate(173 312)" fill="#002e6b" font-size="18" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Invoices</tspan></text>
+        </g>
+      </g>
+      <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M15.006,18.288l6.666-6.672a1.255,1.255,0,0,1,1.779,0,1.271,1.271,0,0,1,0,1.785L15.9,20.96A1.258,1.258,0,0,1,14.161,21l-7.606-7.59a1.26,1.26,0,0,1,1.779-1.785Z" transform="translate(32.326 24.813) rotate(90)" fill="#002e6b" opacity="0.8"/>
+      <g id="Stautus_Bar" data-name="Stautus Bar" transform="translate(8.813 11)">
+        <g id="Pin-Right" transform="translate(354.729 0.5)">
+          <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+          <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+        </g>
+        <text id="_9:41_AM" data-name="9:41 AM" transform="translate(182.123 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+        <g id="Signal" transform="translate(0 0.5)">
+          <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+          <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+          <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="Group_163340" data-name="Group 163340" transform="translate(0 1)">
+        <rect id="Background_Blur" data-name="Background Blur" width="428" height="848" fill="#16110d" opacity="0.5"/>
+        <rect id="Background_Blur-2" data-name="Background Blur" width="428" height="848" fill="#16110d" opacity="0.5"/>
+      </g>
+      <g id="Invoice_sent_successfully" data-name="Invoice sent successfully" transform="translate(2454 2633)">
+        <path id="Rectangle_148611" data-name="Rectangle 148611" d="M37,0H391a37,37,0,0,1,37,37v968a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V37A37,37,0,0,1,37,0Z" transform="translate(-2453 -2440)" fill="#fff"/>
+        <g id="Group_163411" data-name="Group 163411" transform="translate(-1841 631)">
+          <text id="TSLA" transform="translate(-398 -2598)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-116.982" y="0">Invoice sent successfully!</tspan></text>
+          <text id="TSLA-2" data-name="TSLA" transform="translate(-398 -2551)" fill="#002d6a" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-163.998" y="0">You&apos;ve sent an invoice for the sum of</tspan><tspan x="-131.796" y="25">NGN 500,000.32 to Cletus Ojo.</tspan><tspan x="-89.406" y="50">Due on 22 Nov, 2023</tspan></text>
+        </g>
+        <line id="Line_1110" data-name="Line 1110" x2="109" transform="translate(-2290.5 -2422.5)" fill="none" stroke="#cecece" stroke-linecap="round" stroke-width="5"/>
+        <g id="Group_163420" data-name="Group 163420" transform="translate(-2303.932 586.5)">
+          <g transform="matrix(1, 0, 0, 1, -150.07, -3218.5)" filter="url(#Path_84009)">
+            <path id="Path_84009-2" data-name="Path 84009" d="M87.51-15.624c69.743,0,279.984,87.165,278.663,229.8,7.924,39.62-63.13,32.719-102.062,60.917C161.469,255.115,201.77,307,164,307c-90.575,0-190.068-8.05-190.068-92.826,0-42.557,18.839-113.38,48.865-141.313C52.309,45.407,42.4-15.624,87.51-15.624Z" transform="translate(44.07 307.5)" fill="#01ffff" opacity="0.2"/>
+          </g>
+          <g id="Group_163407" data-name="Group 163407" transform="translate(456.491 19)">
+            <g id="Group_163400" data-name="Group 163400" transform="translate(-579.491 -2853)">
+              <g id="Symbols" transform="translate(26.543 114.079)">
+                <g id="Bottom_Sitting_Skinny-Jeans-1" data-name="Bottom/Sitting/Skinny-Jeans-1" transform="translate(0 0)">
+                  <path id="Skin" d="M228.41,18.219c4.652-2.793,12.456.8,12.451,4.79-.016,11.953-10.924,68.285-11.494,71.847s-6.67,4.5-7.025.011c-.565-7.144-1.616-31.877-.565-43.324.434-4.725.9-9.226,1.361-13.241q-8.586,15.5-26.557,44.4l-6.5-2.972q7.661-25.241,12.563-35.639c5.6-11.869,10.844-22.034,13.053-25.614C219.168,12.845,225.215,14.81,228.41,18.219Z" transform="translate(-145.983 -6.498)" fill="#b28b67" fill-rule="evenodd"/>
+                  <path id="LegLower" d="M0,63.162,2.89,5.834C4.973-4.078,22.6.522,22.6,5.834c-.016,12.06-7.261,53.723-7.266,57.316Z" transform="matrix(0.94, 0.342, -0.342, 0.94, 66.161, 4.534)" fill="#002e6b" fill-rule="evenodd"/>
+                  <g id="Accessories_Shoe_Flat-Sneaker" data-name="Accessories/Shoe/Flat-Sneaker" transform="translate(44.212 66.455) rotate(30)">
+                    <path id="shoe" d="M.948,3.428A12.126,12.126,0,0,0,0,7.214a28.337,28.337,0,0,0,.509,4.458H32.362q1.242-4.1-1.433-4.432t-4.444-.591l-14.8-6.6a.565.565,0,0,0-.746.286L10.927.35,9.975,2.658A10.156,10.156,0,0,1,5.951,3.814,9.115,9.115,0,0,1,2.476,2.8h0a1.13,1.13,0,0,0-1.5.556Q.962,3.39.948,3.428Z" transform="translate(0 0)" fill="#01ffff" fill-rule="evenodd"/>
+                  </g>
+                  <g id="Accessories_Shoe_Flat-Sneaker-2" data-name="Accessories/Shoe/Flat-Sneaker" transform="translate(73.982 82.076)">
+                    <path id="shoe-2" data-name="shoe" d="M1.948,22.76A12.126,12.126,0,0,0,1,26.546,28.337,28.337,0,0,0,1.509,31H33.362q1.242-4.1-1.434-4.432t-4.444-.591l-14.8-6.6a.565.565,0,0,0-.746.286l-.006.015-.952,2.308a10.156,10.156,0,0,1-4.025,1.155,9.115,9.115,0,0,1-3.474-1.016h0a1.13,1.13,0,0,0-1.5.556Q1.962,22.722,1.948,22.76Z" transform="translate(-1 -19.332)" fill="#01ffff" fill-rule="evenodd"/>
+                  </g>
+                  <path id="Leg-and-Butt" d="M208.442,20.575c0,15-7.125,50-7.129,53.3l-15.331.012q3.366-46.842,2.387-47.347c-.979-.5-40.126,3.909-51.867,3.909-16.93,0-23.934-10.676-24.5-30.454h33.538c6.829.731,42.448,7.915,55.676,10.385C206.878,11.442,208.442,16.442,208.442,20.575Z" transform="translate(-112 0)" fill="#0449a5" fill-rule="evenodd"/>
+                </g>
+              </g>
+              <g id="Symbols-2" data-name="Symbols" transform="translate(36.144 0)">
+                <g id="Head_Front_Rad" data-name="Head/Front/Rad" transform="translate(0 0)">
+                  <g id="Head" transform="translate(9.601 9.036)">
+                    <path id="Path_83166" data-name="Path 83166" d="M4.666,19.478A15.3,15.3,0,0,1,.6,8.486C1.445-3.6,18.269-.942,21.541,5.158S24.425,26.731,20.2,27.821c-1.687.435-5.28-.63-8.937-2.835l2.3,16.24H0Z" transform="translate(0 0)" fill="#b28b67" fill-rule="evenodd"/>
+                  </g>
+                  <path id="hair" d="M32.985,18.692a4.236,4.236,0,0,1,.883,1.641,16.578,16.578,0,0,1,.565,1.864,4.1,4.1,0,0,1-.619,3.717,4.262,4.262,0,0,1-2.824,1.223,5.187,5.187,0,0,1-2-.254c-.638-.21-1.187-.627-1.806-.887a8.079,8.079,0,0,1-.953,3.97,3.958,3.958,0,0,1-2.947,1.923,5.844,5.844,0,0,1-3.59-.723c-.279-.151-.556-.309-.82-.488a2.3,2.3,0,0,0-.712-.391c-.29-.068-.434.1-.622.311a4.729,4.729,0,0,1-.733.66,4.319,4.319,0,0,1-4.041.695,3.756,3.756,0,0,1-1.648-1.191c-.376-.493-.644-1.275-1.163-1.619-.22-.146-.376.047-.576.19-.3.215-.588.451-.893.66A4.09,4.09,0,0,1,7.1,30.62c-.726.168-1.73.129-1.938-.823a3.929,3.929,0,0,1,.007-1.1c.035-.494.071-.989.114-1.483a10.714,10.714,0,0,1,.145-1.105,1.617,1.617,0,0,0,.072-.759c-.105-.246-.591-.106-.8-.115a3.152,3.152,0,0,1-1.2-.264,1.291,1.291,0,0,1-.726-.671,1.206,1.206,0,0,1-.02-.632,1.884,1.884,0,0,0-.038-.648c-.55.271-2.456.873-2.7-.113a1.542,1.542,0,0,1,.241-.976,8.461,8.461,0,0,1,.888-1.353,12.093,12.093,0,0,1,2.366-2.3,1.551,1.551,0,0,1-.4-2.6,1.921,1.921,0,0,1,1.411-.409,3.118,3.118,0,0,0,.583.046,1.4,1.4,0,0,1,.264-.089,7.866,7.866,0,0,1,2.164.275,7.136,7.136,0,0,1,3.3,1.726,1.018,1.018,0,0,0,.763.351c.284,0,.562-.081.846-.088a6.094,6.094,0,0,1,2.124.592,8.013,8.013,0,0,1,.7-2.825c.314-.691.97-.791,1.614-.852,2.06-.194,4.128.022,6.191.02-2-.451-4.061-.637-6.04-1.169-.895-.24-.212-.843.171-1.261a7.267,7.267,0,0,0,1.423-2.44,4.3,4.3,0,0,0,4.234,1.721,3.021,3.021,0,0,0,1.8-4.362,5.588,5.588,0,0,0-2.7-1.732,9.675,9.675,0,0,0,1.356-2.846,2.037,2.037,0,0,1,1.013-1.163A1.184,1.184,0,0,0,24.857.97c.177-.182.219-.386.444-.543a2.5,2.5,0,0,1,3.1.239,2.025,2.025,0,0,1-.069,2.655c.959.4,2.706.914,2.325,2.407,2.078.138,7.122,3.508,4.334,5.97,1.531.865,2.936,2.979,1.954,4.842a4.738,4.738,0,0,1-3.962,2.152" transform="translate(37.274 32.191) rotate(180)" fill="#191847" fill-rule="evenodd"/>
+                </g>
+              </g>
+              <g id="Group_160512" data-name="Group 160512" transform="translate(16.636 143.1)">
+                <g id="Group_2113" data-name="Group 2113" transform="translate(0 0)">
+                  <rect id="Rectangle_425" data-name="Rectangle 425" width="4.793" height="55.668" transform="translate(34.369 3.275)" fill="#353535"/>
+                  <path id="Path_797" data-name="Path 797" d="M280.718,192.075a3.292,3.292,0,0,1-3.264,3.275H211.163a3.292,3.292,0,0,1-3.263-3.275h0a3.292,3.292,0,0,1,3.263-3.275h66.291a3.227,3.227,0,0,1,3.264,3.275Z" transform="translate(-207.9 -188.8)" fill="#353535"/>
+                </g>
+              </g>
+              <g id="Symbols-3" data-name="Symbols" transform="translate(0 36.144)">
+                <g id="Body_Hoodie" data-name="Body/Hoodie" transform="translate(0 0)">
+                  <path id="Skin-2" data-name="Skin" d="M122.613,92.212l18.014,13.228a48.5,48.5,0,0,1,12.247,4.921c.774.705,1.71,2.134-1.5,1.887s-6.6-.363-7.044.733,1.5,2.405.6,3.883q-.9,1.478-8.464-7.412l-17.839-7.4Zm-69.167.457,11.8.046Q54.317,128,53.446,130.16c-1.307,3.238,1.459,8.171,2.641,10.821-3.852,1.724-3.441-4.659-8.3-2.4-4.435,2.064-7.808,5.8-12.932,2.64-.63-.389-1.32-1.852.348-3,4.155-2.849,10.143-7.836,10.952-9.478Q47.81,125.392,53.446,92.668Z" transform="translate(-34.163 -38.151)" fill="#b28b67" fill-rule="evenodd"/>
+                  <path id="Coat-Back" d="M0,1.26,4.792,0C24.206,14.013,34.241,43.32,57.754,57.253L53.006,64.32C14.207,62.926,1.5,27.22,0,1.26Z" transform="translate(52.932 3.74) rotate(5)" fill="#d9cb00" fill-rule="evenodd"/>
+                  <path id="Shirt" d="M90,64.381h43.209c1.975,0,1.6-2.851,1.317-4.29-3.294-16.6-16.153-34.5-16.153-58.137L105.91,0C95.6,16.58,92.036,36.994,90,64.381Z" transform="translate(-58.466 1.984)" fill="#dde3e9" fill-rule="evenodd"/>
+                  <path id="Coat-Front" d="M75.055,14.768a7.128,7.128,0,0,1-4.3-3.641C66.2,2.908,67.845-1.618,72.713-3.106s9.21,1.577,16.967,1.577a7.813,7.813,0,0,1,1.159.079l3.9.223Q111.533,55.683,104,74.712H69.994a115.991,115.991,0,0,1-5.785,11.86H54.942Q53.634,44.272,75.055,14.768Z" transform="translate(-43.174 3.513)" fill="#f2e200" fill-rule="evenodd"/>
+                  <path id="Shade" d="M89.058,100.5q1.6,13.424,5.215,19.485H81.652Q85.178,111.762,89.058,100.5Z" transform="translate(-54.832 -41.758)" fill="rgba(0,0,0,0.1)" fill-rule="evenodd"/>
+                </g>
+              </g>
+              <g id="Group_2120" data-name="Group 2120" transform="translate(71.648 53.191) rotate(11)">
+                <rect id="Rectangle_426" data-name="Rectangle 426" width="59.305" height="1.432" transform="translate(2.076 57.895)" fill="#303030"/>
+                <path id="Path_815" data-name="Path 815" d="M17.73.863A1.079,1.079,0,0,1,19.158.082h0a1.083,1.083,0,0,1,.779,1.432L2.287,59.328a1.079,1.079,0,0,1-1.427.781h0a1.083,1.083,0,0,1-.779-1.432Z" transform="translate(62.339 0)" fill="#8c8c8c"/>
+                <path id="Path_816" data-name="Path 816" d="M0,0V.521C0,2.214,1.038,3.646,2.466,3.646H60.214c1.3,0,2.466-1.432,2.466-3.125V0Z" transform="translate(0 58.807)" fill="#515151"/>
+              </g>
+            </g>
+            <g id="Group_163406" data-name="Group 163406">
+              <g id="Group_163403" data-name="Group 163403">
+                <g transform="matrix(1, 0, 0, 1, -606.56, -3237.5)" filter="url(#Rectangle_148608)">
+                  <rect id="Rectangle_148608-4" data-name="Rectangle 148608" width="205" height="50" rx="10" transform="translate(179.56 367.5)" fill="#fff"/>
+                </g>
+                <g id="Group_163402" data-name="Group 163402" transform="translate(-0.623)">
+                  <g id="Group_163401" data-name="Group 163401" transform="translate(0 2)">
+                    <rect id="Rectangle_148609" data-name="Rectangle 148609" width="151" height="10" rx="5" transform="translate(-381 -2845)" fill="#cecece"/>
+                    <rect id="Rectangle_148610" data-name="Rectangle 148610" width="120" height="10" rx="5" transform="translate(-381 -2859)" fill="#cecece"/>
+                  </g>
+                  <g id="Icon_feather-check-circle" data-name="Icon feather-check-circle" transform="translate(-429.876 -2871.461)">
+                    <path id="Path_83925" data-name="Path 83925" d="M40.865,25.348v1.3a14.183,14.183,0,1,1-8.41-12.963" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_83926" data-name="Path 83926" d="M74.687,25,60.5,39.2,56.25,34.942" transform="translate(-33.822 -9.694)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_163404" data-name="Group 163404" transform="translate(-61 -33)">
+                <g transform="matrix(1, 0, 0, 1, -545.56, -3204.5)" filter="url(#Rectangle_148608-2)">
+                  <rect id="Rectangle_148608-5" data-name="Rectangle 148608" width="205" height="50" rx="10" transform="translate(118.56 334.5)" fill="#fff"/>
+                </g>
+                <g id="Group_163402-2" data-name="Group 163402" transform="translate(-0.623)">
+                  <g id="Group_163401-2" data-name="Group 163401" transform="translate(0 2)">
+                    <rect id="Rectangle_148609-2" data-name="Rectangle 148609" width="151" height="10" rx="5" transform="translate(-381 -2845)" fill="#cecece"/>
+                    <rect id="Rectangle_148610-2" data-name="Rectangle 148610" width="120" height="10" rx="5" transform="translate(-381 -2859)" fill="#cecece"/>
+                  </g>
+                  <g id="Icon_feather-check-circle-2" data-name="Icon feather-check-circle" transform="translate(-429.876 -2871.461)">
+                    <path id="Path_83925-2" data-name="Path 83925" d="M40.865,25.348v1.3a14.183,14.183,0,1,1-8.41-12.963" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_83926-2" data-name="Path 83926" d="M74.687,25,60.5,39.2,56.25,34.942" transform="translate(-33.822 -9.694)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_163405" data-name="Group 163405" transform="translate(27 31)">
+                <g transform="matrix(1, 0, 0, 1, -633.56, -3268.5)" filter="url(#Rectangle_148608-3)">
+                  <rect id="Rectangle_148608-6" data-name="Rectangle 148608" width="205" height="50" rx="10" transform="translate(206.56 398.5)" fill="#fff"/>
+                </g>
+                <g id="Group_163402-3" data-name="Group 163402" transform="translate(-0.623)">
+                  <g id="Group_163401-3" data-name="Group 163401" transform="translate(0 2)">
+                    <rect id="Rectangle_148609-3" data-name="Rectangle 148609" width="151" height="10" rx="5" transform="translate(-381 -2845)" fill="#cecece"/>
+                    <rect id="Rectangle_148610-3" data-name="Rectangle 148610" width="120" height="10" rx="5" transform="translate(-381 -2859)" fill="#cecece"/>
+                  </g>
+                  <g id="Icon_feather-check-circle-3" data-name="Icon feather-check-circle" transform="translate(-429.876 -2871.461)">
+                    <path id="Path_83925-3" data-name="Path 83925" d="M40.865,25.348v1.3a14.183,14.183,0,1,1-8.41-12.963" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                    <path id="Path_83926-3" data-name="Path 83926" d="M74.687,25,60.5,39.2,56.25,34.942" transform="translate(-33.822 -9.694)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="Icon_material-bubble-chart" data-name="Icon material-bubble-chart" transform="translate(-2114 -2414)">
+          <path id="Path_84006" data-name="Path 84006" d="M29.2,28.4A11.6,11.6,0,1,1,17.6,16.8,11.6,11.6,0,0,1,29.2,28.4Z" transform="translate(0 15.3)" fill="#01ffff"/>
+          <path id="Path_84007" data-name="Path 84007" d="M33.7,31.25A7.25,7.25,0,1,1,26.45,24,7.25,7.25,0,0,1,33.7,31.25Z" transform="translate(20.167 25.5)" fill="#f2e200"/>
+          <path id="Path_84008" data-name="Path 84008" d="M50.4,23.4A17.4,17.4,0,1,1,33,6,17.4,17.4,0,0,1,50.4,23.4Z" transform="translate(15.6)" fill="#002d6a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

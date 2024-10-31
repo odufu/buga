@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="2648" viewBox="0 0 428 2648">
+  <defs>
+    <filter id="Rectangle_149074" x="-9.34" y="298" width="447" height="2268.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="26" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x2="1.079" y2="0.87" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fcd2a6"/>
+      <stop offset="1" stop-color="#fb0257"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.022" y1="0.059" x2="1" y2="0.821" xlink:href="#linear-gradient"/>
+    <filter id="Path_85162" x="-24" y="167.193" width="475.68" height="366.785" filterUnits="userSpaceOnUse">
+      <feOffset dy="26" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_9650" x="80.5" y="100.5" width="215" height="215" filterUnits="userSpaceOnUse">
+      <feOffset dx="-26" dy="26" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <filter id="bbe242b310de7a804a25b5766782ff47" x="-9" y="-8" width="446" height="106" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#c4bfbf" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_33_Starter_Plan_Screen">
+      <rect width="428" height="2648"/>
+    </clipPath>
+  </defs>
+  <g id="_33_Starter_Plan_Screen" data-name="33 Starter Plan Screen" clip-path="url(#clip-_33_Starter_Plan_Screen)">
+    <rect width="428" height="2648" fill="#fff"/>
+    <rect id="Background_Blur" data-name="Background Blur" width="428" height="2618" transform="translate(0 30)" fill="#16110d" opacity="0.5"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_149074)">
+      <rect id="Rectangle_149074-2" data-name="Rectangle 149074" width="390" height="2211.5" rx="20" transform="translate(19.16 300.5)" fill="#fff"/>
+    </g>
+    <g id="Group_165680" data-name="Group 165680" transform="translate(18982.16 19686)">
+      <rect id="Rectangle_149075" data-name="Rectangle 149075" width="230" height="42" rx="21" transform="translate(-18883.16 -17195)" fill="url(#linear-gradient)"/>
+      <text id="Normal_plan" data-name="Normal plan" transform="translate(-18833.16 -17167)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">GET STARTED</tspan></text>
+    </g>
+    <g id="Group_165795" data-name="Group 165795">
+      <g id="Group_165645" data-name="Group 165645" transform="translate(16742 16861)">
+        <text id="Accept_all_major_forms_of_payment_such_as_TTP_POS_Terminals_QR_Code_Payment_Links_and_get_10_Free_transactions_5_for_transactions_below_5k_10_for_transactions_below_50k_50_for_transactions_above_50k" data-name="Accept all major forms of payment such as TTP,
+POS Terminals, QR Code &amp; Payment Links and get
+10 Free transactions
+₦5 for transactions below 5k
+₦10 for transactions below 50k
+₦50 for transactions above 50k" transform="translate(-16712 -16297)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Accept all major forms of payment such as TTP,</tspan><tspan x="0" y="25">POS Terminals, QR Code &amp; Payment Links and get</tspan><tspan x="0" y="50">10 Free transactions</tspan><tspan font-family="SegoeUI, Segoe UI"><tspan x="0" y="75">₦</tspan><tspan y="75" font-family="Poppins-Regular, Poppins">5 for transactions below 5k</tspan><tspan x="0" y="100">₦</tspan><tspan y="100" font-family="Poppins-Regular, Poppins">10 for transactions below 50k</tspan><tspan x="0" y="125">₦</tspan><tspan y="125" font-family="Poppins-Regular, Poppins">50 for transactions above 50k</tspan></tspan></text>
+        <text id="Normal_plan-2" data-name="Normal plan" transform="translate(-16528 -16324)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-47.232" y="0">Payments</tspan></text>
+      </g>
+      <g id="Group_165646" data-name="Group 165646" transform="translate(16742 16861)">
+        <text id="Stay_on_track_with_intelligent_budgeting_revenue_and_expense_management_tools." data-name="Stay on track with intelligent budgeting, revenue
+and expense management tools." transform="translate(-16708 -16111)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Stay on track with intelligent budgeting, revenue</tspan><tspan x="0" y="25">and expense management tools.</tspan></text>
+        <text id="Normal_plan-3" data-name="Normal plan" transform="translate(-16701 -16138)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Budgeting and Expense Management</tspan></text>
+      </g>
+      <g id="Group_165647" data-name="Group 165647" transform="translate(16742 16861)">
+        <text id="Build_your_customer_database_with_every_transaction." data-name="Build your customer database with every
+transaction." transform="translate(-16681 -16025)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Build your customer database with every</tspan><tspan x="0" y="25">transaction.</tspan></text>
+        <text id="Normal_plan-4" data-name="Normal plan" transform="translate(-16549 -16052)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">CRM</tspan></text>
+      </g>
+      <g id="Group_165648" data-name="Group 165648" transform="translate(16742 16861)">
+        <text id="Bring_new_customers_in_and_encourage_previous_customers_to_come_back_to_your_business." data-name="Bring new customers in and encourage previous
+customers to come back to your business." transform="translate(-16709 -15939)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Bring new customers in and encourage previous</tspan><tspan x="0" y="25">customers to come back to your business.</tspan></text>
+        <text id="Normal_plan-5" data-name="Normal plan" transform="translate(-16681 -15966)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Automated Marketing Campaign</tspan></text>
+      </g>
+      <g id="Group_165649" data-name="Group 165649" transform="translate(16739 16861)">
+        <text id="Link_5_physical_naira_card_physical_dollar_cards_5_virtual_card._500_per_card_outside_the_free_allowance." data-name="Link 5 physical naira card, physical dollar cards,
+5 virtual card. ₦500 per card outside the free
+allowance." transform="translate(-16703 -15853)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Link 5 physical naira card, physical dollar cards,</tspan><tspan x="0" y="25">5 virtual card. </tspan><tspan y="25" font-family="SegoeUI, Segoe UI">₦</tspan><tspan y="25">500 per card outside the free</tspan><tspan x="0" y="50">allowance.</tspan></text>
+        <text id="Normal_plan-6" data-name="Normal plan" transform="translate(-16576 -15880)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Link Cards</tspan></text>
+      </g>
+      <g id="Group_165650" data-name="Group 165650" transform="translate(16752 16861)">
+        <text id="_10_Free_Team_Member_500_per_team_member_per_month_outside_the_free_allowance." data-name="10 Free Team Member ₦500 per team member
+per month outside the free allowance." transform="translate(-16712 -15742)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">10 Free Team Member </tspan><tspan y="0" font-family="SegoeUI, Segoe UI">₦</tspan><tspan y="0">500 per team member</tspan><tspan x="0" y="25">per month outside the free allowance.</tspan></text>
+        <text id="Normal_plan-7" data-name="Normal plan" transform="translate(-16588 -15769)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Virtual Office</tspan></text>
+      </g>
+      <g id="Group_165651" data-name="Group 165651" transform="translate(16744 16861)">
+        <text id="Connect_view_and_manage_5_local_and_1_foreign_bank_accounts_from_Buga" data-name="Connect, view and manage 5 local and 1 foreign
+bank accounts from Buga" transform="translate(-16710 -15656)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Connect, view and manage 5 local and 1 foreign</tspan><tspan x="0" y="25">bank accounts from Buga</tspan></text>
+        <text id="Normal_plan-8" data-name="Normal plan" transform="translate(-16617 -15683)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Link Bank Accounts</tspan></text>
+      </g>
+      <g id="Group_165652" data-name="Group 165652" transform="translate(16742 16861)">
+        <text id="Sending_and_managing_Invoices_in_a_simple_seamless_and_intuitive_way_spend_less_time_managing_invoices_get_paid_faster_by_your_customers_and_automate_invoice_reconciliations_effortlessly." data-name="Sending and managing Invoices in a simple,
+seamless and intuitive way, spend less time
+managing invoices, get paid faster by your
+customers and automate invoice reconciliations 
+effortlessly." transform="translate(-16712 -15570)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sending and managing Invoices in a simple,</tspan><tspan x="0" y="25">seamless and intuitive way, spend less time</tspan><tspan x="0" y="50">managing invoices, get paid faster by your</tspan><tspan x="0" y="75">customers and automate invoice reconciliations </tspan><tspan x="0" y="100">effortlessly.</tspan></text>
+        <text id="Normal_plan-9" data-name="Normal plan" transform="translate(-16567 -15597)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Invoices</tspan></text>
+      </g>
+      <g id="Group_165653" data-name="Group 165653" transform="translate(16742 16861)">
+        <text id="We_provide_support_quickly_when_you_need_it" data-name="We provide support quickly when you need it" transform="translate(-16696 -15409)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">We provide support quickly when you need it</tspan></text>
+        <text id="Normal_plan-10" data-name="Normal plan" transform="translate(-16600 -15436)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Priority Support</tspan></text>
+      </g>
+      <g id="Group_165654" data-name="Group 165654" transform="translate(16735 16861)">
+        <text id="Get_a_dedicated_accountant_to_help_you_with_all_accounting_needs." data-name="Get a dedicated accountant to help you with all
+accounting needs." transform="translate(-16700 -15348)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Get a dedicated accountant to help you with all</tspan><tspan x="0" y="25">accounting needs.</tspan></text>
+        <text id="Normal_plan-11" data-name="Normal plan" transform="translate(-16632 -15375)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Dedicated Accountant</tspan></text>
+      </g>
+      <g id="Group_165792" data-name="Group 165792" transform="translate(1)">
+        <text id="Get_a_dedicated_bookkeeper_to_handle_your_bookkeeping_and_identify_any_areas_of_concern_and_compile_a_report_that_outlines_the_issues_and_the_remedy_for_them_so_that_you_can_have_more_time_to_devote_to_growing_your_company." data-name="Get a dedicated bookkeeper to handle your
+bookkeeping  and identify any areas of concern
+and compile a report that outlines the issues and
+the remedy for them so that you can have more
+time to devote to growing your company." transform="translate(29 1599)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Get a dedicated bookkeeper to handle your</tspan><tspan x="0" y="25" xml:space="preserve">bookkeeping  and identify any areas of concern</tspan><tspan x="0" y="50">and compile a report that outlines the issues and</tspan><tspan x="0" y="75">the remedy for them so that you can have more</tspan><tspan x="0" y="100">time to devote to growing your company.</tspan></text>
+        <text id="Normal_plan-12" data-name="Normal plan" transform="translate(109 1572)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Dedicated Bookkeeper</tspan></text>
+      </g>
+      <g id="Group_165791" data-name="Group 165791" transform="translate(0 50)">
+        <text id="Find_yourself_behind_years_of_bookkeeping_Don_t_worry_our_Catch_Up_Service_will_get_a_year_s_worth_of_bookkeeping_done_for_your_business." data-name="Find yourself behind years of bookkeeping? Don&apos;t
+worry, our Catch Up Service will get a year&apos;s worth
+of bookkeeping done for your business." transform="translate(29 1710)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Find yourself behind years of bookkeeping? Don&apos;t</tspan><tspan x="0" y="25">worry, our Catch Up Service will get a year&apos;s worth</tspan><tspan x="0" y="50">of bookkeeping done for your business.</tspan></text>
+        <text id="Normal_plan-13" data-name="Normal plan" transform="translate(109 1683)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Catch Up Bookkeeping</tspan></text>
+      </g>
+      <g id="Group_165655" data-name="Group 165655" transform="translate(16742 17133)">
+        <text id="Integration_with_Sage_QuickBooks_and_other_accounting_software." data-name="Integration with Sage, QuickBooks and other
+accounting software." transform="translate(-16693 -15262)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Integration with Sage, QuickBooks and other</tspan><tspan x="0" y="25">accounting software.</tspan></text>
+        <text id="Normal_plan-14" data-name="Normal plan" transform="translate(-16679 -15289)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Accounting Software Integration</tspan></text>
+      </g>
+      <g id="Group_165660" data-name="Group 165660" transform="translate(16742 17133)">
+        <text id="Analyze_KPIs_like_sales_popular_products_foot_traffic_etc._in_real-time" data-name="Analyze KPIs like sales, popular products, foot
+traffic etc. in real-time" transform="translate(-16696 -15176)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Analyze KPIs like sales, popular products, foot</tspan><tspan x="0" y="25">traffic etc. in real-time</tspan></text>
+        <text id="Normal_plan-15" data-name="Normal plan" transform="translate(-16573 -15203)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Reporting</tspan></text>
+      </g>
+      <g id="Group_165656" data-name="Group 165656" transform="translate(16742 17133)">
+        <text id="Corporate_tax_income_tax_transfer_tax_inheritance_tax_property_tax_and_general_tax_issues_in_businesses" data-name="Corporate tax, income tax, transfer tax inheritance
+tax, property tax and general tax issues in
+businesses" transform="translate(-16716 -15090)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Corporate tax, income tax, transfer tax inheritance</tspan><tspan x="0" y="25">tax, property tax and general tax issues in</tspan><tspan x="0" y="50">businesses</tspan></text>
+        <text id="Normal_plan-16" data-name="Normal plan" transform="translate(-16649 -15117)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Tax calculation and Filling</tspan></text>
+      </g>
+      <g id="Group_165659" data-name="Group 165659" transform="translate(16741 17211)">
+        <text id="Get_a_dedicated_inventory_management_expert_to_help_you_with_all_inventory_related_issues." data-name="Get a dedicated inventory management expert to
+help you with all inventory related issues." transform="translate(-16714 -14807)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Get a dedicated inventory management expert to</tspan><tspan x="0" y="25">help you with all inventory related issues.</tspan></text>
+        <text id="Normal_plan-17" data-name="Normal plan" transform="translate(-16616 -14834)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Inventory Manager</tspan></text>
+      </g>
+      <g id="Group_165672" data-name="Group 165672" transform="translate(16748 17047)">
+        <text id="Organize_your_inventory_inventory_turnover_rate_the_number_of_products_that_are_In-Stock_Out_of_stock_and_about_to_expire._Avoid_high_low_stock_-out_rates_that_can_lead_to_lost_sales_and_dissatisfied_customers." data-name="Organize your inventory, inventory turnover rate,
+the number of products that are In-Stock, Out of
+stock and about to expire. Avoid high/low stock
+-out rates that can lead to lost sales and
+dissatisfied customers." transform="translate(-16714 -14807)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Organize your inventory, inventory turnover rate,</tspan><tspan x="0" y="25">the number of products that are In-Stock, Out of</tspan><tspan x="0" y="50">stock and about to expire. Avoid high/low stock</tspan><tspan x="0" y="75">-out rates that can lead to lost sales and</tspan><tspan x="0" y="100">dissatisfied customers.</tspan></text>
+        <text id="Normal_plan-18" data-name="Normal plan" transform="translate(-16572 -14834)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Inventory</tspan></text>
+      </g>
+      <g id="Group_165674" data-name="Group 165674" transform="translate(16742 17047)">
+        <text id="Fund_raising_corporate_work_out_mergers_and_acquisitions_sale_of_assets_and_financial_advisory." data-name="Fund raising, corporate work out, mergers and 
+acquisitions sale of assets, and financial advisory." transform="translate(-16714 -14893)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Fund raising, corporate work out, mergers and </tspan><tspan x="0" y="25">acquisitions sale of assets, and financial advisory.</tspan></text>
+        <text id="Normal_plan-19" data-name="Normal plan" transform="translate(-16569 -14920)" fill="#002d6a" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Advisory</tspan></text>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_85162)">
+      <path id="Path_85162-2" data-name="Path 85162" d="M18.373,40H397.307A18.373,18.373,0,0,1,415.68,58.373v228.7a18.373,18.373,0,0,1-18.373,18.373s-116.363,26.411-163.264,36.745c-14.77,3.019-18.386,4.571-24.338,4.593s-7.477-.022-25.111-4.593c-47.833-10.335-166.222-36.745-166.222-36.745A18.373,18.373,0,0,1,0,287.072V58.373A18.373,18.373,0,0,1,18.373,40Z" transform="translate(6 131.19)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <path id="Intersection_18" data-name="Intersection 18" d="M73,186.543V66.066A18.372,18.372,0,0,1,91.373,47.694h85.24A94.561,94.561,0,0,1,73,186.543Z" transform="translate(-67 123.5)" fill="#fff" opacity="0.1"/>
+    <path id="Intersection_17" data-name="Intersection 17" d="M69.373,265.444A18.372,18.372,0,0,1,51,247.072V198.98a115.517,115.517,0,0,1,180,95.827q0,3.195-.172,6.35C180.361,290.2,69.373,265.444,69.373,265.444Z" transform="translate(-45 171.193)" fill="#fff" opacity="0.1"/>
+    <path id="Intersection_16" data-name="Intersection 16" d="M198.444,305.6a128.158,128.158,0,0,1,216.784-54.461,18.379,18.379,0,0,1-17.921,14.307s-116.363,26.41-163.264,36.745c-14.77,3.019-18.385,4.571-24.338,4.594l-.968,0A40.638,40.638,0,0,1,198.444,305.6Z" transform="translate(6.164 171.195)" fill="#fff" opacity="0.1"/>
+    <path id="Intersection_15" data-name="Intersection 15" d="M307,113.869a113.8,113.8,0,0,1,54.483-97.176h35.824a18.372,18.372,0,0,1,18.373,18.373V227.623A113.872,113.872,0,0,1,307,113.869Z" transform="translate(6 154.377)" fill="#fff" opacity="0.1"/>
+    <circle id="Ellipse_9655" data-name="Ellipse 9655" cx="60" cy="60" r="60" transform="translate(146 274.5)" fill="#fff" opacity="0.1"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Ellipse_9650)">
+      <circle id="Ellipse_9650-2" data-name="Ellipse 9650" cx="79" cy="79" r="79" transform="translate(135 103)" fill="#fff"/>
+    </g>
+    <text id="Normal_plan-20" data-name="Normal plan" transform="translate(163 181)" fill="#f6045b" font-size="45" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">FREE</tspan></text>
+    <text id="Normal_plan-21" data-name="Normal plan" transform="translate(152 218)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">30 days free trial</tspan></text>
+    <text id="Normal_plan-22" data-name="Normal plan" transform="translate(118 344)" fill="#fff" font-size="45" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">STARTER</tspan></text>
+    <text id="Normal_plan-23" data-name="Normal plan" transform="translate(147 384)" fill="#fff" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">For Beginners</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#bbe242b310de7a804a25b5766782ff47)">
+      <path id="bbe242b310de7a804a25b5766782ff47-2" data-name="bbe242b310de7a804a25b5766782ff47" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" fill="url(#linear-gradient-3)"/>
+    </g>
+    <text id="Starter" transform="translate(49 66)" fill="#fff" font-size="28" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Starter</tspan></text>
+    <text id="Normal_plan-24" data-name="Normal plan" transform="translate(349 63)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-62.037" y="0">Upgrade Plan</tspan></text>
+    <path id="Icon_ionic-ios-arrow-back" data-name="Icon ionic-ios-arrow-back" d="M15.321,18l8.937-8.93a1.688,1.688,0,0,0-2.391-2.384L11.742,16.8a1.685,1.685,0,0,0-.049,2.327L21.86,29.32a1.688,1.688,0,0,0,2.391-2.384Z" transform="translate(0.246 18.807)" fill="#fff"/>
+    <g id="Battery_Network_Time_Bar" data-name="Battery/Network/Time Bar" transform="translate(-18 -4)">
+      <g id="Pin-Right" transform="translate(379.354 4.5)">
+        <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+        <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+      </g>
+      <text id="_9:41_AM" data-name="9:41 AM" transform="translate(206.938 17)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+      <g id="Signal" transform="translate(25 4.5)">
+        <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+        <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path id="Path_85390" data-name="Path 85390" d="M491.724,717.561c15.618,3.653,26.774,8.846,34.1,15.874a15.036,15.036,0,0,0,9.624,4.125c4.6.242,8.355-.273,11.179-1.535h0a4.43,4.43,0,0,0,2.625-3.651,4.508,4.508,0,0,0-1.888-4.167l-37.039-26.355-15.733,6.294-3.67,3.67a3.634,3.634,0,0,0,.8,5.743Z" transform="translate(-540.174 1674.799)" fill="#e6e6e6"/>
+  </g>
+</svg>

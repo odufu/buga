@@ -1,0 +1,649 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="2573" viewBox="0 0 428 2573">
+  <defs>
+    <filter id="Heading_Container" x="-7" y="1313" width="442" height="241" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Bgg" x="-7" y="915" width="442" height="219" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_9636" x="40" y="993.93" width="122" height="122" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Bgg-2" x="-7" y="1114" width="442" height="219" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_9637" x="40.711" y="1194.711" width="123.904" height="123.904" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container-2" x="-7" y="489" width="442" height="446" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.522"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line" x="43.588" y="668.908" width="369.668" height="136.471" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line-2" x="43.588" y="684.059" width="364.912" height="129.803" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="BG" x="214.988" y="589" width="183" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-9"/>
+      <feFlood flood-color="#44444f" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_147758" x="-7" y="178" width="442" height="304" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149128" x="8" y="156" width="212" height="75" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container-3" x="-7" y="1569" width="442" height="333" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-12"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_147762" x="-1" y="1961" width="430" height="472" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line-3" x="40.588" y="2181.908" width="369.668" height="136.471" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-14"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line-4" x="37.742" y="2236.156" width="369.67" height="136.471" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-15"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="BG-2" x="202.5" y="2046.121" width="183" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-16"/>
+      <feFlood flood-color="#44444f" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container-4" x="-15" y="-15" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-17"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_29_Accounting_Screen">
+      <rect width="428" height="2573"/>
+    </clipPath>
+  </defs>
+  <g id="_29_Accounting_Screen" data-name="29 Accounting Screen" clip-path="url(#clip-_29_Accounting_Screen)">
+    <rect width="428" height="2573" fill="#fff"/>
+    <g id="Group_164995" data-name="Group 164995" transform="translate(0 1036)">
+      <g transform="matrix(1, 0, 0, 1, 0, -1036)" filter="url(#Heading_Container)">
+        <rect id="Heading_Container-5" data-name="Heading Container" width="412" height="211" rx="10" transform="translate(8 1327)" fill="#fff"/>
+      </g>
+      <g id="Group_164994" data-name="Group 164994" transform="translate(0 -6.82)">
+        <g id="Group_164989" data-name="Group 164989" transform="translate(20940 15123.82)">
+          <text id="Fixed_assets_33_" data-name="Fixed assets 33%" transform="translate(-20726 -14744)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Fixed assets </tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins" font-weight="600">33%</tspan></text>
+          <rect id="Rectangle_149018" data-name="Rectangle 149018" width="10" height="10" transform="translate(-20741 -14754)" fill="#84e1cc"/>
+        </g>
+        <g id="Group_164990" data-name="Group 164990" transform="translate(20940 15130.82)">
+          <text id="Current_assets_25_" data-name="Current assets 25%" transform="translate(-20726 -14725)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Current assets </tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins" font-weight="600">25%</tspan></text>
+          <rect id="Rectangle_149018-2" data-name="Rectangle 149018" width="10" height="10" transform="translate(-20741 -14735)" fill="#81759d"/>
+        </g>
+        <g id="Group_164991" data-name="Group 164991" transform="translate(20940 15135.82)">
+          <text id="Capital_13_" data-name="Capital 13%" transform="translate(-20726 -14704)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Capital</tspan><tspan y="0" xml:space="preserve" font-family="Poppins-SemiBold, Poppins" font-weight="600"> 13%</tspan></text>
+          <rect id="Rectangle_149018-3" data-name="Rectangle 149018" width="10" height="10" transform="translate(-20741 -14714)" fill="#caabd4"/>
+        </g>
+        <g id="Group_164992" data-name="Group 164992" transform="translate(20940 15121.82)">
+          <text id="Current_liabilities_8_" data-name="Current liabilities 8%" transform="translate(-20726 -14664)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Current liabilities </tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins" font-weight="600">8%</tspan></text>
+          <rect id="Rectangle_149018-4" data-name="Rectangle 149018" width="10" height="10" transform="translate(-20741 -14674)" fill="#4fbfca"/>
+        </g>
+        <g id="Group_164993" data-name="Group 164993" transform="translate(20940 15132.82)">
+          <text id="Long-term_liabilities_5_" data-name="Long-term liabilities 5%" transform="translate(-20726 -14649)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Long-term liabilities </tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins" font-weight="600">5%</tspan></text>
+          <rect id="Rectangle_149018-5" data-name="Rectangle 149018" width="10" height="10" transform="translate(-20741 -14659)" fill="#fade94"/>
+        </g>
+      </g>
+      <g id="Ring_Chart3" data-name="Ring Chart3" transform="translate(20864.326 15054.826)">
+        <path id="Path_85122" data-name="Path 85122" d="M.657-2.5A61.41,61.41,0,0,1,49.219,22.183a61.41,61.41,0,0,1,9.832,53.581L0,58.907Z" transform="matrix(1, 0.017, -0.017, 1, -20754.311, -14691.856)" fill="#81759d"/>
+        <path id="Path_85123" data-name="Path 85123" d="M58.677,18.116A61.41,61.41,0,0,1,19.055,58.379L0,0Z" transform="translate(-20755.955 -14630.42)" fill="#caabd4"/>
+        <path id="Path_85124" data-name="Path 85124" d="M76.712,90.139A61.41,61.41,0,0,1,6.928-1.331l51.982,32.7Z" transform="translate(-20816.861 -14661.786)" fill="#84e1cc"/>
+        <path id="Path_85125" data-name="Path 85125" d="M-2.087,20.465A61.41,61.41,0,0,1,25.285-2.3l23.9,56.569Z" transform="translate(-20807.137 -14687.684)" fill="#4fbfca"/>
+        <path id="Path_85126" data-name="Path 85126" d="M-.923,1.839A61.41,61.41,0,0,1,21.1-2.5l.657,61.407Z" transform="translate(-20778.713 -14697.326)" fill="#fade94"/>
+      </g>
+      <text id="Balance_Sheet" data-name="Balance Sheet" transform="translate(92 315)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-65.583" y="0">Balance Sheet</tspan></text>
+      <text id="Balance_Sheet_as_at_31_November_2023" data-name="Balance Sheet as at 31 November 2023" transform="translate(169 340)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-143.317" y="0">Balance Sheet as at 31 November 2023</tspan></text>
+    </g>
+    <g id="Group_165044" data-name="Group 165044" transform="translate(0 652)">
+      <g transform="matrix(1, 0, 0, 1, 0, -652)" filter="url(#Bgg)">
+        <rect id="Bgg-3" data-name="Bgg" width="412" height="189" rx="10" transform="translate(8 929)" fill="#fff"/>
+      </g>
+      <g id="Group_165038" data-name="Group 165038" transform="translate(-1 2)">
+        <text id="Sales" transform="translate(19 304)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">Payables</tspan></text>
+        <text id="Sales-2" data-name="Sales" transform="translate(19 329)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.006em"><tspan x="0" y="0">Money you owe suppliers</tspan></text>
+      </g>
+      <g id="Group_165041" data-name="Group 165041">
+        <g id="Group_165030" data-name="Group 165030" transform="translate(-32)">
+          <rect id="Rectangle_149018-6" data-name="Rectangle 149018" width="10" height="10" transform="translate(271 330)" fill="#e8d600"/>
+          <text id="Paid" transform="translate(287 341)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Paid</tspan></text>
+          <text id="Sales-3" data-name="Sales" transform="translate(326 341)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">75%</tspan></text>
+        </g>
+        <g id="Group_165031" data-name="Group 165031" transform="translate(-32 4)">
+          <rect id="Rectangle_149018-7" data-name="Rectangle 149018" width="10" height="10" transform="translate(271 358)" fill="#fe5a21"/>
+          <text id="Unpaid" transform="translate(287 368)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Unpaid</tspan></text>
+          <text id="Sales-4" data-name="Sales" transform="translate(347 368)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">7%</tspan></text>
+        </g>
+        <g id="Group_165032" data-name="Group 165032" transform="translate(-32)">
+          <text id="Due" transform="translate(287 404)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Due</tspan></text>
+          <rect id="Rectangle_149018-8" data-name="Rectangle 149018" width="10" height="10" transform="translate(271 393)" fill="#da3429"/>
+          <text id="Sales-5" data-name="Sales" transform="translate(323 404)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">10%</tspan></text>
+        </g>
+        <g id="Group_165033" data-name="Group 165033" transform="translate(-32)">
+          <text id="Overdue" transform="translate(286 435)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Overdue</tspan></text>
+          <rect id="Rectangle_149018-9" data-name="Rectangle 149018" width="10" height="10" transform="translate(270 425)" fill="#ffa600"/>
+          <text id="Sales-6" data-name="Sales" transform="translate(356 435)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">8%</tspan></text>
+        </g>
+      </g>
+      <g id="Group_165029" data-name="Group 165029" transform="translate(-216 35.929)">
+        <g id="Ring_Chart2" data-name="Ring Chart2" transform="translate(259 303.071)">
+          <path id="Path_85132" data-name="Path 85132" d="M55.836-2.5A58.336,58.336,0,1,1-2.5,55.836H55.836Z" transform="translate(2.5 2.5)" fill="#ffec00"/>
+          <path id="Path_85133" data-name="Path 85133" d="M-2.5,23.774A58.336,58.336,0,0,1,3.052-1.064L55.836,23.774Z" transform="translate(2.5 34.563)" fill="#ff5b22"/>
+          <path id="Path_85134" data-name="Path 85134" d="M-2.262,24.091A58.336,58.336,0,0,1,22.418-2.191l28.1,51.12Z" transform="translate(7.814 9.407)" fill="#da3429"/>
+          <path id="Path_85135" data-name="Path 85135" d="M-1.2,4.716A58.335,58.335,0,0,1,26.9-2.5V55.836Z" transform="translate(31.437 2.5)" fill="#ffa600"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 216, -687.93)" filter="url(#Ellipse_9636)">
+          <circle id="Ellipse_9636-2" data-name="Ellipse 9636" cx="49" cy="49" r="49" transform="translate(52 999.93)" fill="#fff"/>
+        </g>
+        <g id="Group_165028" data-name="Group 165028" transform="translate(-1 2)">
+          <text id="_27632" data-name="$27632" transform="translate(281 345)" fill="#002e6b" font-size="12" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.004em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">300,750.20</tspan></text>
+          <text id="Compared_to_21340" data-name="Compared to ($21340" transform="translate(278 383)" fill="#002d6a" font-size="10" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">than last month</tspan></text>
+          <g id="_price" data-name="% price" transform="translate(291 349)">
+            <g id="ic-arrow-narrow-up" transform="translate(38 3.126)">
+              <path id="Path_397" data-name="Path 397" d="M0,16H16V0H0Z" fill="none"/>
+              <line id="Line_23" data-name="Line 23" y1="10.126" transform="translate(8.063 3)" fill="none" stroke="#f0142f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <line id="Line_24" data-name="Line 24" x1="3" y2="3" transform="translate(8.078 10.098)" fill="none" stroke="#f0142f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+              <line id="Line_25" data-name="Line 25" x2="3" y2="3" transform="translate(5.049 10.098)" fill="none" stroke="#f0142f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <text id="_2.5_" data-name="+2.5%" transform="translate(0 17)" fill="#f0142f" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">1.8%</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165043" data-name="Group 165043" transform="translate(17763 16285)">
+      <g transform="matrix(1, 0, 0, 1, -17763, -16285)" filter="url(#Bgg-2)">
+        <rect id="Bgg-4" data-name="Bgg" width="412" height="189" rx="10" transform="translate(8 1128)" fill="#fff"/>
+      </g>
+      <g id="Group_165039" data-name="Group 165039" transform="translate(-10 -8)">
+        <text id="Sales-7" data-name="Sales" transform="translate(-17735 -15120)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">Receivables</tspan></text>
+        <text id="Sales-8" data-name="Sales" transform="translate(-17735 -15095)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.006em"><tspan x="0" y="0">Money owed by customers</tspan></text>
+      </g>
+      <g id="Group_165040" data-name="Group 165040" transform="translate(-16.001 4.628)">
+        <g id="Ring_Chart2-2" data-name="Ring Chart2" transform="translate(-17703.371 -15098)">
+          <path id="Path_85132-2" data-name="Path 85132" d="M56.872-2.5A59.372,59.372,0,1,1-2.5,56.872H56.872Z" transform="translate(2.5 2.5)" fill="#239842"/>
+          <path id="Path_85133-2" data-name="Path 85133" d="M-2.5,24.215A59.372,59.372,0,0,1,3.151-1.064L56.872,24.215Z" transform="translate(2.5 35.157)" fill="#aa1885"/>
+          <path id="Path_85134-2" data-name="Path 85134" d="M-2.262,24.558A59.372,59.372,0,0,1,22.856-2.191l28.6,52.028Z" transform="translate(7.913 9.535)" fill="#b0ca28"/>
+          <path id="Path_85135-2" data-name="Path 85135" d="M-1.2,4.844A59.372,59.372,0,0,1,27.4-2.5V56.872Z" transform="translate(31.973 2.5)" fill="#1fa4e6"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -17747, -16289.63)" filter="url(#Ellipse_9637)">
+          <circle id="Ellipse_9637-2" data-name="Ellipse 9637" cx="49.952" cy="49.952" r="49.952" transform="translate(52.71 1200.71)" fill="#fff"/>
+        </g>
+        <text id="_27632-2" data-name="$27632" transform="translate(-17682.836 -15048.579)" fill="#002e6b" font-size="13" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" letter-spacing="0.004em"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-SemiBold, Poppins">120,050.32</tspan></text>
+        <text id="Compared_to_21340-2" data-name="Compared to ($21340" transform="translate(-17679.836 -15013.618)" fill="#002d6a" font-size="9" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">than last month</tspan></text>
+        <g id="_price-2" data-name="% price" transform="translate(-17667.836 -15043.507)">
+          <g id="ic-arrow-narrow-up-2" data-name="ic-arrow-narrow-up" transform="translate(33 2.839)">
+            <path id="Path_397-2" data-name="Path 397" d="M0,0H14.531V14.531H0Z" fill="none"/>
+            <line id="Line_23-2" data-name="Line 23" y2="9.197" transform="translate(7.323 2.61)" fill="none" stroke="#3dd598" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_24-2" data-name="Line 24" x1="2.725" y1="2.725" transform="translate(7.337 2.636)" fill="none" stroke="#3dd598" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_25-2" data-name="Line 25" y1="2.725" x2="2.725" transform="translate(4.586 2.636)" fill="none" stroke="#3dd598" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <text id="_2.5_2" data-name="+2.5%" transform="translate(0 15)" fill="#3dd598" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">1.3%</tspan></text>
+        </g>
+      </g>
+      <g id="Group_165042" data-name="Group 165042" transform="translate(-20 -23)">
+        <g id="Group_165034" data-name="Group 165034" transform="translate(-17775 -15411)">
+          <rect id="Rectangle_149018-10" data-name="Rectangle 149018" width="10" height="10" transform="translate(271 330)" fill="#229641"/>
+          <text id="Paid-2" data-name="Paid" transform="translate(287 341)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Paid</tspan></text>
+          <text id="Sales-9" data-name="Sales" transform="translate(326 341)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">75%</tspan></text>
+        </g>
+        <g id="Group_165035" data-name="Group 165035" transform="translate(-17775 -15407)">
+          <rect id="Rectangle_149018-11" data-name="Rectangle 149018" width="10" height="10" transform="translate(271 358)" fill="#a81783"/>
+          <text id="Unpaid-2" data-name="Unpaid" transform="translate(287 368)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Unpaid</tspan></text>
+          <text id="Sales-10" data-name="Sales" transform="translate(347 368)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">7%</tspan></text>
+        </g>
+        <g id="Group_165036" data-name="Group 165036" transform="translate(-17775 -15411)">
+          <text id="Due-2" data-name="Due" transform="translate(287 404)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Due</tspan></text>
+          <rect id="Rectangle_149018-12" data-name="Rectangle 149018" width="10" height="10" transform="translate(271 393)" fill="#afc927"/>
+          <text id="Sales-11" data-name="Sales" transform="translate(323 404)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">10%</tspan></text>
+        </g>
+        <g id="Group_165037" data-name="Group 165037" transform="translate(-17775 -15411)">
+          <text id="Overdue-2" data-name="Overdue" transform="translate(286 435)" fill="#002e6b" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Overdue</tspan></text>
+          <rect id="Rectangle_149018-13" data-name="Rectangle 149018" width="10" height="10" transform="translate(270 425)" fill="#1fa4e6"/>
+          <text id="Sales-12" data-name="Sales" transform="translate(356 435)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">8%</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Group_165053" data-name="Group 165053" transform="translate(17337 15009)">
+      <g transform="matrix(1, 0, 0, 1, -17337, -15009)" filter="url(#Heading_Container-2)">
+        <rect id="Heading_Container-6" data-name="Heading Container" width="412" height="416" rx="10" transform="translate(8 503)" fill="#fff"/>
+      </g>
+      <g id="Group_165047" data-name="Group 165047" transform="translate(20.5 66.622)">
+        <text id="_1D" data-name="1D" transform="translate(-17280 -14514.019)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Day</tspan></text>
+        <text id="_5D" data-name="5D" transform="translate(-17223 -14514.019)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Week</tspan></text>
+        <text id="_1Y" data-name="1Y" transform="translate(-17060 -14513.622)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Year</tspan></text>
+        <g id="Group_165046" data-name="Group 165046" transform="translate(-6.999)">
+          <rect id="Background" width="63.063" height="22" rx="3" transform="translate(-17150 -14528.622)" fill="#002e6b" opacity="0.4"/>
+          <text id="_1M" data-name="1M" transform="translate(-17139 -14514.093)" fill="#002e6b" font-size="12" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Month</tspan></text>
+        </g>
+      </g>
+      <text id="Sales_Statistical_Ov" data-name="Sales Statistical Ov" transform="translate(-17315.5 -14478.568)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Profit &amp; Loss</tspan></text>
+      <g id="Group_165048" data-name="Group 165048" transform="translate(3)">
+        <text id="_0" data-name="0" transform="translate(-17288 -14163)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-8.792" y="0">0</tspan></text>
+        <text id="_200" data-name="200" transform="translate(-17288 -14231)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-33.144" y="0">200k</tspan></text>
+        <text id="_400" data-name="400" transform="translate(-17287 -14293)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-33.9" y="0">400k</tspan></text>
+        <text id="_600" data-name="600" transform="translate(-17287 -14355)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-33.984" y="0">600k</tspan></text>
+        <text id="_800" data-name="800" transform="translate(-17287 -14407)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-33.928" y="0">800k</tspan></text>
+        <text id="Jan" transform="translate(-16943 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.571" y="0">Dec</tspan></text>
+        <path id="Shape" d="M.011,257V0H.989V257Z" transform="translate(-16942.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-2" data-name="Jan" transform="translate(-16975 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.376" y="0">Nov</tspan></text>
+        <path id="Shape-2" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-16974.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-3" data-name="Jan" transform="translate(-17005 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.421" y="0">Oct</tspan></text>
+        <path id="Shape-3" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17004.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-4" data-name="Jan" transform="translate(-17035 -14133)" fill="#002e6b" font-size="13" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-12.415" y="0">Sep</tspan></text>
+        <path id="Shape-4" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17034.5 -14417)" fill="#002e6b"/>
+        <text id="Jan-5" data-name="Jan" transform="translate(-17067 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.935" y="0">Aug</tspan></text>
+        <path id="Shape-5" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17066.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-6" data-name="Jan" transform="translate(-17096 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-9.204" y="0">Jul</tspan></text>
+        <path id="Shape-6" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17095.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-7" data-name="Jan" transform="translate(-17124 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.765" y="0">Jun</tspan></text>
+        <path id="Shape-7" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17123.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-8" data-name="Jan" transform="translate(-17157 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-13.65" y="0">May</tspan></text>
+        <path id="Shape-8" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17156.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-9" data-name="Jan" transform="translate(-17189 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.199" y="0">Apr</tspan></text>
+        <path id="Shape-9" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17188.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-10" data-name="Jan" transform="translate(-17219 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.415" y="0">Mar</tspan></text>
+        <path id="Shape-10" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17218.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-11" data-name="Jan" transform="translate(-17250 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.7" y="0">Feb</tspan></text>
+        <path id="Shape-11" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17249.5 -14417)" fill="#e6e9f4"/>
+        <text id="Jan-12" data-name="Jan" transform="translate(-17280 -14133)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.999" y="0">Jan</tspan></text>
+        <path id="Shape-12" data-name="Shape" d="M.011,257V0H.989V257Z" transform="translate(-17279.5 -14417)" fill="#e6e9f4"/>
+        <g id="Group_161540" data-name="Group 161540" transform="translate(-15560.277 -9270.252)">
+          <g transform="matrix(1, 0, 0, 1, -1779.72, -5738.75)" filter="url(#Line)">
+            <path id="Line-5" data-name="Line" d="M-2.179,30.927c2.825,2.469,5.567-2.608,10.4.9,3.808,2.758,7.121,11.617,12,14.294,9.254,5.081,16.806,10.3,21.1,22.437s10.6,35.91,18.277,35.91,11.583-21.4,14.479-35.5c2.774-13.5,8.248-28.565,16.886-32.141,9.534-3.947,17.374-28.016,28.75-32.061,6.063-2.156,10.921,2.04,16.34,8.561s4.359,9.337,16.547,14.364c10.058,4.149,12.689,18.43,22.545,20.149S189.557-4.223,199.963.266s12.485-7.117,22.267,14.879,18.819,4.444,31.1-.045,15.477,9.437,21.3,7.642S285.705,54.9,290.7,59.835s6.411-13,17.025-13,9.479-17.8,15.306-19.149,9.917.926,11.79-4.91" transform="translate(62.18 674.91)" fill="none" stroke="#f79f1a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1779.72, -5738.75)" filter="url(#Line-2)">
+            <path id="Line-6" data-name="Line" d="M-2.179,73.537c2.825-2.469,5.567,2.608,10.4-.9,3.808-2.758,7.121-11.617,12-14.294,9.254-5.081,16.806-10.3,21.1-22.437S51.919,0,59.6,0,71.178,21.4,74.074,35.5C76.847,49,82.321,64.065,90.959,67.641c9.534,3.947,9.926-40.619,21.3-36.574,6.063,2.156,10.921-2.04,16.34-8.561s7.05-8.3,19.238-13.324C157.9,5.033,160.53-9.248,170.386-10.967S184.8,41.091,195.206,36.6s12.485,7.117,22.267-14.879,18.819-4.444,31.1.045,15.477-9.437,21.3-7.642,11.074-32.155,16.069-37.093,6.411,13,17.025,13S318.275,9.182,318.275,9.182s9.917-.926,11.79,4.91" transform="translate(62.18 713.91)" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <path id="Line-7" data-name="Line" d="M0,118.947c1.658,3.586,14.3,8.8,21.548-3.912s13.675-5.868,21.134-3.26,9.945-28.036,18.233-31.948,18.647-24.811,31.079-29.7,11.6,24.159,27.971,28.4,20.926-25.428,28.385-33.9S159.123-2.482,171.554.126s18.647,28.74,29.007,32,12.431,24.881,22.169,40.855,18.647,17.93,30.872,14.67,15.539-36.221,21.341-37.525,10.981,14.414,15.954,18,6.423,19.525,16.99,19.525,9.324,6.194,15.125,5.216,9.945-10.106,11.81-14.344" transform="translate(-1717.544 -5114.126)" fill="none" stroke="#21d59b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Tooltip_Pointer_down" data-name="Tooltip / Pointer down" transform="translate(-17102.512 -14402.5)">
+          <g id="TooltipBG" transform="translate(0 31.105)">
+            <g transform="matrix(1, 0, 0, 1, -237.49, -637.61)" filter="url(#BG)">
+              <path id="BG-3" data-name="BG" d="M63,59H4.524A4.377,4.377,0,0,1,0,54.787V4.215A4.378,4.378,0,0,1,4.524,0H133.475A4.378,4.378,0,0,1,138,4.215V54.787A4.377,4.377,0,0,1,133.475,59H75l-6,6Z" transform="translate(237.49 606.5)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Data_Key" data-name="Data Key" transform="translate(-0.5 28)">
+            <g id="Data" transform="translate(10.5 7)">
+              <text id="Online_Sales" data-name="Online Sales" transform="translate(77 11)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Profit</tspan></text>
+              <text id="_750" data-name="$750" transform="translate(12 11)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">453,098</tspan></text>
+              <rect id="Sales-13" data-name="Sales" width="8" height="8" rx="4" transform="translate(0 3)" fill="#f79f1a"/>
+            </g>
+          </g>
+          <text id="Titlee" transform="translate(26 23)" fill="#002e6b" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">September, 2023</tspan></text>
+        </g>
+      </g>
+      <g id="Group_165052" data-name="Group 165052" transform="translate(0 -9)">
+        <g id="Group_165051" data-name="Group 165051">
+          <rect id="Shape-13" data-name="Shape" width="10" height="10" rx="5" transform="translate(-17023 -14104)" fill="#f79f1a"/>
+          <text id="Marketing_Sales" data-name="Marketing Sales" transform="translate(-17005 -14094)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Profit</tspan></text>
+        </g>
+        <g id="Group_165049" data-name="Group 165049">
+          <rect id="Shape-14" data-name="Shape" width="10" height="10" rx="5" transform="translate(-17277 -14104)" fill="#002d6a"/>
+          <text id="Marketing_Sales-2" data-name="Marketing Sales" transform="translate(-17259 -14094)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Sales</tspan></text>
+        </g>
+        <g id="Group_165050" data-name="Group 165050" transform="translate(-41)">
+          <rect id="Shape-15" data-name="Shape" width="10" height="10" rx="5" transform="translate(-17109 -14104)" fill="#21d59b"/>
+          <text id="Marketing_Sales-3" data-name="Marketing Sales" transform="translate(-17091 -14094)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">CoGS</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_147758)">
+      <g id="Rectangle_147758-2" data-name="Rectangle 147758" transform="translate(8 192)" fill="#fff" stroke="#002d6a" stroke-width="2">
+        <rect width="412" height="274" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="410" height="272" rx="9" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_165822" data-name="Group 165822" transform="translate(0 66)">
+      <g transform="matrix(1, 0, 0, 1, 0, -66)" filter="url(#Rectangle_149128)">
+        <g id="Rectangle_149128-2" data-name="Rectangle 149128" transform="translate(23 170)" fill="#fff" stroke="#002d6a" stroke-width="2">
+          <rect width="182" height="45" rx="22" stroke="none"/>
+          <rect x="1" y="1" width="180" height="43" rx="21" fill="none"/>
+        </g>
+      </g>
+      <text id="Quick_Access" data-name="Quick Access" transform="translate(114 133)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-60.993" y="0">Quick Access</tspan></text>
+    </g>
+    <text id="General_Overview" data-name="General Overview" transform="translate(29 152)" fill="#959595" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">General Overview</tspan></text>
+    <text id="Business" transform="translate(192 152)" fill="#959595" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Business</tspan></text>
+    <text id="Accounting_" data-name="Accounting " transform="translate(288 152)" fill="#002d6a" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Accounting </tspan></text>
+    <path id="Icon_awesome-filter" data-name="Icon awesome-filter" d="M12.091,0H.6a.6.6,0,0,0-.42,1.015L4.757,5.6V10.7a.6.6,0,0,0,.254.487l1.982,1.387a.6.6,0,0,0,.936-.487V5.6l4.582-4.583A.6.6,0,0,0,12.091,0Z" transform="translate(10 141)" fill="#01ffff"/>
+    <g id="Group_165831" data-name="Group 165831" transform="translate(2 -3)">
+      <g id="Rectangle_303" data-name="Rectangle 303" transform="translate(8 100)" fill="#fff" stroke="#dededf" stroke-width="1">
+        <rect width="241" height="29" rx="14.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="240" height="28" rx="14" fill="none"/>
+      </g>
+      <text id="Search_insight" data-name="Search insight" transform="translate(21 120)" fill="rgba(0,0,0,0.4)" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Search insight</tspan></text>
+      <path id="search" d="M13.75,12.054,11.036,9.339a.653.653,0,0,0-.463-.191h-.444a5.661,5.661,0,1,0-.98.98v.444a.653.653,0,0,0,.191.463l2.715,2.715a.651.651,0,0,0,.923,0l.771-.771A.657.657,0,0,0,13.75,12.054ZM5.663,9.149A3.485,3.485,0,1,1,9.149,5.663,3.483,3.483,0,0,1,5.663,9.149Z" transform="translate(222.03 108)" fill="#c4c4c4"/>
+    </g>
+    <g id="Group_164967" data-name="Group 164967" transform="translate(20925 16569)">
+      <g id="Group_164961" data-name="Group 164961" transform="translate(0 255)">
+        <g transform="matrix(1, 0, 0, 1, -20925, -16824)" filter="url(#Heading_Container-3)">
+          <rect id="Heading_Container-7" data-name="Heading Container" width="412" height="303" rx="10" transform="translate(8 1583)" fill="#fff"/>
+        </g>
+        <g id="Ring_Chart9" data-name="Ring Chart9" transform="translate(-186.498 -57.935)">
+          <path id="Path_85104" data-name="Path 85104" d="M0-2.5c43.461,0,82.164,29.354,96.466,73.165s1.073,92.485-32.974,121.32L0,106.553Z" transform="translate(-20588.273 -15138)" fill="#0058ff"/>
+          <path id="Path_85105" data-name="Path 85105" d="M63.492,80.029A102.156,102.156,0,0,1,10.8,101.584L0,0Z" transform="translate(-20594.158 -15024.792)" fill="#21d59b"/>
+          <path id="Path_85106" data-name="Path 85106" d="M106.982,101.584A102.156,102.156,0,0,1-2.413,26.73L96.184,0Z" transform="translate(-20696.752 -15024.792)" fill="#ffc700"/>
+          <path id="Path_85107" data-name="Path 85107" d="M1.067,110.911A102.156,102.156,0,0,1,44.987-2.112L99.664,84.18Z" transform="translate(-20709.002 -15117.511)" fill="#f99600"/>
+          <path id="Path_85108" data-name="Path 85108" d="M-1.338,12.373a102.156,102.156,0,0,1,40.3-14.848L53.339,98.665Z" transform="translate(-20653.762 -15135.756)" fill="#fe0496"/>
+          <path id="Path_85109" data-name="Path 85109" d="M-.352-1.483A102.157,102.157,0,0,1,14.024-2.5V99.656Z" transform="translate(-20606.404 -15138)" fill="#26b105"/>
+        </g>
+        <g id="Group_164957" data-name="Group 164957" transform="translate(-5 34)">
+          <g id="Group_164952" data-name="Group 164952" transform="translate(37 23)">
+            <rect id="Rectangle" width="12" height="12" rx="2" transform="translate(-20681 -15043)" fill="#fe0496"/>
+            <g id="Group_164951" data-name="Group 164951">
+              <text id="_0-18_years" data-name="0-18 years" transform="translate(-20662 -15032)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Operations</tspan></text>
+              <text id="_50_" data-name="50%" transform="translate(-20662 -15009)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">2% Spent</tspan></text>
+            </g>
+          </g>
+          <g id="Group_164953" data-name="Group 164953" transform="translate(30 11)">
+            <text id="_0-18_years-2" data-name="0-18 years" transform="translate(-20655 -15068)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">CRM</tspan></text>
+            <rect id="Rectangle-2" data-name="Rectangle" width="12" height="12" rx="2" transform="translate(-20674 -15079)" fill="#26b105"/>
+            <text id="_50_2" data-name="50%" transform="translate(-20655 -15045)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">8% spent</tspan></text>
+          </g>
+          <g id="Group_164954" data-name="Group 164954" transform="translate(37 -1)">
+            <text id="_0-18_years-3" data-name="0-18 years" transform="translate(-20662 -15104)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Tech</tspan></text>
+            <rect id="Rectangle-3" data-name="Rectangle" width="12" height="12" rx="2" transform="translate(-20681 -15115)" fill="#21d59b"/>
+            <text id="_50_3" data-name="50%" transform="translate(-20662 -15081)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">12% spent</tspan></text>
+          </g>
+          <g id="Group_164955" data-name="Group 164955" transform="translate(37 -28)">
+            <text id="_0-18_years-4" data-name="0-18 years" transform="translate(-20662 -15125)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Staff Training</tspan></text>
+            <rect id="Rectangle-4" data-name="Rectangle" width="12" height="12" rx="2" transform="translate(-20681 -15136)" fill="#f99600"/>
+            <text id="_50_4" data-name="50%" transform="translate(-20662 -15102)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">17% spent</tspan></text>
+          </g>
+          <g id="Group_164950" data-name="Group 164950" transform="translate(37 -19)">
+            <rect id="Rectangle-5" data-name="Rectangle" width="12" height="12" rx="2" transform="translate(-20681 -15193)" fill="#ffc700"/>
+            <text id="_0-18_years-5" data-name="0-18 years" transform="translate(-20662 -15182)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Payroll</tspan></text>
+            <text id="_50_5" data-name="50%" transform="translate(-20592 -15159)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="-69.9" y="0">21% spent</tspan></text>
+          </g>
+          <g id="Group_164956" data-name="Group 164956" transform="translate(37 -37)">
+            <text id="_0-18_years-6" data-name="0-18 years" transform="translate(-20662 -15212)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Marketing</tspan></text>
+            <rect id="Rectangle-6" data-name="Rectangle" width="12" height="12" rx="2" transform="translate(-20681 -15223)" fill="#0058ff"/>
+            <text id="_50_6" data-name="50%" transform="translate(-20662 -15189)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">35% spent</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_164948" data-name="Group 164948" transform="translate(-17.5 366)">
+        <path id="Path_407" data-name="Path 407" d="M9,6l5.421,5.421L9,16.842" transform="translate(-20817.922 -15040.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text id="Find_out_more" data-name="Find out more" transform="translate(-20880.5 -15024)" fill="#002e6b" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">See More</tspan></text>
+      </g>
+      <text id="New_Customers" data-name="New Customers" transform="translate(-20898 -15002)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.006em"><tspan x="0" y="0">Budgets</tspan></text>
+    </g>
+    <g id="Group_164970" data-name="Group 164970" transform="translate(20916 16537)">
+      <text id="Sales_Statistical_Ov-2" data-name="Sales Statistical Ov" transform="translate(-20898 -14586.622)" fill="#002e6b" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Expense Overview</tspan></text>
+      <g id="Group_164965" data-name="Group 164965">
+        <g transform="matrix(1, 0, 0, 1, -20916, -16537)" filter="url(#Rectangle_147762)">
+          <rect id="Rectangle_147762-2" data-name="Rectangle 147762" width="412" height="454" rx="10" transform="translate(8 1967)" fill="#fff"/>
+        </g>
+        <g id="Group_161541" data-name="Group 161541" transform="translate(-18663.277 -9253.622)">
+          <rect id="Background-2" data-name="Background" width="38" height="22" rx="3" transform="translate(-1987.723 -5305)" fill="#002e6b" opacity="0.4"/>
+          <text id="_1D-2" data-name="1D" transform="translate(-2195.723 -5290.396)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">1D</tspan></text>
+          <text id="_5D-2" data-name="5D" transform="translate(-2133.696 -5290.396)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">5D</tspan></text>
+          <text id="_1Y-2" data-name="1Y" transform="translate(-1975.723 -5290)" fill="#002e6b" font-size="12" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">1Y</tspan></text>
+          <text id="Max" transform="translate(-1917.355 -5290.396)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Max</tspan></text>
+          <text id="_1M-2" data-name="1M" transform="translate(-2053.784 -5290.471)" fill="#002e6b" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">1M</tspan></text>
+        </g>
+        <text id="_0-2" data-name="0" transform="translate(-20891 -14178)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-8.792" y="0">0</tspan></text>
+        <g id="Group_161540-2" data-name="Group 161540" transform="translate(-19139.277 -9285.252)">
+          <g transform="matrix(1, 0, 0, 1, -1776.72, -7251.75)" filter="url(#Line-3)">
+            <path id="Line-8" data-name="Line" d="M-2.179,30.927c2.825,2.469,5.567-2.608,10.4.9,3.808,2.758,7.121,11.617,12,14.294,9.254,5.081,16.806,10.3,21.1,22.437s10.6,35.91,18.277,35.91,11.583-21.4,14.479-35.5c2.774-13.5,8.248-28.565,16.886-32.141,9.534-3.947,17.374-28.016,28.75-32.061,6.063-2.156,10.921,2.04,16.34,8.561s4.359,9.337,16.547,14.364c10.058,4.149,12.689,18.43,22.545,20.149S189.557-4.223,199.963.266s12.485-7.117,22.267,14.879,18.819,4.444,31.1-.045,15.477,9.437,21.3,7.642S285.705,54.9,290.7,59.835s6.411-13,17.025-13,9.479-17.8,15.306-19.149,9.917.926,11.79-4.91" transform="translate(59.18 2187.91)" fill="none" stroke="#0058ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <path id="Line-9" data-name="Line" d="M0,118.947c1.658,3.586,14.3,8.8,21.548-3.912s13.675-5.868,21.134-3.26,9.945-28.036,18.233-31.948,18.647-24.811,31.079-29.7,11.6,24.159,27.971,28.4,20.926-25.428,28.385-33.9S159.123-2.482,171.554.126s18.647,28.74,29.007,32,12.431,24.881,22.169,40.855,18.647,17.93,30.872,14.67,15.539-36.221,21.341-37.525,10.981,14.414,15.954,18,6.423,19.525,16.99,19.525,9.324,6.194,15.125,5.216,9.945-10.106,11.81-14.344" transform="translate(-1717.544 -5114.126)" fill="none" stroke="#21d59b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Group_164943" data-name="Group 164943" transform="translate(-13 294)">
+          <text id="_200-2" data-name="200" transform="translate(-20857 -14555)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-33.144" y="0">200k</tspan></text>
+          <text id="_400-2" data-name="400" transform="translate(-20856 -14617)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-33.9" y="0">400k</tspan></text>
+          <text id="_600-2" data-name="600" transform="translate(-20856 -14679)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-33.984" y="0">600k</tspan></text>
+          <text id="_800-2" data-name="800" transform="translate(-20856 -14741)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-33.928" y="0">800k</tspan></text>
+          <text id="_1k" data-name="1k" transform="translate(-20873 -14803)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em" opacity="0.7"><tspan x="-16.634" y="0">1M</tspan></text>
+          <g id="Group_164941" data-name="Group 164941">
+            <text id="Jan-13" data-name="Jan" transform="translate(-20512 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.571" y="0">Dec</tspan></text>
+            <path id="Shape-16" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20511.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-14" data-name="Jan" transform="translate(-20544 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.376" y="0">Nov</tspan></text>
+            <path id="Shape-17" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20543.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-15" data-name="Jan" transform="translate(-20574 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.421" y="0">Oct</tspan></text>
+            <path id="Shape-18" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20573.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-16" data-name="Jan" transform="translate(-20604 -14457)" fill="#002e6b" font-size="13" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-12.415" y="0">Sep</tspan></text>
+            <path id="Shape-19" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20603.5 -14820)" fill="#002e6b"/>
+            <text id="Jan-17" data-name="Jan" transform="translate(-20636 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.935" y="0">Aug</tspan></text>
+            <path id="Shape-20" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20635.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-18" data-name="Jan" transform="translate(-20665 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-9.204" y="0">Jul</tspan></text>
+            <path id="Shape-21" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20664.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-19" data-name="Jan" transform="translate(-20693 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.765" y="0">Jun</tspan></text>
+            <path id="Shape-22" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20692.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-20" data-name="Jan" transform="translate(-20726 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-13.65" y="0">May</tspan></text>
+            <path id="Shape-23" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20725.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-21" data-name="Jan" transform="translate(-20758 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.199" y="0">Apr</tspan></text>
+            <path id="Shape-24" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20757.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-22" data-name="Jan" transform="translate(-20788 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-12.415" y="0">Mar</tspan></text>
+            <path id="Shape-25" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20787.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-23" data-name="Jan" transform="translate(-20819 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.7" y="0">Feb</tspan></text>
+            <path id="Shape-26" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20818.5 -14820)" fill="#e6e9f4"/>
+            <text id="Jan-24" data-name="Jan" transform="translate(-20849 -14457)" fill="#7e84a3" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-11.999" y="0">Jan</tspan></text>
+            <path id="Shape-27" data-name="Shape" d="M.011,336V0H.989V336Z" transform="translate(-20848.5 -14820)" fill="#e6e9f4"/>
+          </g>
+          <g id="Group_164911" data-name="Group 164911" transform="translate(-19129.277 -9525.01)">
+            <g transform="matrix(1, 0, 0, 1, -1773.72, -7305.99)" filter="url(#Line-4)">
+              <path id="Line-10" data-name="Line" d="M334.821,73.537c-2.825-2.469-5.567,2.608-10.4-.9-3.808-2.758-7.121-11.617-12-14.294-9.254-5.081-16.806-10.3-21.1-22.437S280.723,0,273.047,0s-11.583,21.4-14.479,35.5c-2.774,13.5-8.248,28.566-16.886,32.142-9.534,3.947-17.374,28.016-28.75,32.062-6.063,2.156-10.921-2.04-16.34-8.561s-4.359-9.337-16.547-14.364c-10.058-4.149-12.689-18.43-22.545-20.149s-14.415,52.058-24.821,47.569-12.485,7.117-22.267-14.879-18.819-4.444-31.1.045-15.477-9.437-21.3-7.642S46.937,49.567,41.942,44.629s-6.411,13-17.025,13-9.479,17.8-15.306,19.149-9.917-.926-11.79,4.91" transform="translate(56.18 2242.16)" fill="none" stroke="#f0142f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            </g>
+            <path id="Line-11" data-name="Line" d="M0,118.947c1.658,3.586,14.3,8.8,21.548-3.912s13.675-5.868,21.134-3.26,9.945-28.036,18.233-31.948,18.647-24.811,31.079-29.7,11.6,24.159,27.971,28.4,20.926-25.428,28.385-33.9S159.123-2.482,171.554.126s18.647,28.74,29.007,32,12.431,24.881,22.169,40.855,18.647,17.93,30.872,14.67,15.539-36.221,21.341-37.525,10.981,14.414,15.954,18,6.423,19.525,16.99,19.525,9.324,6.194,15.125,5.216,9.945-10.106,11.81-14.344" transform="translate(-1717.544 -5114.126)" fill="none" stroke="#2a2b5d" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+          <g id="Group_164942" data-name="Group 164942">
+            <g id="TooltipBG-2" data-name="TooltipBG" transform="translate(-20678 -14736.272)">
+              <g transform="matrix(1, 0, 0, 1, -225, -2094.73)" filter="url(#BG-2)">
+                <path id="BG-4" data-name="BG" d="M63,59H4.524A4.377,4.377,0,0,1,0,54.787V4.215A4.378,4.378,0,0,1,4.524,0H133.475A4.378,4.378,0,0,1,138,4.215V54.787A4.377,4.377,0,0,1,133.475,59H75l-6,6Z" transform="translate(225 2063.62)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Data_Key-2" data-name="Data Key" transform="translate(-20678.5 -14739.378)">
+              <g id="Data-2" data-name="Data" transform="translate(10.5 7)">
+                <text id="_750-2" data-name="$750" transform="translate(12 11)" fill="#002e6b" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">₦</tspan><tspan y="0" font-family="Poppins-Regular, Poppins">453,098</tspan></text>
+                <rect id="Sales-14" data-name="Sales" width="8" height="8" rx="4" transform="translate(0 3)" fill="#0062ff"/>
+              </g>
+            </g>
+            <text id="Titlee-2" data-name="Titlee" transform="translate(-20649 -14744.378)" fill="#002e6b" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">September, 2023</tspan></text>
+          </g>
+        </g>
+        <g id="Group_164944" data-name="Group 164944" transform="translate(-11 285)">
+          <g id="Group_164938" data-name="Group 164938" transform="translate(-0.001)">
+            <rect id="Shape-28" data-name="Shape" width="10" height="10" rx="5" transform="translate(-20763 -14428)" fill="#0058ff"/>
+            <text id="Marketing_Sales-4" data-name="Marketing Sales" transform="translate(-20747 -14418)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Tech</tspan></text>
+          </g>
+          <g id="Group_164940" data-name="Group 164940">
+            <rect id="Shape-29" data-name="Shape" width="10" height="10" rx="5" transform="translate(-20606 -14428)" fill="#2a2b5d"/>
+            <text id="Marketing_Sales-5" data-name="Marketing Sales" transform="translate(-20590 -14418)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Operations</tspan></text>
+          </g>
+          <g id="Group_164937" data-name="Group 164937" transform="translate(-22)">
+            <rect id="Shape-30" data-name="Shape" width="10" height="10" rx="5" transform="translate(-20849 -14428)" fill="#21d59b"/>
+            <text id="Marketing_Sales-6" data-name="Marketing Sales" transform="translate(-20833 -14418)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Marketing</tspan></text>
+          </g>
+          <g id="Group_164939" data-name="Group 164939" transform="translate(2.001)">
+            <rect id="Shape-31" data-name="Shape" width="10" height="10" rx="5" transform="translate(-20692 -14428)" fill="#f0142f"/>
+            <text id="Marketing_Sales-7" data-name="Marketing Sales" transform="translate(-20676 -14418)" fill="#5a607f" font-size="14" font-family="Poppins-Regular, Poppins" letter-spacing="0.007em"><tspan x="0" y="0">Admin</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="Group_164966" data-name="Group 164966" transform="translate(-17.5 934)">
+        <path id="Path_407-2" data-name="Path 407" d="M9,6l5.421,5.421L9,16.842" transform="translate(-20817.922 -15040.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text id="Find_out_more-2" data-name="Find out more" transform="translate(-20880.5 -15024)" fill="#002e6b" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">See More</tspan></text>
+      </g>
+    </g>
+    <g id="Group_165874" data-name="Group 165874" transform="translate(0 -143)">
+      <g id="Group_164904" data-name="Group 164904" transform="translate(20400 16269)">
+        <text id="CRM" transform="translate(-20243 -15701)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-16.156" y="0">CRM</tspan></text>
+        <g id="Group_163691" data-name="Group 163691" transform="translate(-12143 -10052)">
+          <ellipse id="Ellipse_709" data-name="Ellipse 709" cx="33.5" cy="33.5" rx="33.5" ry="33.5" transform="translate(-8134 -5735)" fill="#26b105" opacity="0.1"/>
+          <path id="Icon_awesome-users" data-name="Icon awesome-users" d="M6.75,15.75a4.5,4.5,0,1,0-4.5-4.5A4.5,4.5,0,0,0,6.75,15.75Zm31.5,0a4.5,4.5,0,1,0-4.5-4.5A4.5,4.5,0,0,0,38.25,15.75ZM40.5,18H36a4.487,4.487,0,0,0-3.171,1.308A10.285,10.285,0,0,1,38.109,27H42.75A2.248,2.248,0,0,0,45,24.75V22.5A4.5,4.5,0,0,0,40.5,18Zm-18,0a7.875,7.875,0,1,0-7.875-7.875A7.871,7.871,0,0,0,22.5,18Zm5.4,2.25h-.584a10.873,10.873,0,0,1-9.633,0H17.1A8.1,8.1,0,0,0,9,28.35v2.025a3.376,3.376,0,0,0,3.375,3.375h20.25A3.376,3.376,0,0,0,36,30.375V28.35A8.1,8.1,0,0,0,27.9,20.25Zm-15.729-.942A4.487,4.487,0,0,0,9,18H4.5A4.5,4.5,0,0,0,0,22.5v2.25A2.248,2.248,0,0,0,2.25,27H6.884A10.311,10.311,0,0,1,12.171,19.308Z" transform="translate(-8123 -5722.25)" fill="#26b105"/>
+        </g>
+      </g>
+      <g id="Group_164900" data-name="Group 164900" transform="translate(20715 16160)">
+        <text id="Inventory" transform="translate(-20658 -15701)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-33.957" y="0">Inventory</tspan></text>
+        <g id="Group_163697" data-name="Group 163697" transform="translate(-12275 -10052)">
+          <circle id="Ellipse_707" data-name="Ellipse 707" cx="33.5" cy="33.5" r="33.5" transform="translate(-8416 -5735)" fill="#f2e200" opacity="0.1"/>
+          <path id="Icon_awesome-warehouse" data-name="Icon awesome-warehouse" d="M35.438,24.75H9.591a.564.564,0,0,0-.562.563l-.007,3.375a.564.564,0,0,0,.563.563H35.438A.564.564,0,0,0,36,28.688V25.313A.564.564,0,0,0,35.438,24.75Zm0,6.75H9.57a.564.564,0,0,0-.562.563L9,35.438A.564.564,0,0,0,9.563,36H35.438A.564.564,0,0,0,36,35.438V32.063A.564.564,0,0,0,35.438,31.5Zm0-13.5H9.6a.564.564,0,0,0-.562.563l-.007,3.375A.564.564,0,0,0,9.6,22.5h25.84A.564.564,0,0,0,36,21.938V18.563A.564.564,0,0,0,35.438,18Zm7.488-9.773L23.794.26A3.386,3.386,0,0,0,21.2.26L2.074,8.227A3.383,3.383,0,0,0,0,11.341v24.1A.564.564,0,0,0,.563,36H6.188a.564.564,0,0,0,.563-.562V18a2.275,2.275,0,0,1,2.292-2.25H35.958A2.275,2.275,0,0,1,38.25,18V35.438a.564.564,0,0,0,.563.563h5.625A.564.564,0,0,0,45,35.438v-24.1A3.383,3.383,0,0,0,42.926,8.227Z" transform="translate(-8405 -5719.002)" fill="#f2e200"/>
+        </g>
+      </g>
+      <g id="Group_164901" data-name="Group 164901" transform="translate(20937 16160)">
+        <text id="Budget" transform="translate(-20565 -15701)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-25.655" y="0">Budget</tspan></text>
+        <g id="Group_163689" data-name="Group 163689" transform="translate(-12561 -10052)">
+          <circle id="Ellipse_703" data-name="Ellipse 703" cx="33.5" cy="33.5" r="33.5" transform="translate(-8038 -5735)" fill="#7aa20b" opacity="0.1"/>
+          <path id="Icon_awesome-chart-pie" data-name="Icon awesome-chart-pie" d="M37.11,20.25H20.426L31.537,31.361a1.128,1.128,0,0,0,1.56.048,16.84,16.84,0,0,0,5.142-9.9A1.127,1.127,0,0,0,37.11,20.25ZM36,15.694A16.915,16.915,0,0,0,20.306,0a1.131,1.131,0,0,0-1.181,1.139V16.875H34.859A1.131,1.131,0,0,0,36,15.694ZM15.75,20.25V3.566A1.127,1.127,0,0,0,14.5,2.436,16.863,16.863,0,0,0,.01,19.714,17.083,17.083,0,0,0,17.088,36a16.744,16.744,0,0,0,9.51-3.1,1.117,1.117,0,0,0,.11-1.693Z" transform="translate(-8024 -5719)" fill="#7aa20b"/>
+        </g>
+      </g>
+      <g id="Group_164903" data-name="Group 164903" transform="translate(20611 16160)">
+        <text id="Transactions" transform="translate(-20349 -15701)" fill="#002d6a" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-46.585" y="0">Transactions</tspan></text>
+        <g id="Group_164897" data-name="Group 164897" transform="translate(-78 5)">
+          <ellipse id="Ellipse_712" data-name="Ellipse 712" cx="33.5" cy="33.5" rx="33.5" ry="33.5" transform="translate(-20304 -15792)" fill="#e15b40" opacity="0.1"/>
+          <path id="Union_288" data-name="Union 288" d="M35.673,19.344V17.177H12.594a2,2,0,0,1-2-2V14.35a2,2,0,0,1,2-2h23.08V10.184a1,1,0,0,1,1.484-.876l8.289,4.58a1,1,0,0,1,0,1.75l-8.289,4.58a.987.987,0,0,1-.482.127A1,1,0,0,1,35.673,19.344Zm-27.6-8.779-8.29-4.58a1,1,0,0,1,0-1.751l8.29-4.58A1,1,0,0,1,9.553.53V2.7h23.08a2,2,0,0,1,2,2v.827a2,2,0,0,1-2,2H9.553V9.69a1,1,0,0,1-1.483.875Z" transform="translate(-20294.627 -15767.645)" fill="#e15b40"/>
+        </g>
+      </g>
+      <g id="Group_164907" data-name="Group 164907" transform="translate(18979 16324)">
+        <text id="Invoice" transform="translate(-18822 -15865)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-25.711" y="0">Invoice</tspan></text>
+        <g id="Group_163604" data-name="Group 163604" transform="translate(-8130 -10884)">
+          <ellipse id="Ellipse_714" data-name="Ellipse 714" cx="33.5" cy="33.5" rx="33.5" ry="33.5" transform="translate(-10726 -5067)" fill="#01ffff" opacity="0.1"/>
+          <path id="Icon_awesome-file-invoice" data-name="Icon awesome-file-invoice" d="M28.5,24.5H9.5v6.125h19Zm8.807-14.451L27.619.67A2.415,2.415,0,0,0,25.937,0h-.6V12.25H38v-.584A2.252,2.252,0,0,0,37.307,10.049ZM22.167,13.016V0H2.375A2.331,2.331,0,0,0,0,2.3V46.7A2.331,2.331,0,0,0,2.375,49h33.25A2.331,2.331,0,0,0,38,46.7V15.313H24.542A2.344,2.344,0,0,1,22.167,13.016ZM6.333,6.891a.779.779,0,0,1,.792-.766h7.917a.779.779,0,0,1,.792.766V8.422a.779.779,0,0,1-.792.766H7.125a.779.779,0,0,1-.792-.766Zm0,6.125a.779.779,0,0,1,.792-.766h7.917a.779.779,0,0,1,.792.766v1.531a.779.779,0,0,1-.792.766H7.125a.779.779,0,0,1-.792-.766ZM31.667,42.109a.779.779,0,0,1-.792.766H22.958a.779.779,0,0,1-.792-.766V40.578a.779.779,0,0,1,.792-.766h7.917a.779.779,0,0,1,.792.766Zm0-19.141v9.188a1.558,1.558,0,0,1-1.583,1.531H7.917a1.558,1.558,0,0,1-1.583-1.531V22.969a1.558,1.558,0,0,1,1.583-1.531H30.083A1.558,1.558,0,0,1,31.667,22.969Z" transform="translate(-10711 -5058)" fill="#01ffff"/>
+        </g>
+      </g>
+      <g id="Group_164913" data-name="Group 164913" transform="translate(19095 16304)">
+        <text id="Financial_Reports" data-name="Financial
+Reports" transform="translate(-18724 -15736)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-32.508" y="0">Financial</tspan><tspan x="-27.377" y="17">Reports</tspan></text>
+        <g id="Group_164912" data-name="Group 164912" transform="translate(1)">
+          <circle id="Ellipse_703-2" data-name="Ellipse 703" cx="33.5" cy="33.5" r="33.5" transform="translate(-18758 -15822)" fill="#f2e200" opacity="0.1"/>
+          <path id="Subtraction_338" data-name="Subtraction 338" d="M24.872,38.515H1.842A1.825,1.825,0,0,1,0,36.713V9.666a1.825,1.825,0,0,1,1.842-1.8h2.3V9.29a.228.228,0,0,0,.231.225H22.338a.228.228,0,0,0,.23-.225V7.863h2.3a1.825,1.825,0,0,1,1.842,1.8V36.713A1.825,1.825,0,0,1,24.872,38.515ZM5.918,13a1.049,1.049,0,0,0-1.063,1.031V33.969A1.049,1.049,0,0,0,5.918,35H20.793a1.049,1.049,0,0,0,1.063-1.031V19.875H15.835a1.049,1.049,0,0,1-1.063-1.031V13Zm10.271,0v5.5h5.666v-.263a1.021,1.021,0,0,0-.31-.726L17.212,13.3a1.071,1.071,0,0,0-.752-.3Zm.885,16.5H9.636a.524.524,0,0,1-.531-.516v-.344a.524.524,0,0,1,.531-.516h7.438a.525.525,0,0,1,.532.516v.344A.525.525,0,0,1,17.074,29.5Zm0-2.75H11.038a.524.524,0,0,1-.531-.516V25.89a.524.524,0,0,1,.531-.516h6.036a.525.525,0,0,1,.532.516v.344A.525.525,0,0,1,17.074,26.75ZM8.392,24.305H7.884a.251.251,0,0,1-.255-.247v-.749a1.852,1.852,0,0,1-1-.351.239.239,0,0,1-.1-.178.249.249,0,0,1,.079-.2l.373-.346a.251.251,0,0,1,.171-.066.292.292,0,0,1,.151.043.786.786,0,0,0,.409.115h.894a.393.393,0,0,0,.375-.408.4.4,0,0,0-.279-.392l-1.431-.418a1.393,1.393,0,0,1,.352-2.731v-.744a.251.251,0,0,1,.255-.248h.509a.251.251,0,0,1,.255.248v.75a1.844,1.844,0,0,1,1,.35.236.236,0,0,1,.1.178.249.249,0,0,1-.079.2l-.373.346a.251.251,0,0,1-.171.066.289.289,0,0,1-.151-.043.788.788,0,0,0-.408-.115H7.665a.393.393,0,0,0-.376.408.4.4,0,0,0,.28.393L9,20.583A1.4,1.4,0,0,1,10,21.922a1.387,1.387,0,0,1-1.357,1.392v.743A.251.251,0,0,1,8.392,24.305ZM17.074,24H12.251a.525.525,0,0,1-.531-.517V23.14a.524.524,0,0,1,.531-.515h4.823a.524.524,0,0,1,.532.515v.344A.525.525,0,0,1,17.074,24Zm4.4-15.382H5.123a.208.208,0,0,1-.21-.205V6.823a1.817,1.817,0,0,1,1.834-1.8h1.52a5,5,0,0,1,.284-1.642,4.847,4.847,0,0,1,.985-1.642A5.139,5.139,0,0,1,13.3,0a5.143,5.143,0,0,1,3.764,1.744,4.86,4.86,0,0,1,.985,1.642,5,5,0,0,1,.283,1.642h1.782a1.558,1.558,0,0,1,1.573,1.539V8.413A.208.208,0,0,1,21.478,8.618ZM13.307,3.352a1.769,1.769,0,0,0-.216.014,1.675,1.675,0,0,0-1.447,1.417,1.582,1.582,0,0,0,.38,1.272,1.7,1.7,0,0,0,1.28.577,1.8,1.8,0,0,0,.216-.013A1.67,1.67,0,0,0,14.967,5.2a1.585,1.585,0,0,0-.381-1.274A1.7,1.7,0,0,0,13.307,3.352Z" transform="translate(-18738 -15808)" fill="#f2e200"/>
+        </g>
+      </g>
+      <g id="Group_165870" data-name="Group 165870" transform="translate(20867 2103)">
+        <text id="Virtual_Office" data-name="Virtual
+Office" transform="translate(-20809 -1535)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-23.786" y="0">Virtual</tspan><tspan x="-20.804" y="21">Office</tspan></text>
+        <g id="Group_161997" data-name="Group 161997">
+          <circle id="Ellipse_9420" data-name="Ellipse 9420" cx="33.5" cy="33.5" r="33.5" transform="translate(-20843 -1621)" fill="#fe0496" opacity="0.1"/>
+          <path id="Union_98" data-name="Union 98" d="M42.359,31.8c-.111-.014-3.362-.479-4.826-.689v.012H36.128v-.013L31.3,31.8H31.3c-.123,0-.159-.549.47-.789.554-.212,3.567-.861,4.362-1.03V23.459H35.76V22.278l-4.492.015v8.631H28.7V20.616a1.926,1.926,0,0,1,1.914-1.931h5.757a.636.636,0,0,0,.633-.638V12.239a.647.647,0,0,0-.633-.638.636.636,0,0,0-.633.638v5.154H26.807V15.461H33.2a.636.636,0,0,0,.633-.637V9.669a1.926,1.926,0,0,1,1.914-1.93h3.195a1.9,1.9,0,0,1,1.9,1.93v9.654a1.935,1.935,0,0,1-.1.622,1.073,1.073,0,0,1,.595.2,1.606,1.606,0,0,1,.184-1.343c.655-.978,1.5-7.124,1.821-10.338.306-3.08,1.874-2.742,2-2.709l.041-.186L46,5.754l-3.467,16.5-4.649.015v1.188h-.352v6.525c.794.17,3.808.819,4.362,1.03.628.24.607.789.47.789Zm-27.66,0-4.826-.69v.013H8.469v-.013c-1.464.21-4.715.675-4.826.69H3.636c-.138,0-.158-.549.47-.789.554-.212,3.569-.861,4.363-1.03V23.459H8.117V22.271l-4.65-.015L0,5.754l.623-.188.041.186c.131-.034,1.7-.371,2,2.709C2.988,11.674,3.835,17.82,4.49,18.8a1.61,1.61,0,0,1,.183,1.343,1.046,1.046,0,0,1,.5-.189,1.934,1.934,0,0,1-.1-.613V9.669a1.925,1.925,0,0,1,1.914-1.93H10.2a1.926,1.926,0,0,1,1.914,1.93v5.154a.636.636,0,0,0,.633.637h6.389v1.931H10.184V12.239a.633.633,0,1,0-1.265,0v5.808a.636.636,0,0,0,.633.638h5.741a1.93,1.93,0,0,1,1.914,1.947V30.94H14.644V22.292l-4.4-.014v1.181H9.874v6.525c.793.169,3.808.819,4.362,1.03.628.24.593.789.47.789Zm5.253-.859a.794.794,0,0,1-.816-.724.765.765,0,0,1,.757-.822h2.349v-9.42H18.422a3.314,3.314,0,0,0-.567-1.293H28.072a3.314,3.314,0,0,0-.567,1.293H23.758V29.4h2.291a.776.776,0,0,1,.757.822.821.821,0,0,1-.815.724ZM20.4,17.409V14.824a.626.626,0,0,0-.633-.638H17.206V10.962a3.205,3.205,0,0,1,3.2-3.223H20.6l1.767,4.744a.645.645,0,0,0,.6.426.652.652,0,0,0,.6-.426l1.767-4.744h.195a3.2,3.2,0,0,1,3.195,3.223v3.224H26.159a.636.636,0,0,0-.633.638v2.585Zm1.573-9.669h1.978l-.99,2.667ZM33.181,3.223a3.2,3.2,0,1,1,6.39,0,3.2,3.2,0,1,1-6.39,0Zm-13.412,0a3.2,3.2,0,1,1,6.39,0,3.2,3.2,0,1,1-6.39,0Zm-13.413,0a3.2,3.2,0,1,1,6.39,0,3.2,3.2,0,1,1-6.39,0Z" transform="translate(-20832 -1603)" fill="#fe0496"/>
+        </g>
+      </g>
+      <g id="Group_165865" data-name="Group 165865" transform="translate(21380 12027)">
+        <text id="Suppliers" transform="translate(-21117 -11459)" fill="#002e6b" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-33.236" y="0">Suppliers</tspan></text>
+        <g id="Group_163821" data-name="Group 163821" transform="translate(-10806 -7873)">
+          <circle id="Ellipse_703-3" data-name="Ellipse 703" cx="33.5" cy="33.5" r="33.5" transform="translate(-10345 -3672)" fill="#055b58" opacity="0.1"/>
+          <path id="Union_220" data-name="Union 220" d="M38.808,17.661a3.719,3.719,0,0,1,.076-.768H31.13a4.087,4.087,0,0,1,.076.768,3.819,3.819,0,0,1-3.8,3.839,3.768,3.768,0,0,1-3.041-1.555,3.784,3.784,0,0,1-6.842-2.285v-2.5L1.078,19.69a.377.377,0,0,1-.465-.268L.014,17.2a.382.382,0,0,1,.266-.47L16.725,12.2V1.536A1.526,1.526,0,0,1,18.245,0H38.808a1.526,1.526,0,0,1,1.52,1.536V6.148h1.782a3.026,3.026,0,0,1,2.152.9l2.779,2.807a3.079,3.079,0,0,1,.889,2.169v4.1a.767.767,0,0,1-.76.768h-.836a4.087,4.087,0,0,1,.076.768,3.8,3.8,0,1,1-7.6,0Zm2.281,0a1.52,1.52,0,1,0,1.52-1.536A1.533,1.533,0,0,0,41.089,17.661Zm-15.2,0a1.52,1.52,0,1,0,1.52-1.536A1.533,1.533,0,0,0,25.885,17.661Zm-6.082,0a1.52,1.52,0,1,0,1.52-1.536A1.533,1.533,0,0,0,19.8,17.661ZM40.329,10.75H44.7L42.647,8.672a.751.751,0,0,0-.536-.225H40.329ZM2.385,13.158.029,4.256a.77.77,0,0,1,.537-.94l3.673-.993L5.416,6.771l2.936-.792L7.174,1.53l3.668-1a.76.76,0,0,1,.931.542l2.362,8.9a.77.77,0,0,1-.537.94L3.316,13.7a.744.744,0,0,1-.2.027A.765.765,0,0,1,2.385,13.158Z" transform="translate(-10335 -3649)" fill="#055b58"/>
+        </g>
+      </g>
+    </g>
+    <g id="Status_Bar" data-name="Status Bar" transform="translate(0 -1)">
+      <g transform="matrix(1, 0, 0, 1, 0, 1)" filter="url(#Heading_Container-4)">
+        <path id="Heading_Container-8" data-name="Heading Container" d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" transform="translate(0 -1)" fill="#fff"/>
+      </g>
+      <g id="Stautus_Bar" data-name="Stautus Bar" transform="translate(7.813 10)">
+        <g id="Pin-Right" transform="translate(354.729 0.5)">
+          <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+          <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+        </g>
+        <text id="_9:41_AM" data-name="9:41 AM" transform="translate(182.123 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+        <g id="Signal" transform="translate(0 0.5)">
+          <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+          <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+          <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="Support" transform="translate(70 -103)">
+        <circle id="Ellipse_627" data-name="Ellipse 627" cx="20" cy="20" r="20" transform="translate(214 141)" fill="#002d6a" opacity="0.1"/>
+        <path id="Icon_awesome-teamspeak" data-name="Icon awesome-teamspeak" d="M12.4,17.61c.122-.625-.609-1.523-1.645-2.473A17.165,17.165,0,0,0,7.535,12.77a1.5,1.5,0,0,0-2.351,1.153,5.026,5.026,0,0,0,.736,3.753,2.724,2.724,0,0,0,2.2,1.219,16.811,16.811,0,0,0,3.133-.051A1.6,1.6,0,0,0,12.4,17.61Zm10.409,1.056a.265.265,0,0,0-.421.122c-.406,1.29-2.27,5.713-8.738,6.17-7.6.533,4.077,2.214,7.383-.325,1.153-.884,2.417-1.777,2.366-4.337a2.688,2.688,0,0,0-.589-1.63Zm3.148-6.216a2.283,2.283,0,0,0-1.32-2.143.443.443,0,0,1-.3-.325A11.307,11.307,0,0,0,22.285,5.23c-.056-.076-.178-.163-.112-.254.432-.584-.015-.914-.355-1.239A12.131,12.131,0,0,0,9.007.664,11.272,11.272,0,0,0,3.828,4.087c-.2.218-.34.462-.152.736.152.2.066.315-.051.472a11.5,11.5,0,0,0-2,4.657.5.5,0,0,1-.325.4A2.206,2.206,0,0,0,.041,12.075L0,13.42v1.061A2.356,2.356,0,0,0,2.63,16.97a.559.559,0,0,0,.609-.584c.1-3.936-.122-4.845.188-6.388A9.777,9.777,0,0,1,17.532,3.32a9.53,9.53,0,0,1,5.194,8.6c.041,1.432,0,2.869,0,4.3,0,.355.112.635.477.721a2.313,2.313,0,0,0,2.7-1.864,15.63,15.63,0,0,0,.051-2.625Zm-8.1,6.678a2.829,2.829,0,0,0,2.965-3.072c-.107-2.3-3.361-.838-4.458-.406-3.717,1.427-2.285,2.788-1.127,3.088Z" transform="translate(221.007 148.002)" fill="#002d6a"/>
+      </g>
+      <g id="Referrals" transform="translate(259 13)">
+        <circle id="Ellipse_756" data-name="Ellipse 756" cx="20" cy="20" r="20" transform="translate(119 25)" fill="#f2e200" opacity="0.1"/>
+        <path id="Icon_metro-gift" data-name="Icon metro-gift" d="M21.614,9.74A9.716,9.716,0,0,0,22.858,8.7,5.339,5.339,0,0,0,24.38,5.9a3.11,3.11,0,0,0-.765-2.784A2.912,2.912,0,0,0,21.5,2.288a5.046,5.046,0,0,0-3.47,1.581,13.661,13.661,0,0,0-3.05,5.412,11.047,11.047,0,0,0-2.565-5.188A3.877,3.877,0,0,0,9.711,2.918a2.84,2.84,0,0,0-2.038.81,3.384,3.384,0,0,0,.365,4.744A7.8,7.8,0,0,0,9.749,9.74H4.5v6.193H6.047V26.77H24.625V15.932h1.548V9.74ZM19.263,5.1A3.356,3.356,0,0,1,21.5,4.03a1.235,1.235,0,0,1,.882.314c.63.63.276,2.088-.757,3.12A10.906,10.906,0,0,1,17.891,9.74H16.665a11.865,11.865,0,0,1,2.6-4.639Zm-10.653.79a1.188,1.188,0,0,1,.3-.931,1.125,1.125,0,0,1,.807-.3,2.137,2.137,0,0,1,1.474.665A8.6,8.6,0,0,1,13.136,9.1l.036.133-.133-.036A8.6,8.6,0,0,1,9.269,7.24a2.2,2.2,0,0,1-.66-1.349Zm5.178,19.33H7.6V15.158h6.193V25.221Zm0-10.837H6.047v-3.1h7.741v3.1Zm9.289,10.837H16.884V15.158h6.193Zm1.548-10.837H16.884v-3.1h7.741v3.1Z" transform="translate(123.501 30.712)" fill="#f2e200"/>
+      </g>
+      <g id="Settings" transform="translate(259 13)">
+        <circle id="Ellipse_627-2" data-name="Ellipse 627" cx="20" cy="20" r="20" transform="translate(72 25)" fill="#01ffff" opacity="0.1"/>
+        <path id="Icon_ionic-ios-settings" data-name="Icon ionic-ios-settings" d="M29.271,18A3.474,3.474,0,0,1,31.5,14.759a13.772,13.772,0,0,0-1.666-4.015,3.521,3.521,0,0,1-1.413.3,3.467,3.467,0,0,1-3.171-4.88A13.73,13.73,0,0,0,21.241,4.5a3.471,3.471,0,0,1-6.483,0,13.772,13.772,0,0,0-4.015,1.666,3.467,3.467,0,0,1-3.171,4.88,3.406,3.406,0,0,1-1.413-.3A14.076,14.076,0,0,0,4.5,14.766a3.473,3.473,0,0,1,.007,6.483,13.772,13.772,0,0,0,1.666,4.015,3.468,3.468,0,0,1,4.577,4.577,13.852,13.852,0,0,0,4.015,1.666,3.465,3.465,0,0,1,6.469,0,13.772,13.772,0,0,0,4.015-1.666,3.472,3.472,0,0,1,4.577-4.577,13.852,13.852,0,0,0,1.666-4.015A3.491,3.491,0,0,1,29.271,18ZM18.063,23.618a5.625,5.625,0,1,1,5.625-5.625A5.623,5.623,0,0,1,18.063,23.618Z" transform="translate(74.5 26.5)" fill="#01ffff"/>
+      </g>
+      <g id="Profile" transform="translate(-212 8)">
+        <text id="Bezalel_Sons" data-name="Bezalel &amp; Sons" transform="translate(266 50)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Bezalel &amp; Sons</tspan></text>
+        <text id="Admin" transform="translate(293 65)" fill="#002e6b" font-size="14" font-family="Poppins-Regular, Poppins" opacity="0.5"><tspan x="0" y="0">Admin</tspan></text>
+        <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M15.006,18.288l6.666-6.672a1.255,1.255,0,0,1,1.779,0,1.271,1.271,0,0,1,0,1.785L15.9,20.96A1.258,1.258,0,0,1,14.161,21l-7.606-7.59a1.26,1.26,0,0,1,1.779-1.785Z" transform="translate(368.37 28.753)" fill="#002e6b" opacity="0.8"/>
+        <g id="Group_164492" data-name="Group 164492" transform="translate(225.07 33.172)">
+          <g id="Group_164493" data-name="Group 164493" transform="translate(10.952 7.24)">
+            <g id="Group_164492-2" data-name="Group 164492" transform="translate(0.4 3.507)">
+              <circle id="Ellipse_9611" data-name="Ellipse 9611" cx="5.316" cy="5.316" r="5.316" fill="#a0616a"/>
+              <path id="Path_84440" data-name="Path 84440" d="M199.288,310.308l1.108-2.832,5.725-.862.615,6.268-5.787.123Z" transform="translate(-198.372 -298.486)" fill="#a0616a"/>
+            </g>
+            <path id="Path_84441" data-name="Path 84441" d="M189,127.417c-.069.276-.208.934-.426.938a9.7,9.7,0,0,1-.171-3.325c.2-.543-.332-1.229-.737-1.581-.727-.633-2.34.727-3.98.111-.043-.016-.035-.014-.553-.221a11.7,11.7,0,0,0-1.769-.663,2.4,2.4,0,0,0-2.1,1.327c-.4.8-.066,1.489-.442,3.427-.044.226-.113.548-.221.553-.2.009-.392-1.05-.442-1.327a6.746,6.746,0,0,1,0-3.538c.045-.137.326-.646.884-1.658.8-1.458,1.21-2.19,1.327-2.322a3.968,3.968,0,0,1,3.648-1.437c.648.185.532.484,1.327.774,1.416.517,2.647-.115,2.874.332.12.237-.216.432-.221.884-.008.776.974,1,1.548,1.769.309.413.837.417-.546,5.958h0Z" transform="translate(-177.913 -117.613)" fill="#2f2e41"/>
+          </g>
+          <path id="Path_84442" data-name="Path 84442" d="M104.662,357.053q-.321.361-.667.707a16.379,16.379,0,0,1-21.844,1.181l0,0q-.577-.465-1.117-.989.01-.081.022-.161c.05-.357.106-.7.169-1.011.514-2.568,7.278-5.265,7.454-5.335h0a4.576,4.576,0,0,0,4.6,3.167c2.541-.028,2.048-3.167,2.048-3.167l.089.018c.734.156,5.829,1.275,7.838,2.8a5,5,0,0,1,1.368,2.638C104.636,356.95,104.649,357,104.662,357.053Z" transform="translate(-76.042 -329.805)" fill="#6c63ff"/>
+          <path id="Path_84443" data-name="Path 84443" d="M27.954,4.8A16.375,16.375,0,0,0,0,16.375,16.251,16.251,0,0,0,4.019,27.122q.372.428.777.832c.063.063.127.127.192.188q.539.523,1.117.989l0,0a16.379,16.379,0,0,0,21.844-1.181q.345-.345.667-.707A16.376,16.376,0,0,0,27.954,4.8Zm.627,22.3a16.363,16.363,0,0,1-5.041,3.867q-.664.328-1.36.6a16.2,16.2,0,0,1-13.5-.868q-.147-.079-.292-.161a16.389,16.389,0,0,1-3.38-2.545q-.5-.488-.954-1.018a16.252,16.252,0,1,1,24.524.13Z" transform="translate(0 0)" fill="#3f3d56"/>
+        </g>
+      </g>
+    </g>
+    <g id="bg-5" data-name="bg" transform="translate(-1494 540)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="428" height="73" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="427" height="72" rx="9.5" fill="none"/>
+    </g>
+    <g id="Group_164718" data-name="Group 164718" transform="translate(-1847 -300.553)">
+      <text id="Insights" transform="translate(392 902)" fill="#f2e200" font-size="15" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="-0.016em"><tspan x="-29.415" y="0">Insights</tspan></text>
+      <path id="FontAwsome_wpexplorer_" data-name="FontAwsome (wpexplorer)" d="M35.164,5.841,24.117,10.557,28.834,21.6l11.047-4.716Zm-13.984,21.5-5.924,11.95h1.856l6.356-12.713,6.216,12.713h1.78l-6.5-13.59L27.8,24.5l-.763-1.78-8.721,3.7.763,1.818Zm1.5-14.785L13.96,16.29,17.7,24.973l8.683-3.7-3.7-8.721ZM12.472,18.007,5.531,20.943l2.975,6.9,6.9-2.937-2.937-6.9Z" transform="translate(369.469 842.713)" fill="#f2e200"/>
+    </g>
+  </g>
+</svg>

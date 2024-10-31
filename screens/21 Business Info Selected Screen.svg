@@ -1,0 +1,507 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="1380" viewBox="0 0 428 1380">
+  <defs>
+    <filter id="Heading_Container" x="-15" y="-14" width="458" height="516" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect x="-3" width="372.319" height="25" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_149055" x="19" y="770.953" width="375" height="22" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_149055-2" x="19.5" y="374.938" width="390" height="20" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect y="-5" width="331" height="26" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_149061" x="19.25" y="281.463" width="390" height="20" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_148373" x="40" y="1297.352" width="348" height="67" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#d5ffe0" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Heading_Container-2" x="-15" y="-15" width="458" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#c7c7c7" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-_21_Business_Info_Selected_Screen_">
+      <rect width="428" height="1380"/>
+    </clipPath>
+  </defs>
+  <g id="_21_Business_Info_Selected_Screen_" data-name="21 Business Info Selected Screen " clip-path="url(#clip-_21_Business_Info_Selected_Screen_)">
+    <rect width="428" height="1380" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container)">
+      <rect id="Heading_Container-3" data-name="Heading Container" width="428" height="486" fill="#002d6a"/>
+    </g>
+    <path id="Rectangle_148366" data-name="Rectangle 148366" d="M25,0H403a25,25,0,0,1,25,25V1148a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V25A25,25,0,0,1,25,0Z" transform="translate(0 232)" fill="#fff"/>
+    <text id="Heading_Text" data-name="Heading Text" transform="translate(19.088 129.5)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Final Step</tspan></text>
+    <text id="Body_Text" data-name="Body Text" transform="translate(21.08 162)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Please tell us more about your business to help us </tspan><tspan x="0" y="25">serve you better.</tspan></text>
+    <g id="Icon_material-bubble-chart" data-name="Icon material-bubble-chart" transform="translate(365.833 93.753)">
+      <path id="Path_83893" data-name="Path 83893" d="M21.064,20.5A8.365,8.365,0,1,1,12.7,12.133,8.365,8.365,0,0,1,21.064,20.5Z" transform="translate(0 11.022)" fill="#f2f6f7"/>
+      <path id="Path_83894" data-name="Path 83894" d="M24.323,22.562A5.228,5.228,0,1,1,19.1,17.333a5.228,5.228,0,0,1,5.228,5.228Z" transform="translate(13.471 18.37)" fill="#f2f6f7"/>
+      <path id="Path_83895" data-name="Path 83895" d="M36.363,16.881A12.548,12.548,0,1,1,23.815,4.333,12.548,12.548,0,0,1,36.363,16.881Z" transform="translate(9.797)" fill="#f2f6f7"/>
+    </g>
+    <g id="Group_165480" data-name="Group 165480" transform="translate(0.5 118.402)">
+      <text id="TSLA" transform="translate(65.66 366.593)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Active Business Website</tspan></text>
+      <text id="TSLA-2" data-name="TSLA" transform="translate(27 395.706)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Enter your website URL</tspan></text>
+      <text id="TSLA-3" data-name="TSLA" transform="translate(53.5 434.593)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">I don&apos;t have a website for my business yet</tspan></text>
+      <line id="Line_1117" data-name="Line 1117" x2="372" transform="translate(26.5 408.093)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_awesome-globe" data-name="Icon awesome-globe" d="M16.011,7.795C15.321,3.546,13.693.563,11.8.563S8.279,3.546,7.589,7.795ZM7.232,12.362a29.823,29.823,0,0,0,.157,3.045h8.817a29.822,29.822,0,0,0,.157-3.045,29.822,29.822,0,0,0-.157-3.045H7.389A29.823,29.823,0,0,0,7.232,12.362ZM22.681,7.795a11.825,11.825,0,0,0-7.518-6.737,16.059,16.059,0,0,1,2.379,6.737ZM8.431,1.057A11.817,11.817,0,0,0,.918,7.795H6.057A15.993,15.993,0,0,1,8.431,1.057ZM23.19,9.317H17.733c.1,1,.157,2.022.157,3.045s-.057,2.046-.157,3.045h5.453a11.7,11.7,0,0,0,.409-3.045A11.9,11.9,0,0,0,23.19,9.317ZM5.71,12.362c0-1.023.057-2.046.157-3.045H.409a11.535,11.535,0,0,0,0,6.09H5.862C5.767,14.408,5.71,13.385,5.71,12.362ZM7.589,16.93c.69,4.249,2.317,7.232,4.211,7.232s3.521-2.983,4.211-7.232Zm7.579,6.737a11.836,11.836,0,0,0,7.518-6.737H17.547a16.059,16.059,0,0,1-2.379,6.737ZM.918,16.93a11.825,11.825,0,0,0,7.518,6.737A16.059,16.059,0,0,1,6.057,16.93H.918Z" transform="translate(27 348.157)" fill="#01ffff"/>
+      <g id="Rectangle_149052" data-name="Rectangle 149052" transform="translate(26.5 419)" fill="none" stroke="#d1d2d9" stroke-width="1">
+        <rect width="21" height="21" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="20" height="20" rx="4.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_165481" data-name="Group 165481" transform="translate(3.119 137.402)">
+      <text id="TSLA-4" data-name="TSLA" transform="translate(65.66 481.087)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Do You Sell Online?</tspan></text>
+      <text id="TSLA-5" data-name="TSLA" transform="translate(52.66 512)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Yes</tspan></text>
+      <text id="TSLA-6" data-name="TSLA" transform="translate(52.66 539)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">No</tspan></text>
+      <g id="Ellipse_9645" data-name="Ellipse 9645" transform="translate(30 525)" fill="none" stroke="#d1d2d9" stroke-width="1">
+        <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+        <circle cx="8.5" cy="8.5" r="8" fill="none"/>
+      </g>
+      <g id="Icon_ionic-ios-cart" data-name="Icon ionic-ios-cart" transform="translate(20.499 456.5)">
+        <path id="Path_85151" data-name="Path 85151" d="M12.938,29.813a1.688,1.688,0,1,1-1.687-1.688,1.688,1.688,0,0,1,1.688,1.688Z" fill="#01ffff"/>
+        <path id="Path_85152" data-name="Path 85152" d="M28.723,29.813a1.687,1.687,0,1,1-1.687-1.688,1.687,1.687,0,0,1,1.687,1.688Z" fill="#01ffff"/>
+        <path id="Path_85153" data-name="Path 85153" d="M32.611,9.3a.413.413,0,0,0-.366-.3L9.345,6.785a.7.7,0,0,1-.527-.33,7.16,7.16,0,0,0-.858-1.308c-.541-.661-1.561-.64-3.431-.654a1.024,1.024,0,0,0-1.146.991,1,1,0,0,0,1.1.991,9.342,9.342,0,0,1,1.828.134c.33.1.6.64.7,1.111a.026.026,0,0,0,.007.021c.014.084.141.717.141.724L9.963,23.344a5.468,5.468,0,0,0,1.02,2.51A2.806,2.806,0,0,0,13.3,26.993H29.932a1,1,0,0,0,1.013-.942.98.98,0,0,0-.984-1.027H13.282a.817.817,0,0,1-.584-.2A3.155,3.155,0,0,1,11.89,23l-.3-1.666a.039.039,0,0,1,.028-.042l19.526-3.3a.411.411,0,0,0,.345-.366l1.125-8.142A.4.4,0,0,0,32.611,9.3Z" fill="#01ffff"/>
+      </g>
+      <g id="Icon_feather-check-circle" data-name="Icon feather-check-circle" transform="translate(27.881 495.607)">
+        <path id="Path_83221" data-name="Path 83221" d="M18.5,10.032v.713a7.75,7.75,0,1,1-4.6-7.083" transform="translate(0 0)" fill="none" stroke="#002e6b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_83222" data-name="Path 83222" d="M25.59,6l-9.3,9.309-2.79-2.79" transform="translate(-7.09 -1.144)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_165528" data-name="Group 165528" transform="translate(0.5 131.841)">
+      <path id="Icon_awesome-long-arrow-alt-up" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(373.53 850.208)" fill="#d1d2d9"/>
+      <text id="TSLA-7" data-name="TSLA" transform="translate(66.5 855.984)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Annual Revenue</tspan></text>
+      <text id="TSLA-8" data-name="TSLA" transform="translate(28 884.495)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Select your annual revenue</tspan></text>
+      <line id="Line_1117-2" data-name="Line 1117" x2="372" transform="translate(27.5 897.484)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Union_304" data-name="Union 304" d="M9957.364,14268.5a.844.844,0,0,1-.845-.841v-23.229h-3.237a1.688,1.688,0,0,1-1.192-2.883l6.048-6.052a1.69,1.69,0,0,1,2.389,0l6.052,6.052a1.69,1.69,0,0,1-1.2,2.883h-3.237v23.229a.84.84,0,0,1-.841.841Zm-7.742,0a.774.774,0,0,1-.845-.669v-18.84a.771.771,0,0,1,.842-.673h3.938a.775.775,0,0,1,.846.673v18.84a.772.772,0,0,1-.846.669Zm-7.777,0c-.469,0-.845-.2-.845-.454v-13.11c0-.251.376-.455.845-.455h3.939c.462,0,.841.2.841.455v13.11c0,.254-.379.454-.841.454Z" transform="translate(-9913 -13405.994)" fill="#01ffff"/>
+    </g>
+    <g id="Group_165529" data-name="Group 165529" transform="translate(0 -85.533)">
+      <path id="Icon_awesome-long-arrow-alt-up-2" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(373.53 959.11)" fill="#d1d2d9"/>
+      <text id="TSLA-9" data-name="TSLA" transform="translate(66.5 964.887)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Number of Employees</tspan></text>
+      <text id="TSLA-10" data-name="TSLA" transform="translate(28 993.397)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Select your company size </tspan></text>
+      <line id="Line_1117-3" data-name="Line 1117" x2="372" transform="translate(27.5 1006.387)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_awesome-users" data-name="Icon awesome-users" d="M4.388,11.027A2.926,2.926,0,1,0,1.463,8.1,2.928,2.928,0,0,0,4.388,11.027Zm20.479,0A2.926,2.926,0,1,0,21.941,8.1,2.928,2.928,0,0,0,24.867,11.027Zm1.463,1.463H23.4a2.917,2.917,0,0,0-2.062.85,6.686,6.686,0,0,1,3.433,5h3.017a1.461,1.461,0,0,0,1.463-1.463V15.415A2.928,2.928,0,0,0,26.33,12.489Zm-11.7,0a5.12,5.12,0,1,0-5.12-5.12A5.117,5.117,0,0,0,14.628,12.489Zm3.511,1.463h-.379a7.068,7.068,0,0,1-6.262,0h-.379a5.267,5.267,0,0,0-5.266,5.266v1.316a2.195,2.195,0,0,0,2.194,2.194H21.21A2.195,2.195,0,0,0,23.4,20.534V19.218A5.267,5.267,0,0,0,18.138,13.952ZM7.913,13.339a2.917,2.917,0,0,0-2.062-.85H2.926A2.928,2.928,0,0,0,0,15.415v1.463A1.461,1.461,0,0,0,1.463,18.34H4.475A6.7,6.7,0,0,1,7.913,13.339Z" transform="translate(28 946.68)" fill="#01ffff"/>
+    </g>
+    <g id="Group_165530" data-name="Group 165530" transform="translate(0 24.481)">
+      <path id="Icon_awesome-long-arrow-alt-up-3" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(374.03 1059.603)" fill="#d1d2d9"/>
+      <text id="TSLA-11" data-name="TSLA" transform="translate(67 1065.379)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How Much Do You Spend Monthly?</tspan></text>
+      <text id="TSLA-12" data-name="TSLA" transform="translate(29 1093.89)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Select your total monthly spend</tspan></text>
+      <line id="Line_1117-4" data-name="Line 1117" x2="372" transform="translate(28.5 1106.879)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_metro-chart-bars" data-name="Icon metro-chart-bars" d="M2.571,26.992H33.419v3.856H2.571ZM6.427,19.28h3.856v5.784H6.427Zm5.784-7.712h3.856v13.5H12.211Zm5.784,5.784h3.856v7.712H17.995ZM23.779,5.784h3.856v19.28H23.779Z" transform="translate(26.43 1039.052)" fill="#01ffff"/>
+    </g>
+    <g id="Dropdown_1" data-name="Dropdown 1" transform="translate(27.681 721.395)">
+      <g id="Scroll_Group_260" data-name="Scroll Group 260" transform="translate(3 73.967)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <g id="Group_165541" data-name="Group 165541" transform="translate(-36 -848)">
+          <rect id="Rectangle_149060" data-name="Rectangle 149060" width="167" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Business_Revenues" data-name="Business Revenues" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Business Revenues</tspan></text>
+          <g id="Group_165540" data-name="Group 165540" transform="translate(665.908 114.963) rotate(45)">
+            <line id="Line_1121" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165543" data-name="Group 165543" transform="translate(418.106 -848)">
+          <rect id="Rectangle_149060-2" data-name="Rectangle 149060" width="160.106" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Investors_-_Others" data-name="Investors - Others" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Investors - Others</tspan></text>
+          <g id="Group_165540-2" data-name="Group 165540" transform="translate(658.908 114.963) rotate(45)">
+            <line id="Line_1121-2" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122-2" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165544" data-name="Group 165544" transform="translate(583.213 -848)">
+          <rect id="Rectangle_149060-3" data-name="Rectangle 149060" width="129.213" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Business_Loan" data-name="Business Loan" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Business Loan</tspan></text>
+          <g id="Group_165540-3" data-name="Group 165540" transform="translate(628.015 114.963) rotate(45)">
+            <line id="Line_1121-3" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122-3" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165545" data-name="Group 165545" transform="translate(717.426 -848)">
+          <rect id="Rectangle_149060-4" data-name="Rectangle 149060" width="160.106" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Personal_Savings" data-name="Personal Savings" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Personal Savings</tspan></text>
+          <g id="Group_165540-4" data-name="Group 165540" transform="translate(652.908 114.963) rotate(45)">
+            <line id="Line_1121-4" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122-4" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165546" data-name="Group 165546" transform="translate(882.532 -848)">
+          <rect id="Rectangle_149060-5" data-name="Rectangle 149060" width="160.106" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Family_Friends" data-name="Family &amp; Friends" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Family &amp; Friends</tspan></text>
+          <g id="Group_165540-5" data-name="Group 165540" transform="translate(658.908 114.963) rotate(45)">
+            <line id="Line_1121-5" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122-5" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165547" data-name="Group 165547" transform="translate(1047.639 -848)">
+          <rect id="Rectangle_149060-6" data-name="Rectangle 149060" width="118.106" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Inheritance" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Inheritance</tspan></text>
+          <g id="Group_165540-6" data-name="Group 165540" transform="translate(610.908 114.963) rotate(45)">
+            <line id="Line_1121-6" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122-6" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165548" data-name="Group 165548" transform="translate(1170.745 -848)">
+          <rect id="Rectangle_149060-7" data-name="Rectangle 149060" width="140.106" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Sales_of_Assets" data-name="Sales of Assets" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sales of Assets</tspan></text>
+          <g id="Group_165540-7" data-name="Group 165540" transform="translate(636.015 114.963) rotate(45)">
+            <line id="Line_1121-7" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122-7" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165549" data-name="Group 165549" transform="translate(1315.852 -848)">
+          <rect id="Rectangle_149060-8" data-name="Rectangle 149060" width="77.054" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Others" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Others</tspan></text>
+          <g id="Group_165540-8" data-name="Group 165540" transform="translate(575.855 114.963) rotate(45)">
+            <line id="Line_1121-8" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122-8" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_165542" data-name="Group 165542" transform="translate(136.106 -848)">
+          <rect id="Rectangle_149060-9" data-name="Rectangle 149060" width="277" height="25" rx="5" transform="translate(36 848)" fill="#f2e200" opacity="0.1"/>
+          <text id="Investors_-_VC_Angels_Incubators" data-name="Investors - VC, Angels, Incubators" transform="translate(39 866)" fill="#f2e200" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Investors - VC, Angels, Incubators</tspan></text>
+          <g id="Group_165540-9" data-name="Group 165540" transform="translate(774.015 114.963) rotate(45)">
+            <line id="Line_1121-9" data-name="Line 1121" y2="15" transform="translate(192.5 854.5)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+            <line id="Line_1122-9" data-name="Line 1122" y2="15" transform="translate(200 862) rotate(90)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+      <path id="Icon_awesome-long-arrow-alt-up-4" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(346.85 20.772)" fill="#d1d2d9"/>
+      <text id="TSLA-13" data-name="TSLA" transform="translate(39.819 26.549)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">How is Your Business Funded?</tspan></text>
+      <text id="TSLA-14" data-name="TSLA" transform="translate(0.819 55.06)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Please select an option</tspan></text>
+      <line id="Line_1117-5" data-name="Line 1117" x2="372" transform="translate(0.319 68.467)" fill="none" stroke="#666" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Union_50" data-name="Union 50" d="M21.125,30.362V28.324c0,.938,2.394,1.7,5.348,1.7s5.347-.76,5.347-1.7v2.038c0,.938-2.394,1.7-5.347,1.7S21.125,31.3,21.125,30.362Zm-15.071.68a11.411,11.411,0,0,1-4.175-1.52C.544,28.271,0,26.518,0,23.472a9.726,9.726,0,0,1,1.878-6.513c1.29-1.865,6.179-6.326,6.387-6.515H8.095a1.505,1.505,0,0,1,0-3.011h.959L6.761,1.859H11.3c.029-.19.332-1.859,1.9-1.859l.087,0h.051c1.677,0,1.986,1.84,1.989,1.859h4.627L17.8,7.433h.74a1.505,1.505,0,1,1,0,3.011h.222l.009.009c.445.451,4.4,4.463,5.924,6.506a8.108,8.108,0,0,1,1.78,3.693h-.038c-3.2,0-5.81.821-5.81,1.831v1.464a.527.527,0,0,0,.006.088h-.006v7.04a40.222,40.222,0,0,1-7.831.986A38.466,38.466,0,0,1,6.053,31.043Zm5.252-10.015h1.215l1.246,2.52h1.455v-2.52h.737v-.86h-.737v-.512h.737V18.8h-.737V16.546H13.9V18.8H12.623L11.54,16.546H9.982V18.8H9.3v.859h.679v.512H9.3v.86h.679v2.52H11.3V21.028h0ZM21.125,27.3V25.266c0,.939,2.394,1.7,5.348,1.7s5.347-.76,5.347-1.7V27.3c0,.939-2.394,1.7-5.347,1.7S21.125,28.243,21.125,27.3Zm0-3.057V22.888c0-.939,2.394-1.7,5.348-1.7s5.347.76,5.347,1.7v1.359c0,.938-2.394,1.7-5.347,1.7S21.125,25.185,21.125,24.247ZM13.931,21.5h-.013c-.063-.15-.131-.305-.21-.473h.2c.006.2.015.355.029.472h0ZM13.9,20.168h-.609l-.249-.512H13.9v.511h0Zm-1.8,0H11.3v-.512h.543l.253.51v0Z" transform="translate(0.319)" fill="#01ffff"/>
+      <g transform="matrix(1, 0, 0, 1, -27.68, -721.39)" filter="url(#Rectangle_149055)">
+        <rect id="Rectangle_149055-3" data-name="Rectangle 149055" width="357" height="4" rx="2" transform="translate(28 776.95)" fill="#fff" opacity="0"/>
+      </g>
+      <g id="Option_9" data-name="Option 9" transform="translate(9913.319 12333.56)" opacity="0">
+        <text id="Others-2" data-name="Others" transform="translate(-9898 -12283)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Others</tspan></text>
+        <g id="Check_Box" data-name="Check Box" transform="translate(-9599 -12301)">
+          <g id="Rectangle_148329" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_8" data-name="Option 8" transform="translate(9913.319 12379.56)" opacity="0">
+        <text id="Sales_of_Assets-2" data-name="Sales of Assets" transform="translate(-9898 -12329)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sales of Assets</tspan></text>
+        <g id="Check_Box-2" data-name="Check Box" transform="translate(-9599 -12347)">
+          <g id="Rectangle_148329-2" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-2" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-2" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-2" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_7" data-name="Option 7" transform="translate(9913.319 12426.56)" opacity="0">
+        <text id="Inheritance-2" data-name="Inheritance" transform="translate(-9898 -12376)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Inheritance</tspan></text>
+        <g id="Check_Box-3" data-name="Check Box" transform="translate(-9599 -12394)">
+          <g id="Rectangle_148329-3" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-3" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-3" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-3" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_6" data-name="Option 6" transform="translate(9913.319 12473.56)" opacity="0">
+        <text id="Family_Friends-2" data-name="Family &amp; Friends" transform="translate(-9898 -12423)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Family &amp; Friends</tspan></text>
+        <g id="Check_Box-4" data-name="Check Box" transform="translate(-9599 -12441)">
+          <g id="Rectangle_148329-4" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-4" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-4" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-4" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_5" data-name="Option 5" transform="translate(9913.319 12519.56)" opacity="0">
+        <text id="Personal_Savings-2" data-name="Personal Savings" transform="translate(-9898 -12469)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Personal Savings</tspan></text>
+        <g id="Check_Box-5" data-name="Check Box" transform="translate(-9599 -12487)">
+          <g id="Rectangle_148329-5" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-5" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-5" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-5" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_4" data-name="Option 4" transform="translate(9913.319 12566.56)" opacity="0">
+        <text id="Business_Loan-2" data-name="Business Loan" transform="translate(-9898 -12516)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Business Loan</tspan></text>
+        <g id="Check_Box-6" data-name="Check Box" transform="translate(-9599 -12534)">
+          <g id="Rectangle_148329-6" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-6" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-6" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-6" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_3" data-name="Option 3" transform="translate(9913.319 12613.56)" opacity="0">
+        <text id="Investors_-_Others-2" data-name="Investors - Others" transform="translate(-9898 -12563)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Investors - Others</tspan></text>
+        <g id="Check_Box-7" data-name="Check Box" transform="translate(-9599 -12581)">
+          <g id="Rectangle_148329-7" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-7" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-7" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-7" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_2" data-name="Option 2" transform="translate(9913.319 12660.56)" opacity="0">
+        <text id="Investors_-_VC_Angels_Incubators-2" data-name="Investors - VC, Angels, Incubators" transform="translate(-9898 -12610)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Investors - VC, Angels, Incubators</tspan></text>
+        <g id="Check_Box-8" data-name="Check Box" transform="translate(-9599 -12628)">
+          <g id="Rectangle_148329-8" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-8" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-8" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-8" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_1" data-name="Option 1" transform="translate(9913.319 12706.56)" opacity="0">
+        <text id="Business_Revenues-2" data-name="Business Revenues" transform="translate(-9898 -12656)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Business Revenues</tspan></text>
+        <g id="Check_Box-9" data-name="Check Box" transform="translate(-9599 -12674)">
+          <g id="Rectangle_148329-9" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-9" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-9" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-9" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Dropdown_3" data-name="Dropdown 3" transform="translate(27.5 365.503)">
+      <text id="TSLA-15" data-name="TSLA" transform="translate(39.5 19)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Sub-Industry</tspan></text>
+      <text id="TSLA-16" data-name="TSLA" transform="translate(0.5 48.006)" fill="#002d6a" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Shoes</tspan></text>
+      <line id="Line_1117-6" data-name="Line 1117" x2="372" transform="translate(0 60.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_awesome-long-arrow-alt-up-5" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(343.53 13.486)" fill="#d1d2d9"/>
+      <path id="Union_301" data-name="Union 301" d="M9953.772,14254.132v-6.861h6.86v6.861Zm-12.771,0v-6.861h6.861v6.861Zm12.771-12.271V14235h6.86v6.86Zm-12.771,0V14235h6.861v6.86Z" transform="translate(-9939.322 -14229.133)" fill="#01ffff" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <g transform="matrix(1, 0, 0, 1, -27.5, -365.5)" filter="url(#Rectangle_149055-2)">
+        <rect id="Rectangle_149055-4" data-name="Rectangle 149055" width="372" height="2" rx="1" transform="translate(28.5 380.94)" fill="#fff" opacity="0"/>
+      </g>
+      <g id="Scroll_Group_261" data-name="Scroll Group 261" transform="translate(22 37.434)" opacity="0" clip-path="url(#clip-path-2)" style="isolation: isolate">
+        <text id="Shoes" transform="translate(0 936)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Shoes</tspan></text>
+        <text id="Cars" transform="translate(0 376)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Cars</tspan></text>
+        <text id="Clothing" transform="translate(0 416)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Clothing</tspan></text>
+        <text id="Pet_Food_products" data-name="Pet Food &amp; products" transform="translate(0 816)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Pet Food &amp; products</tspan></text>
+        <text id="Contents_for_Adults" data-name="Contents for Adults" transform="translate(0 456)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Contents for Adults</tspan></text>
+        <text id="Pharmaceuticals_Dietary_Supplements_" data-name="Pharmaceuticals &amp; Dietary Supplements " transform="translate(0 856)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Pharmaceuticals &amp; Dietary Supplements </tspan></text>
+        <text id="Electronics_Household_Appliances" data-name="Electronics &amp; Household Appliances" transform="translate(0 496)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Electronics &amp; Household Appliances</tspan></text>
+        <text id="Sports_Fitness_Equipment" data-name="Sports &amp; Fitness  Equipment" transform="translate(0 976)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0" xml:space="preserve">Sports &amp; Fitness  Equipment</tspan></text>
+        <text id="Precious_Minerals_Metals_Stones" data-name="Precious Minerals, Metals &amp; Stones" transform="translate(0 896)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Precious Minerals, Metals &amp; Stones</tspan></text>
+        <text id="Beauty_Well-being_" data-name="Beauty &amp; Well-being " transform="translate(0 256)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Beauty &amp; Well-being </tspan></text>
+        <text id="Industrial_Chemicals_Plastics" data-name="Industrial Chemicals &amp; Plastics" transform="translate(0 656)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Industrial Chemicals &amp; Plastics</tspan></text>
+        <text id="Others-3" data-name="Others" transform="translate(0 1136)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Others</tspan></text>
+        <text id="Boats" transform="translate(0 296)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Boats</tspan></text>
+        <text id="Medical_Equipment" data-name="Medical Equipment" transform="translate(0 696)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Medical Equipment</tspan></text>
+        <text id="Military_Gears" data-name="Military Gears" transform="translate(0 736)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Military Gears</tspan></text>
+        <text id="Book_Store" data-name="Book Store" transform="translate(0 336)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Book Store</tspan></text>
+        <text id="NFT_Services_Metaverse" data-name="NFT Services &amp; Metaverse" transform="translate(0 776)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">NFT Services &amp; Metaverse</tspan></text>
+        <text id="Auto_Spare_parts_" data-name="Auto Spare parts " transform="translate(0 216)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Auto Spare parts </tspan></text>
+        <text id="Groceries_Consumables" data-name="Groceries &amp; Consumables" transform="translate(0 616)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Groceries &amp; Consumables</tspan></text>
+        <text id="Watches_Jewelry_" data-name="Watches &amp; Jewelry " transform="translate(0 1096)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Watches &amp; Jewelry </tspan></text>
+        <text id="Arts_-_Painting" data-name="Arts - Painting" transform="translate(0 176)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Arts - Painting</tspan></text>
+        <text id="Furniture_Home_Decor" data-name="Furniture &amp; Home Decor" transform="translate(0 576)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Furniture &amp; Home Decor</tspan></text>
+        <text id="Toy_Games" data-name="Toy &amp; Games" transform="translate(0 1056)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Toy &amp; Games</tspan></text>
+        <text id="Arts_-_Craftsmanship" data-name="Arts - Craftsmanship" transform="translate(0 136)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Arts - Craftsmanship</tspan></text>
+        <text id="Eyewear_Contact_Lenses" data-name="Eyewear &amp; Contact Lenses" transform="translate(0 536)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Eyewear &amp; Contact Lenses</tspan></text>
+        <text id="Tobacco_Cigarettes" data-name="Tobacco &amp; Cigarettes" transform="translate(0 1016)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Tobacco &amp; Cigarettes</tspan></text>
+        <text id="Alcohol" transform="translate(0 96)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Alcohol</tspan></text>
+        <text id="Agricultural_Commodities_Seeds_and_Plants" data-name="Agricultural Commodities, Seeds, and Plants" transform="translate(0 56)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Agricultural Commodities, Seeds, and Plants</tspan></text>
+        <text id="Agricultural_Industrial_Machinery" data-name="Agricultural &amp; Industrial Machinery" transform="translate(0 16)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Agricultural &amp; Industrial Machinery</tspan></text>
+      </g>
+    </g>
+    <g id="Dropdown_2" data-name="Dropdown 2" transform="translate(27.75 265.011)">
+      <text id="TSLA-17" data-name="TSLA" transform="translate(41.201 19)" fill="#002d6a" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Industry</tspan></text>
+      <text id="TSLA-18" data-name="TSLA" transform="translate(2.541 47.989)" fill="#d1d2d9" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Select any of the following </tspan></text>
+      <line id="Line_1117-7" data-name="Line 1117" x2="372" transform="translate(0 60.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="0.17"/>
+      <path id="Icon_awesome-long-arrow-alt-up-6" data-name="Icon awesome-long-arrow-alt-up" d="M6.188,24.324c.061.029,5.791-.1,5.625,0h3.239A1.688,1.688,0,0,1,16.245,27.2l-6.051,6.051a1.688,1.688,0,0,1-2.387,0L1.756,27.2a1.688,1.688,0,0,1,1.193-2.881Z" transform="translate(344.571 13.702)" fill="#d1d2d9"/>
+      <path id="Subtraction_362" data-name="Subtraction 362" d="M9967.6,14259.417h-25.29a1.31,1.31,0,0,1-1.31-1.306v-20.205h8.721v9.1l7.583-4.823a1.289,1.289,0,0,1,.7-.208,1.313,1.313,0,0,1,1.313,1.31v3.722l7.579-4.823a1.289,1.289,0,0,1,.7-.208,1.313,1.313,0,0,1,1.313,1.31v14.827A1.308,1.308,0,0,1,9967.6,14259.417Zm-8.1-8.013v5h5v-5Zm-11,0v5h5v-5Zm1.22-14.5H9941v-.6a1.31,1.31,0,0,1,1.31-1.307h6.105a1.308,1.308,0,0,1,1.306,1.307v.6Z" transform="translate(-9939.461 -14234.417)" fill="#01ffff"/>
+      <g transform="matrix(1, 0, 0, 1, -27.75, -265.01)" filter="url(#Rectangle_149061)">
+        <rect id="Rectangle_149061-2" data-name="Rectangle 149061" width="372" height="2" rx="1" transform="translate(28.25 287.46)" fill="#fff" opacity="0"/>
+      </g>
+      <g id="Option_7-2" data-name="Option 7" transform="translate(9927.5 12278.452)" opacity="0">
+        <text id="Church" transform="translate(-9903 -12238)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Church</tspan></text>
+        <g id="Check_Box-10" data-name="Check Box" transform="translate(-9602 -12256)">
+          <g id="Rectangle_148329-10" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-10" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-10" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-10" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_6-2" data-name="Option 6" transform="translate(9927.5 12324.452)" opacity="0">
+        <text id="Services" transform="translate(-9903 -12284)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Services</tspan></text>
+        <g id="Check_Box-11" data-name="Check Box" transform="translate(-9602 -12302)">
+          <g id="Rectangle_148329-11" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-11" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-11" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-11" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_5-2" data-name="Option 5" transform="translate(9927.5 12370.452)" opacity="0">
+        <text id="Retailer" transform="translate(-9903 -12330)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Retailer</tspan></text>
+        <g id="Check_Box-12" data-name="Check Box" transform="translate(-9602 -12348)">
+          <g id="Rectangle_148329-12" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-12" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-12" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-12" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_4-2" data-name="Option 4" transform="translate(9927.5 12417.452)" opacity="0">
+        <text id="Wholesaller" transform="translate(-9903 -12377)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Wholesaller</tspan></text>
+        <g id="Check_Box-13" data-name="Check Box" transform="translate(-9602 -12395)">
+          <g id="Rectangle_148329-13" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-13" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-13" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-13" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_3-2" data-name="Option 3" transform="translate(9927.5 12463.452)" opacity="0">
+        <text id="Manufacturer" transform="translate(-9903 -12423)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Manufacturer</tspan></text>
+        <g id="Check_Box-14" data-name="Check Box" transform="translate(-9602 -12441)">
+          <g id="Rectangle_148329-14" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-14" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-14" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-14" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_2-2" data-name="Option 2" transform="translate(9927.5 12503.452)" opacity="0">
+        <text id="Government_Organization_" data-name="Government Organization " transform="translate(-9903 -12463)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Government Organization </tspan></text>
+        <g id="Check_Box-15" data-name="Check Box" transform="translate(-9602 -12481)">
+          <g id="Rectangle_148329-15" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-15" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-15" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-15" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+      <g id="Option_1-2" data-name="Option 1" transform="translate(9927.5 12546.452)" opacity="0">
+        <text id="Charity_NGO" data-name="Charity &amp; NGO" transform="translate(-9903 -12506)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Charity &amp; NGO</tspan></text>
+        <g id="Check_Box-16" data-name="Check Box" transform="translate(-9602 -12524)">
+          <g id="Rectangle_148329-16" data-name="Rectangle 148329" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+            <rect width="25" height="25" rx="5" stroke="none"/>
+            <rect x="0.95" y="0.95" width="23.1" height="23.1" rx="4.05" fill="none"/>
+          </g>
+          <g id="Icon_feather-check-square-16" data-name="Icon feather-check-square" transform="translate(-1.043 -0.5)" opacity="0">
+            <path id="Path_83886-16" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+            <path id="Path_83887-16" data-name="Path 83887" d="M22.75,13v7.583a2.167,2.167,0,0,1-2.167,2.167H5.417A2.167,2.167,0,0,1,3.25,20.583V5.417A2.167,2.167,0,0,1,5.417,3.25H17.333" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Check_Box-17" data-name="Check Box" transform="translate(20 1171.352)">
+      <g id="Group_165551" data-name="Group 165551">
+        <g id="Rectangle_148329-17" data-name="Rectangle 148329" transform="translate(0 31)" fill="none" stroke="#d1d2d9" stroke-width="1.9">
+          <rect width="34" height="34" rx="5" stroke="none"/>
+          <rect x="0.95" y="0.95" width="32.1" height="32.1" rx="4.05" fill="none"/>
+        </g>
+        <g id="Icon_feather-check-square-17" data-name="Icon feather-check-square" transform="translate(2.207 33.75)" opacity="0">
+          <path id="Path_83886-17" data-name="Path 83886" d="M9.75,11.917,13,15.167,23.833,4.333" transform="translate(5.75 -3.25)" fill="none" stroke="#01ffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+          <path id="Path_83887-17" data-name="Path 83887" d="M31.75,17.5V28.583a3.167,3.167,0,0,1-3.167,3.167H6.417A3.167,3.167,0,0,1,3.25,28.583V6.417A3.167,3.167,0,0,1,6.417,3.25H23.833" transform="translate(-3.25 -3.25)" fill="none" stroke="#002d6a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.167"/>
+        </g>
+      </g>
+      <g id="Group_165550" data-name="Group 165550" transform="translate(-128 -701)">
+        <g transform="matrix(1, 0, 0, 1, 108, -470.35)" filter="url(#Rectangle_148373)">
+          <rect id="Rectangle_148373-2" data-name="Rectangle 148373" width="330" height="49" rx="24" transform="translate(49 1298.35)" fill="rgba(209,210,217,0.57)"/>
+        </g>
+        <text id="TSLA-19" data-name="TSLA" transform="translate(280 859)" fill="#fff" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Continue</tspan></text>
+      </g>
+      <text id="I_have_read_and_agreed_with_the_Terms_Conditions_Use_Policy_Pricing_Privacy_Policy._I_also_agree_to_not_use_Buga_to_transact_on_behalf_of_someone_else." data-name="I have read and agreed with the Terms &amp; 
+Conditions, Use Policy, Pricing, Privacy Policy.
+I also agree to not use Buga to transact on
+behalf of someone else." transform="translate(50 16)" fill="#002d6a" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">I have read and agreed with the </tspan><tspan y="0" fill="#01ffff">Terms &amp; </tspan><tspan fill="#01ffff"><tspan x="0" y="25">Conditions, Use Policy, Pricing, Privacy Policy.</tspan></tspan><tspan x="0" y="50">I also agree to not use Buga to transact on</tspan><tspan x="0" y="75">behalf of someone else.</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Heading_Container-2)">
+      <g id="Heading_Container-4" data-name="Heading Container" transform="translate(0 -1)" fill="#fff" stroke="rgba(199,199,199,0.16)" stroke-width="1">
+        <path d="M0,0H428a0,0,0,0,1,0,0V74a14,14,0,0,1-14,14H14A14,14,0,0,1,0,74V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.5.5h427a0,0,0,0,1,0,0V74A13.5,13.5,0,0,1,414,87.5H14A13.5,13.5,0,0,1,.5,74V.5A0,0,0,0,1,.5.5Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Stautus_Bar" data-name="Stautus Bar" transform="translate(7 10)">
+      <g id="Pin-Right" transform="translate(354.729 0.5)">
+        <path id="Battery" d="M37.494,2.5H57.006A1.5,1.5,0,0,1,58.5,4.005v6.489A1.5,1.5,0,0,1,57.006,12H37.494A1.5,1.5,0,0,1,36,10.495V4.005A1.5,1.5,0,0,1,37.494,2.5ZM59,5.5h.75a.744.744,0,0,1,.75.742V8.258A.748.748,0,0,1,59.75,9H59ZM37.508,3A1.012,1.012,0,0,0,36.5,4.008v6.483A1.007,1.007,0,0,0,37.508,11.5H56.992A1.012,1.012,0,0,0,58,10.492V4.008A1.007,1.007,0,0,0,56.992,3Zm0,.5H56.993a.5.5,0,0,1,.507.492v6.516a.5.5,0,0,1-.507.492H37.507A.5.5,0,0,1,37,10.508V3.992A.5.5,0,0,1,37.507,3.5Z" transform="translate(-2.854 1.5)" fill-rule="evenodd"/>
+        <text id="_100_" data-name="100%" transform="translate(0 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">100%</tspan></text>
+      </g>
+      <text id="_9:41_AM" data-name="9:41 AM" transform="translate(182.123 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">9:41 AM</tspan></text>
+      <g id="Signal" transform="translate(0 0.5)">
+        <path id="Wi-Fi" d="M96.144,12.439,94.023,14.5,91.86,12.405a2.884,2.884,0,0,1,4.284.033Zm2.179-2.117h0l-1.089,1.058a4.46,4.46,0,0,0-6.465-.031l-1.09-1.056a6.036,6.036,0,0,1,8.644.029ZM100.5,8.207,99.412,9.264A7.612,7.612,0,0,0,88.59,9.237L87.5,8.182a9.188,9.188,0,0,1,13,.025Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+        <text id="Sketch" transform="translate(37.5 13)" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sunny</tspan></text>
+        <path id="Mobile-Signal" d="M9.25,13A2.75,2.75,0,1,1,12,10.25,2.75,2.75,0,0,1,9.25,13Zm7,0A2.75,2.75,0,1,1,19,10.25,2.75,2.75,0,0,1,16.25,13Zm7,0A2.75,2.75,0,1,1,26,10.25,2.75,2.75,0,0,1,23.25,13Zm7,0A2.75,2.75,0,1,1,33,10.25,2.75,2.75,0,0,1,30.25,13Zm7,0A2.75,2.75,0,1,1,40,10.25,2.75,2.75,0,0,1,37.25,13Z" transform="translate(-6.5 -1.5)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Group_165447" data-name="Group 165447" transform="translate(-55 -250)">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="236" height="41" rx="20.5" transform="translate(151 285)" fill="#01ffff"/>
+      <text id="Business_Information_" data-name="Business Information " transform="translate(173 312)" fill="#002d6a" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Business Information </tspan></text>
+    </g>
+    <path id="Icon_ionic-ios-arrow-down" data-name="Icon ionic-ios-arrow-down" d="M15.006,18.288l6.666-6.672a1.255,1.255,0,0,1,1.779,0,1.271,1.271,0,0,1,0,1.785L15.9,20.96A1.258,1.258,0,0,1,14.161,21l-7.606-7.59a1.26,1.26,0,0,1,1.779-1.785Z" transform="translate(31.327 36.813) rotate(90)" fill="#002d6a" opacity="0.8"/>
+  </g>
+</svg>
