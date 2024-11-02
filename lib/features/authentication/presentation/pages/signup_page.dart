@@ -226,7 +226,12 @@ class _SignUpPageState extends State<SignUpPage> {
                     ),
                     AuthElevatedButton(
                         buttonText: "Sign Up",
-                        onPressed: () {},
+                        onPressed: () {
+                          Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (context) => LoginPage()));
+                        },
                         isActive: true,
                         backgroundColor:
                             Theme.of(context).colorScheme.secondary,

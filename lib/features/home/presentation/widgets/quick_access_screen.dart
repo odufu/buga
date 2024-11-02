@@ -30,7 +30,7 @@ class QuickAccessScreen extends StatelessWidget {
       'color': Colors.grey[300]
     },
     {
-      'label': 'Financial Reports',
+      'label': 'Reports',
       'icon': Icons.assessment,
       'color': Colors.yellowAccent
     },
@@ -38,13 +38,14 @@ class QuickAccessScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: Colors.white,
-      body: Center(
-        child: Padding(
-          padding: const EdgeInsets.all(16.0),
-          child: Container(
+    return Padding(
+      padding: const EdgeInsets.all(16.0),
+      child: Stack(
+        clipBehavior: Clip.none,
+        children: [
+          Container(
             padding: const EdgeInsets.all(20.0),
+            height: 300,
             decoration: BoxDecoration(
               color: Colors.white,
               border: Border.all(color: Colors.blueGrey[700]!, width: 1.5),
@@ -60,68 +61,80 @@ class QuickAccessScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Quick Access Title
-                Padding(
-                  padding: const EdgeInsets.only(bottom: 16.0),
-                  child: Row(
-                    children: [
-                      Text(
-                        'Quick Access',
-                        style: TextStyle(
-                          fontSize: 20,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.blueGrey[900],
-                        ),
-                      ),
-                    ],
-                  ),
-                ),
                 // Grid Layout for Icons and Labels
                 GridView.builder(
                   shrinkWrap: true,
-                  physics: NeverScrollableScrollPhysics(),
-                  gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                    crossAxisCount: 3,
+                  physics: const NeverScrollableScrollPhysics(),
+                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                    crossAxisCount: 4,
                     mainAxisSpacing: 20,
                     crossAxisSpacing: 10,
-                    childAspectRatio: 1,
+                    childAspectRatio: .6,
                   ),
                   itemCount: quickAccessItems.length,
                   itemBuilder: (context, index) {
-                    return Column(
-                      children: [
-                        Container(
-                          width: 45,
-                          height: 45,
-                          decoration: BoxDecoration(
-                            color: quickAccessItems[index]['color'],
-                            shape: BoxShape.circle,
+                    return GestureDetector(
+                      onTap: () {
+                        print(quickAccessItems[index]["label"]);
+                      },
+                      child: Column(
+                        children: [
+                          Container(
+                            margin: const EdgeInsets.symmetric(vertical: 10),
+                            width: 45,
+                            height: 45,
+                            decoration: BoxDecoration(
+                              color: quickAccessItems[index]['color'],
+                              shape: BoxShape.circle,
+                            ),
+                            child: Icon(
+                              quickAccessItems[index]['icon'],
+                              color: Colors.blueGrey[900],
+                              size: 30,
+                            ),
                           ),
-                          child: Icon(
-                            quickAccessItems[index]['icon'],
-                            color: Colors.blueGrey[900],
-                            size: 30,
+                          Text(
+                            maxLines: 1,
+                            quickAccessItems[index]['label'],
+                            textAlign: TextAlign.center,
+                            style: TextStyle(
+                              fontSize: 12,
+                              fontWeight: FontWeight.w600,
+                              color: Colors.blueGrey[900],
+                            ),
                           ),
-                        ),
-                        SizedBox(height: 8),
-                        Text(
-                          maxLines: 1,
-                          quickAccessItems[index]['label'],
-                          textAlign: TextAlign.center,
-                          style: TextStyle(
-                            fontSize: 12,
-                            fontWeight: FontWeight.w600,
-                            color: Colors.blueGrey[900],
-                          ),
-                        ),
-                      ],
+                        ],
+                      ),
                     );
                   },
                 ),
               ],
             ),
           ),
-        ),
+          Positioned(
+            top: -20,
+            left: 20,
+            child: Padding(
+              padding: const EdgeInsets.only(bottom: 8),
+              child: Container(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                decoration: BoxDecoration(
+                    border: Border.all(color: Colors.black),
+                    color: Theme.of(context).colorScheme.surface,
+                    borderRadius: BorderRadius.circular(25)),
+                child: Text(
+                  'Quick Access',
+                  style: TextStyle(
+                    fontSize: 20,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.blueGrey[900],
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ],
       ),
     );
   }

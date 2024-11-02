@@ -1,4 +1,7 @@
+import 'package:buga/features/home/presentation/widgets/foot_trafic.dart';
+import 'package:buga/features/home/presentation/widgets/inventry_turn_over.dart';
 import 'package:buga/features/home/presentation/widgets/quick_access_screen.dart';
+import 'package:buga/features/home/presentation/widgets/sales_revenure.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
@@ -53,14 +56,14 @@ class HomePage extends StatelessWidget {
               },
             ),
             IconButton(
-              icon: Icon(Icons.settings),
+              icon: const Icon(Icons.settings),
               color: Colors.cyanAccent,
               onPressed: () {
                 // Handle settings icon press
               },
             ),
             IconButton(
-              icon: Icon(Icons.card_giftcard),
+              icon: const Icon(Icons.card_giftcard),
               color: Colors.amberAccent,
               onPressed: () {
                 // Handle gift icon press
@@ -69,9 +72,19 @@ class HomePage extends StatelessWidget {
           ],
         ),
       ),
-      body: Center(
-        child: QuickAccessScreen(),
-      ),
+      body: SingleChildScrollView(
+          child: Column(
+        children: [
+          const SalesRevenure(),
+          QuickAccessScreen(),
+          const Padding(
+            padding: EdgeInsets.all(8.0),
+            child: Row(
+              children: [InventryTurnOver(), FootTrafic()],
+            ),
+          )
+        ],
+      )),
     );
   }
 }
