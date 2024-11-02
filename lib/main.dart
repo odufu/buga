@@ -3,6 +3,8 @@ import 'package:buga/features/authentication/presentation/pages/signup_page.dart
 import 'package:buga/features/authentication/presentation/pages/welcome_page.dart';
 import 'package:flutter/material.dart';
 
+import 'features/authentication/presentation/pages/splash_screen.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -17,7 +19,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Buga',
       theme: lighMode,
-      home: const WelcomeScreen(),
+      home: const SplashScreen(),
     );
   }
 }

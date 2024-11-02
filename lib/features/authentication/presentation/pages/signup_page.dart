@@ -1,8 +1,10 @@
+import 'package:buga/core/widgets/app_bar.dart';
 import 'package:buga/core/widgets/auth_elevated_button.dart';
 import 'package:buga/core/widgets/auth_text_field.dart';
 import 'package:flutter/material.dart';
 
 import '../../../../core/widgets/drop_down_text_field.dart';
+import 'login_page.dart';
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});
@@ -18,68 +20,23 @@ class _SignUpPageState extends State<SignUpPage> {
   Widget build(BuildContext context) {
     TextEditingController fullNameController = TextEditingController();
     TextEditingController emailController = TextEditingController();
+    TextEditingController passwordController = TextEditingController();
     TextEditingController businessNameController = TextEditingController();
     TextEditingController businessAddressController = TextEditingController();
     TextEditingController phoneNumberController = TextEditingController();
     String bussinessType = "wholesale";
 
     return Scaffold(
+      appBar: const AppBarWidget(
+        title: "Sign Up",
+        backAllowed: true,
+      ),
       backgroundColor: Theme.of(context).colorScheme.secondary,
-      // appBar: AppBar(
-      //   centerTitle: true,
-      //   title: Container(
-      //     decoration: BoxDecoration(
-      //         color: Theme.of(context).colorScheme.primary,
-      //         borderRadius: BorderRadius.circular(50)),
-      //     child: Padding(
-      //       padding: const EdgeInsets.all(8.0),
-      //       child: Text(
-      //         "Sign Up",
-      //         style: TextStyle(color: Theme.of(context).colorScheme.surface),
-      //       ),
-      //     ),
-      //   ),
-      // ),
       body: SingleChildScrollView(
         child: Column(
           children: [
             // HEADER
-            Container(
-              padding: const EdgeInsets.symmetric(vertical: 10),
-              decoration: BoxDecoration(
-                  color: Theme.of(context).colorScheme.onSecondary,
-                  borderRadius: const BorderRadius.only(
-                      bottomRight: Radius.circular(16),
-                      bottomLeft: Radius.circular(16))),
-              child: Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    //Back Arrow
-                    const Icon(Icons.arrow_back_ios),
-                    // Title
 
-                    Container(
-                      decoration: BoxDecoration(
-                          color: Theme.of(context).colorScheme.primary,
-                          borderRadius: BorderRadius.circular(50)),
-                      child: Padding(
-                        padding: const EdgeInsets.symmetric(
-                            horizontal: 20, vertical: 5),
-                        child: Text(
-                          "Sign Up",
-                          style: TextStyle(
-                              color: Theme.of(context).colorScheme.onPrimary),
-                        ),
-                      ),
-                    ),
-                    //Empty
-                    SizedBox()
-                  ],
-                ),
-              ),
-            ),
             //MESSAGE
             Padding(
               padding: const EdgeInsets.all(8.0),
@@ -94,7 +51,7 @@ class _SignUpPageState extends State<SignUpPage> {
                   ),
                   Image.asset(
                     width: 30,
-                    "assets/images/bugawelcome1b.png",
+                    "assets/images/logo2.png",
                     color: Theme.of(context).colorScheme.onSecondary,
                   )
                 ],
@@ -188,6 +145,25 @@ class _SignUpPageState extends State<SignUpPage> {
                       height: 20,
                     ),
                     AuthTextField(
+                      isObscure: true,
+                      leadingIcon: Container(
+                        margin: const EdgeInsets.all(2),
+                        decoration: BoxDecoration(
+                            color: Colors.grey.shade200,
+                            borderRadius: BorderRadius.circular(6)),
+                        child: Icon(
+                          Icons.lock,
+                          color: Theme.of(context).colorScheme.tertiary,
+                        ),
+                      ),
+                      hintText: "Password",
+                      labelText: "Please Create your password",
+                      controller: passwordController,
+                    ),
+                    const SizedBox(
+                      height: 20,
+                    ),
+                    AuthTextField(
                       leadingIcon: Container(
                         margin: const EdgeInsets.all(2),
                         decoration: BoxDecoration(
@@ -267,7 +243,10 @@ class _SignUpPageState extends State<SignUpPage> {
                         ),
                         GestureDetector(
                           onTap: () {
-                            print("Impliment Navigation to Login Page");
+                            Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => const LoginPage()));
                           },
                           child: Text(
                             "LOGIN",
@@ -282,7 +261,8 @@ class _SignUpPageState extends State<SignUpPage> {
                       ],
                     ),
                     Container(
-                      height: 50,
+                      width: MediaQuery.of(context).size.width,
+                      height: 90,
                       decoration: const BoxDecoration(
                           image: DecorationImage(
                               fit: BoxFit.fitHeight,

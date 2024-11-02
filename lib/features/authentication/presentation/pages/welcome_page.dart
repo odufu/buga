@@ -135,10 +135,11 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
             //   },
             // ),
             Container(
-              height: 50,
+              width: MediaQuery.of(context).size.width,
+              height: 90,
               decoration: const BoxDecoration(
                   image: DecorationImage(
-                      fit: BoxFit.contain,
+                      fit: BoxFit.fitHeight,
                       image: AssetImage("assets/images/footerdecor.png"))),
             )
           ],
