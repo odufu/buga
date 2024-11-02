@@ -1,0 +1,112 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1730518796989,
+        "children": [],
+        "todo": {
+          "content": "Welcome Page",
+          "id": 1730518796989,
+          "level": "default",
+          "done": true,
+          "start": 1730518796989,
+          "focus": false,
+          "end": 1730518849527
+        }
+      },
+      {
+        "key": 1730518804452,
+        "children": [
+          {
+            "key": 1730532666847,
+            "children": [],
+            "todo": {
+              "content": "add dropdown and it's controllers",
+              "id": 1730532666847,
+              "level": "default",
+              "done": false,
+              "start": 1730532666847
+            }
+          },
+          {
+            "key": 1730532678773,
+            "children": [],
+            "todo": {
+              "content": "add icons ? to the auth inputs",
+              "id": 1730532678773,
+              "level": "default",
+              "done": false,
+              "start": 1730532678773
+            }
+          }
+        ],
+        "todo": {
+          "content": "Signup Page",
+          "id": 1730518804452,
+          "level": "default",
+          "done": false,
+          "start": 1730518804452
+        }
+      },
+      {
+        "key": 1730518812568,
+        "children": [],
+        "todo": {
+          "content": "Login Page",
+          "id": 1730518812568,
+          "level": "default",
+          "done": false,
+          "start": 1730518812568
+        }
+      },
+      {
+        "key": 1730518816983,
+        "children": [],
+        "todo": {
+          "content": "OTP Page",
+          "id": 1730518816983,
+          "level": "default",
+          "done": false,
+          "start": 1730518816983
+        }
+      },
+      {
+        "key": 1730518821516,
+        "children": [],
+        "todo": {
+          "content": "Forgot Password Page",
+          "id": 1730518821516,
+          "level": "default",
+          "done": false,
+          "start": 1730518821516
+        }
+      },
+      {
+        "key": 1730518833781,
+        "children": [],
+        "todo": {
+          "content": "Home Page",
+          "id": 1730518833781,
+          "level": "default",
+          "done": false,
+          "start": 1730518833781
+        }
+      }
+    ],
+    "expandKeys": [
+      1730518804452
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "timelines": [],
+    "showLine": false,
+    "playFontSize": 24,
+    "title": "buga",
+    "autoSort": false,
+    "showEndTime": false,
+    "simpleMode": false,
+    "lang": "en",
+    "version": "1730532690771"
+  }
+}
