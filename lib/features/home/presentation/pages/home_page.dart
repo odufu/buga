@@ -1,8 +1,9 @@
 import 'package:buga/features/home/presentation/widgets/foot_trafic.dart';
 import 'package:buga/features/home/presentation/widgets/inventry_turn_over.dart';
 import 'package:buga/features/home/presentation/widgets/quick_access_screen.dart';
-import 'package:buga/features/home/presentation/widgets/sales_revenure.dart';
 import 'package:flutter/material.dart';
+import '../../../../core/widgets/search_bar_widget.dart';
+import '../widgets/sales_revenure_card.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -16,14 +17,12 @@ class HomePage extends StatelessWidget {
         elevation: 0,
         title: Row(
           children: [
-            // Profile Picture
             CircleAvatar(
               radius: 20,
               backgroundColor: Colors.grey[300],
               child: const Icon(Icons.person, color: Colors.purple),
             ),
             const SizedBox(width: 8),
-            // User Info
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -41,50 +40,44 @@ class HomePage extends StatelessWidget {
               ],
             ),
             const SizedBox(width: 4),
-            // Dropdown Icon
             Icon(
               Icons.arrow_drop_down,
               color: Colors.blueGrey[900],
             ),
             const Spacer(),
-            // Action Icons
             IconButton(
               icon: const Icon(Icons.headset_mic),
               color: Colors.blueGrey[700],
-              onPressed: () {
-                // Handle headset icon press
-              },
+              onPressed: () {},
             ),
             IconButton(
               icon: const Icon(Icons.settings),
               color: Colors.cyanAccent,
-              onPressed: () {
-                // Handle settings icon press
-              },
+              onPressed: () {},
             ),
             IconButton(
               icon: const Icon(Icons.card_giftcard),
               color: Colors.amberAccent,
-              onPressed: () {
-                // Handle gift icon press
-              },
+              onPressed: () {},
             ),
           ],
         ),
       ),
       body: SingleChildScrollView(
-          child: Column(
-        children: [
-          const SalesRevenure(),
-          QuickAccessScreen(),
-          const Padding(
-            padding: EdgeInsets.all(8.0),
-            child: Row(
-              children: [InventryTurnOver(), FootTrafic()],
+        child: Column(
+          children: [
+            SearchBarWidget(),
+            const SalesRevenueCard(), // Insert SalesRevenueCard with tabs here
+            QuickAccessScreen(),
+            const Padding(
+              padding: EdgeInsets.all(8.0),
+              child: Row(
+                children: [InventryTurnOver(), FootTrafic()],
+              ),
             ),
-          )
-        ],
-      )),
+          ],
+        ),
+      ),
     );
   }
 }

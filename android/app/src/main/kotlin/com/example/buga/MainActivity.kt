@@ -1,4 +1,4 @@
-package com.example.buga
+package com.kingsworth.buga
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -24,8 +24,10 @@
               "content": "add dropdown and it's controllers",
               "id": 1730532666847,
               "level": "default",
-              "done": false,
-              "start": 1730532666847
+              "done": true,
+              "start": 1730532666847,
+              "focus": false,
+              "end": 1730583936858
             }
           },
           {
@@ -35,8 +37,10 @@
               "content": "add icons ? to the auth inputs",
               "id": 1730532678773,
               "level": "default",
-              "done": false,
-              "start": 1730532678773
+              "done": true,
+              "start": 1730532678773,
+              "focus": false,
+              "end": 1730583935954
             }
           }
         ],
@@ -44,8 +48,10 @@
           "content": "Signup Page",
           "id": 1730518804452,
           "level": "default",
-          "done": false,
-          "start": 1730518804452
+          "done": true,
+          "start": 1730518804452,
+          "focus": false,
+          "end": 1730583933004
         }
       },
       {
@@ -55,8 +61,10 @@
           "content": "Login Page",
           "id": 1730518812568,
           "level": "default",
-          "done": false,
-          "start": 1730518812568
+          "done": true,
+          "start": 1730518812568,
+          "focus": false,
+          "end": 1730583938752
         }
       },
       {
@@ -66,8 +74,10 @@
           "content": "OTP Page",
           "id": 1730518816983,
           "level": "default",
-          "done": false,
-          "start": 1730518816983
+          "done": true,
+          "start": 1730518816983,
+          "focus": false,
+          "end": 1730583939790
         }
       },
       {
@@ -88,8 +98,10 @@
           "content": "Home Page",
           "id": 1730518833781,
           "level": "default",
-          "done": false,
-          "start": 1730518833781
+          "done": true,
+          "start": 1730518833781,
+          "focus": false,
+          "end": 1730583940830
         }
       }
     ],
@@ -107,6 +119,6 @@
     "showEndTime": false,
     "simpleMode": false,
     "lang": "en",
-    "version": "1730532690771"
+    "version": "1730583940863"
   }
 }

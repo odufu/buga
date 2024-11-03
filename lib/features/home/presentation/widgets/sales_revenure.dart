@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'Revenure_widget.dart';
+import 'revenure_widget.dart';
 
 class SalesRevenure extends StatelessWidget {
   const SalesRevenure({super.key});
